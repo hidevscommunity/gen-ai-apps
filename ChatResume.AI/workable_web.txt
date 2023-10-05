@@ -1,0 +1,163 @@
+\documentclass[a4paper,20pt]{article}
+\usepackage{fontspec}
+\usepackage[empty]{fullpage}
+\usepackage{lmodern}
+\usepackage{latexsym}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage[pdftex]{hyperref}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% ---------------- Sections formatting
+\titleformat{\section}
+  {\fontsize{16}{15}\selectfont\scshape\raggedright\color{RoyalBlue}}
+  {}
+  {0em}
+  {}
+  [\color{MidnightBlue}\titlerule]
+%-------------------------
+
+\pagestyle{empty} 
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item{
+    \textbf{#1}{: #2 \vspace{-1pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\workItem}{
+  \item\normalsize{
+  \vspace{-4pt}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+    \fontsize{12}{14}\selectfont\textbf{#1} & #2 \\
+    \textit{#3} & \textit{#4} \\
+  \end{tabular*}\vspace{-3pt}
+}
+
+
+\newcommand{\projectSubheading}[2]{
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+    \fontsize{12}{14}\selectfont\textbf{#1} & #2 \\
+  \end{tabular*}\vspace{-3pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-1pt}}
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\vspace{-3pt}}
+\newcommand{\resumeSubHeadingListEnd}{}
+\newcommand{\resumeItemListStart}{\begin{itemize} \vspace{2pt}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\huge Jeffrey Liu}} & Email:~\href{mailto:jeffrey.jl.liu@gmail.com}{jeffrey.jl.liu@gmail.com} \vspace{2pt}\\
+  \href{https://www.linkedin.com/in/jeff-jh-liu/}{LinkedIn:~\underline{linkedin.com/in/jeff-jh-liu}} & Mobile:~(213)618-8252 \\
+  \href{https://github.com/CoderJeffrey}{Github:~~\underline{github.com/CoderJeffrey}} & Location:~Los Angeles, CA\\
+    \href{https://jeffreyliujl.com}{Website:~\underline{jeffreyliujl.com}} \\
+\end{tabular*}
+
+\section{Education}
+\resumeSubHeadingListStart
+
+    \resumeSubheading
+      {\large University of Southern California}{Los Angeles, CA}
+      {Bachelor of Science - Computer Science, GPA: \textbf{\large3.97}}{Expected May 2025}
+      
+      {\normalsize
+      \textbf{Courses:} Data Structures and Object-Oriented Design, Principles of Software Development, Applications of Machine Learning}
+\resumeSubHeadingListEnd
+
+% ---------------------SKILL------------------	    
+\section{Skills}
+\begin{itemize} 
+	\resumeSubItem{Languages}{~~~~~Java, Python, JavaScript, C++, CSS, HTML, Bash, SQL}
+	\resumeSubItem{Frameworks}{~~~Spring Boot, React}
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~~~MySQL, AWS RDS, Heroku, MongoDB, NumPy, Pandas, Git, Postman, Thymeleaf, Tableau}
+    \resumeSubItem{Certificates}{~~~~~Advanced Software Engineering (CodePath)}
+\end{itemize}
+
+\section{Work Experience}
+  \resumeSubHeadingListStart
+\resumeSubheading{Information Sciences Institute (USC/ISI)}{Los Angeles, CA}
+    {Software Engineer Intern}{May 2022 - Aug 2022}
+    \resumeItemListStart
+        \workItem Built an interactive website using \textbf{Angular.js} that creates training files for a chatbot in collaboration with a senior engineer.
+
+        \workItem Utilized the \textbf{NLU T5 Paraphrase Generator} to enlarge existing training data set by \textbf{320\%}, and used spaCy and NLI transformers to filter 30\% of the paraphrases based on their similarity rate.
+        
+        \workItem Developed a script to extract users' names and phone numbers from the conversations with our chatbot, using Python spaCy library and Regular Expressions, with an accuracy rate of 93\%.
+        
+    \resumeItemListEnd
+\resumeSubheading
+		{USC Security Research Lab (STEEL)}{Los Angeles, CA}
+		{Research Assistant (Machine Learning) }{Sep 2021 -  Apr 2022}
+	  \resumeItemListStart
+	 
+	    \workItem Led algorithm design and implementation with five undergraduate researchers to transform collected metadata, train the machine learning model, and improve the model's prediction accuracy by 5\%.
+	   
+	    \workItem Developed a web scraping script to automate collecting metadata of 80K YouTube videos using \textbf{Selenium WebDriver}.
+      \resumeItemListEnd    
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+\projectSubheading
+		{\normalsize Intern.io}{{\href{}{\underline{}}} {\href{https://youtu.be/hqRFAziYS5A}{\underline{Demo}}}}
+	 \resumeItemListStart
+        \workItem Developed a web application that allows user to track their applied software engineer intern positions and display all current intern job openings.
+        \workItem Collaborated with the front-end team to design the user login and job listing page using \textbf{React.js}.
+      \resumeItemListEnd
+
+\projectSubheading
+		{\normalsize Exact-Match.io}{{\href{}{\underline{}}} {\href{https://youtu.be/hqRFAziYS5A}{\underline{Demo}}}}
+	 \resumeItemListStart
+        \workItem Developed a web application that allows user to track their applied software engineer intern positions and display all current intern job openings.
+        \workItem Collaborated with the front-end team to design the user login and job listing page using \textbf{React.js}.
+      \resumeItemListEnd
+
+
+\end{document}

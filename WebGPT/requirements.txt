@@ -1,0 +1,5 @@
+langchain
+streamlit
+openai
+duckduckgo-search
+sentence-transformers

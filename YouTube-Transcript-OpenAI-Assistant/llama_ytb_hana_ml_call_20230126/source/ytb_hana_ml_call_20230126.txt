@@ -1,0 +1,1280 @@
+it
+welcome everyone
+Welcome to our sap Community call today
+I'm glad to see so many of you here in
+our call
+um very special sap Community call it's
+a winner announcement of our sap Hana
+Cloud machine learning Challenge and I'm
+more than excited to be joined here
+today by our three winners of our
+challenge
+um I'm Lena from The SFU Community team
+and we're hosting this call today with
+the sap Hana Cloud team
+so um let me introduce the winners to
+you
+um it's vishwas madhubashi Sergio yatko
+and Clements Vera
+who made it here on our virtual stage
+and won the challenge and our today able
+to present to you each for 15 minutes
+how they answered the main question
+namely how to prevent employee churn by
+using sap Hana Cloud's machine learning
+capabilities
+the challenge ran for three weeks in the
+sap Community back in November until
+mid-December and we had quite
+interesting solution paths but you three
+made it so congratulations here
+officially to every one of you
+um before we start and before I head
+over to
+um Krista from our sap Hana Cloud expert
+team to give you a little bit more
+background on what the challenge really
+was about
+um let me briefly emphasize on um the
+fact that we have time after
+um vishwas selju and Clements presented
+to all of you
+um to address any questions that might
+come up
+um during the presentations or and that
+you have in general with regards to sap
+Hana Cloud machine learning so we have
+10 to 15 minutes towards the end of this
+call to address these and therefore
+please log into YouTube here
+um and type the questions in the chat
+I'm already also let us know where we're
+tuning in from how are you feeling today
+and what's on your mind so let's have a
+lively chat here today in our YouTube
+call
+and with that being said I'll hand over
+to Crystal to share his screen
+um to give a little bit more background
+before then uh which of us will start
+with his first presentation
+thank you so much Lena for the warm
+introduction and welcome I just wanted
+to quickly uh uh recap what the
+challenge was about uh how to predict
+employee churn so we provided a data set
+about employee data with different
+features and certainly kind of an
+indicator that people uh kind of left
+the company Flight Risk was the what's
+the column name and then the challenge
+was for the participants of the
+challenge we had about 20 people kind of
+actively participating and running their
+machine learning scenarios using the
+Hana Cloud machine learning libraries
+and capabilities to come up with a
+prediction model which would then help
+the HR department to yeah in the end
+prevent employee churn so the idea was
+kind of what can we find out in the data
+and guide and help the HR team to
+prevent
+employees in the different sections of
+the company to not leave the company so
+for everybody who couldn't participate
+in the actual challenge there are a
+couple of links here which will also
+share and which you will certainly also
+find searching for them the initial
+block uh we have a sample repository
+where we provided the data so it's
+available for you to also kind of pick
+up the challenge even now or later in
+our uh Hanam samples repository we had
+lots of great questions during the
+community challenge in our community
+thread I've also shared the link here
+and certainly then we have the the
+winners plot which Susan our colleague
+created and
+really now with no further Ado we want
+to kind of learn uh from our winners
+um how they approach The Challenge and
+what were their solutions to the
+challenge
+and with that I hand over to vishwas for
+uh his first solution presentation
+thank you Kristoff so let me start
+sharing my screen and talk through the
+solution
+can you see my screen now
+yes we can
+okay
+so the the challenge was to predict the
+employee churn and for that we had some
+data and some uh some very very very
+clear uh objective let's see what the
+data was and what the objective was
+so
+the
+context
+the context was that the companies want
+to retain their High performing
+employees and the to reduce the churn
+rate of those employees and right now
+the managers uh try to think about who
+can leave and they they try to prevent
+prevent the addition of those employees
+but this is very subjective not based
+upon data and can be wrong most of the
+times so the intent was to
+take a look at the concrete data and
+analyze the patterns of the employee's
+churn and figure out which are the
+employees who are highly likely to at
+right and stop them from leaving the
+company if they are valuable to the
+company
+managers will continue using their
+intuition for preventing the employee
+churn but the intent of the challenge
+was to figure out which models can be
+developed to predict the churn of the
+employees at certain events certain
+certain times certain areas and make
+sure that we can take the necessary
+steps before the chair becomes obvious
+before they put in their paperwork and
+use mathematics and data to arrive at
+the conclusion that we can rely upon
+for this objective we were given about
+a big set of data we had about 90 000
+samples uh with the 42 independent
+variables and we had one dependent
+variable called the Flight Risk out of
+these samples we were able to figure out
+a few obvious groups and we have marked
+them in on the screen right now one
+group was about the age we had age age
+group 10 age group 5 and generation so
+we had we were able to reduce some of
+this data based upon uh finding by
+finding the most obvious one most useful
+one then we had a second group for the
+previous functional area previous job
+level all those things from the previous
+previous uh previous job uh then we have
+one group about the that location we had
+current country latitude longitude
+regions we were able to drop some points
+from here as well and finally we had the
+scientist as the fourth uh fourth Point
+here which was the dependent variable
+the data was synthetically generated but
+it was supposed to mimika real life
+scenario
+uh the Eda insights for this uh for this
+were our pretty interesting
+what we found that 8 out of the 42
+independent variables have equal number
+of missing values which meant that these
+uh there was something very common in
+these variables and you were able to
+figure that they were they had all the
+uh all the same requires for had all the
+same missing values we were able to drop
+some of the records to make sure that
+you are not counting uh the records of
+the missing data and we were not able to
+generate those because they meant they
+were related to the previous jobs since
+we could not uh create the editor we had
+to drop some records
+one uh one interesting uh and kind of uh
+disturbing thing was we were able we we
+found that there was some potential
+anomaly in the data
+uh we saw that the 71.5 rules had been
+more critical
+and by 28 were marked as non-critical so
+this seemed like an annually to us and
+we have uh pointed this out to sap and
+uh hopefully uh with the correction of
+data we can arrive at the better models
+but this was one of the obvious outliers
+that we saw in the data itself
+correlations were not there but not many
+we could not we don't did not find any
+significant correlation in the
+mathematical columns the only two small
+correlations we found were in the uh
+time time in previous previous question
+month and promotion within last three
+years but the correlations were very
+minimal uh just about
+0.15.17 not too high so these
+correlations were not really significant
+so they did not take away anything from
+this part
+one thing that we found was that the age
+and job type were kind of correlated
+with the attrition as the age increased
+the attrition started dropping
+in the 40 50 in the 55 plus group the
+addition rate virtually drops to zero
+while it is highest in the 20 to 30
+group there was one outlier though uh
+the 45 250 group but again in general
+the increase in age indicated the
+admission dates rates kept going down
+with that
+uh the other was that the temporary
+employees were more likely likely to
+attract and there is no surprise uh so
+this was obvious and this is visible in
+the uh in the uh in the graph at the
+bottom as well
+function and region were also a small
+scale indicator of the attrition we saw
+that the people in sales and marketing
+were at a higher risk of its writing and
+that's what we have marked in the uh in
+the uh in the graph above let me just
+highlight that as well
+it's this part we also saw that the apj
+region had the highest attrition rate
+nearly double than than other regions so
+I think there may be something going on
+in the APG region so I think the apj
+region and these sales and marketing
+cutting departments had something going
+on that was contributing to the highest
+higher education rates so this is one
+area that we should take a look at
+we also found that the decreasing
+performance rating was a good indicator
+of attrition so no surprise here and
+also a demotion was a good indicator of
+the of the higher iteration so no
+surprise here the the ID is do we even
+want to stop these employees if somebody
+has a decreasing performance do you want
+to stop those employees I think we have
+to talk about the HR to take a look at
+the next next action for these employees
+or pre-processing we filled all the nand
+values with an assigned and then we
+split the data and data into 10 desktop
+validation in the 80 10 10 ratio and
+then we did all the uh all the
+preprocessing and uh and we went ahead
+with the model building
+we found that the sap made the life of a
+data scientist very easy
+had we not had all the functions
+available within sap we had to go
+through all these
+all these steps dropping 12 columns
+including pen columns mapping zero mean
+for the binary values getting dummies so
+all those things were kind of not
+required with sap so this was I think a
+lot of times it happened to us because
+we were using Sap's machine learning
+machine learning solution
+let's talk and take a look at the model
+insights
+so for the first model we use the
+gradient boosting binary classifier
+and with this one we were able to and
+again since we are trying to create the
+predict the churn we are looking at
+recall as the the value of interest uh
+with this model the recall value that
+you got was a low value just about 55
+and one percent not really encouraging
+accuracy was good decision was not not
+really uh encouraging either an FN score
+was low AUC boss it was decent but again
+not really uh but this model overall was
+not not really encouraging
+uh one thing that we point out here is
+that critical job role was low
+contributory here and again this is one
+more thing that I have pointed out
+earlier that this is one area that may
+have uh impacted our models and they
+should take a second look at this one
+also one part is that salary was about I
+think ninth or 10th in the hierarchy so
+funny enough salary has not featured as
+the top performing in any of the models
+so salary is not the core concern of
+employers who are leaving the job uh
+there are other factors we have to take
+a look at those more uh more
+interestingly
+since model 1 was not really uh
+impressive we went on uh to build two
+more models so for the model 2 we used
+the random forest classifier and in this
+model we were able to achieve a recall
+value of nearly 94 percent so this was
+better than the previous one accuracy
+was also reasonably good reference code
+was was decent diesel was Precision was
+not really high but again given that
+recall is very high prison was supposed
+to go uh low up a bit which is to be
+expected in this also the salary is
+far below so I think we can safely say
+that salary is usually not the highest
+reason why the employee script there are
+various other things that we should
+should take a look at facility is not
+one of those and I don't see the uh
+be uh a critical role here in this at
+all so I think critical role has has
+done something uh the data in critical
+has done something to these models and
+we should uh we should make sure to to
+see uh that we have the right values for
+the critical role for all the employees
+so we also build one more model to
+ensure that we are on the right track so
+for the model 3 we use the hybrid
+creation boost gradient boosting three
+and with this one we are able to achieve
+at lower recall value of 56.25 not
+really not really uh encouraging
+accuracy was uh just about six to six
+please signals are very low F1 was very
+low so this is not really a good model
+and somehow the ROC curve uh stooped
+here in between this was supposed to be
+smooth here but this two tier for some
+reason I we have then we have to do some
+more more research in this area uh but
+again this model was not also performing
+at the level expected so we did not uh
+think that this was a great model to
+move ahead with in this also salary was
+pretty low uh so the syllabus number
+seven here I guess uh but also the uh
+I don't even see
+the critical role is not showing up here
+it's very low so so salary is very low
+in this in the rating and critical job
+rule is also fairly low in this area as
+well
+for deployment part uh we believe that
+once we choose the right model we have
+to look at several factors that can lead
+to uh leap to employ electrician and I
+have listed 10 factors here which came
+from a vented Circle so these 10 factors
+I'm pretty much sure that the HR is
+looking at these factors and making sure
+that these are taken care of
+but the intent was to ensure that the
+best employees stay with us we have to
+make sure that we run this model on
+certain critical events
+and I have listed some events here uh
+the annual appraisal is one critical
+event promotion is a is a critical event
+function slash Department change is also
+a very critical event
+uh an employee's birthday as the
+employees age their attrition Tendencies
+go down
+any major life event for an employee
+marriage separation birthday so these
+are all the events where the employees
+are likely to make uh changes to their
+intent to it right and the idea is that
+the HR should run this model for these
+employees at these critical events and
+ensure what has what has changed and
+based upon that they should take some
+action what he promote is that we should
+generate a we should run these reports
+and Report weekly and the HR should get
+this report by a in a pushed model
+notable model so they should get the
+report and based on that report they
+should Define the actions for the next
+few months few weeks few days few years
+based upon what has happened and uh
+based upon that they should figure out
+what they have to do to ensure that the
+employees who are highly likelihood
+right and that they want to remained
+want to retain uh are given what they
+what they what they need to stay in the
+company
+tomorrow should not be used in must it
+should be they should be you know uh
+very critical to practical to the
+employees so it should be written only
+for those employees which have which
+have seen any major event in the last
+week or so and the HR should get the
+report for only those employees and take
+action based upon that report
+our conclusion is that the model to the
+random Forest classifier is the one that
+has given us the best performance about
+94 recall value and it makes sense
+[Music]
+foreign
+we should try to get more data and make
+better model based upon that
+uh we must ensure to have a feedbook
+feedback loop uh to ensure that whatever
+you learn is passed back to the model
+and the model keeps improving with every
+iteration of the Run of this model
+uh as you mentioned the sales and
+marketing departments and the APG region
+had some tendency uh has shown the for
+tendency for people to attract more so
+we should see what is happening in these
+regions and this and these departments
+to ensure that we can uh we can plug the
+Gap and ensure that the best employees
+stay with us
+uh salary is not among top five
+contributors so we we can test easy that
+salary is using what the reason why
+employees employees leave and we should
+focus on the other factors
+and finally we should discuss with HR
+whether we should filter out the
+predictions of Flight Risk for the for
+the uh employees who are who have a
+decreasing performance rating and who
+have been demoted do we want to even
+retain them we should talk to HR to
+ensure that we can take the right action
+and not burden HR with the uh with a
+full report of all the employees uh even
+including those employees that we that
+the company does not retain so these are
+these are the findings that we think are
+are useful for the HR and with this I
+conclude my presentation and hand over
+to
+Kristoff
+thank you vishwas
+okay I'll unmute
+I would share my screen
+okay
+can you see my screen yes
+yes yeah
+it's okay
+yeah yeah well
+thank you thank you
+um well after
+um The Challenge I published the entire
+Jupiter Notebook on GitHub and
+afterwards in a few weeks in January I
+also decided to publish a Blog where I
+explained the main parts from
+from the Jupiter notebook so I'll try to
+do my best to explain in my next 15
+minutes
+okay so we already know that this is
+about
+in about uh
+we have we already know that we have to
+predict the employee Chan as already we
+have mentioned
+and that
+I the first step is to install the
+um Anaconda and create my
+my environment and I also installed my
+Hana ml what I like about Hana machine
+learning is that I can access it from my
+local Jupiter notebook and I can write
+the code in Python and this in Python
+everything is an objects and the Hana
+machine learning objects are just like
+any other objects and I can wrap them in
+function I can use them in lists and
+dictionary and get a very clean and
+reusable code
+so understanding the challenge
+looking into the data I can see that our
+data is highly unbalanced imbalanced we
+have two classes the first class is no
+class this is a majority class and the
+next class is the yes class the class we
+have to predict
+and this class is our minority class
+well the next step is to look into data
+and look into feature distribution
+I also feel the the missing values did
+some feature engineering by creating new
+features
+so I'm ready to go to my next step and
+see what I can get from this data so I
+can build a model to do so I have to
+split data into train data and test data
+I used only one function only one
+Library which I wrote in a function I
+used only hybrid gradient boosting three
+so this is a function where I wrapped
+everything
+after
+I fit the model I can look into my
+statistics well looking just into model
+statistics
+uh
+I can consider myself lucky if I'll take
+into consideration on the accuracy
+because I have an accuracy of
+0.92 but as
+but as I but as I mentioned above I know
+that my classes are highly imbalanced so
+I cannot
+rely on accuracy I have to rely only on
+recall and for that
+I explained I created a new chapter
+understanding statistics and I explained
+why in imbalanced classes we have to
+rely only on recall and what should we
+do next to reply also on
+accuracy so this is a very detailed
+example one
+recall is about to know and three yes so
+um
+I don't know I will not go into details
+here because it will take some time but
+we can look into the blog afterwards if
+you have time
+so after also I
+did my prediction I output the
+prediction statistics and looking into
+prediction statistics I also can see
+it's wrong
+something wrong
+okay looking into prediction statistics
+I can see that my recall is zero three
+point zero three four
+and that's very poor
+I will store all these initial results
+in
+a local data frame so I can look into
+all my results at the end
+so meanwhile we received additional data
+and with this additional data
+with this additional data
+uh
+I built again the model I joined all
+this data and looking into the call I
+can see a very good Improvement the
+recall is jumping into zero six into 0.6
+and also looking into prediction
+statistics I can see that my recall is
+zero point
+five seven it's slightly under the model
+statistic but this is good
+the next step is to reducing the number
+of features to do that I have grouped
+the features by I have grouped features
+into
+I have grouped dependent features
+you can see the the groups and from each
+group I selected only one feature by
+importance
+also I did some
+adjustments for instance for previous
+countries for uh for I selected in case
+of context I prefer to adjust the
+selection with the previous countries
+and current countries
+something is going in my mouse yeah and
+looking at prediction with the
+looking at the prediction statistics I
+can see that my recall for yes is 0.62
+well
+probably think we received even more
+data now we didn't but we have some uh
+very powerful tool it's mode it's mode
+is about synthetic minority over
+sampling technique
+I will do one more time the I will check
+on my time the class proportions
+I can see it here I can see that my plus
+yes is highly imbalanced and I have to
+calculate the the maximum amount for um
+from Ice mode so the max amount is 710
+well I will apply this function and I
+will get my training data
+below and the attaining data are
+balanced you can see it from the output
+so I would like to look into my
+prediction statistics and here we have
+the big surprise Mighty call yes is 0.8
+and this is a very big Improvement of my
+smoke so I'll keep this mode I also can
+look into my prediction statistics and I
+can see that my recall is
+0.79 it's almost the same so I can go to
+the next step and this is I will call it
+the kind of a magic stand because I will
+do double magic I will balance my test
+data and also I will increase my
+training data
+why I should do this balancing because I
+would like to use also accuracy for my
+prediction for my uh prediction
+statistics so you can see that I
+balanced my test data and at the same
+time I have increased my uh
+training data we see an increase here
+I will apply this mode to the detained
+data I will use all these classes all
+this function I built before I can see
+that my training data uh
+balanced they are equal
+well I can look into my prediction
+statistics and looking into my
+prediction statistics
+the recall for yes is jumping is zero
+point
+eight two and looking at the support we
+can see that our support is 210 for now
+and 210 for yes and that's mean that we
+can rely on accuracy and my accuracy in
+this case is 0 8
+seven zero point eight seven
+well what I did above is tops mode it
+was just the first try but I would like
+also to to explore it more what does it
+mean I would like to
+do it step by step by increasing or in
+each step with 100.
+and then I will choose from all these uh
+models I will choose the best one based
+on my accuracy on my prediction accuracy
+because as I said above I can rely this
+moment
+also on my
+accuracy now
+so this is a very intensive process
+everything is done in Hana
+well no I'm just sorry for that
+it was here
+it was about
+burning top smooth yeah it took about it
+took about eight minutes it took about
+eight minutes and at the end I can look
+into all the models I've got the models
+here and accuracy and I can see that
+this motor is the 700s is the best one
+now I can move to the next step building
+top models
+and the Imperial top models I would like
+to add the features one by one in order
+of importance so I also created one
+function to wrap everything and this is
+also a very very intensive process it
+took about 21 minutes well you can relax
+enjoy a cup of coffee or of tea I did so
+but the code is already executed here so
+we are looking just into the data
+and we have a great surprise yeah
+because uh we we can see here that the
+best mode with the best top
+15 features gives me an accuracy
+of 0.89
+I stored all these models and other
+different dependencies in a dictionary
+and as I said before I like honey
+machine learning libraries that
+everything is object and you can see in
+this output that the model is just
+stored in this list along with all
+others dependencies which are local
+and
+I'll go to I have this last
+um I have this table I have this data
+frame
+data frame it was with all the results
+but I'll switch to GitHub
+and because I can show here all the
+progress so what did we have at the
+beginning yes we have this initial data
+and our equal yes was only
+0.34 and then we have additional data
+and our recall increased and then I try
+to reduce the number of features and
+we've got an increase and then I decided
+to do some manual adjustments and I've
+got almost the same recall and in the
+next step I applied this powerful tools
+mode and this mode you've got this big
+increase of recall to zero eight
+well I did the same with important
+statistics then I decided in the next
+step to balance my test data and you can
+see that my support is 210 here and 210
+here yeah
+and this at this stage at this step I
+can
+rely also on accuracy and my accuracy is
+zero eight
+0.87
+and I will do the same with the best
+mode
+and finally I'll do the same with my top
+teachers and I've got this best result
+of 0.89
+switching back to
+the blog
+well analyzing top models well the
+machine learning is not a black box yeah
+we can ask some questions and the the
+response the answers to our questions
+it's the reason quote
+each prediction I can get some
+explanation for instance the reason
+called the top reason quotes for first
+prediction I think day six day for the
+next one and training for the next one
+and so on
+I can
+ask even more questions yes and for the
+same prediction I would like to receive
+even more answers to give me top five
+recent quotes
+and
+they can do both
+something is
+talking I got it okay
+so we've seen only data above but also
+we can we can visualize all these
+statistics we have plots we have a very
+powerful Library unified report we can
+see all these importance we have seen
+before uh as a chart we can see
+also we can output other
+statistics model model statistics then
+we can have explanation the form from
+the prediction and we can see the
+contribution of which features and for
+that we can use shape League planer
+this is a plot from shapely explainer
+also everything I
+described above about uh
+recall and
+accuracy we can understand better with
+the confusion Matrix this is the mode of
+uh this is a confusion Matrix for model
+we can take a look at this also
+normalized
+and also we can look at the prediction
+statistics of we can look at confusion
+Matrix we can look at confusion Matrix
+of prediction and we can see that we
+have here pulse no
+32 and through yes is
+178 and if we assume that we'll get 201
+yeah so and above you will get the same
+uh same value meaning that our test data
+have been balanced and we can rely on
+all statistics recall accuracy precision
+F1 score and so on what about for the
+steps well Machine learning
+uh has many steps well we have
+connection data and then we have to
+build all these models and the model is
+the brand but this brand needs the body
+so the body in our case is an
+application and we should positive think
+about how we can deploy these models
+as I said at the beginning my scope was
+to
+provide the different
+alternatives to the same model so
+because in in deployment during the
+deployment I would like to
+use different models so I'll be able to
+compare to do some kind of a b tests
+so that's actually everything about uh
+my model
+and my results
+thank you Sergio you can hand over
+thanks you can unshare your screen okay
+and let's continue
+can you see my screen
+yes we can okay perfect yeah so hello
+everyone
+my name is Clement I'm from Austria I'm
+a consultant at
+STD and yeah so I'm Consulting business
+and analytics Banning
+and the STC is one of the leading sub
+service providers in Austria and we are
+happy
+to share our expertise inventiveness and
+passions to get the best out of their
+business every day from our customers
+and we also a long-standing partner of
+sap and covering the entire sub solution
+portfolio
+so yeah and I'm also very happy that I
+got the opportunity to
+um get in this Challenge and yeah so I
+want to share my insights about the
+challenge
+um the first thing was um that we had
+today that it is the aim that we want to
+predict the employees which are
+um which want to quit but another aim I
+also wanted to implement is how to do
+something against like what can the data
+do that we can do against it
+and the first thing as a data scientist
+you're doing and looking into the data
+and to get a little bit of feeling of it
+and yeah so I created some numeric
+um histograms from the numerical
+variables and also correlation Matrix so
+you can see here but as
+um which has mentioned before you can't
+find something
+um significant so it's very yeah very
+clear
+um and the tender amounts with the age
+that's very clear that it's positive
+corrected in the salary with the age so
+yes and if you look at the numerator
+there is the only thing I can find was
+this salary because if you look there is
+just a huge amount of people who are
+earning that most of the 120 000. but
+the other things are pretty much normal
+distributed and you can't see anything
+special from it
+I also tried it to split it up
+um that um to compare the people who've
+um quitted the job and who created not
+so like from the salary or from the age
+and there was nothing
+um special significantly so it was
+almost the same and yes
+and another thing was the
+so I have to go to next slide
+so yes another thing what um was that
+the data is very imbalanced so you can
+see that for the company it's very good
+that the most people are staying and
+just a small amount of employees are
+quitting but as a view as a data
+scientist it's not a really perfect
+scenario because you really want to find
+the people who are quitting and if this
+um is a minority test and it's it's
+getting harder and the sap pile has an
+implementation to
+um
+balance the data so it's called the
+small Tech well sorry and
+um the small Tech is this mode that you
+um
+uh doing the the data points which are
+existing from the yes that you are not
+duplicating it but you uh
+um creating synthetic data points and
+atomic aggregious to to reduce the node
+class that's what I've done and very
+aggressively so I almost balance it from
+yeah one to one
+and that was uh the first approach
+before I got through the modeling
+and then we first started with the
+modeling I decided for the average
+creating boosting tree
+model and it's very nice that if you use
+the sap power you can also do some
+research and because it's all calculated
+in in the server at Hana mil so you can
+use the compute resources from it
+and find the best and the optimal and
+parameters I did a tweet search
+and I let it run for some time and
+it's very fast so I don't know anymore
+it's about 20 minutes 40 minutes and I
+played a lot around with it and the
+perfect parameters was for the model one
+um 0.1 for the learning rate and 120
+estimators under a split threshold from
+0.1
+and
+the thing is also
+that
+um yes but it's that is very nice that
+you just like can write on the server
+and calculate it
+um the first uh and here are all
+features involved in this so I haven't
+done something in future selection and
+here all in it and I got a really nice
+position from 97 percentage of no and
+from the yes uh position from 78
+um 70. free almost
+so yes this is the detection
+um that you can find it and here you can
+also
+um see the correlation Matrix so from
+the yes we we got 325 right in just 121
+um row
+um what you also can do
+um and see for the
+foreign
+you get the confidence score and you
+also get the reason code from the model
+and here you can see why so it's not the
+black box you can see why um the model
+is um
+giving it the score yes for example
+[Music]
+which are skipping uh quitting sorry
+and yes so this is the model one and the
+idea of the model 2 was to just select
+the top 15 features which are involved
+in the model one so for example each art
+reading functional error change type six
+days and so on
+and I have done this again with the with
+the hardware ingredient boosting tree I
+did a grid search the optimal parameters
+was a little bit harder so different so
+it was like running rate 0.4 estimators
+was the same with 120 in the split
+threshold with 0.3
+but the thing is
+um I didn't get this good result at the
+model before so the Precision from now
+is quite the same with 97 percentage but
+the Precision with yes
+um it is a little bit
+um weaker so uh I just got 68 percentage
+of it so the model one and the model 2 I
+would suggest to to use the model one
+with all the features even if we have
+some other noise in the data because of
+other features and so on
+um but uh the the the class we want to
+predict is yes and here is like we want
+to find the most
+um highest Precision without we want to
+find all the employees
+um we're creating so this is my first
+approach and
+um the second one is what what can we do
+now if we can find now the employees
+which are greeting for greeting and then
+what can we do and what can we do just
+if we have the data from it
+and if we go now here what I have done
+is I use the top five features come from
+the model
+and just looked into the detail what
+it's different why is the model
+predicting like that kind of and the
+first the most top feature is each art
+reading and it has an influence of 28
+percentage of the model so it's quite a
+huge influence in this and the funnest
+thing or I don't know for the company
+it's not funny but if you look here on
+the left side you have the um employees
+which are quitting and on the right side
+you have the employees which I'm not
+creating and if you look at the empress
+um who are quitting you have a really
+big amount who did HR training and the
+small amount who didn't have done the
+chart reading and if you look at the
+people at the employees which are still
+at the company it's it's in the other
+direction so yeah I don't know what they
+do in the company the HR training what
+they are teaching what they are learning
+but yeah that's this one indicator that
+it's not really beneficial for the for
+the company
+the second
+um top feature was the functional area
+change type that has an influence of
+nine percentage of the model
+and I did the same so I splitted it into
+two groups with the flightless gask and
+Fighters no and here you can see that
+um one the no change is yeah
+is also a huge amount in the in the
+employees which are still there
+um but if you look at the
+cross-functional move so there's a
+significant uh significant difference
+between the Flight Risk yes and the
+Flight Risk new group so if you
+[Music]
+um
+so my suggestion is to to
+um use this in the company and to deploy
+that cross-functional move to to prevent
+every
+then the third feature was the sick days
+and here um is the same on the left side
+you see that the people who quit at the
+shop and on the right side were still at
+the company and
+um I also
+um printed the mean from the flight with
+no
+um amount at flight qcs so the green
+line is the is the mean
+um from the from the sick days of the
+people who are still at the company
+and the the thing is that people who are
+employees which are quitting the job
+have more sick days than the the
+increase we're staying and for me it is
+like I would suggest as an indicator
+around 116 days so if the employee has
+more than 11 Civic tests and maybe yeah
+it can be that um
+the employee will quit for example maybe
+also if I did additional he did each
+artery
+um and the fourth was the employment
+type
+so
+um the
+um the data that was temporary and
+regular so temporary means that they
+have a temporary contract and the other
+one is just a normal country so the
+temporary is limited to a date and
+people employees they are greeting their
+jobs more when they have a temporary
+Employment contract and looking for it
+so it's maybe it's logical because they
+are looking
+um for another job before the contract
+expires and then they are switching
+companies or that can be but it's also
+they are not happy maybe with it because
+we can see it in the data that there is
+a different
+and the last feature was the promotion
+within last three years and there's also
+a big difference so if you look at
+people which are leaving the company
+they are not have a promotion in the
+last three years so it's not uh it's
+really huge difference and if you look
+at the people which are still staying um
+they have they have to have around 5 000
+employees they are promote they have a
+promotion and 11 uh near 12 000
+employees they have no promotion still
+staying but that's also like something
+what you can do so if you have high
+level skilled employees you can prevent
+them maybe with promotion
+and yeah so that's so that's the
+addition what you can do if you
+um yeah if you detect uh employees which
+are which you want or which are maybe
+leaving then you you can um check these
+features and and check
+um what what have they done and then you
+can hopefully prevent the employee
+um for training
+so yeah that was my solution and thank
+you
+yes
+[Music]
+thank you Clements thanks for sharing
+you can and share and let's all go back
+on camera for the Q a
+perfect timing okay
+yeah I'm back
+brilliant
+payments used to share it uh yes
+um
+there we are it's off yeah everyone's
+back
+thank you everyone uh to you
+um for sharing your presentations very
+interesting
+that the HR training can actually be
+negatively impacting employees to to
+leave a company interesting
+um any comments from our expert team
+here on the presentations
+foreign
+fabulous uh presentations again I think
+that was really really cool by by all of
+you I think very interesting also to see
+the the different kind of the different
+approaches you you've been taking to to
+tackle the challenge so
+um I think everybody even today learned
+a lot uh about you know how easy or
+maybe challenging it was to to tackle
+the ml Challenge and actually I would
+have a question I mean you've all been
+new to Hana machine learning and the
+python interface and used Open Source
+before and I think you commented a
+little bit about it already but I would
+really like to uh learn maybe how easy
+did you did you find it to maybe go from
+something like psychic learn and pandas
+data frame to to the Hana data frame and
+the Hana machine learning uh function so
+I it looks kind of uh you did a great
+job and explored it in in such a detail
+I would have never expected so that's
+fantastic but was it actually a big
+challenge for you or did you find it
+easy to to Pivot let's say from Psychic
+learn to to Hanuman
+so Christopher I can start
+and uh
+the editors also that I was trying to
+think about using tensorflow and all all
+those things for for this challenge but
+again then I discuss with you and
+realize that the intent was to use sap
+ML and I was a bit reluctant initially
+but again when I started using I found
+that it was way it was very easy there
+was a small learning curve of course but
+again I think the uh the what we have in
+sap ml is is really uh really highly
+useful and uh pretty concise also one
+thing that I thought could be done
+better is that there is some I think
+there is some lacking documentation uh
+that would have made my life much more
+easier but again it was not not at all
+hard but again some more documentation
+would help other Learners to uh you know
+ramp up more quickly
+thank you
+maybe maybe a comment from Sergio or
+Clements on this as well
+yeah it took me about three days to
+understand how it works because I had
+the previously different uh
+proof of Concepts I even built something
+with about just as a proof of concept
+and the main part was about data frame
+because it's a little bit different but
+machine but about machine learning
+libraries they are very well aligned
+with the open source libraries
+so as as you've seen in the thread it
+took me about three days to to get the
+idea and then to to get even more
+examples different pieces of code and
+then to put everything in function and
+run everything from one end to the end
+okay
+thank you
+yeah from my side it was also
+um the same so the data frames was a
+little different and you have to get
+know it but the learning curve is very
+um steep so you're learning pretty fast
+the the handling of the tool and you
+also have the advantage then that you
+can run it on the server and you don't
+have to run it locally so it's also like
+a beneficial for you that that you you
+are using the the sub animal data frames
+but they're also like providing a lot of
+features with SQL um to to get the views
+of the data
+um and the Machine running is pretty the
+same so also they create search and so
+on all just different
+um yeah functions name but the most are
+pretty the same so it was also easy for
+me yes
+thank you
+I'd also like to comment one thing oh so
+Sarah to go go ahead yeah yeah there is
+one more thing I um I noticed there are
+some functions that are embedded into
+the models for instance if you'll use
+open source uh HD boost you'll have to
+encode features but in hybrid you don't
+have to import features and also if you
+use HD open source YouTube boost you
+have to this you have to specify all the
+features but in hybrid you don't have to
+specify the features the exact number of
+features it will take it from the
+initial data so I didn't have time to
+explore everything but I I've noticed
+that there are a lot of function
+embedded in in library otherwise in open
+source you'll have to to handle it by
+yourself
+okay thank you cool
+um my comment was about giving kudos to
+the sap Hana Cloud expert team because I
+think
+it's interesting to to know how long it
+took you to read into it um Etc and I
+think in addition to you being brilliant
+to invest your time in like reading into
+it and doing the challenge I think it
+was brilliantly organized by the sap
+Hana Cloud team to offer open Office
+hours to everyone in the sap community
+that had questions regarding the
+challenge or questions in general about
+machine learning so they they also
+invested a lot of time
+um out of their busy schedules to uh to
+be there for the sap community and to
+offer their help and knowledge to
+everyone so big Kudos also to to
+everyone here on the organ team
+um with that being said I also just um
+as Christoph mentioned in the beginning
+um
+pasted Susan's summary announcement blog
+post into that chat for everyone to
+reread
+um and I'd like to thank you all for
+taking your time today
+um it's been a pleasure to have you here
+on our sap Community call I hope you
+enjoyed it too
+big thumbs up
+okay great
+um
+laughs
+right yes
+you were on mute Sergio yeah I was a
+mute I I I
+I'm alive I have hands that's all I'm
+not I'm not a competition intelligent
+I'm just alive being all right okay then
+thanks everyone take good care and I
+hope to see you in our next
+um potential sap Hana Cloud machine
+learning challenge
+bye

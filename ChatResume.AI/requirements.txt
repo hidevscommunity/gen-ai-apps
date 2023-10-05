@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+openai
+pdf2image
+langchain

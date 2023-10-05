@@ -1,0 +1,11 @@
+streamlit
+weaviate-client
+clarifai
+assemblyai
+llama-index
+yt_dlp
+pydub
+langchainhub
+unstructured==0.10.15
+pdf2image
+pdfminer-six

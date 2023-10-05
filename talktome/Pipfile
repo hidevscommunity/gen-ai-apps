@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+assemblyai = "*"
+streamlit = "*"
+pypdf2 = "*"
+openai = "*"
+requests = "*"
+audio-recorder-streamlit = "*"
+install = "*"
+gtts = "*"
+plotly = "*"
+wordcloud = "*"
+matplotlib = "*"
+seaborn = "*"
+numpy = "*"
+pillow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

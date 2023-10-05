@@ -1,0 +1,59 @@
+repos:
+  - repo: https://github.com/psf/black
+    rev: 23.3.0
+    hooks:
+      - id: black
+
+  - repo: https://github.com/pycqa/isort
+    rev: 5.12.0
+    hooks:
+      - id: isort
+        args: ["--profile", "black"]
+
+  - repo: https://github.com/pycqa/flake8
+    rev: 6.0.0
+    hooks:
+      - id: flake8
+        exclude: .*/tests|^sandbox
+        additional_dependencies: [flake8-docstrings]
+        args:
+          [
+            "--max-line-length=88",
+            "--extend-ignore=E203,W503",
+            "--docstring-convention",
+            "google",
+          ]
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: requirements-txt-fixer
+        files: .*/requirements.*\.txt$
+      - id: check-json
+        exclude: '^data/.*'
+      - id: check-yaml
+        exclude: '^applications/.*/charts/.*\.yaml$'
+      - id: check-added-large-files
+      - id: check-merge-conflict
+
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.3.0
+    hooks:
+      - id: mypy
+        args: [--ignore-missing-imports, --disallow-untyped-defs, --install-types, --non-interactive]
+        exclude: .*/tests|^sandbox
+
+  - repo: local
+    hooks:
+    - id: hadolint
+      name: hadolint
+      entry: hadolint/hadolint:v2.12.1-beta hadolint --ignore DL3008 --no-color
+      language: docker_image
+      types: [file, dockerfile]
+
+
+  - repo: https://github.com/sqlfluff/sqlfluff
+    rev: 2.1.1
+    hooks:
+      - id: sqlfluff-lint
+      - id: sqlfluff-fix

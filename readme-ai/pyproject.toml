@@ -1,0 +1,115 @@
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "readmeai"
+version = "0.4.05"
+description = "🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫"
+authors = ["Eli <0x.eli.64s@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/eli64s/readme-ai"
+documentation = "https://github.com/eli64s/readme-ai/blob/main/README.md"
+keywords = [
+  "readme",
+  "devtools",
+  "readme-badges",
+  "openai",
+  "readme-template",
+  "hacktoberfest",
+  "readme-generator",
+  "readme-generation",
+  "coding-assistant",
+  "gpt-3",
+  "openai-api",
+  "automated-readme",
+  "gpt-4",
+  "chatgpt",
+  "openaiapi",
+  "llmops",
+  "gpt-35-turbo",
+  "llm-agent",
+  "openai-api-python",
+  "llm-framework",
+]
+include = ["readmeai", "readmeai.*"]
+
+[tool.poetry.scripts]
+readmeai = "readmeai.cli.commands:commands"
+
+[tool.poetry.dependencies]
+python = "^3.8.1"
+colorlog = "^6.7.0"
+cachetools = "^5.3.1"
+gitpython = "^3.1.31"
+httpx = "^0.24.1"
+h2 = "^4.1.0"
+openai = "^0.27.8"
+pyyaml = "^6.0"
+responses = "^0.23.1"
+tabulate = "^0.9.0"
+tenacity = "^8.2.2"
+tiktoken = "^0.4.0"
+toml = "^0.10.2"
+pydantic = "^1.10.9"
+tornado = "^6.3.3"
+asyncio = "^3.4.3"
+aiohttp = "^3.8.5"
+click = "^8.1.7"
+
+
+[tool.poetry.dev-dependencies]
+black = "*"
+flake8 = "*"
+isort = "*"
+pytest = "*"
+pytest-cov = "*"
+pre-commit = "*"
+
+[tool.poetry.extras]
+dev = [
+    "black",
+    "flake8",
+    "isort",
+    "pytest",
+    "pytest-cov",
+    "pre-commit",
+]
+
+[tool.black]
+line-length = 79
+include = '\.pyi?$'
+exclude = '''
+/(
+      .eggs
+    | .git
+    | .hg
+    | .mypy_cache
+    | .tox
+    | venv
+    | _build
+    | buck-out
+    | build
+    | dist
+  )/
+'''
+virtual_env = "venv"
+
+[tool.isort]
+line_length = 79
+profile = "black"
+known_third_party = ["tenacity"]
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+addopts = "--strict-markers --disable-pytest-warnings"
+markers = "asyncio: marks tests as asyncio."
+
+[tool.coverage.run]
+omit = ["tests/*", "*/__init__.py"]

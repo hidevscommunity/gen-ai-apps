@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "vector-librarian"
+version = "0.1.0"
+description = ""
+authors = ["zilto"]
+readme = "README.md"
+packages = [{include = "vector_librarian"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+arxiv = "^1.4.8"
+pypdf = "^3.16.0"
+openai = "^0.28.0"
+tiktoken = "^0.5.1"
+streamlit = "^1.26.0"
+weaviate-client = "^3.24.1"
+sf-hamilton = "^1.28.0"
+pyzotero = "^1.5.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

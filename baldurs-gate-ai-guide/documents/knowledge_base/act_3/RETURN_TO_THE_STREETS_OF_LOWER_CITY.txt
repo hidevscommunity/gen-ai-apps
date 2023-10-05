@@ -1,0 +1,38 @@
+# RETURN TO THE STREETS OF LOWER CITY
+
+Now that you were able to settle the uprising in the Guildhall, you will now return to the street of Lower City where you will continue your quest related to Mystic Carrion and his servant. Move to (X:-10 Y:-158) and you'll discover a hidden stone wall. Have Astarion unlock this door by attempting a Dexterity Check, but you will need to pass a DC of 25. This will take you to Philgrave's Mansion.
+
+A mummy Mystic Carrion will see you right away, and he tells you that you do not have an appointment. He recognizes that you are familiar with the Necromancy of Thay. He will ask you about your thoughts of its contents. You will get two options to respond:
+
+You're familiar with the subject matter?
+Oh yes, I loved it. Especially the part about the unicorns.
+If you choose the first one, he will suspect that you are not familiar with it and will try to turn you away and will suggest that you return to the domain of the living. You will get the next choices:
+
+Is there anything I can do for you?
+Have you anything to trade?
+Leave.
+
+If you choose the first one, Mystic Carrion will consider getting your help for a task. He tells you about his servant by the name of Thrumbo who ran away. He is asking you to return the body to him, and you will be rewarded. Then, you will get the following options to respond:
+- First, tell me why he ran.
+- His body? It sounds like you want him killed.
+- Baldur's Gate is a big city/ A name's not much to go on.
+- i might be able to help. For a fee, of course.
+- I'll think about it.
+- You've got a deal.
+
+If you choose the 3rd one, Mystic Carrion will tell you that he has accopmplices, and has led many others astray. If you agree to help Mystic Carrion, he tells you that spirits bore witness to the agreement, and they will follow your progress too, just like him. You will have a new quest "Find Mystic Carrion's Servant." Before leaving this room, make sure to trade with him and take a look at his very rare items for sell that might be suitable for yourself, or your companions. 
+
+Due to the lack of information from Mystic Carrion, you will go around searching the docks and looking for anything related to Thrumbo and his servants. You will find a Strange Beggar Lumbar on the streets of the Lower City at (X:124 Y:-30), just outside the mansion. As soon as you mention the name Carrion to him, he will become hostile. You will get the following options to respond:
+- [DECEPTION] Carrion means Thrumbo no harm. He sent me with provisions for his journey.
+- [INTIMIDATION] Either you tell me where Thrumbo is, or I drive my fist through your skull.
+- [PERSUASION] Tell me where Thrumbo is, and it'll be like we never met.
+- Leave.
+
+If you choose the first one, you will need to pass a DC of 18. Lumbar tells you that he last heard from Thrumbo that he's going to get them a boat, but haven't heard from him since and he suspects that he must be somewhere near the water.
+
+You will be able to locate Thrumbo inside Vonayn's Home near the shore in the Lower City. It's close to where Philgrave's Mansion is, and if you have explored this area before, this is where you fought Sea Monsters or Sahuagin enemies that jumped out of the water to attack you. If it's your first time, it will be an interesting encounter. Then, go inside the house next to the pier, use the stairs and you will find Thrumbo hiding in the wardrobe to your right.
+
+NOTE: You can either choose to help Thrumbo or Mystic Carrion. This will reap you two different rewards and  2 different outcomes for this quest as well. However, you will be able to loot more from Mystic Carrion if you kill him, and you can take the Torch of Revocation from the chest inside Mystic Carrion's room if you kill him.
+
+If you help Thrumbo, this will involve destroying the parts of Mystic Carrion that keep him alive. You will have to travel to the sewers, in the Undercity Ruins and smash the jars containing Mystic Carrion's brain, and liver. Then, you will discover that Mystic Carrion's heart is inside Thrumbo, and he will have to vomit it so you can destroy it. Then, you must return to Philgrave Mansion and kill Mystic Carrion to get the Crypt Lord Ring from Thrumbo.
+If you choose to help Mystic Carrion, all you have to do is take Mystic Carrion's heart from Thrumbo and bring it back to Philgrave's Mansion. He will reward you with Torch of Revocation.

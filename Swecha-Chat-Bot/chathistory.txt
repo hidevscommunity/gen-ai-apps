@@ -1,0 +1,3 @@
+user: who is richard stallman
+assistant: 
+Richard Stallman is a software freedom activist and the founder of the Free Software Foundation (FSF). He is best known for his work on the GNU project, which created a complete Unix-like operating system that is free software, and for his leadership in the development of the GNU General Public License (GPL), which has become the most widely used free software license. Stallman has been a vocal advocate for the principles of free software, which emphasize the freedom of users to run, copy, distribute, study, change, and improve the software. 

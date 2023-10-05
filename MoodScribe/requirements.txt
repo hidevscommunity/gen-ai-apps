@@ -1,0 +1,11 @@
+streamlit
+assemblyai
+pytube
+clarifai_grpc
+weaviate-client
+pandas
+plotly
+streamlit-plotly-events
+pytube
+hugchat
+streamlit-option-menu

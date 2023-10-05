@@ -1,0 +1,14 @@
+# EXPLORING THE FIRST FLOOR
+
+At (X:144 Y:-210), you will find yourselves on a landing that will take you to the First Floor of Moonrise Towers. There's a bigger journey awaiting your party here and the first thing that you will witness here is Z'rell and Radija in a conversation, that no one is allowed to disturb the prayers of Thorm. She will turn her attention to you and ask about how you handled the goblins.
+
+Given that you let the goblins walk free in this walkthrough, she will discover the act that you have done after reading your mind. Redeem yourself by any means without provoking her into a fight and if successful, she will go through again your mind to discover your wants and hopes. This, however, has a bigger reason for why she's doing it, as she's questioning your faith. Choosing any of the checks will require you to pass a DC of 14, when successful, she shares her story of how the Absolute gave her everything she wanted which is freedom.
+
+She gives you a mission and then you hear the voice of the dream visitor inside your head. They urge you to play along so you can get closer to the general, and so you'll be able to find the answers you seek. She tells you that General Thorm needs a relic that is currently located at the mausoleum beneath the tower. She asks you to make contact with Disciple Balthazar and retrieve the relic.
+
+To reach Balthazar's room, you will head to the first floor where you will see Glourik standing watch by the door at (X:-133 Y:-187). With Balthazar's room key, you can explore his room and pick up the Moon Lantern, which you will be needing as you explore the Mausoleum later on. You will notice that there's a locked Metal Door within his room, and attempting to unlock this will require passing a Dexterity check DC of 30. 
+
+Inside the room, you will find an undead hound guarding the area. You can attempt an Animal Handling, Performance, or Intimidation check that will require you to pass a DC of 18. Once successful, you can now freely roam the area without fighting the hound.  There are more chests that you can unlock in this area as well and pick up valuable items such as elixirs and scrolls. 
+
+There's another locked door here, that will lead to a different room. Unlocking this door will require you to pass a DC of 15. Inside this room, you will find more chests to loot and letters to discover. The unique chest can be found at the foot of the bed where it transforms into a Mimic the moment you get near it. When you're done killing it, you can loot its items.
+

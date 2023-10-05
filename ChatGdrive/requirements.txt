@@ -1,0 +1,17 @@
+langchain==0.0.254
+langsmith==0.0.20
+pre-commit==3.3.3
+pydantic==1.10.12
+pypdf==3.7.0
+streamlit==1.25.0
+s3fs==2023.9.0
+transformers==4.31.0
+typing-inspect==0.9.0
+urllib3==1.26.16
+openai==0.27.9
+sentence_transformers==2.2.2
+faiss_cpu==1.7.4
+tiktoken==0.4.0
+watchdog==3.0.0
+git+https://github.com/streamlit/files-connection
+gdown==4.7.1

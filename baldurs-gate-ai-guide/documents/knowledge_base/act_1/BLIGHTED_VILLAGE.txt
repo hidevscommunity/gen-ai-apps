@@ -1,0 +1,17 @@
+# BLIGHTED VILLAGE
+
+## Quests
+- Rescue the Gnome
+- Search the Cellar
+
+The entrance to the Blighted Village can be found on the west side of the Forest at (X:65, Y:404). There are no options to progress the main story here, but there are several Side Quests and Items of note that make exploring the place worthwhile. You can choose to fight through the entrance or peacefully talk it through the the goblins inhabiting the village. Up ahead and to the left will be the Blighted Village Waypoint. The house directly next to it has a substantial cellar that you may want to hold off exploring until you finish exploring the Whispering Depths. Opposite the Waypoint, you can lockpick a chest that contains the Haste Helm.
+
+In the southwest part of the village, you'll find a worn-down house occupied by three ogres - Fank, Chock, and Lump the Enlightened. If you manage to deceive them about being a disciple of the absolute, they will give you Lump War's Horn, an item used to summon the three to help you in combat. Otherwise, you'll have to fight them, after which Lump drops the Warped Headband of Intellect.
+
+If you head to the northwest part of the village instead, you'll encounter some goblins by a windmill. When you approach them the Quest Rescue the Gnome begins. The gnome can be saved peacefully if you pass certain checks when speaking with the goblins. Fail the checks and you end up fighting the goblins, one of which drops the Very Heavy Greataxe. After saving the gnome, Barcus Wroot, he can later be encountered in the Grymforge again.
+
+In the northern part of the Blighted Village is the blacksmith's house at (X:30, Y:425). You can find Highcliff's Journal in the small alcove next to the fireplace. Reading this book starts the Side Quest Finish the Masterwork Weapon. In the next room is some webbing that can be burned away to access the basement. The chests in the first room contain Highcliff's Blueprints, the Steelforged Sword, and a piece of Infernal Iron. The next room is a forge that leads into the Whispering Depths. The Whispering Depths can also be accessed by interacting with the well near the village waypoint.
+
+This area is relatively small and consists of two main levels. On the ground level, keep an eye out for the Apprentice's Journal on a skeleton to start the Search the Cellar Quest, as well as a Heavy Chest with the Spiderstep Boots. On the upper level, you'll find the Phase Spider Matriarch, a Level 5 spider with the ability to teleport to and hatch any unbroken Phase Spider Eggs on the ground. You can pick up the Poisoner's Robe after defeating her. In addition to that, you'll be able to access the western side of the cavern and loot the Dark Amethyst required for Search the Cellar, and unlock the Whispering Depths Waypoint.
+
+After completing the Whispering Depths, you can return to the house next to the Blighted Village Waypoint to complete the first part of Search the Cellar. Within the cellar, you'll find the Scroll of Summon Quasit, Bracers of Defence, and more importantly, The Necromancy of Thay. You will have three options when dealing with the tome, the first of which is to end the quest early by destroying the book with Radiant Damage. This tome can also be given to either Astarion or Gale to earn their approval. Alternatively, you can choose to read the tome yourself in order to gain the Necromancy of Thay effect and have the opportunity to unlock the tome's full potential later in the game.

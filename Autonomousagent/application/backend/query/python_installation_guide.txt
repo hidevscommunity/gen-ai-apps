@@ -1,0 +1,12 @@
+Guide: How to Install Python 3 on Windows
+
+1. Visit the official Python website at https://www.python.org/downloads/
+2. Click on the 'Downloads' tab
+3. Scroll down and select the latest version of Python 3 for Windows
+4. Click on the 'Download' button to download the installer
+5. Run the installer and follow the on-screen instructions
+6. During the installation process, make sure to check the box 'Add Python to PATH'
+7. Complete the installation
+8. Verify the installation by opening the command prompt and typing 'python --version'
+
+For more detailed instructions and troubleshooting tips, you can refer to the following link: https://phoenixnap.com/kb/how-to-install-python-3-windows

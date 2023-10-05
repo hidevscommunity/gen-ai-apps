@@ -1,0 +1,4 @@
+1. Start Monitor, and get live data of emotion recognition.
+2. Stop Monitor, and get emotion tracking and heart metric reports.
+3. Go to Counsel Tab, Select informations that you want to give to the chatbot.
+4. Fill-up required values, press counsel button, and recieve feedback from AI. 

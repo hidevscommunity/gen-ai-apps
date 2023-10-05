@@ -1,0 +1,7 @@
+streamlit
+openai
+huggingface_hub
+pydantic
+tqdm
+fire
+maritalk

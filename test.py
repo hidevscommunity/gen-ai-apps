@@ -90,7 +90,7 @@ repo_urls = ['https://github.com/samkamau81/FinGPT_',
  'https://github.com/gcjordi/llamaindex-chat-with-streamlit-docs',
  'https://github.com/vishan01/imagetory',
  'https://github.com/Atifbeast/ImitAI/tree/main',
- 'https://github.com/sejaldua/inquisitive',
+#  'https://github.com/sejaldua/inquisitive',
  'https://github.com/Vice777/insAIghts',
  'https://github.com/clever0dolt/insurance-bot',
  'https://github.com/Safiullah-Rahu/IntelliBot',
@@ -231,29 +231,29 @@ repo_urls = ['https://github.com/samkamau81/FinGPT_',
  'https://github.com/falaktheoptimist/sl_ht_scheme_filter']
 
 
-import subprocess
+# import subprocess
 
 
-# Specify the directory where you want to clone the repositories
-clone_directory = '/workspaces/gen-ai-apps'
+# # Specify the directory where you want to clone the repositories
+# clone_directory = '/workspaces/gen-ai-apps'
 
 
-# Iterate through the list of repository URLs and clone each one
-for url in repo_urls[0:4]:
-    try:
-        # Extract the repository name from the URL (e.g., "repo1.git")
-        repo_name = url.split("/")[-1]
-        repo_name = repo_name.replace(".git", "")  # Remove the ".git" extension
+# # Iterate through the list of repository URLs and clone each one
+# for url in repo_urls[4:]:
+#     try:
+#         # Extract the repository name from the URL (e.g., "repo1.git")
+#         repo_name = url.split("/")[-1]
+#         repo_name = repo_name.replace(".git", "")  # Remove the ".git" extension
 
-        # Construct the full destination directory path
-        destination_dir = f"{clone_directory}/{repo_name}"
+#         # Construct the full destination directory path
+#         destination_dir = f"{clone_directory}/{repo_name}"
 
-        # Clone the repository using the 'git' command
-        subprocess.run(["git", "clone", url, destination_dir])
+#         # Clone the repository using the 'git' command
+#         subprocess.run(["git", "clone", url, destination_dir])
 
-        print(f"Cloned repository '{repo_name}' to '{destination_dir}'")
-    except Exception as e:
-        print(f"Error cloning repository '{url}': {str(e)}")
+#         print(f"Cloned repository '{repo_name}' to '{destination_dir}'")
+#     except Exception as e:
+#         print(f"Error cloning repository '{url}': {str(e)}")
 
 
 import os
@@ -263,7 +263,7 @@ import shutil
 repositories_dir = '/workspaces/gen-ai-apps'
 
 # List of files and folders to delete within each repository
-files_and_folders_to_delete = ['.vscode', '.git', '.github', '.gitignore']
+files_and_folders_to_delete = ['.vscode', '.git', '.github', '.gitignore', '.idea']
 
 # Iterate through repositories in the directory
 for repo_name in os.listdir(repositories_dir):

@@ -1,0 +1,12 @@
+unstructured==0.10.13
+streamlit
+langchain
+weaviate-client
+assemblyai
+openai
+gTTS
+playsound    
+pyttsx3
+audio-recorder-streamlit
+pdf2image
+pdfminer.six

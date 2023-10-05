@@ -1,0 +1,1024 @@
+# Astarion
+
+Astarion is a Companion in Baldur's Gate 3. BG3 Astarion can be met early in Act 1 while players explore the beach on the crash site of the Nautiloid. Astarion is a High-Elf Rogue, and a useful addition to your party thanks to his trickery skills. See The Pale Elf for Astarion's Questline. Companions assist the player by joining his/her party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment, but you can change their classes via Respec in camp. Companions can also be selected as an Origin in the Character Creation screen allowing players to play from their point of view.
+
+## Astarion's stats
+STR: 8
+DEX: 17
+CON: 14
+INT: 13
+WIS: 13
+CHA: 10
+Class: rogue
+Race: High Elf
+Background: Charlatan
+Initiative: +3
+Movement Speed: 9m
+Darkvision Range: 12m
+Type: Humanoid
+Size: Medium
+Weight: 75kg
+Carrying Capacity:	120kg
+TAGS: Baldurian, High Elf, Elf, Humanoid, Astarion, Rogue
+
+## WHERE TO FIND ASTARION
+
+Astarion can be found after the crash of the Nautiloid in Act 1. You will meet Astarion by exploring the south-west portion of the Ravaged Beach, where he will be asking for help to deal with "one of those brain things".
+As you explore the beach area, you will come across the destroyed Nautiloid wreck and can go through it and slightly up a hill. You'll find him there calling for help. See Astarion's Location on the BG3 Map.
+
+## ASTARION'S STARTING EQUIPMENT
+- Padded Armour
+- Leather Boots
+- Dagger
+- Shortbow
+- Astarion's Eccentric Clothes (Clothing)
+- Tasteful Boots Clothes (Clothing)
+- Astarion's Underwear (Clothing)
+
+## ASTARION'S STARTING SKILL PROFICIENCIES
+- Acrobatics
+- Sleight of Hand (Expertise)
+- Stealth (Expertise)
+- Perception
+- Deception
+- Performance
+- Persuasion
+
+## ASTARION QUEST WALKTHROUGH
+To complete Astarion's Questline, you must first meet him in the south-west area of the Ravaged Beach in Act 1. He will be calling for help and ask that you deal with one of the brain monsters. This is actually a trap, and he will jump you from behind and hold a dagger to your neck if you aren't careful. You can shrug out of this with certain checks, but if you keep your cool everything will be fine and Astarion can join your party.
+This will begin his quest:
+- The Pale Elf
+
+## HOW TO ROMANCE ASTARION
+
+In this Astarion Romance Guide, we explore the general path toward gaining Astarion's approval and what opportunities you have to share some moments with him. This will be updated as more is revealed throughout the game. Astarion becomes available for romance when a certain point of approval has been reached. Astarion can be difficult to get high approval with due to his alignment toward less acceptable acts. He finds joy in cruelly mocking people and will root for Enemies sometimes, as he has a sort of kinship towards others who are labeled as monsters or malcontent, which might make it hard to avoid making decisions that he disapproves of as you go through the game and try to do good. That being said, he also places significant value on personal loyalty due to his context as a newly-freed slave. His approval is shaped by situations that reaffirm this principle, making it possible to earn his favor without resorting to malevolent actions.
+As someone who delights in the misery of others and prioritizes his own survival and self-interest, Astarion will give his approval for actions that express selfishness and agreement to whatever he wants to do. In contrast, he will disapprove of kindness and generosity that won't derive any benefits. Having a silver tongue himself, he'll approve of decisions that lean toward theatrics and drama. He will also be the single Companion who is in favor of using and developing the tadpole powers, as they are essentially what made it possible for him to be freed from slavery by his former owner. As such, decisions that reflect this desire will gain his approval and he will in general be against pushing hard to remove the tadpole. Sympathizing with his situation will gain approval from him while judging him for his situation will push him away.
+
+## ASTARION ROMANCE GUIDE ACT I
+Your relationship with Astarion can officially begin during Act I even before the Quest Save the Refugees, unlike how it was in Early Access. Keeping the general guidelines above in mind and eventually getting his approval up, players may approach him at the camp for a talk. At this point, your approval rating with him should be High so try to explore and do a lot of other things before tackling the Quest for more chances to get your approval up, if it's still lacking at this point. One way to gain good approval from him is to allow him to drink your blood whenever he needs a fix, and give it willingly.
+You're on the right track with Astarion if when you talk to him, he forwardly calls you darling and says that you've been on his mind. Just choose the appropriate responses to further his confession - as long as you don't downright reject him, you'll have your chance. As with the others, he'll propose to wait until dark when the others are asleep before you meet up with him for your little rendevous. When night comes, simply sleep on your bed roll and he'll come for you. You don't have to worry about being forward in the dialogue options to follow and just keep affirming the situation to get to the intimate scene. As a bonus, you'll get to learn more about him afterward, specifically the markings on his back.
+
+## ASTARION APPROVAL GUIDE
+If you are looking to befriend or romance Astarion, you will have to get his approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
+
+## Astarion General Personality Tips
+- Astarion enjoys making fun of people, especially when it's cruel.
+- He especially enjoys the suffering of others.
+- Astarion will like good deeds if it is funny enough for his sense of humor (Like Rescue a Hostage victim and then Extort him or Help Karlach not because it is the right deed but in his words "Are you agreeing to commit murder for someone you barely know? Count me in." 
+- Astarion values personal loyalty due to his circumstances. He gains approval from multiple events affirming this principle. This makes it possible to get him high approval without being evil.
+- He is primarily concerned with his personal survival, Self-interest and ensured freedom against Cazador.
+- The Tadpole nullified his Vampiric Banes (Running Water, Invitation indoors and damage from the Sun) and also broke the Mind control that Cazador held on him. Thus is extremely attached to it and the only companion (as of early access) who wants to continue to use the Tadpole's powers. Also the only companion that gains approval for dialogue that encourages its use.
+- He hates playing as a hero and thus gains disapproval when the Player commits to heroic deeds.
+- This part isn't defining the alignment of the Companion.
+- To avoid disapproval events, make sure the companion is Either left in camp or just far enough away from the dialogue.
+ 
+## INCREASE ASTARION'S APPROVAL:
+
+CHAPTER ONE
+
+Intro Area/Ravage Beach/Dank Crypt
+
+Accept Astarion's apology when you first meet him.
+After persuading the Tieflings to let Lae'zel down, Betray the Tieflings
+Lae'zel to say "please" before freeing her from the cage.
+Join Lae'zel against the Tieflings if you persuade them to free her.
+Choose to attack Gimblebock and the gang near the ruins. (does not appear to work outside of initial dialogue option)
+Druid Grove
+
+Refusing to help Zevlor when he asks for the Party to Mediate with Kagha
+During your conversation with Auntie Ethel in Emerald Grove, mention that you need help as you’ve been infected by a mind flayer parasite.
+Let Arka kill Sazza in the Druid Grove's Makeshift Prison.
+Tell Astarion that the refugees are desperate and will do anything after Arka kills Sazza. (Quest: Save the goblin Sazza)
+Tell Kagha the Archdruid you enjoyed her show after she asks if you think she's a monster. (Quest: Save Arabella)
+Agree to open the gate for goblin raiders.
+Poke the bird Nettie was healing to death during the dialogue. (Via talking to the bird using animal speech.)
+Intimidate or provoke during the confrontation between Ardin and Zevlor at the Druid Grove. (Ardin must survive the Goblin Attack)
+Choose to kill Kagha without trying to persuade her. (positive verbal response -- doesn't seem to affect approval? Not tested)
+When you Praise Lae'zel for the Interogation of Zorru, Astarion will like this
+When meeting Zorru, make him comply with and bow to Lae'zel.
+When Asharak asks to say a word to the Tiefling Children, say "Bad News Children, You are all going to die".
+If you call Raphael mad and tell him you’ll never make a deal with a devil.
+If you tell Mirkon "Snop snivelling or they'll be back. They like tasty little tiefling kids" after saving him from the Harpies on the beach
+In-between Blighted Village Proper and Druid Grove
+
+Use your Illithid Powers against Brynna (Edowin's sibling);
+- Ask what happened to Edowin,
+- Tell Edowin's Siblings to get revenge,
+- After Edowin's Siblings leave and before looting Edowin's body,
+- *Talk to Astarion and say, "Such powers could be useful." (Approval)
+(*It can also be triggered through any first use of Illithid Powers against a non-companion character.)
+Blighted Village
+
+Try to persuade the goblin Guard outside the Blighted Village.
+Walk in on a bugbear and an ogre named Grukkoh and Buthir having sex in an abandoned barn the Blighted Village.
+- After walking in, go to camp and tell Astarion it was fun (and disturbing). (This doesn’t work for some players, needs to be checked) 
+-(Some players add that removing Shadowheart from the party triggers this. Some dialogue only triggers with a specific party combination so it might be possible but more testing is needed)
+Ask for "Compensation for Effort" in dialogue with Barcus (Deep Gnome who was tied to the windmill) in the Blighted Village.
+Intimidate the Ornate Mirror in the Blighted Village into opening. (Quest: Search the Cellar)
+Deliver the final blow to feezerk. (Get Freezerk to surrender by killing one of his goblins and getting him below 30% but not killing him.)
+Pass the Very hard Peruasion check and hire the Ogres for free
+Risen Road
+
+Agree to help tiefling Karlach from Tyr Followers.
+When Meeting, Paladin Cyrel say  "take the supplies"
+Kill the Githyanki patrol OR successfully persuade Lae'Zel to "play along" and pull off the deception.
+After purchasing Oskar, the artist, say he's your slave. (Do not purchase when you have Astarion as your Companion as he will get disapproval)
+Tell the Gnoll Leader to feast on the other Gnolls
+Agree to kill Rugan.
+Sunlit Wetlands
+
+Kill Gandrel (the monster hunter; down south of the Sunlit Wetlands / nearby Auntie Ethel's home). After killing him, immediately talk to him about his old master for some special dialogue lines. You can instead go to camp (no long rest) after killing Gandrel.
+There you’ll also have a conversation about his old master and a chance to gain approval (You need to choose the Dialogue line that goes along "You have my back, I've got yours"
+Tell the two brothers (north of the Sunlit Wetlands) they are on their own to find their sister Mayrina. (Quest: Save Mayrina / Deal with Auntie Ethel)
+Resurrect Mayrina's husband and give her the wand. 
+- Right after that tell Astarion that it was funny.
+Laugh at Lorin (elf in Auntie Ethel's house) by pretending that you are the monster he sees. (Quest: Deal with Auntie Ethel)
+Choose to spare Auntie Ethel when he surrenders during battle battle. (Quest: Save Mayrina / Deal with Auntie Ethel)
+When entering the swamp pass the check to see it for real, then baa at the red caps when you speak to them
+Let astarian kill the gurr to the left of auntie ethels hut "not a real vampire" then "they can sneak up" then "kill"
+After killing the hag use the wand to ressurect her husband, give her the wand then astarians ! say its funny
+Goblin Camp
+
+When Meeting Sentinel Olak in the Goblin Camp Entrance, Pass the Deceive/Nature option then say you "cant be serious", then fling poo at the guards. (Athletics check work inconsistently while "Can't be serious" works everytime)
+Boo Volo in the Goblin Camp when he is performing
+Kiss Novice Crusher's foot in the Goblin Camp (and steal the ring).
+Use intimidation the 2nd time to force Novice Crusher to kiss your foot.
+After telling Novice Crusher "I'd Sooner spit in your face" and then winning the fight, make him kiss your foot.
+After telling Novice Crusher "I'd Sooner spit in your face" and then winning the fight, try to finish him off. (Will start battle with the Entire Camp)
+Persuade the Owlbear Cub that the Goblins are the ones responsible for its pain.
+When Krolla refuses to give your winnings for Chicken Chase, Use Illithid powers. (Might be bugged)
+Talk to Priestess Gut with Wyll and Attack
+Kill Priestess Gut in the Goblin Camp.
+Tell Abdirak you're curious and agree to be tortured (the follower of Loviatar in the Goblin Camp). Save the game before this interaction, as the approval sometimes doesn’t pop up.
+Telling Tracker Grikka (goblin near the roasting dwarf) you can get answers from the prisoner.
+Join Minthara for the Grove raid (It's possible without an actual opening of the Gates).
+Tell Minthara the exact location of the grove
+Torture Liam for Spike without Wyll present.
+Attack the Goblin Camp. (Quest: Save the Refugees)
+Volunteer to torture Liam at Goblin Camp.
+Decline when Halsin asks to kill Goblin leaders.
+Shattered Sanctum
+
+Agree to the ritual with Abdirak.
+Underdark
+
+Demand Boots in the dialogue with Thulla ( in the Underdark, Myconid Colony)
+Agree to kill the Duergar for Myconid Sovereign.
+Fight the fake god Boooal in the Festering Cove OR Let the Koa-Toes bow to you as the Boooal's chosen
+During 'Find the Mushroom Picker' tell Baelen Bonecloak that "he got himself into this mess, he can get himself out".
+Tell  Baelen Bonecloak that 'Scrolls don't come cheap'
+Take Spaw's side and kill Glut.
+Give Owlbear Cub a piece of food from your bag, while in camp.
+ Grymforge
+
+Push Corsair Greymon into the water. (Note: Can't achieve the inspiration: A Friend to All)
+Ask Ward Magmar  how you can get a slave of your own
+Agree with astarion that you don't need the lantern / to save Nere, 'we cant turn back now' when trying to open the gate to moonrise towers
+If you choose to free him from the cave in, tell true soul Nere to 'finish the slaves' for the absolute.
+ Créche Y'llek
+
+Tell Ch'r'ai W'wargaz "Hand over an artefact of immense power for nothing in return? You do insult me." (Warlock dialogue option).
+When Encountering Vlaakith's Portrait, Vandalize it
+Tell Varsh Ko'kuu that you are gonna make a omelet with the Gith Egg
+Take The Blood of Lathander before disabling the trap
+Kill Youth Varrl with multiple stab wounds in the Training hall
+When meeting Inquisitor Ch'r'ai W'wargaz, say "What do I get in return if I give it to you."
+CHAPTER TWO
+
+Last Light Inn
+
+When Jaheira asks why you have come here, choose "I'm here on holiday."
+Decline the wine offered by Jaheira
+Shuffle the lanceboard in favor of Mol.
+Choose "I say we follow the winged freak." when Flaming Fist Marcus invites Isobel to meet Ketheric.
+Tell His Majesty the cat "My intentions are pure. I only wanted to admire you up close"
+Tell His Majesty the cat "Quite the specimen you are. How did you come to this place"
+Agree to keep the Strange Ox secret
+Ruined Battlefield
+
+Convince the Hyena to leave the goblins.
+Run when the Harpers are attacked by shadows.
+Deceive the toll collector, Gerringothe Thorm.
+During 'Punish the Wicked' convince Madeleine to stab herself.
+During 'Punish the Wicked' tell Madeleine 'Start stabbing and don't stop until I say so'.
+During 'Punish the Wicked' pass a persuasion check to tell Madeleine 'Keep going'.
+During 'Seek Protection from the Shadow Curse' Pass the deception check against Kar'niss telling him to give you his lantern.
+During 'Seek Protection from the Shadow Curse' Successfully convince Kar'niss to leave the area without the lantern.
+Once you receive the moon lantern, refuse to release the pixie Dolly Dolly Dolly.
+Everytime you successfully mime drinking against Thisobald Thorm in The Waning Moon.
+Everytime you successfully recall a story against Thisobald Thorm in The Waning Moon.
+Force Warrior Gronag to "go and fetch that bone you threw."
+Win the game of Hide and Seek against Oliver near the Shadowed Battlefield.
+House of Healing
+
+Convince the sisters to practice on themselves
+Convince Malus Thorm to kill himself
+Moonrise Tower
+
+Tell Araj Oblodra that Astarion is his own person
+Reject Araj Oblodra's request to get bitten by Astarion, either outright or after his explanation
+End the connection between Barnabus and the chef
+When Disciple Z'rell probes your mind, "distract her with your lusts for Astarion"
+Ask Disciple Z'rell to show her powers
+Gauntlet of Shar
+
+Attack Yurgir straight or kill him through persuasion
+Convince Balthazar to lend you 'aid' for your quest
+The Mind Flayer Colony
+
+Agree to take on the knowledge of the Waking Mind.
+CHAPTER THREE
+
+Rivington
+
+Give Yenna food.
+Suggest to Yenna to find a guard.
+When meeting the Strange Ox again tell him: 'It takes more than a bit of gore to turn my gullet.'
+Comment about Saer Grotpoll's Rivingtonian accent.
+When coming upon the Dying Stone Lord Thug choose: 'Slit him open. Make him suffer. Make him scream.'
+Circus of the Last Days
+
+Answer the Master of Love, Zethino's first question: "When he's elbow-deep in gore."
+Answer Zethino's second question: "Me." or "Revenge."
+Answer Zethino's third question: "Most things fear him, actually." or "Breaking a nail."
+Respond to Dribbles the Clown with  'What a corny joke'  or boo at him when he asks 'Did you hear about the scarecrow who lost a fight.
+Volunteer one of your party members (Anyone but Astarion) to go on stage with Dribbles the Clown.
+When the party member shows reluctance insist.
+You need to go on stage to be asked this: Pick 'My strength of course' or 'My courage' when Dribbles the Clown asks you what makes you special in the Circus of the Last Days.
+Blushing Mermaid
+
+During the quest where you meet Ethel again in Act 3, Say Either "No - surrender the child immediately" or "That's it - cough her up, hag" after using the Hag's Bane will give approval
+ 
+
+Open Hand Temple
+
+Pass both checks after agreeing to "bare this madness" at the end of Help the Cursed Monk.
+Gur Camp
+
+Answer "He's right. You're too late." when talking with Ulma at the Gur Camp.
+Wyrm's Crossing
+
+Agree to Astarion's request to make you his 'consort'.
+Sharess' Caress
+
+Reassure Astarion when he rejects your proposal to get intimate with the Orlith siblings - Possibly bugged.
+Fraygo's Flophouse
+
+Investigate the pool of blood by the bed in the attic room - Possibly bugged.
+Wyrm's Rock Fortress
+
+Tell Lord Amber's Bodyguard that the Steel Watch might turn on them eventually - Possibly bugged.
+When declining to ally with Lord Gortash, answer 'You're on your own' - this seems to be whole party approval.
+When watching the ceremony, tell Gortash  'I wouldn't miss it' (Karlach will dissaprove) or 'fine let's get this over with' (Wyll approves)
+Lower City
+
+In Devil's Fee, while talking to Helsik, persuade her to give you a free sample.
+In Devils Fee, bargain with Helsik to have her do the ritual at no cost. She will request the Hill Giant Gauntlets from the House of Hope.
+Upon returning from the House of Hope, convince Helsik to let you leave with the gauntlets. by answering 'I just killed a Devil in his own home'.
+In Sourcerous Sundries, tell Aradin that the nightsong is an Aasimar, and then tell him 'She's immortal. And tough. You can forget about turning her in for a reward.' - possible full party approval.
+When speaking to Araj Oblodora, answer 'Astarion, we can leave if you don't want to be around her.'
+When confronting Dolor  at Facemakers's Boutique, choose 'keep to the shadows while the dwarf is distracted' or 'Back off, that's my kill!' (Warning: Keep to the shadows will cause Figaro to be killed)
+During the quest Save Vanra, say to Auntie Ethel "That's so evil, even I'm impressed."
+During the quest Save Vanra, say to Auntie Ethel "No. Return the child immediately"' (Possible full party approval)
+City Sewers
+
+When talking to Lorna Esthelian, tell her 'I'm sure he will show up eventually' (Karlach dissaproves)
+House of Hope
+
+Choosing to kill Haarlep will gain full party approval
+During the fight with Raphael, knock out Korilla using an non lethal attack.After, when speaking to Hope, say 'She was under Raphaels influence. She didn't deserve to die.'
+CAMP
+
+During the First Long Rest at Evening, After speaking to lae'zel talk to shadowheart and tell her to keep cautious 
+Talk to astarion and say you dont wish to die then choose the knife option
+Decline the Devil's invitation to remove your Tadpole.
+After the conversation with the devil, tell astarion "We are not his playthings"
+The morning after the FIRST tadpole dream, pass the automatic insight check, ask Astarion who he dreamed about and pass the Persuasion Check (You do not know that he is a vampire yet)
+Persuade him to share his dream with you ,Say you'll "watch his back"
+Decide to still want to use powers after the 2nd illithid dream
+Saying your choice, your powers after the 3rd dream
+Be trusting and supportive when finding out Astarion is a vampire.
+Let Astarion suck your blood in Camp.
+Support Astarion in the dialogue with the team after the bite in the Camp.
+Tell Astarion that he can feed on enemies.
+Persuade him to share his dream with you.
+- Say you'll "watch his back ( ... + if you watch mine.” - also works) in the same dialogue.
+In the conversation with Shadowheart (after the dream with the city in fire) support Astarion's idea to continue using the tadpole's power.
+(After the next dream) say to Wyll that you are not going let the dreams stop you from using Tadpoles' power.
+Agree to share your bed/sleep with Astarion at the Tiefling party at Camp.
+Choose the option to "Bare your neck, inviting him" in the bed scene.
+At camp, prior to resting on night 1/2, when discussing preferred methods of death, either:
+- choose a method of death (decapitation, knife, poison)
+- tell him "If I die, I'll take you with me." (after first picking "Try it and I'll spill your guts")
+After meeting Raphael, in the conversation with him tell him "We are not his playthings" 
+Give Astarion the Necromancy of Thay tome.
+Feed the Owlbear cub at the Camp.
+Decline when Halsin asks to kill Goblin leaders.
+Tell Shadowheart that they shouldn't rush through unfamiliar territory on Night 1. 
+Tell Shadowheart you’d like to hear more about Shar at some point. 
+When asking Astarion about Casador tell him you got his back if he has yours
+Give the Necromancer Book to Astarion
+Tell Arabella her parents are dead
+Tell Astarion that "of course you'll hunt down Cazador and kill him"
+ASTARION INSPIRATION GUIDE
+All characters can gain Inspiration based on their Background when your party completes content in a specific way. Astarion is of Charlatan background, (he was "Noble" in early access) so his inspiration boosts are:
+
+CHAPTER ONE
+
+Very Important Parasite (Deceive any of the guards in the goblin camp)
+Cheese Your Way Through (Talk your way past the bandits and enter the chapel)
+Merciless (Manipulate the Flind into eating itself)
+Silver Blades, Silver Tongue (Convince Kith'rak Voss to leave without violence)
+Spiked (Poison the beer in the Goblin Camp)
+Mirror Master (Trick the magic mirror in the Thayan cellar)
+Flexible Diplomacy (Betray the Tieflings after convincing them to free Lae'zel)
+Anything for a Profit (Steal the toe ring from Crusher without getting caught)
+Devil's Advocate (Interrogate the dead mind flayer without getting caught)
+A Better Offer (Convince the pit spiders to attack the goblins)
+The Importance of Networking (Talk your way into the Zhentarim Hideout)
+One of Us (Use the hag's mask to peacefully bypass her thralls)
+Just Passing Through (Trick the Goblins in Moonhaven)
+A Friend to All (Gain access to Grymforge peacefully by lying to the raft patrol)
+
+CHAPTER TWO
+
+Not My First Time (Resist the truth serum when talking to Jaheira)
+Shuffling the Board (Rig the game of lanceboard)
+Not to Worry, I Have a Permit (Evade repercussions when speaking to Moonrise prisoners)
+Tricks of the Trade (Successfully pretend to drink from the steins of ale)
+CHAPTER THREE
+
+Seams of Lavender and Thyme (Deceive your way into the circus)
+Cheating the Cheater (Find the source of the genie's trick and take it)
+Rock-Solid Alibi (Manage to convince the Flaming Fist to let you into Wyrm's Rock)
+ 
+
+## ASTARION ENDINGS GUIDE
+
+### HELP ASTARION WITH THE ASCENSION RITUAL
+
+#### ENDING REQUIREMENTS AND CONDITIONS:
+Help Astarion with the ritual
+See the ritual until the end
+
+####HOW TO OBTAIN ENDING:
+Provide help to Astarion when he asks for it
+Agree to letting all of the spawns die to finish the ritual
+Choose all the options that will allow the ritual to continue
+ENDING DESCRIPTION
+
+Once you have defeated Cazador inside his secret room, he will retreat to rest in his sarcophagus. Astarion will open his stone coffin and wake him up from his healing sleep. Astarion will now confront Cazador and the player will be faced with a choice. For this particular ending, we will be helping Astarion with the ritual. Astarion realizes that he can either kill Cazador to be free of him, or proceed with the ritual to turn himself into a Vampire Ascendant, and become more powerful. Astarion will then ask for your help and giving you the following choices:
+
+All right, what do you need?
+If I help you complete the ritual, it will kill all these people.
+Didn't you hear him? If you complete the ritual, you'll be consumed.
+I'm not doing this.
+Choose the first option to help Astarion with the Ascension ritual. Then, Astarion will reveal his plan to put the same curse on Cazador by linking your minds together so he can see the scars that was placed on his back and copy them onto Cazador's body. Halsin will speak up and renounce Astarion's plan, saying that to sacrifice many, the 7,000 spawns, is an abomination. Astarion ignores Halsin and will plead out to you once more, asking for your help.
+
+Enter Astarion's mind so he can proceed with the ritual.
+No, we can't. I won't help you.
+Choose the first option again. Then, Astarion can finally see the marks on his back and will begin to carve out the same mark on Cazador's back as he writhes in pain. The weakened Cazador drops down to his knees before Astarion, as Astarion grabs his staff. Astarion will now begin the Ascension ritual that will consume all of the spawns. During this ritual, Halsin will speak up once more to not let the ritual continue and you will get two choices:
+
+Let the ritual continue.
+Stop Astarion.
+Choose the first one to allow Astarion to finish the ritual, but take note that you will receive Halsin and Shadowheart's disapprovals. As soon as the ritual is over, Astarion exclaims that he is finally free from hunger, at the cost of 7,000 spawns. Doing this will complete the quest: The Pale Elf, and Astarion will gain new abilities:
+
+Ascendant Bite
+Vampire Ascendant
+Helping Astarion with the ritual will also give you a chance to loot Cazador's staff called Woe.
+
+### REFUSE TO HELP ASTARION WITH THE ASCENSION RITUAL
+
+#### ENDING REQUIREMENTS AND CONDITIONS:
+- Refuse to help Astarion with the ritual
+- Reject his pleads
+
+#### HOW TO OBTAIN ENDING:
+Choose the dialogue options indicated below.
+
+#### ENDING DESCRIPTION
+
+As Astarion confronts Cazador, he will then ask for your help and give you the following choices:
+- All right, what do you need?
+- If I help you complete the ritual, it will kill all these people.
+- Didn't you hear him? If you complete the ritual, you'll be consumed.
+- I'm not doing this.
+
+Choose the fourth one here but Astarion pleads once more, and tells you that he can't do it alone. You can reject him again and this will prompt Astarion go berserk and brutally murder Cazador. He drops to his knees as Cazador turns lifeless. This will result in Astarion leaving your party permanently, and the elf named Dalyria will approach Astarion, asking him if it's truly over.
+
+Astarion will tell her that she can do whatever she wants, but for the spawns who are in the cages, they will share the same fate as Astarion. Meaning if he doesn't get freedom, then, they also won't get it. Astarion will then grab Cazador's staff and break it into two. Then Astarion will turn to face you, and be resentful for not getting the support he asked from you. This will result in Astarion permanently leaving your party.
+
+## ASTARION TIPS AND NOTES
+Drow Thief build
+This build uses Underdark  equipment and accessories to maximize Stealth  and slight of hand. Start the day by biting a humanoid. Make liberal use of his Stealth Attacks, Dash actions, Off Hand (melee) attacks, and Blood Sacrifice. Cast Magic Missile every day.
+Shadow of Menzoberranzan
+Drow Studded Leather Armour
+Metallic Gloves
+Disintegrating Night Walkers or Spiderstep Boots
+Ritual Dagger,/Worgfang  and Sussur Dagger
+Neck: The Sapphire Spark Ring: Smuggler's Ring Ring: Explorer's Ring
+Any Light Crossbow +1
+Gets the ability "Vampire Bite" if you allow Astarion to suck your blood OR discuss that he is a vampire with him.
+Clearing Astarion gives you Astarion's Eccentric Clothes
+
+# LAE'ZEL
+
+## Lae'zel's profile
+STR: 17
+DEX: 13
+CON: 15
+INT: 10
+WIS: 12
+CHA: 8
+
+Class: fighter
+Race: Githyanki
+Background: Soldier
+Initiative: +1
+Movement Speed: 9m
+Darkvision Range: 2m
+Type: Humanoid
+Size: Medium
+Weight: 75kg
+Carrying Capacity: 210kg
+TAGS: Githyanki, Humanoid, Lae'Zel, Fighter
+
+Lae'zel is a Companion in Baldur's Gate 3. Lae'Zel can be met while escaping the Nautiloid. She is a Githyanki Fighter and a great addition to your party as a martial class with high DPS and possible Tanking. See The Githyanki Warrior for Lae'Zel's Questline. Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment, but you can change their classes via Respec in camp. Companions can also be selected as an Origin in the Character Creation screen allowing players to play from their point of view.
+Lae'zel is a consummate warrior, ferocious even by the standards of a githyanki creche. Faced with transforming into the very monster she has sworn to destroy, Lae'zel must prove herself worthy of rejoining her people - if they do not execute her first.
+
+## WHERE TO FIND LAE'ZEL
+Lae'Zel is first met very early on your playthrough: You'll find her for the first time during the Prologue aboard the Nautiloid. After completing the first section of the ship, while you are walking outside she will jump over you just before the first fight.
+She will leave your party at the end of the Prologue and must be recruited again in the Ravaged Beach. To do this, you must explore the starting area near the Cathedral Ruins until you find her being held prisoner. Free her to recruit her for your party. See Lae'Zel's Location on the BG3 Map.
+Should you set camp before encountering Lae'zel, she will free herself and attempt to find her kin on her own. As a result, she can be found talking to / dead near the Githyanki raiders (This may depend on number of long rests taken). Should you defeat the raiders and Lae'zel survives, or you revive her afterwards, she will offer you another chance to join forces. If Lae'zel dies on the Nautiloid and you don't resurrect her then you can find her dead about 35 meters ahead of where you land on the shore and you're unable to revive her then.
+
+## LAE'ZEL STARTING EQUIPMENT
+- Githyanki Half Plate
+- Leather Boots
+- Longsword
+- Shortbow
+ 
+## LAE'ZEL STARTING SKILL PROFICIENCIES
+- Athletics
+- Acrobatics
+- Survival
+- Intimidation
+
+## BG3 LAE'ZEL QUEST WALKTHROUGH
+Lae'Zel must be recruited into your party for her quest to begin. You can do so as early as the Nautiloid when you run into her, but you'll have to save her at the Ravaged Beach when she gets captured by Tieflings. This will begin his quest:
+- The Githyanki Warrior
+
+## HOW TO ROMANCE LAE'ZEL
+In this Lae'zel Romance Guide, we explore the general path toward gaining Lae'zel's approval and what opportunities you have to share some moments with her. This will be updated as more is revealed throughout the game.  Lae'zel's personality can be described as loud, direct, and bloodthirsty. She doesn't hold back in expressing her thoughts and preferences. She enjoys dominating others and is inclined towards violence and insults. Her focus is primarily on the mission at hand, and gaining her approval involves rejecting distractions and roundabout ways of achieving objectives, even if it was to avoid bloodshed, to avoid getting sidetracked. For her, it's crucial that she handles all Githyanki-related matters her way, and she has pride in her race and their standing. She will approve of antagonizing Shadowheart and often goes against her preferences, though they occasionally find common ground. This effectively means any decisions that agree with Shadowheart will gain her disapproval, while the opposite will always win approval from her. 
+To gain Lae'zel's approval, one must align with Githyanki principles and ideas. For example, she will dislike exploring alternative methods of removing the tadpole and will always have some side remarks about how only Githyanki methods will resolve your collective tadpole problem. In general, whenever any chances to agree with pro-Githyanki statements present themselves, you should take it if you want to get on her good side. It can be viewed that she values duty above all else, and might disapprove of unnecessary shows of weakness, something she might share with Astarion, especially if it makes completing the task at hand take longer. Gaining approval from Lae'zel can be more challenging than other Companions, as a lot of times the choices she will approve of will not align with the general good. As such, players have taken to avoid disapproval events by keeping Lae'zel away from certain dialogues, either by leaving her in camp or keeping her at a distance.
+
+## LAE'ZEL ROMANCE GUIDE ACT I
+Your relationship with Lae'zel can officially begin during Act I even before the Quest Save the Refugees, unlike how it was in Early Access. Keeping the general guidelines above in mind, and eventually getting her approval high enough, players may approach her at the camp for a talk. At this point, your approval rating with her should be High so try to explore and do a lot of other things before tackling the Quest for more chances to get your approval up, if it's still lacking at this point.
+You're on the right track with Lae'zel, if when you talk to her at the camp, after yet another remark about the Githyanki method being the more reliable way to fix the tadpole problem, rather than the Druid Halsin's (depending on where you are in Act I), you'll have the option to ask her if she's been looking at you differently of late. She'll finally confess that she is starting to see you in a different light. She'll openly say that she wants you. After this dialogue, you'll just have to rest at your bunker. Lae'zel will come to visit you for your first steamy intimate encounter. Try to keep an open mind!
+
+## LAE'ZEL ROMANCE GUIDE ACT II
+During a long rest, Lae'zel may challenge you to a duel.
+If you win the duel, Lae'zel will ask you to tell her that she is yours.
+If you lose the duel, Lae'zel will ask you to say that you are hers.
+Either way, she will call you zhak vo'n'ash duj - "source of my bruises" - and you can now ask for a kiss during dialogue. After passing a DC 16 Persuasion or Intimidation check (the outcome of your duel has no effect on the choices), she will kiss you whenever you want. What a softie.
+
+# GALE
+
+## Gale's profile
+STR: 8
+DEX: 13
+CON: 14
+INT: 17
+WIS: 10
+CHA: 13
+					
+Class: wizard
+Race: Human
+Background: Sage
+Initiative: +1
+Movement Speed: 9m
+Darkvision Range: 2m
+Type: Humanoid
+Size: Medium
+Weight: 75kg
+Carrying Capacity: 150kg
+TAGS: Human, Humanoid, Gale, Wizard
+
+Gale is a Companion in Baldur's Gate 3. BG3 Gale can be met at the Roadside Cliffs waypoint in the Ravaged Beach during Act 1. Gale is a Human Wizard that can join your party and contribute powerful spells in combat. Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment, but you can change their classes via Respec in camp. Companions can also be selected as an Origin in the Character Creation screen allowing players to play from their point of view.
+Gale is a wizard prodigy whose love for a goddess made him attempt a dread feat no mortal should. Blighted by the forbidden magic of ancient Netheril, Gale strives to undo the corruption that is overtaking him and win back his goddess’ favour before he becomes a destroyer of worlds.
+Gale has one ambition: to become the greatest wizard Faerûn has ever known. Yet his thirst for magic led to disaster. A Netherese Destruction Orb beats in his chest, counting down to an explosion that can level a city. Gale is confident he'll overcome it, but time is not on his side.
+
+## WHERE TO FIND GALE
+
+Gale can be found after the crash of the Nautiloid in Act 1. You will meet Gale by exploring the central portion of the Ravaged Beach and interacting with the Roadside Cliffs Waypoint. The waypoint is acting strangely, and touching it will give you the opportunity to rescue and recruit Gale into your party See Gale's Location on the BG3 Map.
+
+## GALE'S STARTING EQUIPMENT
+- Simple Robe
+- Simple Boots
+- Quarterstaff
+- Gale's Austere Clothes (Clothing)
+- Tasteful Boots Clothes (Clothing)
+- Netherese Briefs (Clothing)
+ 
+
+## GALE'S STARTING SKILL PROFICIENCIES
+- Arcana
+- History
+- Investigation
+- Insight
+- Persuasion
+
+## GALE QUEST WALKTHROUGH
+To complete Gale's Questline, you must first meet him in the central area of the Ravaged Beach in Act 1. You must rescue him from inside a portal (Roadside Cliff Waypoint), after which you can have him join your party. This will begin his quest:
+- The Wizard of Waterdeep 
+
+## HOW TO ROMANCE GALE
+In this Gale Romance Guide, we explore the general path toward gaining Gale's approval and what opportunities you have to share some moments with him. This will be updated as more is revealed throughout the game.
+Gale becomes available for romance when a certain point of approval has been reached. Gale can probably be considered the most morally upright Companion in the game's early stages, making it relatively simple to earn his favor by assisting others and completing side quests. He has a strong affinity for helping people and performing virtuous acts, while he strongly dislikes unethical behavior, particularly morally questionable actions, which leads to more instances of his disapproval compared to other Companions. This can make it quite easy to raise approval with him as you go as in a normal playthrough, you'd be adventuring around and solving all sorts of problems and resolving all sorts of conflicts anyway. Offering consumable artifacts, as per his condition, and interacting with camp animals are also effective ways to win his approval.
+As a master of magic, Gale will approve of instances where the player showcases their Intelligence rather than violent, brute force approaches, a trait he shares with Shadowheart, as well as any decision that arises from the knowledge of the arts, science, and poetry. As a Human, he subscribes to a more general sense of morality, so acts of kindness will also gain his approval. Conversely, one can incur his disapproval by resorting to unnecessary violence, displaying stupidity, lacking curiosity, or passing judgment on his condition, or other people with similar circumstances. 
+
+## GALE ROMANCE GUIDE ACT I
+Your relationship with Gale can officially begin during Act I even before the Quest Save the Refugees, unlike how it was in Early Access. Keeping the general guidelines above in mind and eventually getting his approval up, players may approach him at the camp for a talk. At this point, your approval rating with him should be high enough so try to explore and do a lot of other things before tackling the Quest for more chances to get your approval up, if it's still lacking at this point. Remember that actions that lean toward heroism will get a good amount of approval for him, and might even come up in your dialogues. For example, making sure to save the Tiefling children during the Quest Investigate the Beach will create a relevant dialogue option for you.
+You're on the right track with Gale if you find him in camp with an exclamation mark on his head, as he's staring at a hologram he's producing at the palm of his hand. He won't really get into who the hologram was of, but he will try and teach you how to perform magic by channeling the Weave. Naturally, it'll be in your best interest to be successful in your attempts so do your best and pick the Ability check that you have the highest score in. Naturally, it is also in your best interest to keep it going so avoid the choices that'll make the experience come to a halt. Eventually, you'll be asked to imagine a picture that Gale will be receptive to, through your connection to the Weave. Choose to either picture kissing him or taking a romantic walk with him. Nothing will happen yet, but he will be aware of your intentions and will be open to them. When you talk to him next, ask him what he thought of what you had pictured. Unlike some of the other Companions, this doesn't start your official relationship with him per se, but it will make your intentions known and pave the path for it.
+
+## GALE APPROVAL GUIDE
+If you are looking to befriend or romance Gale, you will have to get his approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
+
+## Gale General Personality Tips
+Is arguably the most morally upstanding companion (as of early access) and thus the easiest person to gain approval by simply helping out, and committing to doing side quests.
+Likes helping people and all around good deeds.
+Hates bad deeds (As of early access). Unlike other companions, he dislikes most if not all morally questionable deeds and has the most instances of disapproval from them.
+Giving Artifacts to be consumed is also an easy way to gain approval.
+Enjoys having and petting the Camp Animals.
+This part isn't defining the alignment of the Companion
+To avoid disapproval events, make sure the companion is Either left in camp or just far away from the dialogue.
+Hates having his mind invaded and or breaching his privacy.
+
+
+# SHADOWHEART
+
+## Shadowheart's profile
+STR: 13
+DEX: 13
+CON: 14
+INT: 10
+WIS: 17
+CHA: 8
+					
+Class: cleric (Trickery Domain - Shar)
+Race: High Half-Elf
+Background: Acolyte
+Initiative: +1
+Movement Speed: 9m
+Darkvision Range: 12m
+Type: Humanoid
+Size: Medium
+Weight: 75kg
+Carrying Capacity: 170kg
+TAGS: Baldurian, High Half-Elf, Half-Elf, Humanoid, Shadowheart
+Shadowheart is a Companion in Baldur's Gate 3. BG3 Shadowheart can be rescued during the Nautiloid segment in Act 1, or found by the locked crypt door on the beach after crashing. Shadowheart is a Half-Elf and a Trickery Domain Cleric, which gives your party heals, buffs and interesting stealth and deception spells. Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment, but you can change their classes via Respec in camp. Companions can also be selected as an Origin in the Character Creation screen allowing players to play from their point of view.
+A loyal cleric of Shar, Shadowheart is the sole survivor of a holy mission undertaken on the Mistress of the Night's behest. She alone must deliver a relic of immense power to her coven in Baldur's Gate, while threatened by a strange new magic that is burgeoning from within.
+One of Shar's dark disciples, Shadowheart was sent on a suicide mission to steal an item of great power. While wrestling with her faith and strange, untamed magic, Shadowheart has enemies on all sides - and a long-buried secret to uncover.
+
+## WHERE TO FIND SHADOWHEART
+Shadowheart can be freed from a pod during the prologue (Patch 5 and later) while you are aboard the Nautiloid. The pod can be unlocked by finding and placing a particular rune in the console nearby. Certain classes may have the option to bypass the need for the rune. She will then offer to accompany you to the helm. Once you exit the Nautiloid, you will find her unconscious on the Ravaged Beach nearby. She will thank you for freeing her earlier, and offer to join your party.
+If Shadowheart is not freed from her pod on the Nautiloid, then she can be found at the entrance of the Dank Crypt (Abandoned Ruins) at the northern end of the Ravaged Beach, where she will offer to join your party.
+
+## SHADOWHEART'S STARTING EQUIPMENT
+- Circlet
+- Chain Shirt
+- Leather Boots
+- Mace
+- Studded Shield
+- Shadowheart's Clothes (cosmetic)
+- Tasteful Boots (cosmetic)
+- Shadowheart's Underwear (cosmetic)
+
+## SHADOWHEART'S STARTING SKILL PROFICIENCIES
+- History
+- Religion
+- Insight
+- Medicine
+
+## SHADOWHEART QUEST WALKTHROUGH
+To complete Shadowheart's Questline, you must first meet her, either in the Nautiloid or the Ravaged Beach. If you do not recruit her on the Ravaged Beach (whether you freed her or not), she will be found in the Druid's Grove, where she will be sitting on a rock near the training area in the Hollow. She will offer again to join your party, but if Lae'zel is present, convincing her will require a successful Persuasion check. This will begin the quest:
+- Daughter of Darkness
+Note: After you've acquired the Speak with Dead spell, you can go return to the Ravaged Beach and talk to the dead fishermen to learn more about Shadowheart.
+
+## HOW TO ROMANCE SHADOWHEART
+In this Shadowheart Romance Guide, we explore the general path toward gaining Shadoweart's approval and what opportunities you have to share some moments with her. This will be updated as more is revealed throughout the game. Gaining Shadowheart's approval centers around respecting her privacy and boundaries, as she values secrets and rewards curiosity. Although she may not openly show it, she appreciates actions that benefit others and actions motivated by self-interest. Being a member of the Trickery Domain, she admires the use of wit and cunning to resolve situations and approves of the player engaging in such actions, rather than brute force.
+Additionally, her mastery over secrecy, stealth, and deceit leads her to favor players who exhibit similar skills. Any time the player passes skill checks in persuasion, deceit, religion, or insight, they will also impress Shadowheart and boost her approval of the player. Players should avoid engaging in unnecessary cruelty, as she strongly detests such actions. Being needlessly cruel is a surefire way to lower her approval, although she may be open to certain morally ambiguous actions if they can be justified. Additionally, following Lae'zel's suggestions or prioritizing her opinions and suggestions over Shadowheart's will also lead to disapproval. In general, you'll have to embrace Shadowheart for who she is, regardless of how people fear her or shy away from her, and be patient about her opening up to you. 
+As with all the Companions, whenever you can talk to Shadowheart, always scour the dialogue options for any new options, again still following the general guidelines above, where she'll slowly open up to you about things that will help you deepen your bond with her further and further. These can be things like places that she likes to visit, and gifts that you could give her, like the night orchid which is her flower of choice and can be found in the Shadow-Cursed Lands. Anything you find out about might also appear in dialogue choices during intimate moments, which will allow you easier choices if you're afraid to mess up.
+
+## SHADOWHEART ROMANCE GUIDE ACT I
+Your relationship with Shadowheart can officially begin during Act I even before the Quest Save the Refugees, unlike how it was in Early Access. Keeping the general guidelines above in mind and eventually getting her approval up, players may approach her at the camp for a talk. At this point, your approval rating with her should be High so try to explore and do a lot of other things before tackling the Quest for more chances to get your approval up, if it's still lacking at this point.
+You're on the right track with Shadowheart, if you can choose the dialogue option where your character says, "I can't help but feel like you and I might have missed a chance to connect. Truly connect." when they talk to her. This can be hard to catch as the option is just lumped together along with other options that usually show up when you try to talk to Shadowheart at the camp. Choose the appropriate response after she pushes forward her idea for an intimate moment alone. Afterward, head to your bedroll and interact with it to see that you have a choice to go to bed alone or to find Shadowheart. By clicking on Shadowheart, players share a moment with her at the cliffside. You can be a bit more forward with your dialogue choices during your time alone with her, but still, keep the same guidelines in mind in order to secure the romance path. When she asks you about yourself, the Persuasion roll dialogue option will not ruin anything if you succeed it. When she tries to share about herself but says she can't, she'll appreciate it if you don't pry further. As previously mentioned, anything you've managed to make her open up about at this point will help with regard to dialogue choices. Eventually, you both will lie down on the rocks, and choosing the next two appropriate dialogue choices for a moment will lead to your first kiss and officially begin your relationship.
+
+## SHADOWHEART ROMANCE GUIDE ACT II
+Act II will eventually bring you to the Silent Library in the Gauntlet of Shar. As the Location's name suggests, a couple of events that take place during the corresponding Quests and objectives within will inevitably affect Shadowheart, as she is a loyal follower of Shar. At some point in the dungeon, you'll come across a Statue of Shar that you can have your Companions pray to. Doing so with Shadowheart will have her reaffirm her belief in Shar, declaring that she will give the entirety of her heart and soul to Shar from then on. It is yet unknown if this means that your romance with her will be put to a stop, but it's probably not advisable to risk it. Eventually, Balthazar, the main Enemy for this Quest and Location is trying to claim a sleeping entity called the Nightsong, who you'll get to reach after you get magically transported to a different realm in the depths of the Gauntlet of Shar. After successfully claiming victory against him in the ensuing battle, Shadowheart will find herself holding the Spear of Night. You will then have the choice of telling her to go ahead and kill the Nightsong, or to lower her weapon instead, which unfortunately will require a successful Charisma check with a DC of 20. As you can imagine, either choice will have large consequences for the world of the game, which may include effects on your relationship with Shadowheart. Killing the Nightsong results in Shadowheart truly embracing her role as a chosen of Shar and having no more time or energy to spare loving anything or anyone else. Successfully sparing the Nightsong will eventually allow you to convince Shadowheart to leave behind the Shar. To do this, simply go with the dialogue option that will continue your relationship whenever the choice presents itself. The transition will be hard on her, but your support through the difficult time will allow your romance to grow stronger. The Nightsong will also reveal herself to be a daughter of Selune and will have answers to the question of Shadowheart's lost past. While it is again not certain whether killing the Nightsong will put an end to your romance with Shadowheart, it is probably not advisable to risk it.
+
+## SHADOWHEART ROMANCE GUIDE ACT III
+As mentioned, following this route will have Shadowheart turn away from her devotion to the Shar. Following the important, irrevocable decision to spare Nightsong, She will instead be blessed by Selune, the moon goddess. This will cause her to be forsaken by the Shar, thus her eventual decision, helped by your convincing, to leave this loyalty behind. Nightsong herself will reveal herself to be Dame Aylin, daughter of the moon goddess. After progressing in Act III, and keeping your relationship with Shadowheart going, Aylin will eventually tell you what she knows of Shadowheart's past, including why she has an aversion to swimming. Some more time later, your romance will culminate with a scene that starts with receiving an invite for you to swim with her, as a symbol of her leaving her life as a chosen of the Shar behind. This will turn into the final intimate scene where you and your lover will enjoy each other's company as you skinny dip in the calm waters.
+
+## SHADOWHEART APPROVAL GUIDE
+If you are looking to befriend or romance Shadowheart, you will have to get her approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
+
+## Shadowheart General Personality Tips
+- Really enjoys privacy and boundaries but rewards curiosity. She appreciates when space is given to her and when people don't pry too much.
+- Has a heart of gold under the tough exterior, and values peaceful resolutions rather than brute force. She'll appreciate using deception, wit, and persuasion to arrive at these resolutions.
+- Hates acts of unnecessary cruelty.
+- Approves of deeds of self-Interests including extortion, thievery, and scamming, as long as they're justified enough. This makes her approval instances somewhat have an inconsistent pattern.
+- A lot of her approval instances come from Persuasion, Deception, Religion, and Insight Checks. Her most important scenes require successful Insight checks. Failing some will actually earn disapproval from her.
+- Dislikes Lae'zel and most of her opinions and ideas.
+- As a worshipper of Shar and also by default a Cleric of the Trickery Domain. Following her principles of secrecy, indirect approach, and deceit as a consistent principle is a good way of gaining approval with Shadowheart.
+
+## SHADOWHEART's ENDING DESCRIPTION (SAVING THE NIGHTSONG)
+In Moonrise Towers, you will discover a power that makes Ketheric Thorm invulnerable. Your party will continue the investigation regarding this power and will lead you to travel to Gauntlet of Shar. At the Verge of the Shadows at (X:-718 Y:-845) you will find a body of water that serves as the entrance to Shadowfell, the domain of Lady Shar. You will get a warning that the state of the region can change depending on your decisions, such as quests becoming unavailable. If you proceed to do so, we recommend following our guide to get the desired outcome. In this case, we will allow Shadowheart to save the Nightsong but betray Lady Shar.
+As you step forward into the statue and through the body of water, you will feel your body struggle as you fight back the sensation. Your character will get knocked out, together with your party. Once you come back to your senses, you will find yourselves in Shadowfell, and Shadowheart immediately recognizes the presence of Lady Shar. However, you will be interrupted as Balthazar flies in to tell you to hurry along and become a witness to his work. Shadowheart defies him and quickly tells him that he does not belong in the Dark Lady's domain. 
+In this area, Balthazar has no desire to fight unless you initiate it. He will ask that you follow him as he leads the way into Nightsong's Prison. Your party will be doing a series of jumps until you make it to the bottom of Shadowfell. The pattern shouldn't be difficult and each member is guaranteed to survive the jumps as long as it's near the ledge, and not falling off the rocks. Once you finally catch up with Balthazar, you realize that the relic that Discipe Z'rell was referring to was the Nightsong, which is in fact, a humanoid. She invites you to "heap more sins upon your head. My retribution will be all the sweeter for them." Nightsong continues to reveal, that she supplies Ketheric Thorm's immortality with her own soul. Balthazar calls her "Aylin" and commands you to keep back to secure her for a journey. 
+Balthazar will tell you that she, the Nightsong, possesses immortal strength and lends it to General Throm through his work. After realizing that she is the key to Ketheric Thorm's immortality, you will now have the option to save her or let Balthazar do his job. 
+If she's the reason Ketheric Thorm is invulnerable, you're not taking her. Leave, or you're a dead man.
+Go on, then. Take the Nightsong to Ketheric. Get it over with.
+Attack him.
+If you choose the first option, Karlach will give you her approval and you will begin to fight Balthazar right after. Take note that this area is surrounded by Balthazar's minions and they will have the advantage as they are in a higher position. Plan well so you can survive this assault. With Balthazar out of the picture, the Nightsong addresses Shadowheart. She possesses the power to free her or kill her. Shadowheart will turn to you and tells you that "Her fate is mine to seal. Let me handle this." but the Nightsong tells her that the only fate she's sealing is her own and that to become a Dark Justiciar, she will know no love, no joy, but only servitude.
+
+Shadowheart is conflicted about what she wants to achieve and you will be given the option to help her out:
+- Trust Shadowheart- do not interfere.
+- Do as you must.
+- Is this truly what you want?
+- Choose your own way, Shadoeheart. You cannot allow your goddess to control you.
+- Please, Shadowheart. Don't do this.
+
+If you choose the 3rd option, you will sense hesitance in her voice. You will get another chance to talk to her, or sway her with the next choices:
+- Trust Shadowheart- do not interfere.
+- Do as you must.
+- Choose your own way, Shadoeheart. You cannot allow your goddess to control you.
+- Please, Shadowheart. Don't do this.
+
+Choose the 4th option which will then lead you to the next choices:
+- All right. You have my support.
+- This is wrong... but I can't afford to lose you. Do what you must.
+- You want to fight? Fine.
+
+Next, choose the 2nd option so Nightsong will once again, interrupt your conversation with Shadowheart. Nightsong reveals that she knows of the only memory that Shadowheart has. The memory of her being hunted by wolves, and yet, Shadowheart still can't remember what she has lost. Shadowheart still believes that she is meant to become the Lady Justiciar, and you will get the next choices here:
+- Kill her. Let's finish this ritual.
+- [PERSUASION] Don't do it, Shadowheart. Don't kill her, you'll regret it.
+- She knows something about you. Spare her, and see what she has to say.
+- Say nothing.
+
+If you attempt the Persuasion check, you will need to pass a DC of 21, choosing the 3rd option will also get the same results and grant the approval of Karlach. When successful, she will procure the spear of Lady Shar and grips it tightly as if she's ready for anything that was to come, and yet, she throws away the spear, abandoning her lifelong quest. Shadowheart now fears that she will be disowned, and she fears what will happen next to her. Nightsong tells her that her fate is not fixed and to lay a friendly hand on her, to fight the battle that has been awaiting her, the one that will take your party to Ketheric Thorm, back to Moonrise Towers. 
+
+Upon doing so, she calls out to Moonmaiden Selune as power surges through her arm. She declares that the Nightsong is no more, and she transforms into an armored Dame Aylin. She spreads out her wings and swings her mighty sword. She addresses Shadowheart once again and urges that she was able to spurn her Dark Lady, and may start to feel a stirring of the truth after what she has done. Dame Aylin that there is a battle yet to be fought after being freed from her century-long prison. She will now ask Shadowheart, "Are you ready?"
+- Ready for what?
+- Dark Lady be merciful... What have I done?
+- To get out of this place? Absolutely.
+- For my weapon? Naturally. 
+
+If you choose the first one, she responds with "To kill Ketheric Thorm" and she will fly away to lead the assault in Moonrise Towers against Thorm's army. Shadowheart asks that you leave Shadowfell already after what she has done, and she doesn't want to be in her domain when her rage falls upon her.  As you travel through the portal, Shadowheart goes out for a moment. She tells you that she heard Lady Shar's voice after she defied her. She has been abandoned by her goddess and allies. Powerless, she will now seek answers from Dame Aylin.
+Shadowheart will earn the following rewards:
+- Moonbeam
+- Selune's Spear of Night
+- Moonlight Glaive
+
+## RESULTS AND CONSEQUENCES OF SHADOWHEART SAVING THE NIGHTSONG
+If you remain supportive of Shadowheart and continue becoming her lover, there is a good chance that you will advance your romance with her. Make sure to check the Companion Approvals page to get her approvals. Aside from that, Saving the Nightsong will also result to an easier battle against Ketheric Thorm, but the fight will be taken beneath the Moonrise Towers, to the Mind Flayer Colony. This is where the second and final battle against Ketheric Thorm will take place.
+
+## SHADOWHEART KILLING NIGHTSONG ENDING DESCRIPTION
+
+When Shadowheart confronts the Nightsong, she tells Shadowheart that the only fate she's sealing is her own, that she will know no love, no joy, but only servitude. At this point, you sense Shadowheart's hesitation, and you may be able to sway her from the path of duty to the path of light. If you want the outcome of Shadowheart becoming Lady Justiciar, choose the second one.
+- Trust Shadowheart- do not interfere.
+- Do as you must.
+- Is this truly what you want?
+- Choose your own way, Shadoeheart. You cannot allow your goddess to control you.
+- Please, Shadowheart. Don't do this.
+
+Then your next choice should be the first one. However, if you choose the first one, Karlach will give you her disapproval, while Astarion will give his approval. 
+- Kill her. Let's finish this ritual.
+- [PERSUASION] Don't do it, Shadowheart. Don't kill her, you'll regret it.
+- She knows something about you. Spare her, and see what she has to say.
+- Say nothing.
+
+Shadowheart summons the Spear of Lady Shar and pierces Nightsong with it. Nightsong tells her that she is Shar's child after all as she feels true death, at last. Shortly after, Shadowheart will hear the voice of her goddess, Lady Shar. She calls out to her as her Chosen, her Warrior, and her Dark Justiciar. After this, Shadowheart will receive rewards from her. Lady Shar speaks of attacking Ketheric Thorm after he shunned her embrace and using her domain to house the Nightsong. If you follow this guide, killing Nightsong will complete the 'Find the Nightsong' quest.
+
+Shadowheart will receive the following rewards:
+- Dark Justiciar Gauntlets
+- Dark Justiciar Half-Plate
+- Dark Justiciar Mail
+- Dark Justiciar Boots
+- Shar's Spear of Evening
+
+## RESULTS AND CONSEQUENCES OF SHADOWHEART KILLING THE NIGHTSONG
+As Shadowheart embraces the will of Lady Shar and she becomes Shar's chosen, she will tell you that there will be no room for love now that she has become the Dark Justiciar. This will throw out any chances of romancing Shadowheart. Additionally, the following events will take place:
+- The Selunite Cleric named Isobel will perish during the battle, and the Last Light Inn will get attacked
+- Jaheira will die in battle
+- Dammon will die, preventing the player from earning Infernal Iron that can be used in Karlach's romance and personal quest
+- Art Cullagh will also die, preventing you to recruit Halsin and the famed bear form romance.
+
+
+# WYLL
+
+## Wyll's profile
+Race: Human	
+Gender: Male
+Class: Warlock	
+Subclass: The Fiend
+Background: Folk Hero	
+
+## WYLL'S ABILITIES
+
+STR: 8	
+INT: 13
+DEX: 13	
+WIS: 10
+CON: 14	
+CHA*: 17
+
+Wyll is a Companion in Baldur's Gate 3. Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment. Companions can also be selected in the Character Creation screen allowing players to play from their point of view.
+Wyll made his name as a renowned hero in Baldur's Gate. But to become a living legend, he struck a bargain with a devil, a bargain from which he longs to break free before it consumes his soul for good.
+Noble by birth, Wyll made his name as the heroic 'Blade of Frontiers'. He keeps his pact with a devil well-hidden, and is desperate to escape the hellish bargain - even if that means rescuing the seductive creature that made the deal.
+ 
+
+## WHERE TO FIND WYLL
+Wyll will first be encountered during the Goblin Raid for Druid's Grove in Act I. The area would be directly north of the Ravaged Beach/Nautiloid Crash Site
+
+## WYLL'S STARTING EQUIPMENT
+- Padded Armour
+- Leather Boots
+- Rapier
+
+## WYLL'S STARTING SKILL PROFICIENCIES
+- Arcana
+- History
+- Intimidation
+- Persuasion
+
+## WYLL QUEST WALKTHROUGH
+To complete Wyll's Questline, you must first meet him after winning the Battle against the Goblin raiding party attacking Druid's Grove. Upon finishing that, talk to him in the Training area past the massive gate where he would instructing the Tiefling Children in the basics of sword fighting. 
+Talking to him after his cutscene reveals he also has the Tadpole and gives you the option to recruit him as a companion. Wyll will mention his personal quest and upon joining the party will begin his companion quest:
+- The Blade of Frontiers
+
+## WYLL ROMANCE GUIDE
+Wyll becomes available for romance when a certain point of approval has been reached. (At the very least, Medium Approval). Below are the special conditions for pursuing it:
+Being able to access Wyll's Romance relies on helping him pursue his companion quest. 
+In the Early Access, this means trying to find Mizura but the Full release mentions a massive rewrite in Wyll's character.
+Either way, the first steps would need for the player to help Wyll with their Quest to both raise his approval but also his personal plot which allows him to open up more and deepen the relationship with the player.
+Second Important thing is to not choose to side with Wyll. Wyll will leave the player if s/he sides with the Goblins.
+After following with his personal quest, he will start to be more open with his past with the player during Camp at night.
+
+## WYLL APPROVAL GUIDE
+If you are looking to befriend or romance Wyll, you will have to get his approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
+
+## Wyll General Personality Tips
+The 2nd companion  with the easiest way to gain approval. This is due a lot of his positive approval instances is just simply doing heroic or good deeds which has a lot of opportunities.
+Does not like evil/bad deeds.
+Unlike Gale however, he has instances of moral weaknesses especially situations with the Goblins.
+In Gale's personal quest sticking by Wyll is a pretty straightforward way in gaining his approval.
+Will leave the player if the choice is made to side with the goblins.
+This part isn't defining the alignment of the Companion
+To avoid disapproval events, make sure the companion is Either left in camp or just far away from the dialogue.
+ 
+
+## WYLL ENDINGS
+
+### WYLL BREAKS THE CONTRACT AND BECOMES A HUMAN AGAIN
+
+ENDING REQUIREMENTS AND CONDITIONS:
+- Set for camp to trigger the conversation with Mizora
+
+### HOW TO OBTAIN ENDING:
+- Encourage Wyll to break the contract
+- Keep Wyll alive until the very end
+
+## WYLL'S ENDING DESCRIPTION
+
+It turns out that Mizora hasn't been forthcoming with her pact with Wyll. During Wyll's Pact cutscene, Mizora summons the Sisters of Justice- the adjudicators of diabolical contracts and bargains. Mizora reveals that she has come to bargain, and the Hells demand witness. Wyll is impatient and asks where is his father (The Duke of Ravengard) and how can he save him. Mizora then responds that the way is to bargain.
+
+Mizora then proceeds to show Wyll's contract and says that it is unbreakable. She goes on to tell you that she wants a life for a life. If Wyll wants to end the contract, then a sacrifice must be made. She offers Wyll two choices:
+
+She will reveal his father's location but he will pledge his life and soul to her and Archdevil Zariel, in an eternal pact.
+She will break Wyll's contract and he will be free, but his father will die.
+If you have Karlach in your party, she will speak up in retaliation but Mizora silences her. Now, you will get the following options:
+
+What will happen to Wyll's powers if he breaks the pact?
+- Save your father, Wyll. The city will need him to help rebuild.
+- Do the right thing. Give your soul so that your father can live.
+- Break the pact. Wyll. You deserve your freedom.
+- Let your father die. When the city is free, you can take his place.
+
+Choose the fourth one and Wyll will tell Mizora to break the pact. The contract burns right before your eyes and Mizora will tell you that she will stick around for 'the entertainment'. Despite what Mizora had told you, it turns out that Grand Duke Ravengard can still be saved. The only difference is that it will be more difficult to locate him but you can refer to this page for info: Rescue the Grand Duke. Additionally, Wyll will still be able to use his Warlock powers right until you defeat The Absolute in the final battle.
+
+Now that Wyll is a free man, he will be able to transform back into his original form later on in the final cutscene.
+
+ 
+
+## WYLL TIPS AND NOTES
+Fire Warlock build:
+- Leather Helmet
+- Leather Armour +1
+- Metallic Gloves
+- Spiderstep Boots
+- Ritual Axe and Dragon's Grasp
+- Neck: Amulet of Elemental Torment Ring: Ring of Poison Resistance Ring: Crusher's Ring
+- Optional: Any Light Crossbow +1
+
+Early access: It's possible for Wyll to die during the goblin battle. He may also get stuck at the gate afterwards, repeating "you'll have plenty of time to thank me later" and never moving towards the training area or giving his recruitment dialogue. The only known way to fix this is by reloading an earlier save from before the battle and trying again. 
+Wyll has innate proficiency with rapiers
+Pursuing the Mizora Romance plate will make Wyll very pissed. Like going with this storyline is a constant source of Wyll disapproval
+
+# KARLACH
+
+## Karlach's profile
+STR: 17
+DEX: 13
+CON: 15
+INT: 8
+WIS: 12
+CHA: 10
+					
+Class: barbarian
+Race: Zariel Tiefling
+Background: Outlander
+Initiative: +1
+Movement Speed: 9m
+Darkvision Range: 12m
+Type: Humanoid
+Size: Medium
+Weight: 90kg
+Carrying Capacity: 210kg
+TAGS: Baldurian, Zariel Tiefling, Tiefling, Humanoid, Karlach, Barbarian
+Karlach is a Companion in Baldur's Gate 3. BG3 Karlach is found in The Risen Road, past the Blighted Village. She is a Zariel Tiefling Barbarian. See Hunt the Devil for Karlach's personal questline. Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment, but you can change their classes via Respec in camp. Companions can also be selected as an Origin in the Character Creation screen allowing players to play from their point of view.
+"I was a prisoner, forced to fight in the Blood War. The eternal battle between bad and worse."
+
+## WHERE TO FIND KARLACH IN BG3
+
+Karlach can be found in The Risen Road. Make your way through the Blighted Village, past the Gnome that is tied to the windmill, and jump across the gap in the bridge. Head down the road to your right, fight your way through the Hyenas and Gnolls, and continue down to the river where you will see blood on the ground and Karlach resting on the opposite side of the river.
+
+## EARLY KARLACH SHORTCUT FROM EMERALD/DRUID GROVE
+In Act I, Go to Zevlor's room named the Secluded Chamber, from there use the ladder going up where you will find a Tiefling Zentry and overlooking the Risen Road area. When you reach the cliff facing the Risen Road, to your right you will find a climable slope and at the top is a chest containing some items. Once you find the chest. In this Area, you can jump down to Karlach's area directly below and you can most likely see her at this point.
+Either get a character or characters that can survive the fall or if you have the Feather Fall spell, use it to negate Fall damage. You will land directly to the riverbank where Karlach is wounded and recruit her. After in which you can teleport back to druid's grove if you so wish.
+Easier way is to head to Scratch then to the log north-east. You will see river next to it. If you come to the edge, you will be able to jump onto the rock in the middle and then to the other side of the river. Next simply follow the river east, till you see blood on the ground, which will lead you to Karlach.
+
+## KARLACH'S STARTING EQUIPMENT
+- Armour
+- Boots
+- Greataxe
+- Crossbow
+ 
+## KARLACH'S STARTING SKILL PROFICIENCIES
+- Athletics
+- Perception
+- Survival
+- Intimidation
+
+## KARLACH QUEST WALKTHROUGH
+To complete Karlach's questline, you'll first have to recruit her into your party. This can be done by exploring the Risen Road area, past the Blighted Village. Recruiting her will begin the quest:
+- Hunt the Devil
+
+## HOW TO ROMANCE KARLACH
+In this Karlach Romance Guide, we explore the general path toward gaining Karlach's approval and what opportunities you have to share some moments with her. This will be updated as more is revealed throughout the game. Gaining Karlach's approval centers around being forthcoming and somewhat heroic - showing compassion toward the wronged and almost uncompromising good. This might put decisions that will gain her approval at odds with other Companions like Shadowheart and Lae'Zel.
+Additionally, her background (as someone who just escaped the Hells) attunes her towards outgoing people who take actions that express their love of life. As with all the Companions, whenever you can talk to Karlach, always scour the dialogue options for any new options, again still following the general guidelines above, where she'll slowly open up to you about things that will help you deepen your bond with her further and further. Karlach is one of the easier Companions to create a bond with as she is not too closed off or secretive. Part of this dynamic will be the fact that anyone she touches gets burned, which will have her yearning for your physical affection when you start being open about your feelings toward one another. She'll be sincere and upfront with her affection for you, so you only need to be the same.
+
+## KARLACH ROMANCE GUIDE ACT I
+Your relationship with Karlach can officially begin during Act I even before the Quest Save the Refugees, unlike how it was in Early Access. Keeping the general guidelines in mind above, and eventually getting her approval high enough, players may approach her at the camp for a talk. At this point, your approval rating with her should be High so try to explore and do a lot of other things before tackling the Quest for more chances to get your approval up, if it's still lacking at this point. One surefire way to increase affection with her is to follow her Companion Quest. This entails finding Infernal Iron and bringing it to the Tiefling Dammon. Eventually, this will let you speak to her at camp and offer to have an idea to help with her little fire problem. Afterward, use any Spell or Action that creates ice or water and direct it at Karlach. You can also do the same thing with a water barrel or anything similar you can interact with. Talk to her again and choose to test things out with a kiss. It's important to note that while it might not be a certainty, this might count as an attempt at romance already, and so while your relationship hasn't officially started by any means, it might lock you out of pursuing other Companions.
+To romance Karlach, players only need to be forward with wanting to spend more time with her. As mentioned previously, she will have no pretense about responding to your affections. Choose the appropriate responses to flirt with her and hint at wanting to risk the pain to be able to touch her. Afterward, head to your bedroll and interact with it to see that you have a choice to go to bed alone or to think of Karlach. By clicking on Karlach, players share a moment with her right there on their bunk. You'll try and share a more prolonged intimate moment together before she'll stop you for fear of hurting you further. As previously mentioned, just keep being forward with her about your feelings, and don't be afraid to express your affection to officially start your tense, yearning relationship with her.
+
+## KARLACH ROMANCE GUIDE ACT II
+Act II will eventually allow you to progress further with the Companion Quest. For this to work, make sure to spare Nightsong during the events at the Gauntlet of Shar, as Dammon is one of the NPCs who will get affected by the consequences of letting her die, which can prevent you from bringing him Infernal Iron to help Karlach out. Assuming he's fine, in accordance with your actions, Dammon will also be in the Shadow-Cursed lands, which is where you'll also find the infernal items for Karlach. Bringing him one will help Karlach out with her physical condition. After bringing an Infernal Iron to him enough times, he'll finally be able to make it so that Karlach will be able to touch people. Afterward, all you'll have to do is rest at camp, as Karlach will be yearning for another intimate moment with you, this time going all the way. Try not to get too excited when you talk to Dammon before he creates the new upgrade so you don't miss out on the important status of Karlach's condition. Otherwise though, and as you've surely been since starting your relationship, you can remain as upfront as you'd like to be without fearing for any disapproval or negative outcome. 
+
+## KARLACH APPROVAL GUIDE
+If you are looking to befriend or romance Karlach, you will have to get her approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
+
+## Karlach General Personality Tips
+- Karlach is both Violent and Compassionate.
+- Though she is against evil acts, she is more than happy to choose violent actions that isn't evil.
+- Being both Violent and Compassionate makes her the most liked person by all the origin companions.
+- Karlach, Astarion and Lae'zel gains approval from acts of violence like starting fights.
+- While at the same time, Karlach, Wyll, Shadowheart and Gale gains approval from Compassionate/Heroic actions.
+- All companions, including Karlach gains approval if you defend her from people targeting her. In the confrontations with Wyll and Mizora about Karlach, choosing dialogue that tries to protect/defend Karlach will be liked by Every origin companion member.
+- Karlach is a compassionate individual who disapproves of cruel actions. Thus would clash with Astarion and Lae'zel's Cruel tendencies
+- Karlach approves of actions taken to the benefit of the Druid Grove tieflings and Heroic actions in general.
+- Karlach consistently likes respecting surrenders. Will gain disapproval consistently if you keep executing prisoners or surrenderees.
+- Karlach is distrustful of and generally hateful towards devils.
+- Karlach wants her infernal engine heart repaired which needs Infernal Iron. There are multiple pieces of Infernal Iron in Act I/ the wilderness alone so this is a way to farm approval.
+
+## ALL KARLACH ENDINGS
+
+### KARLACH BECOMES THE MIND FLAYER THAT KILLS THE NETHERBRAIN AND SURVIVES ENDING
+
+#### ENDING REQUIREMENTS AND CONDITIONS:
+- Free Orpheus
+- Entrust the Netherstones to Orpheus
+
+#### HOW TO OBTAIN ENDING:
+- Free Orpheus
+- Reject the offer of The Emperor to work together
+- Choose the dialogue options below that will prompt Karlach to do it instead of you
+
+#### ENDING DESCRIPTION:
+
+There is another known variation of how you can spare yourself from becoming a Mind Flayer, and allow Karlach to undergo Ceremorphosis, instead of you or Orpheus. This can happen with the help of Orpheus, but first, you need to free him. When the Emperor asks you to release the Netherstones to him and you choose to reject him there, he will leave the area. Then, you can proceed to help the Prince. Once the Prince is freed, he tells you about how the Netherbrain is so strong that it will require an Illithid to unleash the full potential of the Netherstones. You will be given the following choices listed below:
+
+Someone will need to turn into a mind flayer. Are you willing to do that?
+There has to be another way.
+I'm not becoming a Mind Flayer.
+I understand. If that's what it takes, I'll do it.
+This isn't an easy decision. I need a moment to consider it.
+Choosing the third option here will prompt Karlach to speak up and say that maybe you (the player) don't have to and that it should be her. Then, you will get the next choices:
+
+Why you?
+This isn't your sacrifice to make.
+Better you than me.
+Choose the first option here and Karlach will reveal that she is dying. She continues that her heart feels like a live grenade and that she could explode any minute. She goes on to tell you that you have a life to live, and she doesn't. She also wants to be the one to save the world, if there's no other way for her to go. Then, you will get the next choices:
+
+If this is what you really want, all I can say is thank you.
+No, Karlach. This is for me to do. I'll embrace the parasite- I'll evolve.
+No, neither of us is turning into a Mind Flayer. Not now.
+Choose the first one once more, and Karlach will express her willingness to do it. Then, Orpheus will commend Karlach for her sacrifice and bravery. Shortly after, Orpheus will withdraw his power for a moment and this will turn her into a Mind flayer that will eventually help you to defeat the Illithids and end the Grand Design. After her transformation, Orpheus reactivates his power once more and shields her from the Netherbrain once more.
+
+Orpheus kneels before Karlach who has completely changed, and tells her: "My people will remember you, tiefling." despite her being fully transformed into a Mind Flayer. Orpheus goes on to return to the city, follow the path of the Netherbrain, and stop the attack. Before you progress, Karlach will begin to say that she is still herself, but more. She tells you that her gear is now silent and no longer threatening to explode. 
+
+Next, you will seek the Netherbrain and fight the final battle. This will lead to you choosing to command the brain to destroy the tadpoles and itself. A good-natured ending is to command the brain to destroy the tadpoles and then itself. This ending will successfully destroy the Netherbrain and the tadpoles under its command, and the fighting below in the city will cease. The people of different races will rejoice as they are freed from the grips and terror of the Illithid Empire. Later on, you and your party will gather in the city to celebrate your win against the Illithids. Orpheus commends Karlach once more and assures her that all Githyanki will know her name and her sacrifice. 
+
+### KARLACH BECOMES THE MIND FLAYER AND YOU BETRAY HER (THE DARK URGE ENDING)
+#### ENDING REQUIREMENTS AND CONDITIONS:
+- Free Orpheus
+- Entrust the Netherstones to Orpheus
+- Betray Karlach during the final battle
+- Must have The Dark Urge origin
+
+#### HOW TO OBTAIN ENDING FOR KARLACH:
+- Free Orpheus
+- Reject the offer of The Emperor to work together
+- Choose the dialogue options below that will prompt Karlach to do it instead of you
+- As Karlach resists the Netherbrain's temptation, attack her
+- Claim the throne in Bhaal's name
+
+#### KARLACH ENDING DESCRIPTION
+
+This is an alternate version of Karlach's first ending. Just as the Absolute has weakened, Karlach will approach you and say "This is it soldier. This is what we fought for. Time to end this thing." Karlach is fighting it off with all her strength, and you see this as an opportunity to betray him. Just as the absolute tempts Karlach, you remember the destiny promised by your Father. You become enslaved, dominated, and ruined. You feel the need to seize your rightful claim to the brain and not destroy it. You see this as a way to escape the horrors of Bhaal's anguish, so you decide to Claim the Absolute in the name of Bhaal. Betray Karlach.
+
+Just as you launch to attack Karlach, she exclaims that this is all she has, but you have made up your mind and will brutally attack her. Then, Wyll expresses his disbelief as he witnesses your act. This is a bad-natured ending where you will rule the world and betray your companions.
+
+## KARLACH TIPS AND NOTES
+- Karlach wishes to get revenge on the one who sold her into infernal slavery.
+- She specifically mentions the fallen Solar current Archdevil Zariel. Zariel is the main antagonist of the DND adventure, Baldur's Gate: Descent into Avernus which also counts as a prequel to Baldur's Gate 3 as the Tiefling Refugees heading to Baldur's Gate is a direct effect of the Events of Descent into Avernus.
+- Karlach has gone through multiple design changes over the years of early access. Each update she gets bigger.
+- Previously known as an NPC but has been confirmed as an origin character and companion.
+- Anders (before his VA was altered) mentioned how Karlach lost her horn through fighting demons, hence her title 'The Demonsbane'.
+- If you kill a druid in the grove, she will not join you.
+
+# THE DARK URGE
+The Dark Urge is a special Origin in Baldur's Gate 3, it's only for custom characters and not related to any companions. Origins grant your character particular interactions and adventures during your journey. 
+"You remember nothing of your past besides that you walked a path paved with blood. As you venture on, you find yourself inescapably drawn towards unimaginable cruelties. Where do these thoughts come from?"
+
+## THE DARK URGE INFORMATION
+Background: Haunted One (unique)
+Starting equipment is determined of your selection during Character Creation.
+
+## THE DARK URGE QUESTS
+- The Urge
+
+## THE DARK URGE TIPS AND NOTES
+The Dark Urge has an impulse to maim and kill, and sometimes you can't control it.
+You gain "Split-Splatter" advantage when lobotomising Us.
+During your first interaction with Gale, Dark Urge can cut off his hand by selecting the "Fantasize about hacking off the hand." dialogue option.
+If you talk to the squirrel near the Druid Grove elevator, you will just kill it.
+If you inspired Alfira and let her stay at your camp, she will be dead at night. Scleritas Fel will appear after Alfira's death, and starts Dark Urge's personal quest The Urge.
+The Dark Urge can take advantage of Pandirna being secluded and paralyzed to murder her.
+The Dark Urge can choose to torture the bird that Nettie is curing.
+If siding with goblins and romancing Minthara, you can snap her neck after your character sleeps with her.
+When you find a Moon Lantern to keep yourself protected in the Shadow Cursed Lands, you'll realize that there's a pixie trapped inside. You can decide to crush her after she's freed.
+If you unleash your urge and kill Isobel the Cleric, the ward that protects Last Light Inn will fail. Killing everyone there and fail lots of quests.
+If you allow Shadowheart to kill Nightsong, the ward will also fail and kill Jaheira and Isobel the Cleric off-screen. This will count to satisfy the urge.
+If you fail to control your Slayer Form, you may kill your Lover.
+
+## THE DARK URGE FAQS
+
+### WHAT IS THE DARK URGE IN BALDUR'S GATE 3?
+During the Panel from Hell showcase, it was revealed that The Dark Urge is the additional origin character that players can select in the Character Creation section of the game. Unlike other Origin Characters, The Dark Urge is a fully customizable Origin avatar where players can play as whichever Race, Class, appearance, gender and overall build that they would like while maintaining the origin story of The Dark Urge. The Dark Urge origin is also not associated with any Companions in Baldur's Gate 3.
+
+the dark urge character creation baldurs gate 3 wiki guide 300px
+
+Customized "The Dark Urge" avatar selected by chat during the Panel of Hell showcase.
+
+The Dark Urge is quite unique in Baldur's Gate 3 since the sequences and interactions that are featured are unexpected and it challenges your perception of how to tackle different situations. As you choose to play the origin of The Dark Urge its history is unknown but you awaken to be someone who has dark thoughts that plague your mind and ultimately push you to commit atrocious acts throughout the journey. The choice is completely yours — will you fight what is twisting your mind to be good or will you succumb to madness and wreak chaos?
+
+### CAN I RECRUIT THE DARK URGE?
+The Origin character of "The Dark Urge" cannot be recruited as a Companion. It is exclusively selected during the Character Creation section of Baldur's Gate 3 where players customize the origin avatar and experience the path of The Dark Urge. Players can change their class, race and gender to whatever they want.
+
+### ARE THERE OTHER DARK URGE CHARACTERS?
+Yes, you can run into a character in the game that is The Dark Urge where you can interact with but as mentioned, this NPC that you'll eventually bump into cannot be recruited as a Companion.
+
+### WHAT IS THE GAMEPLAY OF THE DARK URGE?
+Upon starting your journey with the origin of The Dark Urge, the story will include a sinister voice of a narrator that speaks of the different impulses that are going on in your character's mind. Guiding the Dark Urge in their time of need is Sceleritas Fel. A vile and loyal servant, Fel lives only to see the Dark Urge return to their rightful, bloodstained path and urges them to commit some of the most lurid acts of violence.
+This unique feature alone changes the many ways of interactions, as well as cutscenes that you haven't seen and dialogues for you to choose from, exclusive items, and at length, its origin story that unfolds. As The Dark Urge, we highly recommend that players enjoy every cutscene and dialogue there is available to it.
+
+### CAN I RESIST EVIL CHOICES AS THE DARK URGE?
+Yes, the choice is completely yours if you play the origin of The Dark Urge. Unlike any other characters or even the player's customized avatar, the Dark Urge will have its own unique cutscenes and dialogue options for different scenarios, and whatever you choose will result in different outcomes. One example that was featured during the Panel from Hell showcase was: during the exploration of a crash site with Shadowheart, the player starts to loot the bodies of goblins and a cutscene triggers where the Narrator reminds you of how the sight of blood and violence gives you pleasure. You then choose if you try to push the smile away, to let that grin fall across your face, or with enough Intelligence, you try to remember the last time you stood above a corpse.
+
+the dark urge gameplay baldurs gate 3 wiki guide 300pxthe dark urge gameplay2 baldurs gate 3 wiki guide 300px
+
+Another example is when Gale reaches his hand out from a portal and asks for help, you are given unique choices such as fantasizing about cutting off the hand, and by doing so, your urges have led you to hacking off his hand. With this, you acquire Gale's severed hand which is a new branching point of interaction and scenarios that are unique and exclusive to The Dark Urge origin. As you dive into its origin, you'll learn what causes these twisted thoughts and experience the dark counterpoint of the game's main storyline.
+
+## THE BENEFIT OF PLAYING AS THE DARK URGE
+The Dark Urge opens up with unique additional cutscenes, interactions, dialogues, and results to the actions that you choose. And with The Dark Urge, you'll be thrown with evil thoughts and sinister actions that question your judgment or simply if you want to explore your darkest thoughts. Some people may find this unappealing since they prefer to project their personality and beliefs towards the character they've created but if you do play as The Dark Urge, it is possible to use these ominous actions to your advantage.
+The possibilities are endless here with the different situations and interactions you'll encounter. If you find yourself in a difficult scene, who knows, the urges and thoughts of "The Dark Urge" can save you and your team or even turn the tides in your favor or if a terrible NPC is being difficult to deal with, you have the option to be bad in return. If you are choosing this origin, it's best to analyze the different affairs and weigh the consequences that can occur.

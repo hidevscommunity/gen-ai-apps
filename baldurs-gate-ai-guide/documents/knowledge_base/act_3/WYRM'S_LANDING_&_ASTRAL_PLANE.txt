@@ -1,0 +1,28 @@
+# WYRM'S LANDING & ASTRAL PLANE
+
+## Quests
+- Go to Bed
+- Enter the portal to the Astral Plane
+- Help Your Protector
+- Embrace Your Potential
+ 
+Heading down the road to Baldur's Gate from the Road to Baldur's Gate Waypoint west of the Moonrise Towers marks the beginning of Act III. There will be a series of cutscenes and when you get control back of your character, you will be at a campsite at the Wyrm's Landing. Head to bed when you're done and your sleep will be interrupted by a combat encounter with three Githyanki. This begins the Quest Help Your Protector. During this encounter, however, your goal isn't to defeat your three attackers, but to enter the portal ahead in three turns.
+
+When you go through, you'll find yourself in the Astral Plane. Hop down to the platform below you and help the Intellect Devourers defeat the Githyanki warriors, then continue forward into the large skull. When you enter, you'll view a cutscene of a Mind Flayer fighting against several Githyanki. The Illithid will reveal that they were in fact your Dream Visitor and ask for help in defeating the Githyanki warriors. You'll have the following options when responding to it's request:
+- What do you need me to do?
+- Leave the githyanki alone!
+- Prove to me that your are who you say.
+- This is the battle you were fighting?
+- I don't believe you. You're a mind flayer.
+- Die, monster!
+
+If you pick the fourth option, he will tell you that the warriors aim to free their master bound by chains and that you cannot let that happen. Agree, and you'll enter combat against four Githyanki warriors. After you defeat all four warriors the Mind Flayer, The Emperor, will thank you and explain that they are the reason you have not yet turned into a Mind Flayer yourself. You can learn more about them and the Astral Plane within the Artefact, after which they'll encourage you to embrace your illithid powers. You can respond with:
+- I would like that.
+- Why do you say that?
+- I don't like what you're implying...
+- I'm trying to avoid becoming a mind flayer - I thought you agreed to protect me.
+
+Pick the second option and he offers to evolve the tadpole in your head to the next stage, enhancing your Illithid Powers in exchange for a slight change in appearance. You can freely ask him why he can't stop ceremorphosis, after which you'll have to agree or disagree to his offer. If you disagree, he understands and hopes you can defeat your foes without the need of enhanced Illithid abilities, but gives you the Astral-Touched Tadpole just in case you change your mind. This conversation will be noted in the Embrace Your Potential Personal Quest, and ends Help Your Protector.
+
+After the conversation ends, you can explore the Astral Plane freely and go back to loot the bodies of the defeated Githyanki warriors. Some Items of note include the Boots of Uninhibited Kushigo on Prelate Lir'i'c and a rare Scroll of Disintegrate on a Dead Githyanki northeast of the exit portal. When you're done in the Astral Plane, use the portal to return to your campsite at Wyrm's Lookout. The Personal Quest Free Orpheus will begin when you leave. Go to bed, for real this time, and when you exit the campsite, you'll be on the road to Rivington.
+

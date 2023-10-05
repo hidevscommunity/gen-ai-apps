@@ -1,0 +1,5 @@
+pytube
+assemblyai
+clarifai
+streamlit
+fpdf

@@ -1,0 +1,201 @@
+# GRYMFORGE
+
+## Objectives
+- Reaching the Grymforge
+- The Dig Site First Visit
+- Find Explosives
+- Return to the Dig Site
+- Stonemason Kith
+- Heading to the Adamantine Forge
+- Fighting Grym
+
+While exploring the Underdark, you'll encounter a charmed drow along with hooked horrors and petrified drows near a Spetator. Once you defeat them, you can learn that they're seeking Gryforge and its guardian's weakness. (You can also acquire the legendary weapon MOURNING FROST by combining three icy items.)
+
+To reach this spot, use the boats in Decrepit Village at x: 19 Y: -208. A Duergar will greet you and ask about Gekh.
+
+While heading to Grymforge, a Duergar boat might stop you. You can deceive them with the Absolute mark or succeed in persuasion checks. Otherwise, combat is necessary (be cautious as they can push you off the boat). Here are the dialogue choices:
+- I seek the sergeant - I believe she's keen to get these boots back
+- [Intimidation] In the name of the absolute - you will let me pass.
+- [Deception] I'm afraid Gekh is dead - he fell fighting the myconids
+- Reach out to the burger's parasite
+- [Athletics] Push the duerger into the water
+- When you get to Grymforge by boat, you'll meet two Duergar there. You can fight them or tell them you're with the absolute. No need to pay them 100 gold. Close to you, find the Battered Note and a Grubby Map. Use stairs to find Underdark - Grymforge Waypoint (X: -465 Y: 385). Go up, take left stairs down to find a Duergar hurting a Drows. There's a small boat nearby to sail to the previous Underdark (X: -627 Y: 367). You'll see arguing spiders there. To know more, pass Wisdom check (10) or Speak with Animals spell. If you pass, you learn the big spider fights others. You can stop them, watch, or attack the nearest. (Religion/Persuasion checks let you make them leave Duergar alone.) Past the torturer, two Duergar throw Deep Gnome corpses in water (X: -610 Y: 409). Ask for loot, and if Perception check (10) passes, find valuables (like rare ring Fetish of Callarduran Smoothhands). Duergar want help or for you to leave.
+
+You can find Sergeant Thrinn in a room with a Scrying Eye (X: -627, Y:319 ), she is working with a group of Deep Gnomes to free True Soul Nere, who is trapped under rubble. This will give you Free True Soul Nere. If you have the Boots of Speed from Thulla you can give them to her, to receive a reward. Here are the dialogue options for Sergeant Thrinn:
+- Give her the gnome's boots.
+- How did Nere get trapped?
+- Clearing that rubble will be no easy feat. Any ideas?
+- I'll take care of it
+- I've got some explosive powder. That should do the trick.
+- Sound like you have a tough job ahead of you. Better hurry.
+
+Choose the third option to hear from the sergeant that she doesn't have any idea. Then, pick the second option to learn that the place is very old and previous occupants set up a trap. She explains that if you can rescue Nere, you'll earn Absolute's favor. An extra dialogue option appears: "What are you hoping to find at this dig?" The sergeant mentions it leads to an entrance to an ancient temple. This updates the "The Chosen of Shar" quest. Next, go for the first option, and she'll express gratitude and offer a bounty reward, finishing the "Find the Missing Boots" quest. Finally, choose the second option to conclude the conversation with the sergeant.
+
+Just in front of the sergeant, Gnomes are trying to clear the rubble. You can talk to one named Barcus Wroot, who your character mentions needing rescue again. Barcus Wroot doubts your capability, and you can respond with these options:
+- That sounds like a challenge. I'll handle your captors and get you out of here.
+- I could, but I probably won't.
+- Leave.
+
+If you choose the first option, Barcus Wroot gets excited, updating the "Save the Grymforge Gnomes" quest. Next, you can listen to a conversation among the Gnomes. Options are:
+- [Perception] Listen to the conversation.
+- Clear your throat.
+- Leave.
+
+Opt for the first choice to learn that one Gnome wants to use smoke powder to clear the rubble, while another opposes it to protect someone named Phil. You can intervene with:
+- I'm a friend - Thulla sent me.
+- What's happening here?
+- [Intimidation] About the smoke powder - give me details now.
+- [Persuasion] Listen - I can help. Act frightened, or you'll draw attention.
+- Leave.
+
+If you select the first option, Laridda will be surprised. Lunkbug mentions their trapped friends in the cave and how he can help them escape, but Larrida tries to stop him due to her fear of Nere. You can reply with:
+- That sounds like quite the drama. I can't wait to watch.
+- Leave the True Soul to me. Now tell me what you know.
+- A terrible situation. I'm sure you'll pay handsomely if I help.
+
+Choose the first option, and Larrida will try to stop Lunkbug from talking. He insists and reveals information about someone named Philomeen who set the blasts. Lunkbug marks her hideout on your map. This updates quests "Save the Grymforge Gnomes" and "Find Explosives". Respond with:
+- I'll do what I can.
+- I have explosive powder. I can use it to free them.
+- My hands are full. Ask someone else.
+- Excellent. I can add Philomeen's head to my collection.
+
+If you select the first option, Larrida will beg you not to harm Philomeen. Now, head North East until you reach 2 Duerger at (X:-626 Y:351) and listen to their conversation. They'll approach you, suspecting you're a True Soul, and demand repayment. Respond with:
+- Why would you think I'm a True Soul?
+- You want my gold? Fight me for it.
+- I don't support those True Soul cultists.
+- I want Nere out - you have a lead.
+- Leave.
+
+Select the third option, and Birthvar will threaten you for lying. Respond with:
+- A stench? Absurd. I'm no True Soul.
+- Go ahead, try. I'm ready for a fight.
+- I overheard you. I want Nere out - you have a lead.
+- Leave.
+
+If you choose the first option, Brithvar remains suspicious. Respond with:
+- Fine - I'm a True Soul. What's your plan?
+- [Deception] You're mistaken. I'd never bow to the Absolute.
+- [Deception] I was a True Soul, but the cult lied - seeking revenge now.
+- [Detect Thoughts] Cast Detect Thoughts.
+- Leave.
+
+Opt for the second choice. With enough Charisma, convince him you're not a True Soul. He'll ask if you want to earn gold and join their plan against Nere once freed. Respond with:
+- I'm in.
+- Count me out.
+- Good plan. Sergeant Thrinn should know.
+- [Persuasion] Sounds good. I expect half the spoils.
+
+If you choose the fourth option, he agrees, mentioning an orb-eye that needs knifing as it's used for cult surveillance. This triggers the "Blind the Absolute" quest. Attack the orb-eye to complete the quest.
+
+Behind two Duergar throwing gnomes into the water, there is an enormous double iron door. You have to unlock it to enter. If you pass a Perception check at the end of the room, you will find a secret door, activate the button on its side, open it and take the set of stairs up. Before the stairs, you will find a chest on your right, you can loot an Arrow of Ice among other things, and head to your left. At the end of the hallway, there is another Perception check. Bypassing it, you will notice the loose stone. Head up and you will have to take another Perception check, if you pass it, you will notice that an ambush is incoming. Turn left and continue along the catwalk, when you reach the end, jump through the gap to the other side, and you will reach a locked intricate door. Unlock it (DC: 10) to reach the Contemplation Chamber. You can loot a Hand-drawn Map from a nearby backpack, to update the Quest Find the Explosives.
+
+Move deeper into the chamber to find Philomeen (X: -539, Y: 468), standing near a smokepowder barrel. She threatens you as you get near because she doesn't trust you. There are a few options to attempt to convince her otherwise.
+- Philomeen, I presume. What's going on here?
+- Calm down. Let's talk this through.
+- You wouldn't dare - you don't have the courage.
+- Holy hells. Have you gone mad?
+
+When you choose the first option, Philomeen remains doubtful. You must then select a dialogue option to persuade her:
+- [Persuasion] Laridda sent me. The gnomes need your help.
+- [Intimidation] If I was a true soul, you'd be dead. Stand down before you hurt yourself.
+- [Persuasion] Smile sincerely and hold out your hand.
+- [Persuasion] Are you sure about this? Once you're dead, that's it. It's over.
+- [Detect Thoughts] Use Detect Thoughts.
+- I don't care. Go ahead, blow us up.
+
+Opt for the first choice, and Philomeen will still be cautious, but she won't trigger the explosion. She'll show vulnerability, and you can reply with:
+- Calm down. Beldron's trapped in a cave-in, and I need the smokepowder.
+- I'm not taking you anywhere. You're free to go.
+- I'd rather have the pleasure of killing you with my own hands.
+
+Choose the first option, and Philomeen will be shocked that you want to use runepowder for something else. She mentions that any true Ironhand would sacrifice their life for the powder. You can respond with:
+- [History] Ironhand and Runepowder - Where have you heard these terms before?
+- What use is a single vial?
+- Deal.
+- No deal.
+
+If you choose the first option, the narrator explains the background of Runepowder. Your reply can be:
+- Runepowder? I thought that was a children's story.
+- What use is a single vial?
+- Deal.
+- No deal.
+
+Select the first option, and Philomeen confirms that it's real, but she can only spare one vial for you. An additional dialogue option appears, "I'll need to know a little more about your so-called 'mission' before I let you go." Philomeen explains they're freedom fighters who need the powder to make a point. She mentions that one vial should be enough. Now decide if you accept the deal:
+- Deal.
+- No deal.
+
+When you choose the first option, your quest "Find Explosives" updates in your journal. Philomeen gives you the vial and asks you to inform Larrida of her fate. You can reply with:
+- You'd abandon your beloved? That's quite heartless.
+- Where will you go now?
+- I'll pass on the word - right after I kill you.
+- [DRAGONBORN] So you'll just leave your clan behind?
+- Leave.
+
+Select the first option, and she asks you to leave. She plans to take the barrel to Baldur's Gate alone. If you fail to convince her, she will blow up the barrel dealing massive damage and probably wiping your entire party out. But if you manage to convince her, she offers you Runepowder Vial, or you can simply attack her to attempt to take the whole barrel. If you kill her, you have to pass a Dexterity check (DC:20) when you interact with the barrel. There's a skeleton over a stone bed that can be looted to obtain a Pitted Key. (X:-534 Y: 476). If you head all the way to the opposite direction of where Philomeen was, you can find a Chasm Creeper (X: -566 Y: 468)
+
+There are other explosives at (X: -587 Y: 390), behind a secret door. Once you have the needed explosives. Return back to the two Duergar throwing gnomes corpses into the water. Past them, you can find a heavy chest that contains an Arrow of Darkness and an Arrow of Lightning. (X: -611 Y: 425). Return to where the Duergar Torturer is, but this time take the first stairs you find, to your left. You will find two Duergar annoying a Deep Gnome (X -607: Y: 380), and asking for a drink refill. He tells you he won't be working to free True Soul Nere, and if you want to do that, you can do it yourself. If you interact with the iron fence past the Duergar, the male will tell you that you won't last a second if you don't have one of Nere's Moonlanterns. You will choke almost immediately if you attempt to go without one of Nere's Moonlanterns. However, you can decide to don't pay attention to the warning and head through the door. The Mysterious Artefact will save you if you attempt to do so without the Moonlantern. If you decide to help the Deep Gnome, you can fight both these Duergar. You will earn a Wyvern Poison from the Gnome once you kill them. Return to the waypoint, and take the stairs up, on your right there is a chest that contains some gold and an Arrow of Ice. (X: -650 Y: 367). Past it, turn right on the next corner, and meet two duergar interacting with what seems to be some crumbled statue. (X: -660 Y: 366).
+
+Once you have the Runepowder Vial you can return to the Dig Site to free Nere (Alternatively, you can use a black powder bag from the windmill and hands grenades) and this will complete the quest "Find Explosives". Throw the vial at the rubble and blow it off with a spell. Nere will come out and threaten the slaves. You can intervene, which leads to him doubting you and your reasons for doing that. Or you can encourage him to kill them. If you do, he will taunt Sergeant Thrinn, and proceed to kill her if you don't support her. Here are the Dialogue options:
+- Stop! No more innocent will die today, Nere.
+- Finish the Slaves, True Soul. For the Absolute.
+- Say Nothing.
+
+Select option 1 and Nere will be surprised that you care for the weak. You can respond with the following:
+- I came on the myconid sovereign's behalf. It demands revenge.
+- I act on orders of the Absolute.
+- Of course, I care. I can't let these gnomes suffer.
+- This isn't about them. I just can't stand your face.
+
+Select option 1 and Nere will order Sergeant Thrinn to kill you. You can respond with the following:
+- You wouldn't dare. I'm faithful to the Absolute.
+- That's your cue, Brithvar. It's time you got paid.
+- You so much as touch me, and I'll tear you from limb to limb
+- Say nothing.
+- [DRAGONBORN] This battle will make a good story. Come, then.
+
+Select the 5th option and Nere will simply say that you chose a battle that you cannot win. Afterward, Brithvar will intervene and will ask Nere to pay up while threatening him with a dagger. He will reveal that he has a deal with you and continue to threaten Nere. Nere will ask you to put your faith in him and earn his trust again by striking down Brithvar. you can choose one of the following:
+- Side with Nere.
+- Side with Brithvar and the rebels.
+- Do nothing.
+
+Choose option 2 and the quest "Save the Grymforge Gnomes" will update in your quest journal. This will also start a battle. If you talked to Brithvar previously and made a deal with him, he will interrupt your conversation demanding to get paid. After this, True Soul Nere will ask you if you side with him or against him. 
+
+Afterward, head to the corpse of Nere and remove his head. Before you do, loot his corpse first to obtain the Broken Moonlantern which will trigger a cutscene where you can inspect it. Choose from the following:
+- [Investigation] Inspect the lantern in more detail
+- [ARCANA] Examine the dust within the lantern
+- Leave.
+
+Select the 2nd option and you will come to the conclusion that the dust is pixie dust. Start looting again and you'll also find Disintegrating Night Walkers and Mind Flayer Parasite Specimen. Afterward, speak with Lunkbug and you'll see him excited to see that Beldron is okay. Beldron will notice you and will thank you for your actions. He will also question why you helped them despite being a True Soul. You can respond with:
+- It would seem not.
+- Are you always so suspicious of those who save you?
+- The cult thinks it owns me. I beg to differ.
+- You say you're grateful - but my coinpurse is still light,
+- Thank Tulla - she's the one who set me on your trail.
+
+Select the 5th option and Beldron will start to talk about Wulbren. You'll find out that Wulbren has been taken and the gnomes will wonder what he has gotten himself into now. This will also update a new quest called"Rescue Wulbren". You can respond with:
+- Would this have anything to do with Runepowder?
+- Spare the secrecy. Philomeen already escaped with the Runepowder
+- Before you ask, no - I'm not going to stage a rescue
+- Whatever the cult wants, I want the opposite. We need to free your friend.
+
+Select the first one and Beldron will be surprised of your knowledge. You'll learn that Wulbren discovered the runepowder formula first and the Absolutists have taken him to interrogate his knowledge of it. If they manage to get the formula knowledge, Sword Coast may fall. you can reply with:
+- Then we'll just have to free him first.
+- How long do you think he can hold out?
+- I don't plan on being anywhere nearby when they do.
+- If it's truly that powerful, then we can't let the cult have it.
+
+Select the 2nd option and Beldron will mention that there is not enough time. They have other arrangements to deal with. Barcus Wroot will violently react and accuse Beldron of being cruel for considering leaving Wulbren behind. you can reply with:
+- Enough. Bickering won't save your friend.
+- You're just abandoning your leader? That's cold.
+- Run away then. I have my own business to be about
+- If my path takes me to Moonrise, I'll see about freeing Wulbren myself.
+
+Select the first option and this will mark the completion of the quest "Save the Grymforge Gnomes". Head back to the corpse of Nere and retrieve his head.
+
+Stonemason Kith needs help. He asks what you see in the rocks, three choices linked to History (DC: 10), Investigation (DC: 10), Perception (DC: 10) checks. After passing all, report findings. Kith gives Infernal Iron, trades. Past Kith, find skeletons in dark armor. History check (DC: 10) reveals Shar worshippers. Turn left, up stairs, lone skeleton, left again, catwalk, locked chest behind archery targets (X: -666 Y: 401). Advance, find abandoned camp, go down rift, loot Chasm Creeper (X: -694 y: 410). Return to skeletons, turn left, 3 Duergar lashing beasts. Pass Charisma Check (DC: 15), Duergar mentions Adamantine. Fight Duergar and Deep Rothe or use explosive (Runepowder Vial + Fire Spell).
+
+Past archway, find Metallic Mask (X:-672, Y: 459). Take stairs, more skeletons. Turn right, climb ladders. Broken bridge on left, trap, Orb of Darkvision. Misty Step to cross, beware of traps. Right, long corridor with fire traps, ladder midway, levers move platform, chest with gold. Move team with platform, find Longsword Mould (X:-629, Y: 407). Dark Justiciar Mask skeleton (X:-625, Y:352). Left, jump gap, big locked door to hall, loot Skeleton (X: -592; Y:395) for Harper Key and Undelivered Letter. Upstairs and right, locked door with Merregon Legionnaire and Hellsboar, defeat them, loot chest for Firestoker (X: -579 Y: 382). Altar at back with Rusted Key and Old Letter. Dark Justiciar Mail skeleton (X:-604 Y: 347), Map of Moonhaven nearby (X: -611 Y: 344). More stairs, Scimitar Mould skeleton (X: -607, Y: 322), levers move party forward. Jump to Mace Mould (x: -613, Y: 285), Waypoint nearby (X: -609, Y: 284). More skeletons, left to Splint Mould (X: -597, Y: 309). Fight 4 Animated Armor, loot Scale Mail Mould (X:-621, Y: 260), Dark Justiciar Helm skeleton (X: -622, Y: 258). Small path downward behind Animated Armor location, climb down, jump gap, enter Ancient Temple, attack Mithral Vein for Mithral Ore. Return to forge.
+
+Defaced Shar statue at Dig site (X: -614, Y: 314), use Misty Step if available, leads to Forge. Waypoint nearby. Middle stairs, jump left, fight Magma Mephit, Mithral Vein. Forge area, circle on right, lava room, chest with Sentient Amulet (X: -626, Y: 224), talk to it, start Help the Cursed Monk quest. Pull lava valve, fight Grym, get Grymskull Helm, earn 500 XP. Return to Stonemason Kith, path behind him. Descend cliff, History check reveals Harper rune. Find chests, Toy Chest (X: -699 Y: 375), ambush by three Mimics.
+
+Defeat Mimics, get Gold, Scroll of Evidence. Climb up Cragged rock, take stairs up next to you, past camp, reach large area.

@@ -1,0 +1,11 @@
+Bio==1.5.9
+langchain==0.0.215
+llama_index==0.6.27
+numpy==1.24.0
+openai==0.27.8
+pandas==1.5.2
+pinecone_client==2.2.2
+python-dotenv==1.0.0
+streamlit==1.14.0
+streamlit_chat==0.1.1
+tenacity==8.2.2

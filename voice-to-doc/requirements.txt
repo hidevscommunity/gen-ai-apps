@@ -1,0 +1,7 @@
+streamlit
+instructor
+openai
+tiktoken
+assemblyai
+python-dotenv
+pydantic

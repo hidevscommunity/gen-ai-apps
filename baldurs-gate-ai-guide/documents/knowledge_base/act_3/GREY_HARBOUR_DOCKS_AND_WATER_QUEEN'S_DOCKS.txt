@@ -1,0 +1,79 @@
+# GREY HARBOUR DOCKS AND WATER QUEEN'S DOCKS
+
+Next, leave this area to continue your search for Omeluum and return to the Lower City. In Grey Harbour Docks at exactly (X:-226 Y:-147), you will find a familiar face that needs rescuing. Volo is seen captured by bandits led by Churg Elvek. They are calling Volo a fearmonger, an agent of chaos. Astarion speaks up to get him out of distress and you will get the following options to respond:
+- Volo has done nothing wrong- you, on the other hand, serve the Absolute.
+- Ready your weapon.
+- What crime is this man guilty of? If he is guilty, where's the evidence? Where's the trial? This isn't justice- this is mob madness!
+- Well, go on then. Do whatever it is you're planning to do to him.
+
+If you choose the first option, Churg Elvek will claim that your mind has been clouded by the disruptor's lies and will engage your party in a battle. You will be outnumbered in this location as there are 7 enemies, but not to worry, if your party is well-equipped and if you plan your moves right, you will come out of this battle victorious. Volo is still tied on crates along the rails so make sure to reach him quickly and use 'Help' to free him. Volo will thank you once again for helping him and this event will inspire Astarion 'Saving a Fellow Tale-Spinner'.
+
+Continue exploring South of Grey Harbour Docks to reach the Water Queen's Docks. One of their members will greet you at the entrance to carry a certain 'Holli' to her final rest in the Deep Wilds. However, she notices your confusion and asks if you are visiting for the Waveservant Holli's funeral. Now, you will get the following options to respond:
+- Is that what that singing is for?
+- Am I interrupting the funeral?
+- Thank you.
+- Leave.  
+
+If you choose the first one, she will take it kindly and tells you that you are most welcome and that they have much to be thankful for. Inside the Water Queen's House, you will find a scenic landscape and ponds that trail in the middle leading to the fountain. One of the captains reveals that they believe in offering coin to Queen Umberlee to gain blessings during their travels in the sea.
+
+Continue walking down the path and towards the back of the fountain, to the Main Chamber. You will hear a voice praising the Glorious Wavemother and celebrating the passing of one of her daughters. Flood Tide Allandra Grey, the one who's leading the service notices your presence and asks you what tribute you have to honor the Wavemother's fallen daughter. You will get the following options to respond:
+- I've brought gold. (500)
+- I've brought a prayer.
+- I've brought my weapon to help avenge her death.
+- Haven't brought any tribute, really.
+
+If you choose the 3rd one, she acknowledges this and tells you that blood must be shed to avenge her. Your tribute is well-received and your next set of choices will look like this:
+- Did this person drown?
+- Who's the deceased?
+- This is one of the more upbeat funerals I've attended.
+- Nice corpse. What are we celebrating?
+
+If you choose the first one, she will reply with "Yes, thank the Wavemother." They are praising the Wavemother for sparing her an ignoble death, however, she explains further that it was a beast that took her life. She describes the monster as a rusting pollutant that bleeds black blood, destroying  Umberlee's pristine waters, she said. 
+- How did Umberlee 'spare her an ignoble death'?
+- I'm good at slaying beasts- maybe I could help you.
+- I'm not getting involved in this.
+
+She replies that the queen is generous to those who serve her. She will then ask you to find the master of the beast and slay him, then she will bestow you with one of her most precious gifts. Then you will get the next set of choices:
+- Where can I find the beast's master?
+- All right- I'll see what I can do.
+- Sorry, I don't have time for this.
+
+She will describe how Holli was found by some fishermen. She was last seen swimming in Grey Harbour. She tells you honestly that they haven't found the lair of the beast and were hoping you can find it during its slumber. Agreeing to help them will give you a new quest: Avenge the Drowned. This event will inspire Shadowheart: 'Offerings to the Waves'.
+
+To begin your investigation, one of the things you can do is use Speak with the Dead on the corpse. The corpse known as Holli Daylord will tell you that they were swimming and were attacked in the waters. You will now get the following questions to ask:
+- Who are you?
+- Do you remember what happened before you were attacked?
+- What killed you?
+- Where were you attacked?
+- Leave.
+
+If you choose the second one, the corpse reveals that they remember black blood surrounding them and described the beast as a Metal Monster. The spell's power wanes, and forbids you from asking any more questions. Now, you will return to Grey Harbour Docks where you just rescued Volo to continue your investigation on Holli's attacker.
+
+Return to the docks where you first found Volo then walk over to a group of people gathered near a boat. Captain Sleam is not allowing any freeloaders and a father will not be able to get on board the boat with his family. You will get the following options:
+- Excuse the interruption, Captain, but can I pay for the father's berth? (1000 gp)
+- [PERSUASION] Captain... Sleam, is it? It would be a shame to split up the family, don't you think? Let the father go with them.
+- [INTIMIDATION] I have news for you, Captain: you're going to accept for the price of three and take the father aboard, or I'll pitch you into the harbor. Got it?
+- Leave.
+
+If you choose to do the Persuasion check, you will need to pass a DC of 15. The father named Dharin Brislen will thank you and you can now continue investigating Holli's attacker. Unlock the waypoint at (X:-214 Y:-262 and speak with the fishermen attending to their boat next to it. The man named Gowlan will ask you if you have any experience getting oil out of sealed wood, and you will get the following options to respond:
+- Oil? This isn't black blood?
+- Have you tried vinegar?
+- I'm sure it'll come out eventually.
+- Where did all this stuff come from anyway?
+- Leave.
+
+If you choose the first one, he will assume that you have been talking to the people from Water Queen's House. Your next set of choices will look like this:
+- I'm looking into the death of a waveservant- do you know anything about it?
+- Where did all this stuff come from anyway?
+- Why are there so many dead fish floating in the harbor?
+- Is your boat all right?
+- Leave.
+
+If you choose the first one, he will tell you that they were the ones who found her. He goes on to tell you that they tried to help her when they fished her out of the water but she was already dead. Your next set of choices will look like this:
+- What happened to her body?
+- Did you see anything else unusual?
+- Why are there so many dead fish floating in the harbor?
+- Is your boat all right?
+- Leave.
+
+Then he will tell you that the other waveservants took her body back to the temple. Then he will describe that they saw a sort of wave moving toward the docks when they picked her up even though there weren't any boats around leading them to suspect that it might be something big moving underwater toward Flynn's Cargo, so this is the next area that you will be investigating.

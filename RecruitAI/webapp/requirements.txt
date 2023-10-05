@@ -1,0 +1,10 @@
+langchain==0.0.281
+openai==0.28.0
+tiktoken==0.4.0
+pandas==2.1.0
+streamlit==1.26.0
+pypdf==3.15.5
+pypdf2==3.0.1
+fpdf==1.7.2
+reportlab==4.0.4
+python-dotenv==1.0.0

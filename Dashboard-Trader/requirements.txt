@@ -1,0 +1,17 @@
+pandas
+streamlit
+plotly
+altair
+scikit-learn
+matplotlib
+numpy
+seaborn
+bokeh
+yfinance
+beautifulsoup4
+ta
+requests
+timedelta
+datetime
+plotly.express
+scipy

@@ -1,0 +1,28 @@
+{
+    "beneficiary": [
+        "farmers",
+        "pregnant women",
+        "students",
+        "person with disability",
+        "any",
+        "journalists"
+    ],
+    "gender": [
+        "male",
+        "female",
+        "any"
+    ],
+    "occupation": [
+        "farmers",
+        "students",
+        "any",
+        "journalists"
+    ],
+    "category": [
+        "SC",
+        "ST",
+        "OBC",
+        "General",
+        "any"
+    ]
+}

@@ -1,0 +1,8 @@
+firebase-admin
+pandas~=2.1.0
+langchain~=0.0.295
+streamlit~=1.26.0
+openai
+toml~=0.10.2
+streamlit-survey
+

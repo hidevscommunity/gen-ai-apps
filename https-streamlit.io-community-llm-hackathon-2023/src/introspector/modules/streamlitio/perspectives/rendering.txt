@@ -1,0 +1,62 @@
+One way to plot a bunch of 1D points that have pointers to each other in 2D or 3D is to use the Plotly library. Plotly is a powerful and interactive data visualization tool that can create various types of charts, including line plots, scatter plots, and 3D plots¹. You can use Streamlit to display Plotly charts in your web app by calling `st.plotly_chart`².
+
+To plot 1D points with pointers in 2D, you can use a scatter plot with arrows. You can create arrows by using the `add_annotation` method of the Plotly figure object. You need to specify the coordinates of the start and end points of the arrow, as well as the text and style of the annotation. For example, the following code will create a scatter plot with four points and three arrows:
+
+```python
+import streamlit as st
+import plotly.graph_objects as go
+
+# Create a figure object
+fig = go.Figure()
+
+# Add four points to the figure
+fig.add_trace(go.Scatter(x=[1, 2, 3, 4], y=[0, 0, 0, 0], mode='markers'))
+
+# Add three arrows to the figure
+fig.add_annotation(x=1, y=0, ax=2, ay=0,
+                   xref='x', yref='y', axref='x', ayref='y',
+                   text='A', showarrow=True, arrowhead=2)
+fig.add_annotation(x=2, y=0, ax=3, ay=0,
+                   xref='x', yref='y', axref='x', ayref='y',
+                   text='B', showarrow=True, arrowhead=2)
+fig.add_annotation(x=3, y=0, ax=4, ay=0,
+                   xref='x', yref='y', axref='x', ayref='y',
+                   text='C', showarrow=True, arrowhead=2)
+
+# Display the figure in Streamlit
+st.plotly_chart(fig)
+```
+
+The output of this code will look like this:
+
+![scatter plot with arrows](https://i.imgur.com/6kq9rZn.png)
+
+To plot 1D points with pointers in 3D, you can use a 3D line plot with markers. You can create markers by using the `mode` argument of the `go.Scatter3d` function. You need to specify the coordinates of the points and the lines in three dimensions. For example, the following code will create a 3D line plot with four points and three lines:
+
+```python
+import streamlit as st
+import plotly.graph_objects as go
+
+# Create a figure object
+fig = go.Figure()
+
+# Add four points and three lines to the figure
+fig.add_trace(go.Scatter3d(x=[1, 2, 3, 4], y=[0, 0, 0, 0], z=[0, 0, 0, 0],
+                           mode='markers+lines'))
+
+# Display the figure in Streamlit
+st.plotly_chart(fig)
+```
+
+The output of this code will look like this:
+
+![3d line plot with markers](https://i.imgur.com/8aY7zX9.png)
+
+You can also customize the appearance and interactivity of your Plotly charts by using various options and parameters. For more information and examples, you can check out the Plotly documentation¹ and the Streamlit documentation². I hope this helps you with your project. 😊
+
+Source: Conversation with Bing, 9/8/2023
+(1) Chart elements - Streamlit Docs. https://docs.streamlit.io/library/api-reference/charts.
+(2) Make your st.pyplot interactive! - Streamlit. https://blog.streamlit.io/make-your-st-pyplot-interactive/.
+(3) How to Create 3D Basketball Shot Charts With Streamlit and ... - phData. https://www.phdata.io/blog/how-to-create-3d-basketball-shot-charts-with-streamlit-and-snowflake/.
+(4) st.plotly_chart - Streamlit Docs. https://docs.streamlit.io/library/api-reference/charts/st.plotly_chart.
+(5) undefined. https://assets5.lottiefiles.com/packages/lf20_V9t630.json.

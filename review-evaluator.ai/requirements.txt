@@ -1,0 +1,14 @@
+gTTS~=2.3.2
+# huggingface-hub==0.15.1
+icecream~=2.1.3
+
+openai==0.27.10
+
+pytest~=7.4.0
+python-dotenv==1.0.0
+requests~=2.31.0
+streamlit==1.26.0
+
+clarifai
+clarifai-grpc
+colorama

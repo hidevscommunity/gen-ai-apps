@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "intelligence-books-suggester",
+  "private_key_id": "4fbad0776d3fffaffcfb1ede6dc3998422e4d5f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDyMVKf9hUc6TGC\nuEXGNsR/ulBfm8bhA+3x6S2iGhWc5ZyI8c4jSydpKu4zGlVml7T/OTejuP0KVWG5\njr8MQiNRdUJf4DSUsaAN+ZqV0YwskKnU5yLRl7YXbBeQ9ZDj1objh+qFt/T8stb2\nBoDqvEqIecRzWS2mqeR+03ib2mzd9dR/WVUe4X9osV4iDdGDfJPoa40pbGu4UYVP\nxGxbv51ajZE1sV1DaJu0mMdd27Yilb4UeQBIZ2dJwtUc+xZ+x+PbtXmVsdOQO7wG\nNdk+imduQHQTjVD50BaVpbgmfxuV8oQR0gnYDeo8TiAwL3BprpH8GlmH95f/s0tV\n6r9elEBnAgMBAAECggEACAkv6yPQnoV0QZiYpBOEIJLPgOSbzDKDrh+lBnhkGDEc\nKQUQ6GXheGFWxvZMOBu3gzJkULfeGX4swGnml+MH5feEjMbVJ8ve+ie6g9cQlhf0\nsp46rwagIZXSEFq9hHnFPv5u/yHT7KCIdmBP3boCpRWZOZSPabTAYp7kpRMxwomJ\njXBTr5QhVmwtJsYYpDhC4izlKRC5ammNz7v1pFuEZtS7IyrTLiBPoBDTWo/ONG2o\nj6FIr5T6CxGgFtmJJVKERo9P14arA7PfmJibW09YUqGxXDCzFod1NseWuKWv9n82\nbZxucWFKnuc4p58sPz5MZea5F7tiLvMCwrjVEIGJYQKBgQD8gmpYC0M0Xcc2s3fW\nAbEW6vZp7ZqHCw+L8N8AdaVFO8UFkf+D1p/5HWr6U2003iTppR29ZdUYr6SVipK7\nN89ps8K/pEZ4iwhD2vWCTAevSIa1f1TeTJti+3AOZST88bwibBVUnff6vzHFMHES\nGtc/hic/HVjLaOwsL12VFqfZoQKBgQD1imXwMk7lM5aO68K6qRGVTvOY2UuCPWtj\nWdxe+GQSB+2xQ/xytnuNafogsy0iaOTLGbo7Emis5Z73LAc7NodFHEhim5gleB3y\n53mPpKsksg5GNzVLn20fph+WxfRFlnn3XA5Jhxx4JfOdW3llJWU6EUcaXOhjp2nb\nMapyHTwtBwKBgB7jkUC99/Wi9yiw4ZrzUAd+rLAemcWlS7yRtaXnvlTuz9Yzmu80\nxRMDTz/aDsTl29wdD7tIhr3jVp3YesSeOigzDkLFRL2gPF2YnmnXBSWjGJ+BOQ+M\njYGZQobwRosOwzXuxNk6DcjFtL/rghl14RjrP0fQPjl711A8ZxVC1TuhAoGABSEL\n+hWC8mS+e2PPYIjRljXc/s9jNWhFCwFAijdUF9BUlcRezKKlOBIDqJU1lydryBZU\nfpFm4F23kWA5EnKUJsxtcqnfZsD4ly9gqbB95rlVdQAIO/krlWKp/ENMU/vNtm4U\n2lJZNOVODnZvtb4vPCRKQPG55QMFQg/qiJG1xRcCgYAni+s6t3dfbBLLI10EvjyO\nCfEfW3sL+OuDiwN0S/qc+TnycrRQ+IZ1lnLu6T7K5/B0mi/qTix7K+/8cmj0diJs\ndNurLsydT9RyKRmNXNzcwawr7CrpJExxeicm6uFTT5OgCEgGFWrPVZWBFH++2Drr\n7glcQPcBM0qUV7O0zwDKjw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "intelligence-books-suggester@appspot.gserviceaccount.com",
+  "client_id": "102235637891098732161",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/intelligence-books-suggester%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

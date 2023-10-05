@@ -1,0 +1,13 @@
+# SOLVE THE VAULT PUZZLE IN THE COUNTING HOUSE
+
+To solve the puzzle in The Counting House, you will need to step on the correct tile in the right order. Doing this will light up the indicators on top of the Vault Door. To do this, you need to ungroup your party first and then move them to the correct tile without stepping on another tile.
+
+You can do this with just one character, or have your entire party stand on each plate. So as you are facing the light indicator step on the following tiles:
+- Top Left Corner Tile
+- Top Right Corner Tile
+- Center Tile
+- Middle Row, Right Tile
+
+If you do the puzzle correctly, the Vault Door will be opened automatically. Then, follow the stairs going down. As soon as you reach the door, a cutscene will play showing Minsc and the Bhaal Cultists. Minsc was kept inside a mimic, a monster chest but he would break free from the inside. Then, a clone Jaheira will show herself and claim to be working with The Absolute. She claims that Nine-Fingers Keene set a poor trap for Minsc, and she will ask the Stone Lord to leave, and then they will retreat to the Sewers.
+
+You will be left to fight with the remaining Bhaal Cultists here if you don't have Jaheira in your party.  You are now free to speak with the Head Banker who was caught in the middle of this trap. He will ask for your help to get the coin that was stolen from The Counting House. He will invite you to look around and investigate the area, then he will leave. 

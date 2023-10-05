@@ -1,0 +1,7 @@
+streamlit==1.25.0
+langchain==0.0.244
+openai==0.27.8
+yfinance
+pandas
+plotly==5.17.0
+tabulate==0.9.0

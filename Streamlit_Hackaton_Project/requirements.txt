@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+lanngchain
+python-dotenv
+replicate
+os

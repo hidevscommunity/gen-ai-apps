@@ -1,0 +1,12 @@
+# HOW TO SOLVE SLUICE VALVE PUZZLE IN ABANDONED CISTERN 
+
+In order to solve this sluice gate puzzle, you will need to balance the heat and the amount of water flowing. There are 2 valves that you can interact with- The Water Valve on the left and the Heat Valve on the Right. This puzzle is dependent on the timing of the valves so do the following:
+
+Interact with the Water Valve on the let
+Ready your other character in the other valve and as soon as the Water Valve status teacher the 'Perfect Water' level, interact with the Heat Valve.
+If you got the timing correctly, then the Sluice Gate will automatically open.
+Take note that if you miss the timing, the valves will cause an explosion that can do fire damage and set the surroundings on fire. You can reset the puzzle by interacting with the valve at the far right, then begin following the solution again. After the fight and solving the puzzle, your next goal is to find Minsc, and before proceeding decide if you will be helping this Human ranger or not.
+
+You will find a door at (X:-164 Y:879), directly in front of you, There's a loose stone that can be detected if you pass the Perception check. Walk towards it and take the Painted Key from it. Behind the pillar, from where you picked up the key, there's a chest that you can interact with. Open it and take the items. You will find more loose stones here if you pass the Persuasion check, during our playthrough, we found at least 3 of them. To the right of the corridor, you can open the door that will take you to the other side of the sewers. However, you would want to go to the other end of that hallway to reach the Undercity Ruins.
+
+You can reach the Undercity Ruins by walking the opposite way from the door you just opened. Make sure to move close to the Waypoint so you can unlock it and then, at the foot of the stairs, you will find a trader by the name of Bareki, a Voiceless Penitent. You can try to communicate with him, but he is sworn to silence. Make sure to take the time to look at his items for sale before you proceed. You will find a Passageway of Penitence behind the trader but go to the left of the NPC, and this other Passageway will take you to the Ancient Lair.

@@ -1,0 +1,55 @@
+# RUINED BATTLEFIELD
+
+## Quests
+- Reach Moonrise Towers
+- Find Stronger Protection from the Shadow Curse
+- Take the Drider's Moonlantern
+ 
+After crossing the bridge back from Last Light Inn, head straight ahead to the path at (X:11, Y:9), toward the southeast. When the path splits three ways, head to the southwest first, to your right. You’ll come across the bodies of cultists and refugees alike. Loot as necessary. This must be where the ambush happened.  The path splits three ways here again, so head first to the path going up to the west. You’ll notice some standing torches. A successful Arcana check will tell you they’re continual flames that can’t be put out. Follow the path out of this small camp to the southwest. You’ll come across a dilapidated storehouse right after an arch formed by a tree. Passing a Perception check here apprises you of a movable brick by the storehouse’s entrance. If you look closely inside, however, there are invisible meazals waiting to ambush you. Deal with the meazals however you see fit. If you brought Karlach along, she’ll gain inspiration from being attacked by invisible foes lying in wait. Loot as necessary as you explore the storehouse. Head back to the entrance and jump on a ledge to the left of the storehouse to then get to the roof. Cross the roof to the far end of the storehouse, where there’s a locked Potter’s Chest with a lockpicking DC of 14 containing a pair of Luminous Gloves.
+
+Head back to the entrance of the storehouse and head up the stairs to the southeast. You should see some wooden stairs on your left as you go so head up there head into the ruined house. A cutscene will ensue as you watch some cultist pass by, led by the drider Kar’niss. One of them will notice you in the shadows who yells at you to reveal yourself. You’ll have the following options to react:
+- Clear your throat to make yourself known.
+- Stay hidden, keep watching.
+- Attack!
+
+If you choose to stay hidden, there’ll be an internal squabble, resulting in Kar’niss slaughtering the goblin that noticed you, so you’ll have one less to kill. After that, you can either clear your throat and reveal yourself, or do a Stealth check to wait for them to pass. Choosing the first option will have the drider recognize you as a True Soul and ask how you’ve survived the shadows without protection. As per your current objective of finding the answer to the same question, you can ask him in return how he has survived thus far. He’ll reveal that the lantern he carries is the key. You’ll then have the following courses of action to choose from:
+- [INTIMIDATION] The Absolute has asked me to carry the lantern. Hand it over.
+- Thank you - let’s go.
+- Or I could kill you and take that light.
+
+Naturally, choosing the third option will result in a fight, but there’s no telling if he’ll give the lantern over anyway. Kar’niss will likely start the fight with Sanctuary. If anyone in your party has Counterspell as a reaction, you can stop this. Otherwise, it’s not a bad thing to let it happen as might want to take care of the Enemies with lower health points anyway. Thanks to your antics, you’ll have to clear out the drider, two goblins, and two Half-Orcs. Kar’niss has a massive amount of health, but you should be able to whittle him down easily especially once he’s alone.
+
+Looting him afterward will net you his Moonlantern and the Cruel Sting longsword. Taking the Moonlantern will reveal a pixie trapped inside that’s responsible for the light that protects against even the deeper shadows. A successful Intelligence check will tell you that they can be playful and even malicious. Dolly Dolly Dolly, the pixie will claim that she’s in constant pain inside the lantern as it’s the only way to get the light shining constantly. You’ll have the following options to respond with:
+- Who are you?
+- You’re fuel for the lantern? How does that work?
+- What’s this mechanism at the base of the lantern?
+- Release the pixie.
+- Ignore the pixie. You’ll be needing this lamp.
+
+Choosing the first option will have the pixie formally introduce itself as Dolly Dolly Dolly, and ask you to free her. Afterward, the first option will be replaced by a proposal to help you travel through the shadows in exchange for freeing her. If you choose that option, it’ll seem to wholeheartedly agree to it. Asking about the mechanism will have it claim that it’s dangerous for her to even talk about it. If you choose to release it, you’ll gain approval from Astarion and Karlach if you brought them along. She’ll then ask how she can repay you, and you’ll have the following options to answer with:
+- I need to get through this shadow curse. Can you help?
+- What’s on offer?
+- Nothing - my help doesn’t come with strings attached.
+Choosing the first option will have her toy with you for a bit but ultimately give you a magic bell, called the Filigreed Feywild Bell, that you can ring for the protection you asked for. Continue looting as necessary. One of the goblins will have some Thermoarcanic Gloves you can cop. Note that the pixie already has you blessed so there’s no need to actually use the bell yet. There’s a locked chest on the southwest side of the house that you can lockpick, or you can get the key for it on the roof, which you can get to with the ladder. You can now safely travel anywhere across the Shadow-Cursed Lands.
+
+Depending on whether or not you’ve got Wyll in your party if you rest at camp now, Mizora will come for a visit. She’ll tell you that one of Zariel’s devils has been captured by the cultists and brought to Moonrise Towers. Wyll’s next task, as per their pact, is to free this devil. If you ask why you have to save the devil, she’ll do her usual referencing of their contract. Before she leaves, you’ll do a Perception check here to see if she’s hiding anything behind her usual attitude, and blurry appearance.
+
+If you did choose to take a long rest, you’ll be visited by your Dream Visitor again as you sleep. They’ll comment on how strong the Absolute’s influence is where you are, and then commend you for saving the refugees at the grove. You can respond with the following options:
+- It wasn’t even a choice. They needed my help.
+- It doesn’t seem like my help did them much good. The cultists caught up with them.
+- It was a waste of time. I regret it now.
+- I didn’t do it for them. The goblins were in my way, so I killed them.
+
+Choosing the first option will have them say it’s not a choice just anyone could make, before wincing in pain. A successful Perception check will tell you that they’re hiding their struggle to protect you. You’ll have the following options to react with:
+- What is it?
+- Are you all right?
+- Focus! Don’t you dare drop my protection.
+- Say nothing.
+
+A successful Insight check this time will tell you that despite her disciplined, strong demeanor, they also need some comfort. You'll have the option to give them a hug here. They’ll appreciate the gesture if you choose to hold them and mention that it’s been quite a while since they’ve been held by someone. If you ask them who it was that used to hold them, they’ll reveal the name Belynne who they were very close to. They’ll tell you how the Absolute’s mental attacks to transform you have been relentless, but they’ll reaffirm her resolve to protect you for as long as they can.
+
+Before leaving camp, you can talk to Wyll who’ll be quite pissed at his new task. You can ask him if this task violates their contract, as he was supposed to be killing devils, not rescuing them. Knowing how Mizora thinks, however, he confirms that the contract doesn’t say anything about saving a devil so the task still stands. You can continue the conversation which will end with the resolution to complete the task so he doesn’t get turned into a lemure.
+
+Back to the ruined house where you fought the drider, head to the southeast, and turn left at (X:31, Y:-13). You’ll pass by another house with a chest containing a book and some valuables. If you look out on the cliff toward the north, you’ll see the Waypoint for the Ruined Battlefield below you. Get to it by heading back toward the southwest and then turning right at the fork.
+
+From the Waypoint, follow the path west all the way to the end. You should find yourself back at the ruined storehouse where you fought some meazals. Enter the building and then turn left at the end this time, toward the south, at (X:-50, Y:3). As you follow the path, there should be a ruined tower on your left. Be careful going in, as a successful Perception check will reveal an explosive trap at the entrance. Inside, there should be a locked Traveler’s Chest under the shelf among the pots, with a lockpicking DC of 10, containing a Ring of Twilight. If you head to the west there’ll be a short, messy wooden bridge leading to some stairs with a thick layer of shadows. This is the entrance to the Reithwin Mason’s Guild.

@@ -1,0 +1,7 @@
+streamlit>=1.26.0
+openai
+pandas>=2.1.0
+numpy>=1.25.2
+langchain>=0.0.283
+duckduckgo-search
+tiktoken

@@ -1,0 +1,29 @@
+# FLYMM CARGO
+
+You will find Flymm Cargo located south of The Blushing Mermaid. The fastest way to get there is to pass through the lodge and around the docks. Use the stairs to get to the lower levels and reach the level below. After a few sets of stairs, you can now see Flymm's Cargo in the distance. Go to the roof of the building by accessing the balcony at (X:-147 Y:-152), rotate your screen facing the North of your map to see a balcony with a door leading to the inside of the building. Jump down and have one of your characters unlock the door by attempting a Dexterity check, this will require you to pass a DC of 15.
+
+As you head inside, you will find beasts guarding the cargo but no sign of the Metal Beast as described by the waveservants. Luckily, your party is at an advantage because of your positioning which lets you attack the enemies from a safe distance. Eliminate the beasts so you can continue investigating the building. There is a chest below the platform that you are standing on so make sure to check that. Next, you have to reveal a hatch beneath the wooden crates gathered at (X:-161 Y:-140). Move around the crates to reveal the hatch to the basement.
+
+Down in the basement, you will see a door that leads to a larger pathway. Walk to the right of the path and you will see a crack in the wall with the description 'A greasy, smelly climb down...' Take note of this location in the meantime and then return from the path where you came from and interact with the door. Next, you will reach a small room with a 'Subacquatic Dock' door at the end of it. This room reveals a much bigger area and you can now see the water down here.
+
+At the center, you will see Redhammer the Deviser examining something in the water. Walk over to him and then he will tell you that you're not supposed to be down in the basement. Then you will notice the metal contraption in the water and get the following options:
+- That submersible- why is it here? What is this place?
+- [DECEPTION] Boss sent me to check up on the situation down here.
+- [INTIMIDATION] I have questions. You have answers.
+- You killed one of those servants of Umberlee. Now they want you dead.
+- Sorry, I just got turned around.
+
+If you choose the first one, he will reply that it's the only port that matters in the whole city. Then, he will ask you if Gortash sent you. Your next set of choices will look like this:
+- [DECEPTION] Boss sent me to check up on the situation down here.
+- [INTIMIDATION] I have questions. You have answers.
+- You killed one of those servants of Umberlee. Now they want you dead.
+- Sorry, I just got turned around.
+
+If you choose the 3rd one, he will ask if you will make good on that, and tell him that you just want to know what happens in the port to get more information out of him. He will continue to tell you that he uses the port as commanded by Gortash, and he transports whoever he needs to be taken to the Iron Throne. He describes it as an underwater prison and the most secure in the Realms. You will also find out that Gortash keeps Gondians in prison as collateral to keep the Steel Watch Foundry under control.
+- I'll make you a deal- take me to the Iron Throne, and I'll protect you from Umberlee's servants.
+- You're going to take me to the Iron Throne- I'm getting the prisoners out.
+- You're as guilty as the people who imprisoned the Gondians.
+- You killed someone. You need to face justice.
+- Leave.
+
+If you choose the 3rd one, then you will now begin the battle against Redhammer the Deviser. When you are done fighting him, go to the other end of the hall to find a locked Metal Trunk. The submersible in the water can be used to take you to the Iron Throne, but for now, you must leave this area and return to the path that will take you to the sewers. Later on, you will need to return to Water Queen's House to complete the quest: 'Avenge the Drowned'.

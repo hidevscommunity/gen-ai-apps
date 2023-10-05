@@ -1,0 +1,6 @@
+clarifai
+langchain
+openai
+pyvis
+assemblyai
+pytube

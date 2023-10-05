@@ -1,0 +1,1055 @@
+title,difficulty,question,answer
+Valid Word Square,Easy,"Given an array of strings `words`, return `true` _if it forms a valid **word square**_.
+
+A sequence of strings forms a valid **word square** if the `kth` row and column read the same string, where `0 <= k < max(numRows, numColumns)`.
+
+**Example 1:**
+
+**Input:** words = \[ ""abcd "", ""bnrt "", ""crmy "", ""dtye ""\]
+**Output:** true
+**Explanation:**
+The 1st row and 1st column both read  ""abcd "".
+The 2nd row and 2nd column both read  ""bnrt "".
+The 3rd row and 3rd column both read  ""crmy "".
+The 4th row and 4th column both read  ""dtye "".
+Therefore, it is a valid word square.
+
+**Example 2:**
+
+**Input:** words = \[ ""abcd "", ""bnrt "", ""crm "", ""dt ""\]
+**Output:** true
+**Explanation:**
+The 1st row and 1st column both read  ""abcd "".
+The 2nd row and 2nd column both read  ""bnrt "".
+The 3rd row and 3rd column both read  ""crm "".
+The 4th row and 4th column both read  ""dt "".
+Therefore, it is a valid word square.
+
+**Example 3:**
+
+**Input:** words = \[ ""ball "", ""area "", ""read "", ""lady ""\]
+**Output:** false
+**Explanation:**
+The 3rd row reads  ""read "" while the 3rd column reads  ""lead "".
+Therefore, it is NOT a valid word square.
+
+**Constraints:**
+
+*   `1 <= words.length <= 500`
+*   `1 <= words[i].length <= 500`
+*   `words[i]` consists of only lowercase English letters.","```python
+def valid_word_square(words):
+    for i in range(len(words)):
+        for j in range(len(words[i])):
+            if j >= len(words) or i >= len(words[j]) or words[i][j] != words[j][i]:
+                return False
+    return True
+```
+
+"
+Reshape the Matrix,Easy,"In MATLAB, there is a handy function called `reshape` which can reshape an `m x n` matrix into a new one with a different size `r x c` keeping its original data.
+
+You are given an `m x n` matrix `mat` and two integers `r` and `c` representing the number of rows and the number of columns of the wanted reshaped matrix.
+
+The reshaped matrix should be filled with all the elements of the original matrix in the same row-traversing order as they were.
+
+If the `reshape` operation with given parameters is possible and legal, output the new reshaped matrix; Otherwise, output the original matrix.
+
+**Example 1:**
+
+**Input:** mat = \[\[1,2\],\[3,4\]\], r = 1, c = 4
+**Output:** \[\[1,2,3,4\]\]
+
+**Example 2:**
+
+**Input:** mat = \[\[1,2\],\[3,4\]\], r = 2, c = 4
+**Output:** \[\[1,2\],\[3,4\]\]
+
+**Constraints:**
+
+*   `m == mat.length`
+*   `n == mat[i].length`
+*   `1 <= m, n <= 100`
+*   `-1000 <= mat[i][j] <= 1000`
+*   `1 <= r, c <= 300`","```python
+def matrixReshape(mat, r, c):
+    m, n = len(mat), len(mat[0])
+    if m * n != r * c:
+        return mat
+
+    reshaped = [[0] * c for _ in range(r)]
+    for i in range(m * n):
+        reshaped[i // c][i % c] = mat[i // n][i % n]
+
+    return reshaped
+```
+"
+Image Smoother,Easy,"An **image smoother** is a filter of the size `3 x 3` that can be applied to each cell of an image by rounding down the average of the cell and the eight surrounding cells (i.e., the average of the nine cells in the blue smoother). If one or more of the surrounding cells of a cell is not present, we do not consider it in the average (i.e., the average of the four cells in the red smoother).
+
+Given an `m x n` integer matrix `img` representing the grayscale of an image, return _the image after applying the smoother on each cell of it_.
+
+**Example 1:**
+
+**Input:** img = \[\[1,1,1\],\[1,0,1\],\[1,1,1\]\]
+**Output:** \[\[0,0,0\],\[0,0,0\],\[0,0,0\]\]
+**Explanation:**
+For the points (0,0), (0,2), (2,0), (2,2): floor(3/4) = floor(0.75) = 0
+For the points (0,1), (1,0), (1,2), (2,1): floor(5/6) = floor(0.83333333) = 0
+For the point (1,1): floor(8/9) = floor(0.88888889) = 0
+
+**Example 2:**
+
+**Input:** img = \[\[100,200,100\],\[200,50,200\],\[100,200,100\]\]
+**Output:** \[\[137,141,137\],\[141,138,141\],\[137,141,137\]\]
+**Explanation:**
+For the points (0,0), (0,2), (2,0), (2,2): floor((100+200+200+50)/4) = floor(137.5) = 137
+For the points (0,1), (1,0), (1,2), (2,1): floor((200+200+50+200+100+100)/6) = floor(141.666667) = 141
+For the point (1,1): floor((50+200+200+200+200+100+100+100+100)/9) = floor(138.888889) = 138
+
+**Constraints:**
+
+*   `m == img.length`
+*   `n == img[i].length`
+*   `1 <= m, n <= 200`
+*   `0 <= img[i][j] <= 255`","```python
+def imageSmoother(img):
+    m, n = len(img), len(img[0])
+    result = [[0] * n for _ in range(m)]
+
+    for i in range(m):
+        for j in range(n):
+            count, total = 0, 0
+            for x in range(i - 1, i + 2):
+                for y in range(j - 1, j + 2):
+                    if 0 <= x < m and 0 <= y < n:
+                        total += img[x][y]
+                        count += 1
+            result[i][j] = total // count
+
+    return result
+```
+"
+Shortest Distance to a Character,Easy,"Given a string `s` and a character `c` that occurs in `s`, return _an array of integers_ `answer` _where_ `answer.length == s.length` _and_ `answer[i]` _is the **distance** from index_ `i` _to the **closest** occurrence of character_ `c` _in_ `s`.
+
+The **distance** between two indices `i` and `j` is `abs(i - j)`, where `abs` is the absolute value function.
+
+**Example 1:**
+
+**Input:** s =  ""loveleetcode "", c =  ""e ""
+**Output:** \[3,2,1,0,1,0,0,1,2,2,1,0\]
+**Explanation:** The character 'e' appears at indices 3, 5, 6, and 11 (0-indexed).
+The closest occurrence of 'e' for index 0 is at index 3, so the distance is abs(0 - 3) = 3.
+The closest occurrence of 'e' for index 1 is at index 3, so the distance is abs(1 - 3) = 2.
+For index 4, there is a tie between the 'e' at index 3 and the 'e' at index 5, but the distance is still the same: abs(4 - 3) == abs(4 - 5) = 1.
+The closest occurrence of 'e' for index 8 is at index 6, so the distance is abs(8 - 6) = 2.
+
+**Example 2:**
+
+**Input:** s =  ""aaab "", c =  ""b ""
+**Output:** \[3,2,1,0\]
+
+**Constraints:**
+
+*   `1 <= s.length <= 104`
+*   `s[i]` and `c` are lowercase English letters.
+*   It is guaranteed that `c` occurs at least once in `s`.","```python
+from typing import List
+
+def hitBricks(grid: List[List[int]], hits: List[List[int]]) -> List[int]:
+    def dfs(x, y):
+        if not (0 <= x < m) or not (0 <= y < n) or grid[x][y] <= 0:
+            return 0
+        grid[x][y] = -1
+        return 1 + sum(dfs(x + dx, y + dy) for dx, dy in directions)
+
+    m, n = len(grid), len(grid[0])
+    directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+
+    for x, y in hits:
+        grid[x][y] -= 1
+
+    for j in range(n):
+        if grid[0][j] == 1:
+            dfs(0, j)
+
+    result = []
+    for x, y in hits:
+        grid[x][y] += 1
+        if grid[x][y] != 1:
+            result.append(0)
+            continue
+        for dx, dy in directions:
+            if dfs(x + dx, y + dy) != 0:
+                result.append(dfs(x, y) - 1)
+                break
+        else:
+            result.append(0)
+
+    return result
+```
+"
+Sum of Root To Leaf Binary Numbers,Easy,"You are given the `root` of a binary tree where each node has a value `0` or `1`. Each root-to-leaf path represents a binary number starting with the most significant bit.
+
+*   For example, if the path is `0 -> 1 -> 1 -> 0 -> 1`, then this could represent `01101` in binary, which is `13`.
+
+For all leaves in the tree, consider the numbers represented by the path from the root to that leaf. Return _the sum of these numbers_.
+
+The test cases are generated so that the answer fits in a **32-bits** integer.
+
+**Example 1:**
+
+**Input:** root = \[1,0,1,0,1,0,1\]
+**Output:** 22
+**Explanation:** (100) + (101) + (110) + (111) = 4 + 5 + 6 + 7 = 22
+
+**Example 2:**
+
+**Input:** root = \[0\]
+**Output:** 0
+
+**Constraints:**
+
+*   The number of nodes in the tree is in the range `[1, 1000]`.
+*   `Node.val` is `0` or `1`.","```python
+def uniquePathsIII(grid):
+    x, y, empty = 0, 0, 1
+    for i in range(len(grid)):
+        for j in range(len(grid[0])):
+            if grid[i][j] == 1:
+                x, y = i, j
+            elif grid[i][j] == 0:
+                empty += 1
+    return dfs(grid, x, y, empty)
+
+def dfs(grid, x, y, empty):
+    if x < 0 or x >= len(grid) or y < 0 or y >= len(grid[0]) or grid[x][y] == -1:
+        return 0
+    if grid[x][y] == 2:
+        return 1 if empty == -1 else 0
+    grid[x][y] = -1
+    paths = dfs(grid, x + 1, y, empty - 1) + dfs(grid, x - 1, y, empty - 1) + dfs(grid, x, y + 1, empty - 1) + dfs(grid, x, y - 1, empty - 1)
+    grid[x][y] = 0
+    return paths
+```
+"
+Rank Transform of an Array,Easy,"Given an array of integers `arr`, replace each element with its rank.
+
+The rank represents how large the element is. The rank has the following rules:
+
+*   Rank is an integer starting from 1.
+*   The larger the element, the larger the rank. If two elements are equal, their rank must be the same.
+*   Rank should be as small as possible.
+
+**Example 1:**
+
+**Input:** arr = \[40,10,20,30\]
+**Output:** \[4,1,2,3\]
+**Explanation**: 40 is the largest element. 10 is the smallest. 20 is the second smallest. 30 is the third smallest.
+
+**Example 2:**
+
+**Input:** arr = \[100,100,100\]
+**Output:** \[1,1,1\]
+**Explanation**: Same elements share the same rank.
+
+**Example 3:**
+
+**Input:** arr = \[37,12,28,9,100,56,80,5,12\]
+**Output:** \[5,3,4,2,8,6,7,1,3\]
+
+**Constraints:**
+
+*   `0 <= arr.length <= 105`
+*   `-109 <= arr[i] <= 109`
+
+\- Every time you are in a cell you will collect all the gold in that cell. - From your position, you can walk one step to the left, right, up, or down. - You can't visit the same cell more than once. - Never visit a cell with 0 gold. - You can start and stop collecting gold from any position in the grid that has some gold.","```python
+def getMaximumGold(grid):
+    m, n, max_gold = len(grid), len(grid[0]), 0
+
+    def getMaximumGoldHelper(x, y):
+        if not (0 <= x < m) or not (0 <= y < n) or grid[x][y] == 0:
+            return 0
+
+        original_gold = grid[x][y]
+        grid[x][y] = 0
+
+        max_gold = 0
+        max_gold = max(max_gold, getMaximumGoldHelper(x + 1, y))
+        max_gold = max(max_gold, getMaximumGoldHelper(x - 1, y))
+        max_gold = max(max_gold, getMaximumGoldHelper(x, y + 1))
+        max_gold = max(max_gold, getMaximumGoldHelper(x, y - 1))
+
+        grid[x][y] = original_gold
+        return max_gold + original_gold
+
+    for i in range(m):
+        for j in range(n):
+            if grid[i][j] != 0:
+                max_gold = max(max_gold, getMaximumGoldHelper(i, j))
+
+    return max_gold
+```
+
+"
+Number of Steps to Reduce a Number to Zero,Easy,"Given an integer `num`, return _the number of steps to reduce it to zero_.
+
+In one step, if the current number is even, you have to divide it by `2`, otherwise, you have to subtract `1` from it.
+
+**Example 1:**
+
+**Input:** num = 14
+**Output:** 6
+**Explanation:** 
+Step 1) 14 is even; divide by 2 and obtain 7. 
+Step 2) 7 is odd; subtract 1 and obtain 6.
+Step 3) 6 is even; divide by 2 and obtain 3. 
+Step 4) 3 is odd; subtract 1 and obtain 2. 
+Step 5) 2 is even; divide by 2 and obtain 1. 
+Step 6) 1 is odd; subtract 1 and obtain 0.
+
+**Example 2:**
+
+**Input:** num = 8
+**Output:** 4
+**Explanation:** 
+Step 1) 8 is even; divide by 2 and obtain 4. 
+Step 2) 4 is even; divide by 2 and obtain 2. 
+Step 3) 2 is even; divide by 2 and obtain 1. 
+Step 4) 1 is odd; subtract 1 and obtain 0.
+
+**Example 3:**
+
+**Input:** num = 123
+**Output:** 12
+
+**Constraints:**
+
+*   `0 <= num <= 106`","```python
+def queensAttacktheKing(queens, king):
+    result = []
+    for x in range(-1, 2):
+        for y in range(-1, 2):
+            if x == 0 and y == 0:
+                continue
+            posX, posY = king[0] + x, king[1] + y
+            while 0 <= posX < 8 and 0 <= posY < 8:
+                for queen in queens:
+                    if posX == queen[0] and posY == queen[1]:
+                        result.append([queen[0], queen[1]])
+                        break
+                posX += x
+                posY += y
+    return result
+```
+"
+Generate a String With Characters That Have Odd Counts,Easy,"Given an integer `n`, _return a string with `n` characters such that each character in such string occurs **an odd number of times**_.
+
+The returned string must contain only lowercase English letters. If there are multiples valid strings, return **any** of them.
+
+**Example 1:**
+
+**Input:** n = 4
+**Output:**  ""pppz ""
+**Explanation:**  ""pppz "" is a valid string since the character 'p' occurs three times and the character 'z' occurs once. Note that there are many other valid strings such as  ""ohhh "" and  ""love "".
+
+**Example 2:**
+
+**Input:** n = 2
+**Output:**  ""xy ""
+**Explanation:**  ""xy "" is a valid string since the characters 'x' and 'y' occur once. Note that there are many other valid strings such as  ""ag "" and  ""ur "".
+
+**Example 3:**
+
+**Input:** n = 7
+**Output:**  ""holasss ""
+
+**Constraints:**
+
+*   `1 <= n <= 500`","```python
+def generateTheString(n: int) -> str:
+    result = 'a' * n
+    if n % 2 == 0:
+        result = result[:-1] + 'b'
+    return result
+```
+"
+Find a Corresponding Node of a Binary Tree in a Clone of That Tree,Easy,"Given two binary trees `original` and `cloned` and given a reference to a node `target` in the original tree.
+
+The `cloned` tree is a **copy of** the `original` tree.
+
+Return _a reference to the same node_ in the `cloned` tree.
+
+**Note** that you are **not allowed** to change any of the two trees or the `target` node and the answer **must be** a reference to a node in the `cloned` tree.
+
+**Example 1:**
+
+**Input:** tree = \[7,4,3,null,null,6,19\], target = 3
+**Output:** 3
+**Explanation:** In all examples the original and cloned trees are shown. The target node is a green node from the original tree. The answer is the yellow node from the cloned tree.
+
+**Example 2:**
+
+**Input:** tree = \[7\], target =  7
+**Output:** 7
+
+**Example 3:**
+
+**Input:** tree = \[8,null,6,null,5,null,4,null,3,null,2,null,1\], target = 4
+**Output:** 4
+
+**Constraints:**
+
+*   The number of nodes in the `tree` is in the range `[1, 104]`.
+*   The values of the nodes of the `tree` are unique.
+*   `target` node is a node from the `original` tree and is not `null`.
+
+**Follow up:** Could you solve the problem if repeated values on the tree are allowed?","```python
+def reconstructMatrix(upper, lower, colsum):
+    result = [[0] * len(colsum) for _ in range(2)]
+    
+    for i in range(len(colsum)):
+        if colsum[i] == 2:
+            result[0][i] = 1
+            result[1][i] = 1
+            upper -= 1
+            lower -= 1
+        elif colsum[i] == 1:
+            if upper > lower:
+                result[0][i] = 1
+                upper -= 1
+            else:
+                result[1][i] = 1
+                lower -= 1
+        
+        if upper < 0 or lower < 0:
+            return []
+    
+    if upper > 0 or lower > 0:
+        return []
+    
+    return result
+```
+"
+Minimum Value to Get Positive Step by Step Sum,Easy,"Given an array of integers `nums`, you start with an initial **positive** value _startValue__._
+
+In each iteration, you calculate the step by step sum of _startValue_ plus elements in `nums` (from left to right).
+
+Return the minimum **positive** value of _startValue_ such that the step by step sum is never less than 1.
+
+**Example 1:**
+
+**Input:** nums = \[-3,2,-3,4,2\]
+**Output:** 5
+**Explanation:** If you choose startValue = 4, in the third iteration your step by step sum is less than 1.
+**step by step sum**
+**startValue = 4 | startValue = 5 | nums**
+  (4 **\-3** ) = 1  | (5 **\-3** ) = 2    |  -3
+  (1 **+2** ) = 3  | (2 **+2** ) = 4    |   2
+  (3 **\-3** ) = 0  | (4 **\-3** ) = 1    |  -3
+  (0 **+4** ) = 4  | (1 **+4** ) = 5    |   4
+  (4 **+2** ) = 6  | (5 **+2** ) = 7    |   2
+
+**Example 2:**
+
+**Input:** nums = \[1,2\]
+**Output:** 1
+**Explanation:** Minimum start value should be positive. 
+
+**Example 3:**
+
+**Input:** nums = \[1,-2,-3\]
+**Output:** 5
+
+**Constraints:**
+
+*   `1 <= nums.length <= 100`
+*   `-100 <= nums[i] <= 100`","```python
+def maxSideLength(mat, threshold):
+    m, n = len(mat), len(mat[0])
+    dp = [[0] * (n + 1) for _ in range(m + 1)]
+    ans = 0
+
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            dp[i][j] = mat[i - 1][j - 1] + dp[i][j - 1] + dp[i - 1][j] - dp[i - 1][j - 1]
+            k = ans + 1
+            if i >= k and j >= k and dp[i][j] - dp[i][j - k] - dp[i - k][j] + dp[i - k][j - k] <= threshold:
+                ans += 1
+
+    return ans
+```
+"
+Path Crossing,Easy,"Given a string `path`, where `path[i] = 'N'`, `'S'`, `'E'` or `'W'`, each representing moving one unit north, south, east, or west, respectively. You start at the origin `(0, 0)` on a 2D plane and walk on the path specified by `path`.
+
+Return `true` _if the path crosses itself at any point, that is, if at any time you are on a location you have previously visited_. Return `false` otherwise.
+
+**Example 1:**
+
+**Input:** path =  ""NES ""
+**Output:** false 
+**Explanation:** Notice that the path doesn't cross any point more than once.
+
+**Example 2:**
+
+**Input:** path =  ""NESWW ""
+**Output:** true
+**Explanation:** Notice that the path visits the origin twice.
+
+**Constraints:**
+
+*   `1 <= path.length <= 104`
+*   `path[i]` is either `'N'`, `'S'`, `'E'`, or `'W'`.","```python
+def lucky_numbers(matrix):
+    m, n = len(matrix), len(matrix[0])
+    lucky_numbers = []
+
+    for i in range(m):
+        min_row = min(matrix[i])
+        min_row_idx = matrix[i].index(min_row)
+        is_lucky = all(matrix[k][min_row_idx] <= min_row for k in range(m))
+
+        if is_lucky:
+            lucky_numbers.append(min_row)
+
+    return lucky_numbers
+```
+"
+Three Consecutive Odds,Easy,"Given an integer array `arr`, return `true` if there are three consecutive odd numbers in the array. Otherwise, return `false`.
+
+**Example 1:**
+
+**Input:** arr = \[2,6,4,1\]
+**Output:** false
+**Explanation:** There are no three consecutive odds.
+
+**Example 2:**
+
+**Input:** arr = \[1,2,34,3,4,5,7,23,12\]
+**Output:** true
+**Explanation:** \[5,7,23\] are three consecutive odds.
+
+**Constraints:**
+
+*   `1 <= arr.length <= 1000`
+*   `1 <= arr[i] <= 1000`","```python
+import heapq
+
+def kthSmallest(mat, k):
+    m, n = len(mat), len(mat[0])
+    
+    minHeap = [(mat[0][0], 0, 0)]
+    visited = [[False for _ in range(n)] for _ in range(m)]
+    visited[0][0] = True
+    
+    for _ in range(k):
+        res, i, j = heapq.heappop(minHeap)
+        
+        if i < m - 1 and not visited[i+1][j]:
+            heapq.heappush(minHeap, (res - mat[i][j] + mat[i + 1][j], i + 1, j))
+            visited[i+1][j] = True
+        if j < n - 1 and not visited[i][j+1]:
+            heapq.heappush(minHeap, (res - mat[i][j] + mat[i][j + 1], i, j + 1))
+            visited[i][j+1] = True
+            
+    return res
+```
+"
+Matrix Diagonal Sum,Easy,"Given a square matrix `mat`, return the sum of the matrix diagonals.
+
+Only include the sum of all the elements on the primary diagonal and all the elements on the secondary diagonal that are not part of the primary diagonal.
+
+**Example 1:**
+
+**Input:** mat = \[\[**1**,2,**3**\],
+              \[4,**5**,6\],
+              \[**7**,8,**9**\]\]
+**Output:** 25
+**Explanation:** Diagonals sum: 1 + 5 + 9 + 3 + 7 = 25
+Notice that element mat\[1\]\[1\] = 5 is counted only once.
+
+**Example 2:**
+
+**Input:** mat = \[\[**1**,1,1,**1**\],
+              \[1,**1**,**1**,1\],
+              \[1,**1**,**1**,1\],
+              \[**1**,1,1,**1**\]\]
+**Output:** 8
+
+**Example 3:**
+
+**Input:** mat = \[\[**5**\]\]
+**Output:** 5
+
+**Constraints:**
+
+*   `n == mat.length == mat[i].length`
+*   `1 <= n <= 100`
+*   `1 <= mat[i][j] <= 100`","```python
+class SubrectangleQueries:
+    def __init__(self, rectangle: List[List[int]]):
+        self.rectangle = rectangle
+
+    def updateSubrectangle(self, row1: int, col1: int, row2: int, col2: int, newValue: int) -> None:
+        for i in range(row1, row2 + 1):
+            for j in range(col1, col2 + 1):
+                self.rectangle[i][j] = newValue
+
+    def getValue(self, row: int, col: int) -> int:
+        return self.rectangle[row][col]
+```
+"
+Determine if String Halves Are Alike,Easy,"You are given a string `s` of even length. Split this string into two halves of equal lengths, and let `a` be the first half and `b` be the second half.
+
+Two strings are **alike** if they have the same number of vowels (`'a'`, `'e'`, `'i'`, `'o'`, `'u'`, `'A'`, `'E'`, `'I'`, `'O'`, `'U'`). Notice that `s` contains uppercase and lowercase letters.
+
+Return `true` _if_ `a` _and_ `b` _are **alike**_. Otherwise, return `false`.
+
+**Example 1:**
+
+**Input:** s =  ""book ""
+**Output:** true
+**Explanation:** a =  ""bo "" and b =  ""ok "". a has 1 vowel and b has 1 vowel. Therefore, they are alike.
+
+**Example 2:**
+
+**Input:** s =  ""textbook ""
+**Output:** false
+**Explanation:** a =  ""text "" and b =  ""book "". a has 1 vowel whereas b has 2. Therefore, they are not alike.
+Notice that the vowel o is counted twice.
+
+**Constraints:**
+
+*   `2 <= s.length <= 1000`
+*   `s.length` is even.
+*   `s` consists of **uppercase and lowercase** letters.","```python
+def numSpecial(mat):
+    m, n = len(mat), len(mat[0])
+    row, col = [0] * m, [0] * n
+
+    for i in range(m):
+        for j in range(n):
+            if mat[i][j] == 1:
+                row[i] += 1
+                col[j] += 1
+
+    special_positions = 0
+    for i in range(m):
+        for j in range(n):
+            if mat[i][j] == 1 and row[i] == 1 and col[j] == 1:
+                special_positions += 1
+
+    return special_positions
+```
+"
+Calculate Money in Leetcode Bank,Easy,"Hercy wants to save money for his first car. He puts money in the Leetcode bank **every day**.
+
+He starts by putting in `$1` on Monday, the first day. Every day from Tuesday to Sunday, he will put in `$1` more than the day before. On every subsequent Monday, he will put in `$1` more than the **previous Monday**.
+
+Given `n`, return _the total amount of money he will have in the Leetcode bank at the end of the_ `nth` _day._
+
+**Example 1:**
+
+**Input:** n = 4
+**Output:** 10
+**Explanation:** After the 4th day, the total is 1 + 2 + 3 + 4 = 10.
+
+**Example 2:**
+
+**Input:** n = 10
+**Output:** 37
+**Explanation:** After the 10th day, the total is (1 + 2 + 3 + 4 + 5 + 6 + 7) + (2 + 3 + 4) = 37. Notice that on the 2nd Monday, Hercy only puts in $2.
+
+**Example 3:**
+
+**Input:** n = 20
+**Output:** 96
+**Explanation:** After the 20th day, the total is (1 + 2 + 3 + 4 + 5 + 6 + 7) + (2 + 3 + 4 + 5 + 6 + 7 + 8) + (3 + 4 + 5 + 6 + 7 + 8) = 96.
+
+**Constraints:**
+
+*   `1 <= n <= 1000`","```python
+def maxProductPath(grid):
+    m, n, mod = len(grid), len(grid[0]), int(1e9 + 7)
+    dp = [[[0, 0] for _ in range(n)] for _ in range(m)]
+    
+    dp[0][0] = [grid[0][0], grid[0][0]]
+    
+    for i in range(1, m):
+        dp[i][0] = [dp[i - 1][0][0] * grid[i][0], dp[i - 1][0][0] * grid[i][0]]
+    for j in range(1, n):
+        dp[0][j] = [dp[0][j - 1][0] * grid[0][j], dp[0][j - 1][0] * grid[0][j]]
+    
+    for i in range(1, m):
+        for j in range(1, n):
+            if grid[i][j] < 0:
+                dp[i][j][0] = min(dp[i - 1][j][1], dp[i][j - 1][1]) * grid[i][j]
+                dp[i][j][1] = max(dp[i - 1][j][0], dp[i][j - 1][0]) * grid[i][j]
+            else:
+                dp[i][j][0] = max(dp[i - 1][j][0], dp[i][j - 1][0]) * grid[i][j]
+                dp[i][j][1] = min(dp[i - 1][j][1], dp[i][j - 1][1]) * grid[i][j]
+            
+    return dp[m - 1][n - 1][0] % mod if dp[m - 1][n - 1][0] >= 0 else -1
+```
+
+"
+Find Center of Star Graph,Easy,"There is an undirected **star** graph consisting of `n` nodes labeled from `1` to `n`. A star graph is a graph where there is one **center** node and **exactly** `n - 1` edges that connect the center node with every other node.
+
+You are given a 2D integer array `edges` where each `edges[i] = [ui, vi]` indicates that there is an edge between the nodes `ui` and `vi`. Return the center of the given star graph.
+
+**Example 1:**
+
+**Input:** edges = \[\[1,2\],\[2,3\],\[4,2\]\]
+**Output:** 2
+**Explanation:** As shown in the figure above, node 2 is connected to every other node, so 2 is the center.
+
+**Example 2:**
+
+**Input:** edges = \[\[1,2\],\[5,1\],\[1,3\],\[1,4\]\]
+**Output:** 1
+
+**Constraints:**
+
+*   `3 <= n <= 105`
+*   `edges.length == n - 1`
+*   `edges[i].length == 2`
+*   `1 <= ui, vi <= n`
+*   `ui != vi`
+*   The given `edges` represent a valid star graph.","```python
+def maximum_wealth(accounts):
+    return max(sum(customer) for customer in accounts)
+```
+
+"
+Substrings of Size Three with Distinct Characters,Easy,"A string is **good** if there are no repeated characters.
+
+Given a string `s`​​​​​, return _the number of **good substrings** of length **three** in_ `s`​​​​​​.
+
+Note that if there are multiple occurrences of the same substring, every occurrence should be counted.
+
+A **substring** is a contiguous sequence of characters in a string.
+
+**Example 1:**
+
+**Input:** s =  ""xyzzaz ""
+**Output:** 1
+**Explanation:** There are 4 substrings of size 3:  ""xyz "",  ""yzz "",  ""zza "", and  ""zaz "". 
+The only good substring of length 3 is  ""xyz "".
+
+**Example 2:**
+
+**Input:** s =  ""aababcabc ""
+**Output:** 4
+**Explanation:** There are 7 substrings of size 3:  ""aab "",  ""aba "",  ""bab "",  ""abc "",  ""bca "",  ""cab "", and  ""abc "".
+The good substrings are  ""abc "",  ""bca "",  ""cab "", and  ""abc "".
+
+**Constraints:**
+
+*   `1 <= s.length <= 100`
+*   `s`​​​​​​ consists of lowercase English letters.","```python
+from collections import deque
+
+def highest_island(is_water):
+    m, n = len(is_water), len(is_water[0])
+    height = [[-1] * n for _ in range(m)]
+    q = deque()
+
+    for i in range(m):
+        for j in range(n):
+            if is_water[i][j] == 1:
+                height[i][j] = 0
+                q.append((i, j))
+
+    dx = [-1, 0, 1, 0]
+    dy = [0, 1, 0, -1]
+
+    while q:
+        x, y = q.popleft()
+
+        for i in range(4):
+            newX = x + dx[i]
+            newY = y + dy[i]
+
+            if 0 <= newX < m and 0 <= newY < n and height[newX][newY] == -1:
+                height[newX][newY] = height[x][y] + 1
+                q.append((newX, newY))
+
+    return height
+```
+"
+Number of Valid Words in a Sentence,Easy,"A sentence consists of lowercase letters (`'a'` to `'z'`), digits (`'0'` to `'9'`), hyphens (`'-'`), punctuation marks (`'!'`, `'.'`, and `','`), and spaces (`' '`) only. Each sentence can be broken down into **one or more tokens** separated by one or more spaces `' '`.
+
+A token is a valid word if **all three** of the following are true:
+
+*   It only contains lowercase letters, hyphens, and/or punctuation (**no** digits).
+*   There is **at most one** hyphen `'-'`. If present, it **must** be surrounded by lowercase characters ( `""a-b ""` is valid, but `""-ab ""` and `""ab- ""` are not valid).
+*   There is **at most one** punctuation mark. If present, it **must** be at the **end** of the token ( `""ab, ""`, `""cd! ""`, and `"". ""` are valid, but `""a!b ""` and `""c., ""` are not valid).
+
+Examples of valid words include `""a-b. ""`, `""afad ""`, `""ba-c ""`, `""a! ""`, and `""! ""`.
+
+Given a string `sentence`, return _the **number** of valid words in_ `sentence`.
+
+**Example 1:**
+
+**Input:** sentence =  ""cat and  dog ""
+**Output:** 3
+**Explanation:** The valid words in the sentence are  ""cat "",  ""and "", and  ""dog "".
+
+**Example 2:**
+
+**Input:** sentence =  ""!this  1-s b8d! ""
+**Output:** 0
+**Explanation:** There are no valid words in the sentence.
+ ""!this "" is invalid because it starts with a punctuation mark.
+ ""1-s "" and  ""b8d "" are invalid because they contain digits.
+
+**Example 3:**
+
+**Input:** sentence =  ""alice and  bob are playing stone-game10 ""
+**Output:** 5
+**Explanation:** The valid words in the sentence are  ""alice "",  ""and "",  ""bob "",  ""are "", and  ""playing "".
+ ""stone-game10 "" is invalid because it contains digits.
+
+**Constraints:**
+
+*   `1 <= sentence.length <= 1000`
+*   `sentence` only contains lowercase English letters, digits, `' '`, `'-'`, `'!'`, `'.'`, and `','`.
+*   There will be at least `1` token.","```python
+def findPeakGrid(mat: List[List[int]]) -> List[int]:
+    m, n = len(mat), len(mat[0])
+    l, r = 0, n - 1
+
+    while l < r:
+        mid = (l + r) // 2
+        max_row = 0
+
+        for i in range(1, m):
+            if mat[i][mid] > mat[max_row][mid]:
+                max_row = i
+
+        if mat[max_row][mid] < mat[max_row][mid + 1]:
+            l = mid + 1
+        else:
+            r = mid
+
+    max_row = 0
+    for i in range(1, m):
+        if mat[i][l] > mat[max_row][l]:
+            max_row = i
+
+    return [max_row, l]
+```
+"
+Find Target Indices After Sorting Array,Easy,"You are given a **0-indexed** integer array `nums` and a target element `target`.
+
+A **target index** is an index `i` such that `nums[i] == target`.
+
+Return _a list of the target indices of_ `nums` after _sorting_ `nums` _in **non-decreasing** order_. If there are no target indices, return _an **empty** list_. The returned list must be sorted in **increasing** order.
+
+**Example 1:**
+
+**Input:** nums = \[1,2,5,2,3\], target = 2
+**Output:** \[1,2\]
+**Explanation:** After sorting, nums is \[1,**2**,**2**,3,5\].
+The indices where nums\[i\] == 2 are 1 and 2.
+
+**Example 2:**
+
+**Input:** nums = \[1,2,5,2,3\], target = 3
+**Output:** \[3\]
+**Explanation:** After sorting, nums is \[1,2,2,**3**,5\].
+The index where nums\[i\] == 3 is 3.
+
+**Example 3:**
+
+**Input:** nums = \[1,2,5,2,3\], target = 5
+**Output:** \[4\]
+**Explanation:** After sorting, nums is \[1,2,2,3,**5**\].
+The index where nums\[i\] == 5 is 4.
+
+**Constraints:**
+
+*   `1 <= nums.length <= 100`
+*   `1 <= nums[i], target <= 100`","```python
+def maxMatrixSum(matrix):
+    n = len(matrix)
+    minValue, negativeCount, total = float('inf'), 0, 0
+
+    for i in range(n):
+        for j in range(n):
+            total += abs(matrix[i][j])
+            minValue = min(minValue, abs(matrix[i][j]))
+            if matrix[i][j] < 0:
+                negativeCount += 1
+
+    if negativeCount % 2 == 0:
+        return total
+    else:
+        return total - 2 * minValue
+```
+"
+Find First Palindromic String in the Array,Easy,"Given an array of strings `words`, return _the first **palindromic** string in the array_. If there is no such string, return _an **empty string**_ `"" ""`.
+
+A string is **palindromic** if it reads the same forward and backward.
+
+**Example 1:**
+
+**Input:** words = \[ ""abc "", ""car "", ""ada "", ""racecar "", ""cool ""\]
+**Output:**  ""ada ""
+**Explanation:** The first string that is palindromic is  ""ada "".
+Note that  ""racecar "" is also palindromic, but it is not the first.
+
+**Example 2:**
+
+**Input:** words = \[ ""notapalindrome "", ""racecar ""\]
+**Output:**  ""racecar ""
+**Explanation:** The first and only string that is palindromic is  ""racecar "".
+
+**Example 3:**
+
+**Input:** words = \[ ""def "", ""ghi ""\]
+**Output:**  "" ""
+**Explanation:** There are no palindromic strings, so the empty string is returned.
+
+**Constraints:**
+
+*   `1 <= words.length <= 100`
+*   `1 <= words[i].length <= 100`
+*   `words[i]` consists only of lowercase English letters.","```python
+def minimizeTheDifference(mat, target):
+    m, n = len(mat), len(mat[0])
+    dp, new_dp = [1] + [0] * 4900, [0] * 4901
+    for i in range(m):
+        for j in range(n):
+            for k in range(4900 - mat[i][j] + 1):
+                new_dp[k + mat[i][j]] |= dp[k]
+        dp, new_dp = new_dp, [0] * 4901
+    for i in range(4901):
+        if dp[i]:
+            return abs(target - i)
+    return float('inf')
+```
+"
+Minimum Sum of Four Digit Number After Splitting Digits,Easy,"You are given a **positive** integer `num` consisting of exactly four digits. Split `num` into two new integers `new1` and `new2` by using the **digits** found in `num`. **Leading zeros** are allowed in `new1` and `new2`, and **all** the digits found in `num` must be used.
+
+*   For example, given `num = 2932`, you have the following digits: two `2`'s, one `9` and one `3`. Some of the possible pairs `[new1, new2]` are `[22, 93]`, `[23, 92]`, `[223, 9]` and `[2, 329]`.
+
+Return _the **minimum** possible sum of_ `new1` _and_ `new2`.
+
+**Example 1:**
+
+**Input:** num = 2932
+**Output:** 52
+**Explanation:** Some possible pairs \[new1, new2\] are \[29, 23\], \[223, 9\], etc.
+The minimum sum can be obtained by the pair \[29, 23\]: 29 + 23 = 52.
+
+**Example 2:**
+
+**Input:** num = 4009
+**Output:** 13
+**Explanation:** Some possible pairs \[new1, new2\] are \[0, 49\], \[490, 0\], etc. 
+The minimum sum can be obtained by the pair \[4, 9\]: 4 + 9 = 13.
+
+**Constraints:**
+
+*   `1000 <= num <= 9999`","```python
+def min_operations(grid, x):
+    min_element = min(min(row) for row in grid)
+    min_ops = float('inf')
+
+    base = min_element
+    while True:
+        operations = 0
+        impossible = False
+        for row in grid:
+            if impossible:
+                break
+            for cell in row:
+                diff = abs(cell - base)
+                if diff % x != 0:
+                    impossible = True
+                    break
+                operations += diff // x
+        if impossible:
+            break
+        min_ops = min(min_ops, operations)
+        base -= 1
+
+    return -1 if min_ops == float('inf') else min_ops
+```
+"
+Find All K-Distant Indices in an Array,Easy,"You are given a **0-indexed** integer array `nums` and two integers `key` and `k`. A **k-distant index** is an index `i` of `nums` for which there exists at least one index `j` such that `|i - j| <= k` and `nums[j] == key`.
+
+Return _a list of all k-distant indices sorted in **increasing order**_.
+
+**Example 1:**
+
+**Input:** nums = \[3,4,9,1,3,9,5\], key = 9, k = 1
+**Output:** \[1,2,3,4,5,6\]
+**Explanation:** Here, `nums[2] == key` and `nums[5] == key. - For index 0, |0 - 2| > k and |0 - 5| > k, so there is no j` where `|0 - j| <= k` and `nums[j] == key. Thus, 0 is not a k-distant index. - For index 1, |1 - 2| <= k and nums[2] == key, so 1 is a k-distant index. - For index 2, |2 - 2| <= k and nums[2] == key, so 2 is a k-distant index. - For index 3, |3 - 2| <= k and nums[2] == key, so 3 is a k-distant index. - For index 4, |4 - 5| <= k and nums[5] == key, so 4 is a k-distant index. - For index 5, |5 - 5| <= k and nums[5] == key, so 5 is a k-distant index. - For index 6, |6 - 5| <= k and nums[5] == key, so 6 is a k-distant index.`
+Thus, we return \[1,2,3,4,5,6\] which is sorted in increasing order. 
+
+**Example 2:**
+
+**Input:** nums = \[2,2,2,2,2\], key = 2, k = 2
+**Output:** \[0,1,2,3,4\]
+**Explanation:** For all indices i in nums, there exists some index j such that |i - j| <= k and nums\[j\] == key, so every index is a k-distant index. 
+Hence, we return \[0,1,2,3,4\].
+
+**Constraints:**
+
+*   `1 <= nums.length <= 1000`
+*   `1 <= nums[i] <= 1000`
+*   `key` is an integer from the array `nums`.
+*   `1 <= k <= nums.length`","```python
+def can_fit_stamps(grid, stampHeight, stampWidth):
+    m, n = len(grid), len(grid[0])
+    for i in range(m - stampHeight + 1):
+        for j in range(n - stampWidth + 1):
+            canFit = True
+            for x in range(stampHeight):
+                for y in range(stampWidth):
+                    if grid[i + x][j + y] == 1:
+                        canFit = False
+                        break
+                if not canFit:
+                    break
+            if canFit:
+                return True
+    return False
+```
+"
+Remove Digit From Number to Maximize Result,Easy,"You are given a string `number` representing a **positive integer** and a character `digit`.
+
+Return _the resulting string after removing **exactly one occurrence** of_ `digit` _from_ `number` _such that the value of the resulting string in **decimal** form is **maximized**_. The test cases are generated such that `digit` occurs at least once in `number`.
+
+**Example 1:**
+
+**Input:** number =  ""123 "", digit =  ""3 ""
+**Output:**  ""12 ""
+**Explanation:** There is only one '3' in  ""123 "". After removing '3', the result is  ""12 "".
+
+**Example 2:**
+
+**Input:** number =  ""1231 "", digit =  ""1 ""
+**Output:**  ""231 ""
+**Explanation:** We can remove the first '1' to get  ""231 "" or remove the second '1' to get  ""123 "".
+Since 231 > 123, we return  ""231 "".
+
+**Example 3:**
+
+**Input:** number =  ""551 "", digit =  ""5 ""
+**Output:**  ""51 ""
+**Explanation:** We can remove either the first or second '5' from  ""551 "".
+Both result in the string  ""51 "".
+
+**Constraints:**
+
+*   `2 <= number.length <= 100`
+*   `number` consists of digits from `'1'` to `'9'`.
+*   `digit` is a digit from `'1'` to `'9'`.
+*   `digit` occurs at least once in `number`.","```python
+def max_number_after_remove_digit(number: str, digit: str) -> str:
+    index = number.find(digit)
+    return number[:index] + number[index + 1:]
+```
+"

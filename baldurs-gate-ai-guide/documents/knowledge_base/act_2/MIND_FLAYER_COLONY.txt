@@ -1,0 +1,104 @@
+# MIND FLAYER COLONY
+
+## Quests
+- Jump down the Hollow Tower
+- Free Us
+- Explore Necrotic Laboratory and get Resonance Stone
+- Solve the Mind Flayer Colony Puzzle
+- Help Zevlor
+- Free Mizora
+- Defeat Ketheric Thorm
+NOTE: This walkthrough will feature an alternate version wherein one of your companions, Gale, gets an opportunity to end the control of the absolute as part of The Wizard of Waterdeep quest. When he gets close enough to the elder brain, he can cause himself to explode killing everything else around him. We recommend following our initial guide here but we will still indicate the alternate version below.
+
+Once your party has rested, you can now interact with the Hollow Tower. Once you do so, you will get a prompt that will ask you if you will leap after Ketheric Thorm and the tentacle that drew him underground with the Nightsong. If you agree, your character will look down on the chasm as Shadowheart asks if you intend to jump down. Seemingly as if your character didn't hear anything, you will jump down the chasm and upon reaching the ground, you see the walls around you are covered with the same red mucus that you found inside the tower, from where the suspicious sounds came from. The mucus is far thicker indicating that you are closer to the source. 
+
+You and your party have finally reached the Mind Flayer Colony and your Dream Visitor speaks to you that you are closer to the source of the parasites, the ones that were used to infect your party. Interact with the membrane that's blocking the path to destroy it and reveal new sub-areas. These membranes are surfaces that your character can interact with. The dream visitor continues to speak again to remind you to be careful as you get closer to the source.
+
+You will find Intellect Devourers in this area but they are not immediately hostile. You will find them roaming around and seem to be running away from you. Follow the passage down to your right to reach a Flesh-Wrought Door that will reveal the Morgue sub-area. You will see rotting bodies and cages dumped nearly anywhere and if you were able to reach Oubliette while you were exploring Moonrise Towers Prison, this was the area that can be seen from the central part.
+
+On your right, you will find a brain that is contained inside it, if you did not destroy the brain in the Nautiloid Ship, they will show up here in the Morgue sub-area. They will ask for your help to have them freed because it claims that they are not like the others and that they will be destroyed. If you save them, they can accompany you in battle in the form of a summon. To reply, you will get the following options:
+- I'll free you.
+- Let me think about it.
+- Not my concern.
+
+There's also a console in the center of this area. When you interact with it, a corpse will fall through the hatch. Chop speaks out, that those are offering from Moonrise Towers. Next, you can speak with Chop, a creature with a hollow mind that has been enslaved by The Absolute. It seems that it is following orders but can't think much on its own. You will now get a chance to choose how to interact with Chop:
+- [ILLITHID] Enter his thoughts.
+- What is this place?
+- What did you do to all these people?
+- About that creature in the cage...
+- I need to find your master- Ketheric.
+- Leave.
+
+You find out that Chop has been harvesting the brains of their captives, while The Absolute turns them into Intellect Devourers and eventually, they will become a part of the hivemind. It also tells you that the brain inside the cage is different from the others, and needs to be fixed. Now you'll get the option if you want to free it or let him do his work:
+- What's wrong with it?
+- [ILLITHID] Let it come with me. We sing the same song.
+- [PERSUASION] I'll take the creature with me. It won't disrupt the hivemind anymore.
+- [INTIMIDATION] Free the creature or I'll kill you and every one of your creations.
+- Do as you will with it.
+
+If you attempt the Persuasion check, you will need to pass a DC of 14. When you are successful, he will hand you the key to free it. Upon successfully freeing the brain, you will receive an item: "Summon Us", they tell you that they will remain with you until you call out to them. Continue looking around this area, and you will find helms on the table. Check your party's equipment and see if any of the items are fit for them.
+
+Your next destination is the Necrotic Laboratory which you will find at (X:715 Y:-49), before entering this area, your party must be prepared for a battle against a horde of enemies. You will find Zombies, Winged Horrors, and a Death Shepherd commanding them. When you are done fighting them, you will have a pile of bodies to loot from. The area that they were standing from shows Profane Womb that can be attacked and destroyed. Behind the ritual zone, there is a secluded space behind it.
+
+Jump over the ledge towards (X:695 Y:-110) to find Resonance Stone on the table. Next to the table, there's a Slack-Skinned Head that speaks in incomplete sentences that seems to be lending the voice to the elder lore. Next, go to the other side of the laboratory where you can locate another console. This one is in desperate need. You will get an option if you want to help this console or not. If you do, you can get a weapon from this and understand the Grand Design built by the Illithids.
+
+The Mind Flayer Colony Puzzle consists of four nodes to match the other end. Follow this order to complete the puzzle:
+- Emotion: The yellow node will connect from the outer left edge to reach the final Emotion Node on the other end.
+- Speech: The blue node will connect from the top, then go right, then forward to reach the Speech Node on the other end.
+- Memory: The green node begins from the right, then through the middle, and then back towards the left to reach the Memory node.
+- Reason: The pink node will connect the remaining nodes, all the way through to the other end. 
+
+You can now walk to the stony statue at the back of the puzzle where a voice will finally speak. The Desecrated Relief tells you about The Grand Design and the words: order, perfection, and unity.  The Dream Visitor speaks to you again to tell you that the Grand Design is the restoration of the Mind Flayer empire, the dream of all Illithids. After this cutscene, look around in the ground and you will find the Blade of Oppressed Souls right next to the opening of the statue.
+
+Continue exploring the path on your map and follow the guide to the 'Suspicious Sounds' that is highlighted in a yellow ring. At exactly (X:686 and Y:-13), you will see another Flesh-Wrought Door. This door will lead you to the Tadpoling Centre where you will find similar pods that were used to capture you in the Nautiloid ship.
+
+You can interact with each of the consoles to find out about the prisoners that they once held. There's a Neural Apparatus next to it that you can interact with. You find out that there are Illithids, and the not yet infected ones that are desperate for release. It is your choice if you want to release or purge these creatures, together with the non-infected ones or let them be. 
+
+If you choose to release them, Karlach will give you her approval, while Astarion will give his disapproval. Zevlor is inside one of the pods but freeing them means you will have to fight against the Mind Flayers that will be freed together with the rest of the prisoners. By doing so, the Intellect Devourer will also become hostile at the command of the Illithids. Defeat the enemies here and speak with Zevlor after. He is eager to find out what had become of his people, and you can respond to him with one of the following options:
+- You abandoned them. Do you really think you have the right to ask?
+- Some. Others ended up in a cell in Moonrise. That's on you.
+- They found refuge but what the hells happened out there, Zevlor?
+- I can't tell you. 
+
+If you choose the third option, he tells you that they were ambushed by the cultists and that he has heard a voice of a woman who whispered promises in his mind. He realized that he was put under a charm, and it was too late for the ones that he was supposed to be protecting. He surrendered and even welcomed the Absolute, he said.
+- If you wanted power, you never needed a god- only to live up to your ideal.
+- 'For a moment'- until you realized your reward would be a tadpole.
+- It sounds like you were being enthralled. It's not your fault.
+- Your people didn't need a paladin- they saved themselves. 
+
+After this, he is aware of the battle that lies ahead and will offer his help. He tells you that Ketheric is below and that he intends to look for other survivors and lead them out of the area. Now it's up to you if you want Zevlor to fight with you or save his people:
+- I could use another blade in the fight to come.
+- Find your own people. They need you.
+- I don't care what you do- just get out of my sight.
+- Fine. Good luck, Zevlor.
+
+Continue exploring the yellow ring, and you will find Mizora at (X:682 Y:37) in front of Brine Pools. She speaks out loud that there are no more tadpoles and that it is an indicator that they are planning something big. She had been captured by the Illithids and you have gained an opportunity to free Wyll from his pact with her.
+- [INTIMIDATION] Free Wyll, or I let the cult infect you. I bet you'd make a loyal thrall.
+- [HISTORY] Remember all you can about devils and their contracts. 
+- [PERFORMANCE] Say you know a pact-breaking charm and chant a series of pseudo-Infernal phrases.
+- Poor thing. I'll let you out of there.
+- Fine. Let's get on with it.
+
+If you attempt the History check, you will need to pass a DC of 16. Then you will remember a chant that is used to void a devil's contract. You will now get the next choices:
+- 'Abi diabole, et nunquam redi.'
+- [HISTORY] Remember all you can about devils and their contracts. 
+- [PERFORMANCE] Say you know a pact-breaking charm and chant a series of pseudo-Infernal phrases.
+- Poor thing. I'll let you out of there.
+- Fine. Let's get on with it.
+
+Mizora will laugh at you and she will agree to free Wyll, but only after she's free from the pod. Now you will turn your attention to the controls next to Mizora's pod. The key here is the Right Device will free Mizora, while the Left Device will kill her. Note that Wyll's soul is still bound to her, so if Mizora dies, so does Wyll.
+- [STRENGTH] Gather your strength and smash your foot through the pod.
+- Examine the device on the left.
+- Examine the device on the right.
+- Leave her there.
+
+If you choose to free Mizora, she reveals that she will only release Wyll's soul after six months and calls you an Ignorang thing.
+- To the Hells with your conditions. Sever Wyll's pact now, or I'll sever your head.
+- A full half of a year? You've got to e kidding.
+- Shrug. Six months isn't that long of a wait.
+- That warlock of yours is turning out to be more trouble than he's worth. 
+
+Mizora will now leave this area and you can continue exploring the Mind Flayer Colony at exactly (X:704 Y:24) you will find another Flesh-Wrought Door that will lead you into the Barracks. You will find a Kressa Bonedaughter in this area who suspects that you are part of the attackers. You can attempt the Deception check here, which requires you to pass a DC of  21, or simply attack her. 
+
+We recommend using the Deception check first, and if that works, you can have one of your party do a sneak attack on her. The rest of the enemies will see what you have done, and you will have fewer enemies to fight. All that's left now is to eliminate Bonefighter, Maghtew Badj, and Hairy Henry. Continue the path behind this section and you will find a Restoration that looks like a mushroom. Interact with it to replenish your health. 
+

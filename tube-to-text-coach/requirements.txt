@@ -1,0 +1,9 @@
+streamlit
+openai
+assemblyai
+langchain
+clarifai
+yt_dlp
+pydub
+md2pdf
+langchainhub

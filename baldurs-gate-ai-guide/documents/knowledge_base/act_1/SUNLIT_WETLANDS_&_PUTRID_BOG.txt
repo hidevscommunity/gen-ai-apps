@@ -1,0 +1,17 @@
+# SUNLIT WETLANDS & PUTRID BOG
+
+## Quests
+- Meet Auntie Ethel (the hag) at the Sunlit Wetlands
+- Find Auntie Ethel (the hag) at the Riverside Teahouse
+
+From the Forest, head southeast to (X:50, Y:314) to reach the Sunlit Wetlands. Just up ahead, you'll find two men arguing with an old lady. The old lady turns out to be Auntie Ethel (the hag) from the Emerald Grove. The two men are Johl and Demir, and they demand to know where the old lady took their sister. You can choose to side with Auntie Ethel (the hag) or the brothers during the argument, the choice doesn't matter much for the Main Quest. This conversation will end with Auntie Ethel (the hag) leaving for her house and marks the beginning of the Side Quest Save Mayrina.
+
+Auntie Ethel (the hag) can then be found in the western part of the Sunlit Wetlands at the Gnarled Teahouse. Once you enter the teahouse, another cutscene will play as a part of Save Mayrina. You can be as hostile or as accommodating to Auntie Ethel (the hag) as you want in this part, it won't affect whether or not she's willing to help you with your parasite problem. If you are hostile towards her, you will get one last chance to get her help near the end of the conversation where she offers to take care of the little bugger.
+
+The game offers you multiple ways of getting rid of your parasite and you do not have to do this step to complete the Main Quest Find a Cure. However, if you accept Auntie Ethel (the hag)'s help, she will explain that in exchange, she wants one of your eyes. Agree to the terms, and she'll transform into her true form. Do note that agreeing with the terms of the deal gets disapproval from all your Companions. You will get the Paid the Price Condition after going through the procedure.
+
+The Gnarled Teahouse and Save Mayrina quest encompasses most of the exploration you'll do in the Sunlit Wetlands/Putrid Bog. Some Items of note include the Whispering Mask, The Ever-Seeing Eye, Bitter Divorce, and the Staff of Crones. The first item can be found in the Overgrown Tunnel beneath the Gnarled Teahouse, while the latter three can all be found in the Acrid Workshop reached by heading into the depths of Auntie Ethel (the hag)'s home, or through a mushroom circle found south of the Gnarled Teahouse at (X:-72, Y:210). If you complete Save Mayrina and spare Auntie Ethel (the hag) at the end, you may also get Auntie Ethel (the hag)'s Hair to increase on Ability Score of your choice.
+
+There are a few other places of interest within the Sunlit Wetlands you might want to check out. In the southeast portion of the area is the Decrepit Sanctuary, Here, you'll find a large island with some hostile Wood Woad (that may drop the Wood Woad Shield) and Ancient Mud Mephit, but more importantly, the Wooden Chest here holds The Sparkle Hands, and the large log in the middle of the island contains the Letter to Kagha used for the Save the Refugees Quest.
+
+Directly southwest of the Riverside Teahouse Waypoint, you'll find Gandrel, a Gur intent on finding and capturing the vampire spawn Astarion. Interacting with him gives you several opportunities to gain approval (or disapproval) from Astarion and learn more about how other NPCs see Astarion. If you end up in a fight with Gandrel, you can loot Gandrel's Aspiration from him afterward.

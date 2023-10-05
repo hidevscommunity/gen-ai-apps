@@ -1,0 +1,987 @@
+and we're live
+perfect so please take it away hi
+everyone and a warm welcome to today's
+sap Community call my name is Susan and
+I am proud of the sap Hana product
+management team and I will be your host
+today and I'm really really excited
+about the topic of today's call so we
+will first get an introduction to
+machine learning in sap Hana cloud and
+afterwards we'll finally kick off our
+sap Hana 12 machine learning challenge
+so thanks already for joining here and
+your big interest in the challenge so
+let me introduce the most important
+people today we're having in the back
+end with me Savage whose competency for
+data science and machine learning at sap
+Andreas Foster our machine learning
+expert in Sap's Global Center of
+Excellence Yannick sharp our customer
+advisor for machine learning and my
+fellow product manager Christoph Morgan
+senior director of product management
+sap Hana predictive and machine learning
+so our call will be 60 Minutes long and
+the recording will be available under
+the exact link you're joining us today
+so one last thing before I hand it over
+to our speakers make sure to use our q a
+tools so I'm right next to the video in
+YouTube you see the chat window just
+post all your questions in there and
+we're hopefully having enough time at
+the end of our call to answer all your
+questions either in a written format in
+the chat or live in a spoken format so
+with this Christoph I don't want to
+steal any more time from you I'm handing
+it over
+thank you very much Susan
+for the nice introduction and also warm
+welcome from my side to our Hana machine
+Learning Community chilling uh challenge
+I'm really excited we have been able to
+put this together with our machine
+learning experts from the field
+um we'll also have uh put to put
+together the the challenge itself
+and yeah basically as you already kind
+of outlined what we want to do in the
+next couple of minutes quickly I will
+introduce the the Hana ml capabilities
+and overview the topic very briefly
+then Yannick will give you a demo
+overview on how to make use of the Hana
+machine learning capabilities
+and
+um yeah and again Sarah will then
+describe the challenge itself the the
+topic which is the key use case for for
+our Challenge and also Andreas will then
+kind of outline how we organize the
+overall uh Challenge from our process
+perspective when we meet how we meet uh
+how we can interact and yeah how you can
+get access to the the Hana Cloud
+challenge
+also here's uh uh some some pictures of
+all of us across the regional experts
+which you which will be joining our open
+office called uh regularly uh in the
+different regions will also come to them
+and introduce them as well so
+Hana machine learning is one of the key
+capabilities of the Hana cloud or the
+Hana database in in general along with
+other Advanced processing capabilities
+like spatial graph or storing data in
+the Json documents or some of the
+extended key capabilities which make
+Hana let's say a unique and Rich
+multi-model database and you can build
+your applications on btp on sap Hana
+Cloud for example and directly Infuse
+them with those those Advanced
+capabilities without the needs need to
+add another spatial application server
+or machine learning
+let's say infrastructure it's all part
+of Hana cloud in the first place and
+that's why it makes this so attractive
+to yeah apply machine learning scenarios
+directly with sap Hana
+uh we will also showcase our native
+client interfaces for data scientists in
+Iron python so in case you don't know
+them uh yet we will showcase them to you
+we have two key AI function libraries
+embedded in Hana Cloud the first one is
+the automated predictive Library which
+targets yeah the classic machine
+learning scenarios like classification
+regression and Times News forecasting
+some others and the key value of the
+automated predictive library is that
+there's a simple set of functions which
+everybody can use non-data scientists
+developers
+administrators of a Hana system can
+really use because the engine automates
+the complete step from accessing my data
+selecting the best variables data
+preparation maybe encoding even of uh
+distinct columns missing value handling
+all that and comes up with the best
+possible model that's why it's very very
+popular uh yeah AI function library
+because it provides you with a high
+productivity and fast time to Value to
+kind of come up with a really really
+good machine learning model in the first
+place
+our second Library more for the expert
+is the predictive analysis Library it
+provides education for the same or
+similar scenarios like the automated
+predictive library but those are kind of
+distinct algorithms the experts can
+choose from like for example gradient
+boosting classification or profit time
+series forecasting so it provides
+trending algorithm along with standard
+and classic algorithm in those
+distinctive domains
+plus adding uh your expert support
+capabilities like uh segmented
+forecasting invocation explainability
+for model interpretability
+or uh yeah hyperscaler not hyperscaler
+hyper parameter model selection and
+capabilities like that it's also driven
+by the SQL interface as well as the r
+and python machine learning clients and
+here
+you see that there's a rich set of
+functions and algorithms available with
+the predictive analysis Library it uh it
+is distinguished a little bit between
+the on-premise sap Hana and the sap Hana
+Cloud here in our challenge we are
+sharing a Hana Cloud instance which has
+all the algorithms you see on the slide
+available
+which you can choose and make use of as
+part of the the challenge everything
+bluish and black is also available uh
+within johana on premise installation
+um so a rich set and maybe Swiss army
+knife to with all kinds of algorithms
+and the best is as a data scientist and
+as you may already know those algorithms
+you can leverage them via the pisman are
+machine learning clients where you
+basically script in those languages
+but you run in Hana as the interface
+generates secret on the Fly and execute
+with sabiana data is exposed by a data
+frame concept similar to what you may
+already know in Python R and then the
+methods are wrapped in python or R and
+you can then script
+um with your python Jupiter notebook
+like you would be scripting with
+scikit-learn for example everything is
+really similar and close so the
+experience and productivity for you or a
+data scientist is really good
+so these are our machine learning
+clients and I guess this was the the
+brief info from my side and I think
+what's most interesting how uh
+does it look like live and I think
+Yannick is now giving you the demo
+experience
+perfect thank you Chris
+so let me share my screen and
+before we jump into the tool and my
+python environment I want to first show
+you a small architecture of the demo and
+what we will see in the next couple of
+minutes so I I will be working from my
+local Jupiter lab environment but you
+can of course also use other pricing
+environments to leverage our Hana
+machine learning capabilities
+and what I will do first is install the
+Hana ml package which will contain the
+hair functionalities Crystal introduced
+and I will then be able to use them
+from my local python environment without
+moving the data into my my local
+environment so I can
+stay here in my python environment but
+still use the functionalities in Hana
+and the data can stay where it is so
+really we brought the algorithms to the
+data
+and with these functionalities I will
+then show you how I can predict a
+quality of a production
+and in my demo and yeah I cannot see you
+screaming Susan also cannot gets new
+screen mature that's a general issue
+maybe you can re-share again oh sorry
+about that no problem
+yeah it's
+ski
+I mean this is life it says maybe
+somebody can take
+can take over the sharing and then I'll
+restart again because it's a whole Zoom
+is kept Frozen sorry about that
+no no problem maybe I can find Andreas
+do you wanna
+go ahead with kind of your part
+are you ready then we come back to the
+demo once uh the unexpect
+I was hoping to talk over this night
+that yeah so
+yeah but now we can do it it's working
+yeah can you see my screen now yes we
+can okay okay sorry about that some some
+technical problems
+um yeah so I hope you can see now my my
+architecture so to maybe summarize that
+I'll stay in my local Jupiter
+environment my low comparison
+environment you can of course use also
+use other python environment
+um to install the Hana ml package from
+there you can leverage them these
+functionalities in Hana cloud
+and I would say let's let's take a look
+at the concrete example and we will of
+course also find the code I'm about to
+share in a blog post we published in in
+a GitHub repository so if you want to
+follow
+um demo later in through the blog post
+that is of course also possible
+okay
+so I hope you can see now my local
+Jupiter environment
+and
+I said the first thing you have to
+install is the Hana package which
+leverages the functionality is Crystal
+introduced
+through so through this package I am now
+able to use the predictive analyzers
+library and auto made a predictive
+library and connect to my Hana cloud
+system
+so I installed it and uh then imported
+and now of course the next step is to
+actually connect to my
+um Hana system and you have different
+options to do this so
+for the challenge
+um you might have already tested the
+connection from your python environment
+but one of the scripts in the git
+Repository
+you're able to copy the credentials into
+the fields and then of course yeah test
+the connection
+but of course you can also hide your
+credentials and don't have them visible
+in in your cell as script and I've for
+this I've added a security key which is
+also described in the blog post which
+could contains my credentials and now
+I'm able to connect to my Hana cloud
+system through this security key
+and this connection variable here will
+then be very important for me to yeah
+create the Hana data frames and to of
+course then save my results in my Hana
+Cloud later on
+and
+now there are two options so the first
+scenario could be that the data is
+currently locally here on my laptop and
+I want to upload it into my Hana cloud
+system
+so for this demo I've prepared some some
+data which is of course not the
+challenge we didn't want to make it that
+that simple
+and I've yeah then trans transformed
+this later this data a little bit added
+in ide and then I will pushing it now
+directly into my Hana cloud system into
+my schema
+and you would be able to do this as well
+you can take the data from The Challenge
+load it locally and then push it into
+the Hana cloud system
+for example is providing to you
+then later on the data is of course
+already yeah lying in your Hana cloud
+system and you don't always want to push
+it into Hana every single time when you
+create the Hana data frame and of course
+in reality
+often the data is already in your
+backend system in this hopefully not
+um only locally on your laptop
+and I can create this Hana data frame
+also in a couple of different ways
+without moving the data into my local
+environment and one option you see here
+in the script
+so remember I created this connection
+variable
+and I now have the option to execute an
+SQL statement very simple here which
+just points to the data in my schema in
+my Hana cloud
+and with with this I've now created a
+Hana data frame
+with which I can now work I can do data
+understanding I can do data preparation
+and I can also Leverage The Machine
+learning capabilities without moving
+this data into my local environment so
+it it's kind of like an arrow
+pointing to the data in My Hangout file
+system
+okay so this is prepared so let's take a
+look at some data preparation or data
+understanding steps so for example if
+you first have to clean your data before
+you actually can do machine learning and
+for this you have of course a couple of
+functions already available here to you
+through the Hana ml package for example
+the variable
+quality which I actually want to predict
+is in the wrong format and I can get
+quickly change it into a character
+format so that the algorithms automatic
+automatically detect that it's probably
+a classification what it's supposed to
+do
+and of course I can do complex for data
+preparation steps here as well I could
+execute of course also SQL scripts to to
+clean the data
+um I can also visualize the data so here
+I'm doing a small description of the
+data and then I'm only collecting the
+actual report
+of this describe method so the heavy
+lifting stays in Hana and I'm only
+collecting small samples of the data
+like this described report into my local
+environment to visualize it
+okay now of course in reality data
+understanding and data preparation takes
+quite a lot of time
+but I would like to move on now to
+um yeah the machine learning part
+because I think it's very powerful and I
+can yeah work just like I'm used to with
+also open source package like cycle
+learn or other packages to now split the
+data into a training and the testing set
+before I train my machine learning
+algorithm and this is done through
+this cell so through this command I'm
+now I'm splitting the data into 80
+training set and 20 of the data I will
+preserve for yeah testing my train
+machine learning modeling
+I can then control the size of my
+training and testing set
+and then I can proceed to
+um do machine learning and as Christoph
+mentioned there are a lot of options
+available now for you to solve the
+challenge and I will choose one
+possibility which is an algorithm in the
+predictive analysis Library
+and I'm a big fan of the random Forest
+um which is yeah a great method to you
+know predict if a transaction if a
+creative product will be of good quality
+or bad quality and
+for this I'm now using the random Forest
+classifier here and the predictive
+analyzers library and I first want to
+train this
+um model with a lot of threes so
+um to see kind of how does the error in
+my algorithm
+um convert converge and I can optimize
+this algorithm here just like I'm used
+to in the open source world so I can now
+go into more
+um hyper parameter tuning and it's it's
+really just like if I would be um
+optimizing an algorithm from Cycles
+learn
+when I've trained the the model I can
+then create prediction with it
+um predict
+um if the product will be of good or bad
+quality I can look at the score and the
+confidence how how sure is the algorithm
+if a product will be of good or bad
+quality
+I can further evaluate it so I can for
+example of course look at the confusion
+Matrix how good is the algorithm in its
+decision making this one here is in
+Sample but I can of course also apply it
+to the testing data which I've kind of
+preserved on the side and look at the
+confusion Matrix out of sample
+to to control if my machine learning
+model is actually of good quality
+and yeah of course then many many more
+capabilities to actually evaluate
+um the model of course
+um random Forest is also a really
+amazing algorithm because I don't only
+have the prediction but I also have
+um kind of more insights
+um
+what which variables were of importance
+which
+um variables were not as important to
+predict if a product will be of good or
+bad quality
+so I also generate not only the
+predictions but really further insights
+for the business
+and yeah I kind of want to scroll
+through here so I'm now doing a lot of
+hyper parameter tuning here and
+in the end I of course have one final
+model which I'm yeah which I'm happy
+with
+um which I then want to of course also
+save in my Hana cloud and maybe use it
+at a later time again and for this I'm
+now also able to create a model storage
+directly in in my Hana
+and in there I can then save my final
+machine learning model which I've
+optimized
+and then later on of course always load
+it and use it for for predictions and
+for example in here you see I've already
+created
+um two random Forest models which I can
+then further use
+now this was just one example how to
+Leverage The Machine learning
+capabilities in our cloud and there are
+of course many more and for you of
+course it is important then when you
+start with it how do you find the
+documentation how to actually
+um yeah tune such an algorithm
+and for this I want to quickly show you
+the
+[Music]
+link to the
+documentation there it is
+so under the link you will then find of
+course a lot of more examples and you
+can you can try and in here you will
+also have the documentation how you
+actually yeah tune these algorithms and
+um you find a lot more possibilities
+um there as well
+and with that I would say we are now
+ready to look at the actual challenge
+which you will have to solve in this ml
+Community challenge
+so Sarah
+can you tell us a little bit more about
+the actual challenge
+sure we prepared a lot of fun things for
+you
+and maybe let's start with the concept
+that we prepared for you for our
+community challenge so the idea is that
+we have some hard experimental learning
+especially for you
+so Yannick when we move to the next
+slide
+yeah seems to have problems again
+no worries
+just give it a few seconds
+so maybe you can take over the share the
+screen sharing
+thank you
+there we go yes we prepared a Hana cloud
+system for you so you should all have
+access to that
+um if you don't it's also described in
+the blog post in the kickoff blog post
+how you can get access to it
+then we have a nice challenge for you I
+will give you a few more insights about
+that one later on and as Yannick already
+mentioned we have some expert content
+yeah you have a lot of GitHub links you
+also have some Hands-On tutorials that
+might help you doing the challenge and
+in case you get stuck we are of course
+always there for you so we have some
+open Office hours twice a week so this
+is again also a zoom call which is not
+recorded not live on YouTube yeah so you
+can be so you can join and ask us all
+the questions
+yeah that you want and that might help
+you solve the challenge in case um you
+don't want to wait for our open Office
+hours or something comes up and during
+these days you can also ask the
+questions at any time at the SFP
+Community there you can also see the
+kickoff blog post and then you can just
+write your questions as a comment to
+this blog post now we will be monitoring
+that and then we'll also try to help you
+with um
+this in the sap community
+yeah the idea is that we all work and
+learn together yeah so feel free to work
+in teams if you want if you want to
+participate alone that's also fine but
+also we want you to share your
+experience in our final call where you
+also can present your results yeah that
+you shared it also with all the other
+participants
+yes so the idea is that everyone can
+really improve their skills we all can
+learn something during this Challenge
+and we can learn as much as we can also
+from each other
+I already mentioned we also have a final
+call where you can all present your
+results you can you don't have to but we
+would highly appreciate it if you prefer
+not to present it during a call you can
+also write a blog post about it and post
+it on the sap Community challenge so
+it's up to you what you want and then we
+have our experts who then will decide
+who wins the hackathon now we also have
+some nice prizes for you
+so I would say give it your best shot
+yeah do your very best during your our
+Challenge and then try to win the
+hackathon
+yeah let's maybe talk a little bit more
+about a challenge
+and here's our evaluation criteria
+like I said you have a challenge so you
+have one use case that you should solve
+with the sap Hana machine learning
+Asiana presented to you it's up to you
+if you want to use the automated
+predictive library or the predictive
+analysis library but you should
+definitely use the things which are
+available on the Hana cloud
+and we are also looking for an appealing
+presentation so give it a clear message
+and also think about for whom are you
+building this yes so you should also
+think about the business context maybe
+you have a Persona in mind for whom
+you're building this and then
+give it a clear message make it really
+nice presentation and we are not just
+looking for the highest security
+position or recall of course this is
+also important but we are also looking
+for the best and catchy story yeah so
+just make it a nice and fun presentation
+and I think you're good to go
+okay then on the next slide we have all
+the details about our challenge
+yeah here we go so it's all about
+employee churn now Susan wrote this
+quite provocatively with I quit yeah we
+thought you know during the times where
+everyone is looking for the best talents
+this is really important you the use
+case to really yeah
+retain yeah your most skilled people
+make him happy so that they stay with
+you as long as they can
+so this is then what it's all about yeah
+you should predict which employees will
+be leaving the company within the next
+12 months yeah and
+yeah I think this is a highly
+interesting case because when I talk to
+managers sometimes um they think when
+someone has a new haircut then that
+might be the highest indication but we
+think the data can do better yeah so
+that's why we prepared a lot of yeah
+different
+um
+yeah data are the different factors for
+you influencing factors so you can
+choose the one which really have an
+influence yeah I hope you remind that
+having a new haircut or not is not
+included in the data set because we felt
+that is not so relevant yeah
+um so let's have a bit more of a look
+on the data Kristoff
+and maybe you can press on the play
+button so we can see that so this is um
+actually the data that we prepared for
+you yeah you see you have a lot of
+different influencing factors that you
+can see here it's basically everything
+so it's the age it's a gender so the
+classical Master data that we know about
+our employees but also the things here
+is it a full-time employee or not
+did they change already yeah within the
+companies on which functional area did
+they work before in which country did
+they work before how long was have they
+been with the formal
+um yeah with the formal position was it
+an external hire or something and also
+when they changed the position was it an
+intro functional move or not so
+basically everything we could think of
+that really has an influence or so
+typical data that you also have in your
+HR System you can find data here this
+link via GitHub repository and there's
+also a PDF attached that gives you a
+really detailed description of each of
+the fields okay so that you can see what
+is there in each field
+and what does each of these entries mean
+in case you have some questions about it
+you can of course again come back to us
+as you can see here on the right the
+Flight Risk this is from the historic
+data yeah so that you see who left the
+company actually in the last 12 months
+and this is what we will use to train it
+yeah but you will use to train it so you
+can then of course apply it to the new
+employees and see who is up next yeah
+um who has a really high churn rate and
+also maybe you can also find some
+reasons why someone is leaving which
+then could prevent yeah so which could
+then be a good tip for our managers so
+they can do something about it so that
+they will stay with us
+okay that's it from The Challenge
+like I said if you have any question you
+can ask them now in the chat or also
+later on
+um I will head over to Andreas to talk a
+bit more about the organization
+yeah super thank you uh Sarah so if we
+just stay on the slides Kristoff if we
+just uh
+continuous with it that'd be perfect
+just coming up if you just go
+to the next slide please yeah
+super thanks so much so I'm sure you all
+Keen to to get started now you heard
+about the machine learning in Hana Cloud
+you've seen it you heard about the
+challenge so now to some practical
+details I'll know the next three weeks
+really now is going to continue
+and today at the time of presenting or
+recording it is in November the 28th
+and you have now three weeks to work on
+this challenge to implement at the end
+of these three weeks to present your
+results as Sarah has explained
+um so the first sort of um contact with
+a few participants already had last week
+where we offered connectivity sessions
+for people uh to connect from the local
+python environment to the Hana Cloud
+which I understand has all been working
+very well so far
+and as part of the support that we are
+providing now to help you so um bring
+the implementation we're providing these
+open Office hours that we've already
+mentioned but here we have these dates
+of these open Office hours and together
+with a link where you find the exact
+hours and due to the global nature of
+this challenge we're offering different
+time slots
+yeah the first line that you see at the
+bottom of the of the slide is for the
+European and Asia pack time zone and the
+second line further below is for the
+Americas so that everybody has the
+chance not to talk to someone during
+normal working hours of course
+and you will be supported by a global
+team of expert that we see on the next
+slide just off if you have a kind
+thanks and you see now we have experts
+in North America in South America Peru
+can Andres we have experts in in Asia
+Pacific Raymond but also the People
+based in Europe that I am called at the
+moment so we're not always available on
+all of the course calls there'll be of
+course but no there's I hope enough
+options to get in touch and discuss with
+that support
+and then essentially the assessment
+breaks down in five major steps
+that we will see here
+so first of all you need to implement
+the prerequisite prerequisite as the
+already listed listed on the blocks that
+are provided
+essentially setting up your python
+environment I'm installing the San ml
+library that allows you to connect to a
+Hana system
+and then once you have this set up you
+you connect you test that connection
+that this is working well and once you
+know you have a connectivity you may
+want to get some practice and here we
+provide tutorials with different data
+sets that gives you guidance that gives
+you code to get started to experiment
+and once you feel sort of comfortable to
+try out you know your skills on this
+data set now on the churn scenario this
+would be number four and most likely
+this is of course where you spend most
+of the time and there's no right there's
+no wrong in data science there's a lot
+of going back and forth where it Bridges
+so you might um experience that as well
+in this scenario and eventually you know
+we are looking extremely forward to what
+you're presenting what you created so
+this will be very nice and um at the end
+of the next three weeks
+and finally I'm a little bit more detail
+on the next slide thank you Kristoff you
+know where it's important to point out
+that the free trial that you always have
+access to with Hana cloud and data
+warehouse Cloud but these are not
+sufficient to use the machine learning
+this is simply not enabled in the free
+trials
+they exist in the core product and some
+participants already have for example
+their own data Mouse cloud system that
+they're using so um be sure to use the
+credentials that we're providing
+specifically now for this community
+challenge if you don't have your own
+system
+many of you have already received these
+you just need to reach out by email so
+that we can respond with the logon
+credentials if you haven't received them
+yet
+here is the email address please send us
+a note and very quickly in Return of
+course you get these credentials and on
+that slide we're also listing again the
+block with the exact powers for these
+sessions that we're providing where you
+can get in touch sometimes it is easier
+to talk and we hope even if possible if
+needed we can do a little breakout
+session that we can discuss in one to
+one maybe looking at your individual
+systems but it's also absolutely fine as
+you prefer to post a question for
+example here on the on the thread that's
+also listed that anybody can to see a
+question we can respond to everyone to
+see so that everybody benefits from the
+discussions that are going on so the
+choice is completely down to you how
+you'd like to get in touch
+with that we explain the challenge and
+so many of you are ready to go
+and I headed back to Susan and maybe
+you've already had some questions in the
+Q a
+perfect so thank you Andreas and you're
+exactly right there is a lot going on in
+our q a tool
+so
+um Kristoff was already really really
+busy answering some of these questions
+but I think it's good to also have the
+answers on The Talk track as well
+so first question we should maybe answer
+is are we allowed to use local libraries
+for fitting
+so yeah maybe I can can take that or do
+you want to go
+yeah have you detect
+Ive you know so basically it's a Hana
+machine learning challenge we might be a
+little biased towards using the engines
+now
+um in Hana Cloud obviously so this is
+really the purpose
+um so I think for that challenge so uh
+it clearly it would be nice to use the
+engines provided inside time outside the
+gel
+perfect yeah so the next question
+closely related to the first one is can
+I also use sky keflow and Pipelines
+yeah I think that would be the same
+answer
+yes so you're here we're really biased
+towards Hana Cloud so um this is a
+natural Challenge and we would really
+really appreciate if you could also use
+how I call to solve our challenge
+so next question in the Q a tool I'm
+just scanning is can you share the
+notebook from the demo so Yannick this
+one would go to you I guess
+of course yep so we'll
+um have the blog post for for the demo
+we showed and also um The Notebook is
+available in a GitHub repository which
+we would share yeah
+perfect yes so for your information the
+GitHub repositories also already posted
+to the chat so you can just click the
+link out of our YouTube chat and open it
+up so you also get our repository that
+was used for the demo let me scan so
+we're having one other question or there
+are also coming more questions and I can
+see
+um it is regarding the data set so um
+anus is asking is this anonymized really
+like data where it is possible to get
+some real insights or random data and I
+remember we talked a lot about the data
+set so maybe you want to comment on this
+one
+um yeah so of course
+um for for this community challenge we
+couldn't give out
+um real data
+um especially in for such employee
+Journal use cases so
+um it's simulated data but of course we
+made sure to
+make it quite tricky and um that it's
+also very close to the reality of such a
+use case
+perfect so um please for everyone who's
+still with us in the call if your
+question is answered and you're still
+having like open points please let us
+know and we're happy to to once again
+answer questions if there are still
+still things open
+so
+um next question we will definitely post
+uh the link for yannick's blog in the
+chat in just a second and then there is
+one last open question
+from Sergey
+um there is no ranking submission with
+unseen data is that correct
+I'll take that yeah so that is that is
+correct yes
+um because here the data that we're
+working with as the senegade bank now is
+not realistic data it's realistic but
+with real data and for that reason we
+thought it's uh it's very tricky you
+know to then test the model on a true
+hold out sample so we are probably more
+looking for creativity in the way you
+approach it
+perfect so thank you Andreas um Sega let
+us know if this answers your question
+but I think this was a really crisp and
+precise answer so we should be good here
+are there any other questions open I
+hope I have not overlooked them in the
+chat as this one is really crowded
+so last call for any questions
+okay so it looks a little quieter now
+but
+yep perfect so say this question was
+answered so I think we can close it off
+a little earlier
+um that was a great presentation thank
+you so much for sharing your challenge
+and I think I can speak for the whole
+team
+we are really really excited um to kick
+the challenge finally off and to see a
+lot of great results oh sorry I just got
+one question in the chat so let's come
+back to to answering this one so
+Enriquez asking what is preferable to
+use Sac or Hana Cloud for doing
+Predictive Analytics
+for this one
+um it depends basically on your skills
+so with sap analytics Cloud actually
+uses the same mathematics in the
+background as the automated predictive
+Library so if you're more of a business
+user and you're not so familiar with
+like Yannick showed you python coding or
+R coding and then you feel probably more
+comfortable with using sap analytics
+Cloud because there in the function
+which is called smart predict you can
+just with a few clicks also use the
+automated predictive Library without any
+code
+and but of course you're a bit Limited
+in sap analytics Cloud you could just
+use the automated predictive Library if
+you want to have more flexibility use
+different algorithms like Yannick showed
+you a random forest and then you will
+probably use the predictive analysis
+library and then you definitely need to
+go to the Hana machine learning part and
+sap Hana cloud
+I hope that helps you
+perfect so thank you Sarah for answering
+this and I think this was a really
+comprehensive summary
+so let me close it off once again
+um thanks for joining us today
+um we're excited to see a lot of um
+challenge submissions and as Andreas
+broadly explained we're here for you so
+if you're running into any issues
+problems troubles whatever please feel
+free to reach out contact us join us for
+the open Office hours comment on our
+blog posts we really want to tackle the
+challenge together with you yeah so
+thanks and uh talk to you maybe in one
+of our open Office hours
+bye bye
+hi

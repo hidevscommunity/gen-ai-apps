@@ -1,0 +1,12 @@
+streamlit
+streamlit_chat
+langchain
+pandas
+openai
+tqdm
+python-dotenv
+faiss-cpu
+tiktoken
+tabulate
+unstructured
+pdf2image

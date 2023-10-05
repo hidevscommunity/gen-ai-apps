@@ -1,0 +1,23 @@
+# THE COUNTING HOUSE
+
+Following the events that took place after Jaheir and Nine-Fingers Keene's meeting, you will now continue to look for Minsc. Your next destination is The Counting House, where you will solve the Vault Puzzle and meet Minsc for the first time. You will find this building on the Southern side of the Lower City at exactly (X:-98 Y:-148).
+
+As soon as you enter the building, you will find yourself in a Grand Hall, fitted with a tall ceiling and bright fixtures. Speak with the Head Clerk Meadhoney at the front desk who seems to be worried about something.  You will get the following options to respond:
+
+Remind me again where Head Banker Glitterbeard is?
+- Who is this Stone Lord that has you worried?
+- I'm not a customer. I'm here because Nine-Fingers is planning something in your vault.
+- I need access to your vaults.
+- I would like to open an account.
+- Leave.
+
+Choose the second option that will prompt Meadhoney to reveal that a man named Stone Lord has taken the Head Banker below. He didn't say where specifically so you'll get the next options to respond:
+- [PERSUASION] Let me help. I'll go and check on your Head Banker.
+- Tell me more about this large fellow.
+- It sounds like a robbery to me.
+- I want to open an account.
+- Leave.
+
+If you choose to attempt the Persuasion check, you will need to pass a DC of 18. If you succeed, the Head Clerk will say that it is unusual but will agree nevertheless. He will hand you a temporary vault pass that will give access to the lower part of The Counting House. Interact with the Iron Fence next to the Head Clerk's table, then a guard will approach asking for your pass. Hand it over, and then the gate will be opened to your party.
+
+There are locked chests here that you can lockpick to loot their gold and some others that are already opened. Take a look around here to get valuable items including gold. Then, interact with The Double Door at the end of the hall where you will see guards stationed at the gate. Before you can go, they will ask you again for your pass. So show it, and then you will be allowed access. Continue following the stairs that will lead to The Vault Door.

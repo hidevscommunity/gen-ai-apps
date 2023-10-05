@@ -1,0 +1,5 @@
+streamlit
+clarifai-grpc
+langchain
+clarifai
+pillow

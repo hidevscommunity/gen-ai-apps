@@ -1,0 +1,38 @@
+About the job
+Salary: £60,000 - £70,000
+
+Location: Dunstable - Hybrid working
+
+Our Data Science Lead roles represent an opportunity to drive innovation in business logic/process through the application advance data science techniques. Working closely with functional, transformation, data & technology teams, this role can unlock material revenue growth and/or cost reduction opportunities across any part of Whitbread, and depending on project focus, has the potential to enhance customer/team member experience, drive commercial performance or enhance operational efficiency.
+
+Why You'll Love It Here
+
+Bonus: An annual Whitbread performance incentive worth up to 30% of base salary
+Healthcare: Family BUPA healthcare
+Discounts: Up to 60% discount on Premier Inn stays and a regular 25% discount in our Restaurant brands
+
+What You'll Do
+
+Identify and qualify opportunities to use data more effectively to improve business decisions
+Develop and apply high quality data analytics to drive insights that inform model development
+Develop customised models and algorithms that enhance prediction capability & performance
+Develop, test and operate prototype business processes that use predictive models
+Mentor and develop junior data science analyst(s) and/or apprentices
+
+What You'll Need
+
+Capable of formulating hypotheses and business cases for change and connecting them to an analytical workplan.
+Excellent communication skills, capable of providing support and challenging key stakeholders and delivery teams.
+Advanced proficiency in analytics, statistics, and modelling, utilising coding languages such as R, Python, SQL, VBA, and DataBricks.
+Proficient in software development practices, including functional programming, testing and validation frameworks, MLOps practices, and deployment frameworks.
+
+Meeting our ambitious goals to expand and reach new locations across the globe requires serious planning. It means analysing every little detail, spotting and overcoming barriers and working towards our ambitious plans. Think decision science, pricing, revenue and sales, and you're there. With a lot of doing to be done, you can be part of making big change happen across the globe. Bring your drive and enthusiasm, and we'll welcome you in.
+
+We believe that everyone is unique and there should be no barriers to entry and no limits to ambition. We are committed to being an inclusive organisation that values diversity and welcome your application whatever your background or situation.
+
+Under-represented groups such as women, ethnic minorities, people with disabilities & members of the LGBTQ+ community (those who identify as lesbian, gay, bi, trans, and non-binary or those who use a different LGBTQ+ term), are strongly encouraged to build a career with us. We are open to part-time and flexible working and, where possible, will try to support this.
+
+Job ref: 809690-1629
+
+Advertised: 16 Jun 2023
+Posted on Jun 24, 2023.

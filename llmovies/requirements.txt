@@ -1,0 +1,13 @@
+-e "git+https://github.com/prandell/langchain@add_extra_weaviate_filter_operators#egg=langchain&subdirectory=libs/langchain"
+black
+ruff
+pip
+weaviate-client
+openai
+pandas
+streamlit
+pydantic
+instructor
+lark
+tiktoken
+python-dotenv

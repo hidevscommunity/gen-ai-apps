@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+pytube
+assemblyai
+sentence-transformers
+ctransformers
+faiss-cpu
+streamlit_player
+replicate
+langchain

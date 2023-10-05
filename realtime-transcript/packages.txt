@@ -1,0 +1,4 @@
+portaudio19-dev
+libsndfile1-dev
+libasound2-dev
+python3-pyaudio

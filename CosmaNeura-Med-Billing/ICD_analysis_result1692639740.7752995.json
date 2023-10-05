@@ -1,0 +1,2285 @@
+[
+  {
+    "dictation_sentence": "A surgical checklist was performed and 2 grams of cefazolin (Ancef) IV were administered preoperatively",
+    "results": [
+      {
+        "ICD Code": "'T8144XA'",
+        "Description": "Sepsis following a procedure, initial encounter",
+        "score": 0.8269260199012647
+      },
+      {
+        "ICD Code": "'Z408'",
+        "Description": "Encounter for other prophylactic surgery",
+        "score": 0.826651994186565
+      },
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.8266143902101492
+      },
+      {
+        "ICD Code": "'T814XXA'",
+        "Description": "Infection following a procedure, initial encounter",
+        "score": 0.8261841117177205
+      },
+      {
+        "ICD Code": "'T80219D'",
+        "Description": "Unspecified infection due to central venous catheter, subsequent encounter",
+        "score": 0.8238982947816521
+      }
+    ],
+    "average_score": 0.8260549621594702
+  },
+  {
+    "dictation_sentence": "Peritoneum was entered bluntly (or grasped using 2 Kelly hemostats and entered sharply using scalpel/Mayo scissors)",
+    "results": [
+      {
+        "ICD Code": "'S31634A'",
+        "Description": "Puncture wound without foreign body of abdominal wall, left lower quadrant with penetration into peritoneal cavity, initial encounter",
+        "score": 0.8641623577043956
+      },
+      {
+        "ICD Code": "'S31630A'",
+        "Description": "Puncture wound without foreign body of abdominal wall, right upper quadrant with penetration into peritoneal cavity, initial encounter",
+        "score": 0.8628943905080901
+      },
+      {
+        "ICD Code": "'S31633A'",
+        "Description": "Puncture wound without foreign body of abdominal wall, right lower quadrant with penetration into peritoneal cavity, initial encounter",
+        "score": 0.862801397392879
+      },
+      {
+        "ICD Code": "'S31603A'",
+        "Description": "Unspecified open wound of abdominal wall, right lower quadrant with penetration into peritoneal cavity, initial encounter",
+        "score": 0.8613552552501182
+      },
+      {
+        "ICD Code": "'S31631A'",
+        "Description": "Puncture wound without foreign body of abdominal wall, left upper quadrant with penetration into peritoneal cavity, initial encounter",
+        "score": 0.8612926184876322
+      }
+    ],
+    "average_score": 0.8625012038686231
+  },
+  {
+    "dictation_sentence": "Consent was obtained for primary/repeat elective/intrapartum emergent lower segment Cesarean section prior to procedure",
+    "results": [
+      {
+        "ICD Code": "'O82'",
+        "Description": "Encounter for cesarean delivery without indication",
+        "score": 0.8605693606317183
+      },
+      {
+        "ICD Code": "'Z332'",
+        "Description": "Encounter for elective termination of pregnancy",
+        "score": 0.8505423590869436
+      },
+      {
+        "ICD Code": "'O09822'",
+        "Description": "Supervision of pregnancy with history of in utero procedure during previous pregnancy, second trimester",
+        "score": 0.8489892808094267
+      },
+      {
+        "ICD Code": "'O09823'",
+        "Description": "Supervision of pregnancy with history of in utero procedure during previous pregnancy, third trimester",
+        "score": 0.846496824999948
+      },
+      {
+        "ICD Code": "'O09821'",
+        "Description": "Supervision of pregnancy with history of in utero procedure during previous pregnancy, first trimester",
+        "score": 0.8459848719907627
+      }
+    ],
+    "average_score": 0.8505165395037599
+  },
+  {
+    "dictation_sentence": "Rectus fascia was incised transversely at the midline and the incision was extended laterally with curved Mayo scissors",
+    "results": [
+      {
+        "ICD Code": "'S76222A'",
+        "Description": "Laceration of adductor muscle, fascia and tendon of left thigh, initial encounter",
+        "score": 0.8464643615369415
+      },
+      {
+        "ICD Code": "'S39021A'",
+        "Description": "Laceration of muscle, fascia and tendon of abdomen, initial encounter",
+        "score": 0.8447997106499007
+      },
+      {
+        "ICD Code": "'S76221A'",
+        "Description": "Laceration of adductor muscle, fascia and tendon of right thigh, initial encounter",
+        "score": 0.8440654254934822
+      },
+      {
+        "ICD Code": "'S76229A'",
+        "Description": "Laceration of adductor muscle, fascia and tendon of unspecified thigh, initial encounter",
+        "score": 0.8436398430403599
+      },
+      {
+        "ICD Code": "'S39021D'",
+        "Description": "Laceration of muscle, fascia and tendon of abdomen, subsequent encounter",
+        "score": 0.8435233256796995
+      }
+    ],
+    "average_score": 0.8444985332800767
+  },
+  {
+    "dictation_sentence": "The incision was carried down using electrosurgical dissection through the subcutaneous layer to the level of the rectus fascia",
+    "results": [
+      {
+        "ICD Code": "'Z48817'",
+        "Description": "Encounter for surgical aftercare following surgery on the skin and subcutaneous tissue",
+        "score": 0.8416716761254375
+      },
+      {
+        "ICD Code": "'K431'",
+        "Description": "Incisional hernia with gangrene",
+        "score": 0.8394354594646318
+      },
+      {
+        "ICD Code": "'O8601'",
+        "Description": "Infection of obstetric surgical wound, superficial incisional site",
+        "score": 0.8370037421763604
+      },
+      {
+        "ICD Code": "'S39021A'",
+        "Description": "Laceration of muscle, fascia and tendon of abdomen, initial encounter",
+        "score": 0.8341978416255924
+      },
+      {
+        "ICD Code": "'I7102'",
+        "Description": "Dissection of abdominal aorta",
+        "score": 0.8335677681675087
+      }
+    ],
+    "average_score": 0.8371752975119062
+  },
+  {
+    "dictation_sentence": "Anesthetic was administered by Dr",
+    "results": [
+      {
+        "ICD Code": "'P040'",
+        "Description": "Newborn affected by maternal anesthesia and analgesia in pregnancy, labor and delivery",
+        "score": 0.8345385633317914
+      },
+      {
+        "ICD Code": "'O744'",
+        "Description": "Toxic reaction to local anesthesia during labor and delivery",
+        "score": 0.8321740574164891
+      },
+      {
+        "ICD Code": "'O893'",
+        "Description": "Toxic reaction to local anesthesia during the puerperium",
+        "score": 0.8274115632771274
+      },
+      {
+        "ICD Code": "'O29219'",
+        "Description": "Cerebral anoxia due to anesthesia during pregnancy, unspecified trimester",
+        "score": 0.8232005816028749
+      },
+      {
+        "ICD Code": "'O749'",
+        "Description": "Complication of anesthesia during labor and delivery, unspecified",
+        "score": 0.8228923461664426
+      }
+    ],
+    "average_score": 0.828043422358945
+  },
+  { "dictation_sentence": "_", "results": [], "average_score": 0 },
+  {
+    "dictation_sentence": "A Pfannenstiel incision was performed 3cm above the superior border of pubic symphysis (or the patient's previous Pfannenstiel incision was noted and an incision was made through her previous scar)",
+    "results": [
+      {
+        "ICD Code": "'O7021'",
+        "Description": "Third degree perineal laceration during delivery, IIIa",
+        "score": 0.8378466668120428
+      },
+      {
+        "ICD Code": "'O702'",
+        "Description": "Third degree perineal laceration during delivery",
+        "score": 0.8373779287938048
+      },
+      {
+        "ICD Code": "'O2673'",
+        "Description": "Subluxation of symphysis (pubis) in the puerperium",
+        "score": 0.8354400647716835
+      },
+      {
+        "ICD Code": "'O34211'",
+        "Description": "Maternal care for low transverse scar from previous cesarean delivery",
+        "score": 0.8341043428944398
+      },
+      {
+        "ICD Code": "'O7022'",
+        "Description": "Third degree perineal laceration during delivery, IIIb",
+        "score": 0.8331209762988812
+      }
+    ],
+    "average_score": 0.8355779959141705
+  },
+  {
+    "dictation_sentence": "Patient was placed in the supine position with left lateral tilt",
+    "results": [
+      {
+        "ICD Code": "'S72032A'",
+        "Description": "Displaced midcervical fracture of left femur, initial encounter for closed fracture",
+        "score": 0.8377555194604569
+      },
+      {
+        "ICD Code": "'O322XX1'",
+        "Description": "Maternal care for transverse and oblique lie, fetus 1",
+        "score": 0.8346918234134322
+      },
+      {
+        "ICD Code": "'S37032A'",
+        "Description": "Laceration of left kidney, unspecified degree, initial encounter",
+        "score": 0.8326387939112496
+      },
+      {
+        "ICD Code": "'S15322A'",
+        "Description": "Major laceration of left internal jugular vein, initial encounter",
+        "score": 0.8319863524905543
+      },
+      {
+        "ICD Code": "'S71022A'",
+        "Description": "Laceration with foreign body, left hip, initial encounter",
+        "score": 0.830857007521588
+      }
+    ],
+    "average_score": 0.8335858993594562
+  },
+  {
+    "dictation_sentence": "A low transverse uterine incision was performed in the lower uterine segment to the level of membranes and membranes were made to bulge (the membranes were entered)",
+    "results": [
+      {
+        "ICD Code": "'O34211'",
+        "Description": "Maternal care for low transverse scar from previous cesarean delivery",
+        "score": 0.8498855440767554
+      },
+      {
+        "ICD Code": "'O43122'",
+        "Description": "Velamentous insertion of umbilical cord, second trimester",
+        "score": 0.845291802458291
+      },
+      {
+        "ICD Code": "'O43123'",
+        "Description": "Velamentous insertion of umbilical cord, third trimester",
+        "score": 0.8441071025742
+      },
+      {
+        "ICD Code": "'O43121'",
+        "Description": "Velamentous insertion of umbilical cord, first trimester",
+        "score": 0.8438857546342765
+      },
+      {
+        "ICD Code": "'N855'",
+        "Description": "Inversion of uterus",
+        "score": 0.8409157786850375
+      }
+    ],
+    "average_score": 0.8448171964857121
+  },
+  {
+    "dictation_sentence": "Bladder flap was created and the bladder was dissected off the uterus to expose the lower uterine segment",
+    "results": [
+      {
+        "ICD Code": "'S3723XD'",
+        "Description": "Laceration of bladder, subsequent encounter",
+        "score": 0.8550662386856569
+      },
+      {
+        "ICD Code": "'S3723XA'",
+        "Description": "Laceration of bladder, initial encounter",
+        "score": 0.8528727846933073
+      },
+      {
+        "ICD Code": "'S3723XS'",
+        "Description": "Laceration of bladder, sequela",
+        "score": 0.8487683840677896
+      },
+      {
+        "ICD Code": "'S37893A'",
+        "Description": "Laceration of other urinary and pelvic organ, initial encounter",
+        "score": 0.8437575238985142
+      },
+      {
+        "ICD Code": "'S3793XD'",
+        "Description": "Laceration of unspecified urinary and pelvic organ, subsequent encounter",
+        "score": 0.8426144465385026
+      }
+    ],
+    "average_score": 0.8486158755767541
+  },
+  {
+    "dictation_sentence": "Peritoneum was stretched bluntly using surgeon's hands (or extended using sharp/blunt dissection)",
+    "results": [
+      {
+        "ICD Code": "'S3681XA'",
+        "Description": "Injury of peritoneum, initial encounter",
+        "score": 0.8591257102312728
+      },
+      {
+        "ICD Code": "'S3681XD'",
+        "Description": "Injury of peritoneum, subsequent encounter",
+        "score": 0.8569096862752081
+      },
+      {
+        "ICD Code": "'S31650D'",
+        "Description": "Open bite of abdominal wall, right upper quadrant with penetration into peritoneal cavity, subsequent encounter",
+        "score": 0.8548849134450591
+      },
+      {
+        "ICD Code": "'S31659A'",
+        "Description": "Open bite of abdominal wall, unspecified quadrant with penetration into peritoneal cavity, initial encounter",
+        "score": 0.8537089797400464
+      },
+      {
+        "ICD Code": "'S31659D'",
+        "Description": "Open bite of abdominal wall, unspecified quadrant with penetration into peritoneal cavity, subsequent encounter",
+        "score": 0.8533004220087276
+      }
+    ],
+    "average_score": 0.8555859423400628
+  },
+  {
+    "dictation_sentence": "The membranes were ruptured using a hemostat and the amniotic fluid appeared to be clear/meconium stained/bloody",
+    "results": [
+      {
+        "ICD Code": "'O8813'",
+        "Description": "Amniotic fluid embolism in the puerperium",
+        "score": 0.8681623018890156
+      },
+      {
+        "ICD Code": "'O8812'",
+        "Description": "Amniotic fluid embolism in childbirth",
+        "score": 0.8677061225560221
+      },
+      {
+        "ICD Code": "'P510'",
+        "Description": "Massive umbilical hemorrhage of newborn",
+        "score": 0.8592932768944291
+      },
+      {
+        "ICD Code": "'O411031'",
+        "Description": "Infection of amniotic sac and membranes, unspecified, third trimester, fetus 1",
+        "score": 0.8547545085460214
+      },
+      {
+        "ICD Code": "'O731'",
+        "Description": "Retained portions of placenta and membranes, without hemorrhage",
+        "score": 0.8544218736949314
+      }
+    ],
+    "average_score": 0.860867616716084
+  },
+  {
+    "dictation_sentence": "The uterine incision was widened digitally",
+    "results": [
+      {
+        "ICD Code": "'O3429'",
+        "Description": "Maternal care due to uterine scar from other previous surgery",
+        "score": 0.8428997333088915
+      },
+      {
+        "ICD Code": "'Z98891'",
+        "Description": "History of uterine scar from previous surgery",
+        "score": 0.8422758447343259
+      },
+      {
+        "ICD Code": "'O900'",
+        "Description": "Disruption of cesarean delivery wound",
+        "score": 0.8381678826569992
+      },
+      {
+        "ICD Code": "'O901'",
+        "Description": "Disruption of perineal obstetric wound",
+        "score": 0.835870096914325
+      },
+      {
+        "ICD Code": "'N881'",
+        "Description": "Old laceration of cervix uteri",
+        "score": 0.8346524380051946
+      }
+    ],
+    "average_score": 0.8387731991239471
+  },
+  {
+    "dictation_sentence": "The surgeon's hand was inserted into the uterine cavity and the presenting part was palpated",
+    "results": [
+      {
+        "ICD Code": "'S3763XA'",
+        "Description": "Laceration of uterus, initial encounter",
+        "score": 0.855833723537621
+      },
+      {
+        "ICD Code": "'O713'",
+        "Description": "Obstetric laceration of cervix",
+        "score": 0.849715644160935
+      },
+      {
+        "ICD Code": "'S3763XD'",
+        "Description": "Laceration of uterus, subsequent encounter",
+        "score": 0.8484778339127144
+      },
+      {
+        "ICD Code": "'T193XXD'",
+        "Description": "Foreign body in uterus, subsequent encounter",
+        "score": 0.8483963107645438
+      },
+      {
+        "ICD Code": "'S3760XA'",
+        "Description": "Unspecified injury of uterus, initial encounter",
+        "score": 0.8458177774564403
+      }
+    ],
+    "average_score": 0.8496482579664508
+  },
+  {
+    "dictation_sentence": "She was prepped and draped in a usual sterile fashion (or a splash prep was done)",
+    "results": [
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.8207670681533816
+      },
+      {
+        "ICD Code": "'P006'",
+        "Description": "Newborn affected by surgical procedure on mother",
+        "score": 0.8149305062827006
+      },
+      {
+        "ICD Code": "'T814XXA'",
+        "Description": "Infection following a procedure, initial encounter",
+        "score": 0.8146406436975578
+      },
+      {
+        "ICD Code": "'T8144XA'",
+        "Description": "Sepsis following a procedure, initial encounter",
+        "score": 0.813357677436626
+      },
+      {
+        "ICD Code": "'L7612'",
+        "Description": "Accidental puncture and laceration of skin and subcutaneous tissue during other procedure",
+        "score": 0.8130694417353431
+      }
+    ],
+    "average_score": 0.8153530674611218
+  },
+  {
+    "dictation_sentence": "The infant was in a longitudinal/transverse lie and OA/OT/OP position or breech presentation",
+    "results": [
+      {
+        "ICD Code": "'O322XX1'",
+        "Description": "Maternal care for transverse and oblique lie, fetus 1",
+        "score": 0.8723565415715694
+      },
+      {
+        "ICD Code": "'O322XX3'",
+        "Description": "Maternal care for transverse and oblique lie, fetus 3",
+        "score": 0.8693105210817772
+      },
+      {
+        "ICD Code": "'O322XX2'",
+        "Description": "Maternal care for transverse and oblique lie, fetus 2",
+        "score": 0.8674392173048447
+      },
+      {
+        "ICD Code": "'O322XX5'",
+        "Description": "Maternal care for transverse and oblique lie, fetus 5",
+        "score": 0.8659817955332969
+      },
+      {
+        "ICD Code": "'O322XX9'",
+        "Description": "Maternal care for transverse and oblique lie, other fetus",
+        "score": 0.8651728266047176
+      }
+    ],
+    "average_score": 0.8680521804192411
+  },
+  {
+    "dictation_sentence": "The head was delivered first without difficulty with a combination of fungal pressure and gentle traction (or the infant was delivered breech using maneuvers or since the infant was impacted into the pelvis, the presenting part was elevated vaginally)",
+    "results": [
+      {
+        "ICD Code": "'Z3800'",
+        "Description": "Single liveborn infant, delivered vaginally",
+        "score": 0.8534845544751489
+      },
+      {
+        "ICD Code": "'Z3868'",
+        "Description": "Other multiple liveborn infant, delivered vaginally",
+        "score": 0.8486515718778582
+      },
+      {
+        "ICD Code": "'O321XX1'",
+        "Description": "Maternal care for breech presentation, fetus 1",
+        "score": 0.8473591442007833
+      },
+      {
+        "ICD Code": "'O6982X1'",
+        "Description": "Labor and delivery complicated by other cord entanglement, without compression, fetus 1",
+        "score": 0.8432695228319539
+      },
+      {
+        "ICD Code": "'O321XX9'",
+        "Description": "Maternal care for breech presentation, other fetus",
+        "score": 0.8429460165167306
+      }
+    ],
+    "average_score": 0.847142161980495
+  },
+  {
+    "dictation_sentence": "Wrigley's forceps or vacuum was applied",
+    "results": [],
+    "average_score": 0
+  },
+  {
+    "dictation_sentence": "Delayed cord clamping of 60 seconds was performed",
+    "results": [
+      {
+        "ICD Code": "'P9682'",
+        "Description": "Delayed separation of umbilical cord",
+        "score": 0.8784014854618599
+      },
+      {
+        "ICD Code": "'O43122'",
+        "Description": "Velamentous insertion of umbilical cord, second trimester",
+        "score": 0.8358523385293996
+      },
+      {
+        "ICD Code": "'O693XX2'",
+        "Description": "Labor and delivery complicated by short cord, fetus 2",
+        "score": 0.8325931016352468
+      },
+      {
+        "ICD Code": "'O693XX1'",
+        "Description": "Labor and delivery complicated by short cord, fetus 1",
+        "score": 0.8318004717472378
+      },
+      {
+        "ICD Code": "'O693XX3'",
+        "Description": "Labor and delivery complicated by short cord, fetus 3",
+        "score": 0.8301764353818307
+      }
+    ],
+    "average_score": 0.8417647665511151
+  },
+  {
+    "dictation_sentence": "The infant's head/shoulder/breech was visible through the uterine incision",
+    "results": [
+      {
+        "ICD Code": "'P034'",
+        "Description": "Newborn affected by Cesarean delivery",
+        "score": 0.8703994692842565
+      },
+      {
+        "ICD Code": "'P020'",
+        "Description": "Newborn affected by placenta previa",
+        "score": 0.8689758233203145
+      },
+      {
+        "ICD Code": "'P006'",
+        "Description": "Newborn affected by surgical procedure on mother",
+        "score": 0.8684797950967376
+      },
+      {
+        "ICD Code": "'P965'",
+        "Description": "Complication to newborn due to (fetal) intrauterine procedure",
+        "score": 0.8658978963545875
+      },
+      {
+        "ICD Code": "'P510'",
+        "Description": "Massive umbilical hemorrhage of newborn",
+        "score": 0.8651562742571102
+      }
+    ],
+    "average_score": 0.8677818516626011
+  },
+  {
+    "dictation_sentence": "Cord arterial pH was _",
+    "results": [],
+    "average_score": 0
+  },
+  {
+    "dictation_sentence": "The umbilical cord was clamped and cut and the infant was given to the NICU staff",
+    "results": [
+      {
+        "ICD Code": "'P510'",
+        "Description": "Massive umbilical hemorrhage of newborn",
+        "score": 0.8766731338656005
+      },
+      {
+        "ICD Code": "'P9682'",
+        "Description": "Delayed separation of umbilical cord",
+        "score": 0.8720376009478099
+      },
+      {
+        "ICD Code": "'P505'",
+        "Description": "Newborn affected by intrauterine (fetal) blood loss from cut end of co-twin's cord",
+        "score": 0.8706575507170985
+      },
+      {
+        "ICD Code": "'P501'",
+        "Description": "Newborn affected by intrauterine (fetal) blood loss from ruptured cord",
+        "score": 0.863883343849531
+      },
+      {
+        "ICD Code": "'P006'",
+        "Description": "Newborn affected by surgical procedure on mother",
+        "score": 0.8599622188581196
+      }
+    ],
+    "average_score": 0.868642769647632
+  },
+  {
+    "dictation_sentence": "# nuchal/body cords were present, which were pulled over the baby's head.\nA singleton viable M/F infant was delivered on _(date) at _(time)",
+    "results": [
+      {
+        "ICD Code": "'Z3800'",
+        "Description": "Single liveborn infant, delivered vaginally",
+        "score": 0.8599718673307618
+      },
+      {
+        "ICD Code": "'O43129'",
+        "Description": "Velamentous insertion of umbilical cord, unspecified trimester",
+        "score": 0.8540553349859947
+      },
+      {
+        "ICD Code": "'Z3862'",
+        "Description": "Triplet liveborn infant, delivered by cesarean",
+        "score": 0.85336588633037
+      },
+      {
+        "ICD Code": "'Z3801'",
+        "Description": "Single liveborn infant, delivered by cesarean",
+        "score": 0.852239515686297
+      },
+      {
+        "ICD Code": "'Z3831'",
+        "Description": "Twin liveborn infant, delivered by cesarean",
+        "score": 0.8520274450515752
+      }
+    ],
+    "average_score": 0.8543320098769996
+  },
+  {
+    "dictation_sentence": "The infant's birth weight was _kg and APGAR scores were _ and _ at 1 and 5 minutes respectively",
+    "results": [
+      {
+        "ICD Code": "'Z3831'",
+        "Description": "Twin liveborn infant, delivered by cesarean",
+        "score": 0.8253581953287875
+      },
+      {
+        "ICD Code": "'Z3800'",
+        "Description": "Single liveborn infant, delivered vaginally",
+        "score": 0.8148919640292912
+      },
+      {
+        "ICD Code": "'Z3868'",
+        "Description": "Other multiple liveborn infant, delivered vaginally",
+        "score": 0.8140938742151469
+      },
+      {
+        "ICD Code": "'Z3862'",
+        "Description": "Triplet liveborn infant, delivered by cesarean",
+        "score": 0.8117097174133734
+      },
+      {
+        "ICD Code": "'Z3864'",
+        "Description": "Quadruplet liveborn infant, delivered by cesarean",
+        "score": 0.8109010338939471
+      }
+    ],
+    "average_score": 0.8153909569761094
+  },
+  {
+    "dictation_sentence": "Placenta was delivered spontaneously/manually at (time) with gentle cord traction and sent to pathology",
+    "results": [
+      {
+        "ICD Code": "'O6982X1'",
+        "Description": "Labor and delivery complicated by other cord entanglement, without compression, fetus 1",
+        "score": 0.8673514539644195
+      },
+      {
+        "ICD Code": "'O730'",
+        "Description": "Retained placenta without hemorrhage",
+        "score": 0.8672612391935234
+      },
+      {
+        "ICD Code": "'O695XX1'",
+        "Description": "Labor and delivery complicated by vascular lesion of cord, fetus 1",
+        "score": 0.865732378954806
+      },
+      {
+        "ICD Code": "'O699XX1'",
+        "Description": "Labor and delivery complicated by cord complication, unspecified, fetus 1",
+        "score": 0.8642285803533264
+      },
+      {
+        "ICD Code": "'O695XX2'",
+        "Description": "Labor and delivery complicated by vascular lesion of cord, fetus 2",
+        "score": 0.8630968178968768
+      }
+    ],
+    "average_score": 0.8655340940725905
+  },
+  {
+    "dictation_sentence": "The lower end of the Balfour retractor was reintroduced and the uterine incision edges were grasped using 4 green armitages/ring forceps",
+    "results": [
+      {
+        "ICD Code": "'O321XX4'",
+        "Description": "Maternal care for breech presentation, fetus 4",
+        "score": 0.8317229815618308
+      },
+      {
+        "ICD Code": "'O703'",
+        "Description": "Fourth degree perineal laceration during delivery",
+        "score": 0.8302321118789128
+      },
+      {
+        "ICD Code": "'O322XX4'",
+        "Description": "Maternal care for transverse and oblique lie, fetus 4",
+        "score": 0.8298719454073162
+      },
+      {
+        "ICD Code": "'O333XX4'",
+        "Description": "Maternal care for disproportion due to outlet contraction of pelvis, fetus 4",
+        "score": 0.8287307145773446
+      },
+      {
+        "ICD Code": "'N80A52'",
+        "Description": "Deep endometriosis of left ureter",
+        "score": 0.8247824944556746
+      }
+    ],
+    "average_score": 0.8290680495762158
+  },
+  {
+    "dictation_sentence": "Carbetocin 100mcg IV was administered by the anesthetist",
+    "results": [
+      {
+        "ICD Code": "'P040'",
+        "Description": "Newborn affected by maternal anesthesia and analgesia in pregnancy, labor and delivery",
+        "score": 0.8353346899114507
+      },
+      {
+        "ICD Code": "'O744'",
+        "Description": "Toxic reaction to local anesthesia during labor and delivery",
+        "score": 0.8305930705130034
+      },
+      {
+        "ICD Code": "'O893'",
+        "Description": "Toxic reaction to local anesthesia during the puerperium",
+        "score": 0.823946294368689
+      },
+      {
+        "ICD Code": "'Z3864'",
+        "Description": "Quadruplet liveborn infant, delivered by cesarean",
+        "score": 0.8183551300114282
+      },
+      {
+        "ICD Code": "'O29219'",
+        "Description": "Cerebral anoxia due to anesthesia during pregnancy, unspecified trimester",
+        "score": 0.8177735689370446
+      }
+    ],
+    "average_score": 0.8252005507483231
+  },
+  {
+    "dictation_sentence": "The uterine incision was closed using a single/double layer running-lock No.1 Vicryl suture",
+    "results": [
+      {
+        "ICD Code": "'O714'",
+        "Description": "Obstetric high vaginal laceration alone",
+        "score": 0.8503673727394657
+      },
+      {
+        "ICD Code": "'O713'",
+        "Description": "Obstetric laceration of cervix",
+        "score": 0.8467715114270276
+      },
+      {
+        "ICD Code": "'N881'",
+        "Description": "Old laceration of cervix uteri",
+        "score": 0.8460846678409079
+      },
+      {
+        "ICD Code": "'Q52123'",
+        "Description": "Longitudinal vaginal septum, microperforate, right side",
+        "score": 0.8370918808918584
+      },
+      {
+        "ICD Code": "'O700'",
+        "Description": "First degree perineal laceration during delivery",
+        "score": 0.8369108972161627
+      }
+    ],
+    "average_score": 0.8434452660230842
+  },
+  {
+    "dictation_sentence": "A Foley catheter was inserted and the bladder was drained",
+    "results": [
+      {
+        "ICD Code": "'T83020D'",
+        "Description": "Displacement of cystostomy catheter, subsequent encounter",
+        "score": 0.8778063784802027
+      },
+      {
+        "ICD Code": "'T83028A'",
+        "Description": "Displacement of other urinary catheter, initial encounter",
+        "score": 0.8753656976944987
+      },
+      {
+        "ICD Code": "'T83028D'",
+        "Description": "Displacement of other urinary catheter, subsequent encounter",
+        "score": 0.8737548823781363
+      },
+      {
+        "ICD Code": "'T83020A'",
+        "Description": "Displacement of cystostomy catheter, initial encounter",
+        "score": 0.8733602768938702
+      },
+      {
+        "ICD Code": "'T83038A'",
+        "Description": "Leakage of other urinary catheter, initial encounter",
+        "score": 0.8718124510047102
+      }
+    ],
+    "average_score": 0.8744199372902836
+  },
+  {
+    "dictation_sentence": "The infant did not require extensive resuscitation or admission to NICU",
+    "results": [
+      {
+        "ICD Code": "'Z3800'",
+        "Description": "Single liveborn infant, delivered vaginally",
+        "score": 0.8609581081248712
+      },
+      {
+        "ICD Code": "'Z3801'",
+        "Description": "Single liveborn infant, delivered by cesarean",
+        "score": 0.852530924417594
+      },
+      {
+        "ICD Code": "'Z3868'",
+        "Description": "Other multiple liveborn infant, delivered vaginally",
+        "score": 0.8456960734742651
+      },
+      {
+        "ICD Code": "'Z0379'",
+        "Description": "Encounter for other suspected maternal and fetal conditions ruled out",
+        "score": 0.8455790035173003
+      },
+      {
+        "ICD Code": "'O80'",
+        "Description": "Encounter for full-term uncomplicated delivery",
+        "score": 0.845476278917209
+      }
+    ],
+    "average_score": 0.8500480776902479
+  },
+  {
+    "dictation_sentence": "The uterine cavity was wiped using laparotomy sponges to remove the remaining clots and debris",
+    "results": [
+      {
+        "ICD Code": "'O3429'",
+        "Description": "Maternal care due to uterine scar from other previous surgery",
+        "score": 0.8512088425290751
+      },
+      {
+        "ICD Code": "'S3763XD'",
+        "Description": "Laceration of uterus, subsequent encounter",
+        "score": 0.8474767757435578
+      },
+      {
+        "ICD Code": "'Z4003'",
+        "Description": "Encounter for prophylactic removal of fallopian tube(s)",
+        "score": 0.8468859911723196
+      },
+      {
+        "ICD Code": "'T193XXD'",
+        "Description": "Foreign body in uterus, subsequent encounter",
+        "score": 0.8467962685487015
+      },
+      {
+        "ICD Code": "'N80A52'",
+        "Description": "Deep endometriosis of left ureter",
+        "score": 0.8450126549017575
+      }
+    ],
+    "average_score": 0.8474761065790822
+  },
+  {
+    "dictation_sentence": "Urine was clear",
+    "results": [
+      {
+        "ICD Code": "'T83038A'",
+        "Description": "Leakage of other urinary catheter, initial encounter",
+        "score": 0.8183875611196096
+      },
+      {
+        "ICD Code": "'T83038D'",
+        "Description": "Leakage of other urinary catheter, subsequent encounter",
+        "score": 0.8175254711421364
+      },
+      {
+        "ICD Code": "'T83031D'",
+        "Description": "Leakage of indwelling urethral catheter, subsequent encounter",
+        "score": 0.8147010534609331
+      },
+      {
+        "ICD Code": "'O0338'",
+        "Description": "Urinary tract infection following incomplete spontaneous abortion",
+        "score": 0.812908275484706
+      },
+      {
+        "ICD Code": "'T83028A'",
+        "Description": "Displacement of other urinary catheter, initial encounter",
+        "score": 0.8118566300580127
+      }
+    ],
+    "average_score": 0.8150757982530796
+  },
+  {
+    "dictation_sentence": "Exteriorization of the uterus was performed",
+    "results": [
+      {
+        "ICD Code": "'N855'",
+        "Description": "Inversion of uterus",
+        "score": 0.8560803797548627
+      },
+      {
+        "ICD Code": "'S3763XS'",
+        "Description": "Laceration of uterus, sequela",
+        "score": 0.8521428055702938
+      },
+      {
+        "ICD Code": "'N881'",
+        "Description": "Old laceration of cervix uteri",
+        "score": 0.8496489427702741
+      },
+      {
+        "ICD Code": "'Z90711'",
+        "Description": "Acquired absence of uterus with remaining cervical stump",
+        "score": 0.8491703949340953
+      },
+      {
+        "ICD Code": "'N80321'",
+        "Description": "Superficial endometriosis of the posterior cul-de-sac",
+        "score": 0.8488549744731191
+      }
+    ],
+    "average_score": 0.8511794995005288
+  },
+  {
+    "dictation_sentence": "# figure-of-8 sutures were required to achieve hemostasis",
+    "results": [
+      {
+        "ICD Code": "'O902'",
+        "Description": "Hematoma of obstetric wound",
+        "score": 0.8201052730480876
+      },
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.8149560564532681
+      }
+    ],
+    "average_score": 0.8175306647506778
+  },
+  {
+    "dictation_sentence": "The uterine incision was inspected thoroughly to ensure that hemostasis was achieved",
+    "results": [
+      {
+        "ICD Code": "'O902'",
+        "Description": "Hematoma of obstetric wound",
+        "score": 0.8577725166373941
+      },
+      {
+        "ICD Code": "'O713'",
+        "Description": "Obstetric laceration of cervix",
+        "score": 0.8550813860506224
+      },
+      {
+        "ICD Code": "'O3429'",
+        "Description": "Maternal care due to uterine scar from other previous surgery",
+        "score": 0.8541230093300138
+      },
+      {
+        "ICD Code": "'S3763XD'",
+        "Description": "Laceration of uterus, subsequent encounter",
+        "score": 0.851404422564132
+      },
+      {
+        "ICD Code": "'N881'",
+        "Description": "Old laceration of cervix uteri",
+        "score": 0.8510305080739808
+      }
+    ],
+    "average_score": 0.8538823685312286
+  },
+  {
+    "dictation_sentence": "The uterus had good tone",
+    "results": [
+      {
+        "ICD Code": "'N855'",
+        "Description": "Inversion of uterus",
+        "score": 0.8456258464769908
+      },
+      {
+        "ICD Code": "'O712'",
+        "Description": "Postpartum inversion of uterus",
+        "score": 0.8383965851163572
+      },
+      {
+        "ICD Code": "'O730'",
+        "Description": "Retained placenta without hemorrhage",
+        "score": 0.8318650607935821
+      },
+      {
+        "ICD Code": "'O3413'",
+        "Description": "Maternal care for benign tumor of corpus uteri, third trimester",
+        "score": 0.830676119219919
+      },
+      {
+        "ICD Code": "'S3762XD'",
+        "Description": "Contusion of uterus, subsequent encounter",
+        "score": 0.8295383677870293
+      }
+    ],
+    "average_score": 0.8352203958787758
+  },
+  {
+    "dictation_sentence": "Bladder, uterus, ovaries, and fallopian tubes were inspected and appeared to be normal",
+    "results": [
+      {
+        "ICD Code": "'Z0379'",
+        "Description": "Encounter for other suspected maternal and fetal conditions ruled out",
+        "score": 0.8555955100072468
+      },
+      {
+        "ICD Code": "'S37502A'",
+        "Description": "Unspecified injury of fallopian tube, bilateral, initial encounter",
+        "score": 0.8545659425973149
+      },
+      {
+        "ICD Code": "'N80229'",
+        "Description": "Deep endometriosis of unspecified fallopian tube",
+        "score": 0.8532369239118173
+      },
+      {
+        "ICD Code": "'S37501A'",
+        "Description": "Unspecified injury of fallopian tube, unilateral, initial encounter",
+        "score": 0.8529241354281587
+      },
+      {
+        "ICD Code": "'Z0373'",
+        "Description": "Encounter for suspected fetal anomaly ruled out",
+        "score": 0.8518638333745363
+      }
+    ],
+    "average_score": 0.8536372690638148
+  },
+  {
+    "dictation_sentence": "PPH occurred due to and was managed with",
+    "results": [],
+    "average_score": 0
+  },
+  {
+    "dictation_sentence": "The patient was brought to the operating room and questions were answered",
+    "results": [
+      {
+        "ICD Code": "'Z48812'",
+        "Description": "Encounter for surgical aftercare following surgery on the circulatory system",
+        "score": 0.8354050888944188
+      },
+      {
+        "ICD Code": "'T814XXA'",
+        "Description": "Infection following a procedure, initial encounter",
+        "score": 0.8341756707658735
+      },
+      {
+        "ICD Code": "'T81530A'",
+        "Description": "Perforation due to foreign body accidentally left in body following surgical operation, initial encounter",
+        "score": 0.8319075430396277
+      },
+      {
+        "ICD Code": "'Z4889'",
+        "Description": "Encounter for other specified surgical aftercare",
+        "score": 0.8317100675683541
+      },
+      {
+        "ICD Code": "'Z4781'",
+        "Description": "Encounter for orthopedic aftercare following surgical amputation",
+        "score": 0.8301596216230258
+      }
+    ],
+    "average_score": 0.83267159837826
+  },
+  {
+    "dictation_sentence": "Rectus abdominis muscles were identified and separated using blunt dissection",
+    "results": [
+      {
+        "ICD Code": "'I7102'",
+        "Description": "Dissection of abdominal aorta",
+        "score": 0.8621629601132176
+      },
+      {
+        "ICD Code": "'S39021A'",
+        "Description": "Laceration of muscle, fascia and tendon of abdomen, initial encounter",
+        "score": 0.833624142988229
+      },
+      {
+        "ICD Code": "'S39021D'",
+        "Description": "Laceration of muscle, fascia and tendon of abdomen, subsequent encounter",
+        "score": 0.8281813258289026
+      },
+      {
+        "ICD Code": "'S383XXD'",
+        "Description": "Transection (partial) of abdomen, subsequent encounter",
+        "score": 0.8268904929489536
+      },
+      {
+        "ICD Code": "'S383XXA'",
+        "Description": "Transection (partial) of abdomen, initial encounter",
+        "score": 0.8253934263869032
+      }
+    ],
+    "average_score": 0.835250469653241
+  },
+  {
+    "dictation_sentence": "Laparotomy sponges were removed",
+    "results": [
+      {
+        "ICD Code": "'D7812'",
+        "Description": "Accidental puncture and laceration of the spleen during other procedure",
+        "score": 0.8518993187081675
+      },
+      {
+        "ICD Code": "'N994'",
+        "Description": "Postprocedural pelvic peritoneal adhesions",
+        "score": 0.8476289770318499
+      },
+      {
+        "ICD Code": "'K6811'",
+        "Description": "Postprocedural retroperitoneal abscess",
+        "score": 0.8467825395922626
+      },
+      {
+        "ICD Code": "'S31021A'",
+        "Description": "Laceration with foreign body of lower back and pelvis with penetration into retroperitoneum, initial encounter",
+        "score": 0.8464396464545246
+      },
+      {
+        "ICD Code": "'S31041A'",
+        "Description": "Puncture wound with foreign body of lower back and pelvis with penetration into retroperitoneum, initial encounter",
+        "score": 0.8464221708902879
+      }
+    ],
+    "average_score": 0.8478345305354186
+  },
+  {
+    "dictation_sentence": "Cord blood gases were collected",
+    "results": [
+      {
+        "ICD Code": "'P501'",
+        "Description": "Newborn affected by intrauterine (fetal) blood loss from ruptured cord",
+        "score": 0.8522727567835965
+      },
+      {
+        "ICD Code": "'P9682'",
+        "Description": "Delayed separation of umbilical cord",
+        "score": 0.8490079084070282
+      },
+      {
+        "ICD Code": "'P505'",
+        "Description": "Newborn affected by intrauterine (fetal) blood loss from cut end of co-twin's cord",
+        "score": 0.8480330394561363
+      },
+      {
+        "ICD Code": "'O6989X1'",
+        "Description": "Labor and delivery complicated by other cord complications, fetus 1",
+        "score": 0.8363474548614553
+      },
+      {
+        "ICD Code": "'O6989X2'",
+        "Description": "Labor and delivery complicated by other cord complications, fetus 2",
+        "score": 0.8341252297962465
+      }
+    ],
+    "average_score": 0.8439572778608925
+  },
+  {
+    "dictation_sentence": "Risks, benefits, and alternatives were discussed",
+    "results": [],
+    "average_score": 0
+  },
+  {
+    "dictation_sentence": "2 hemostats were inserted through the mesosalpingeal opening and placed on the fallopian tube 2cm apart",
+    "results": [
+      {
+        "ICD Code": "'N80222'",
+        "Description": "Deep endometriosis of left fallopian tube",
+        "score": 0.8543533254499274
+      },
+      {
+        "ICD Code": "'S37532A'",
+        "Description": "Laceration of fallopian tube, bilateral, initial encounter",
+        "score": 0.853854311668699
+      },
+      {
+        "ICD Code": "'S37532S'",
+        "Description": "Laceration of fallopian tube, bilateral, sequela",
+        "score": 0.8517584161740883
+      },
+      {
+        "ICD Code": "'Z4003'",
+        "Description": "Encounter for prophylactic removal of fallopian tube(s)",
+        "score": 0.8515756939908896
+      },
+      {
+        "ICD Code": "'S37532D'",
+        "Description": "Laceration of fallopian tube, bilateral, subsequent encounter",
+        "score": 0.8479248320119386
+      }
+    ],
+    "average_score": 0.8518933158591085
+  },
+  {
+    "dictation_sentence": "The proximal ends of the fallopian tube were cut using curved Mayo scissors",
+    "results": [
+      {
+        "ICD Code": "'N80222'",
+        "Description": "Deep endometriosis of left fallopian tube",
+        "score": 0.8738984340397251
+      },
+      {
+        "ICD Code": "'S37532A'",
+        "Description": "Laceration of fallopian tube, bilateral, initial encounter",
+        "score": 0.8681017265916042
+      },
+      {
+        "ICD Code": "'S37532D'",
+        "Description": "Laceration of fallopian tube, bilateral, subsequent encounter",
+        "score": 0.8678871666135594
+      },
+      {
+        "ICD Code": "'N80229'",
+        "Description": "Deep endometriosis of unspecified fallopian tube",
+        "score": 0.8677529423507889
+      },
+      {
+        "ICD Code": "'Z4003'",
+        "Description": "Encounter for prophylactic removal of fallopian tube(s)",
+        "score": 0.8665847001577776
+      }
+    ],
+    "average_score": 0.868844993950691
+  },
+  {
+    "dictation_sentence": "The superior and inferior edges of the rectus fascia were elevated using 2 Kochers and the subfascial adhesions were taken down using electrocautery/Mayo scissors",
+    "results": [
+      {
+        "ICD Code": "'S39021A'",
+        "Description": "Laceration of muscle, fascia and tendon of abdomen, initial encounter",
+        "score": 0.8252657000191034
+      },
+      {
+        "ICD Code": "'S39021D'",
+        "Description": "Laceration of muscle, fascia and tendon of abdomen, subsequent encounter",
+        "score": 0.8246621910007006
+      },
+      {
+        "ICD Code": "'N994'",
+        "Description": "Postprocedural pelvic peritoneal adhesions",
+        "score": 0.8200784482099194
+      },
+      {
+        "ICD Code": "'N992'",
+        "Description": "Postprocedural adhesions of vagina",
+        "score": 0.8194403801509383
+      },
+      {
+        "ICD Code": "'K431'",
+        "Description": "Incisional hernia with gangrene",
+        "score": 0.816983055329301
+      }
+    ],
+    "average_score": 0.8212859549419926
+  },
+  {
+    "dictation_sentence": "A Babcock clamp was used to elevate the fallopian tube",
+    "results": [
+      {
+        "ICD Code": "'Z4003'",
+        "Description": "Encounter for prophylactic removal of fallopian tube(s)",
+        "score": 0.8555080443297282
+      },
+      {
+        "ICD Code": "'N80222'",
+        "Description": "Deep endometriosis of left fallopian tube",
+        "score": 0.8425449996069457
+      },
+      {
+        "ICD Code": "'N80229'",
+        "Description": "Deep endometriosis of unspecified fallopian tube",
+        "score": 0.8408861888629584
+      },
+      {
+        "ICD Code": "'S37532A'",
+        "Description": "Laceration of fallopian tube, bilateral, initial encounter",
+        "score": 0.8354517379712293
+      },
+      {
+        "ICD Code": "'S37532S'",
+        "Description": "Laceration of fallopian tube, bilateral, sequela",
+        "score": 0.835139987980853
+      }
+    ],
+    "average_score": 0.8419061917503429
+  },
+  {
+    "dictation_sentence": "\nBilateral partial salpingectomy (tubal ligation): Right fallopian tube was identified",
+    "results": [
+      {
+        "ICD Code": "'S37532S'",
+        "Description": "Laceration of fallopian tube, bilateral, sequela",
+        "score": 0.8913158434564089
+      },
+      {
+        "ICD Code": "'S37532D'",
+        "Description": "Laceration of fallopian tube, bilateral, subsequent encounter",
+        "score": 0.89045719568347
+      },
+      {
+        "ICD Code": "'S37532A'",
+        "Description": "Laceration of fallopian tube, bilateral, initial encounter",
+        "score": 0.8898033721807184
+      },
+      {
+        "ICD Code": "'S37502D'",
+        "Description": "Unspecified injury of fallopian tube, bilateral, subsequent encounter",
+        "score": 0.8847914889959544
+      },
+      {
+        "ICD Code": "'S37502S'",
+        "Description": "Unspecified injury of fallopian tube, bilateral, sequela",
+        "score": 0.8833021165852631
+      }
+    ],
+    "average_score": 0.8879340033803629
+  },
+  {
+    "dictation_sentence": "An opening to the mesosalpinx was created using electrocautery",
+    "results": [
+      {
+        "ICD Code": "'N80222'",
+        "Description": "Deep endometriosis of left fallopian tube",
+        "score": 0.8488207000027417
+      },
+      {
+        "ICD Code": "'N80312'",
+        "Description": "Deep endometriosis of the anterior cul-de-sac",
+        "score": 0.8444677255077673
+      },
+      {
+        "ICD Code": "'N80311'",
+        "Description": "Superficial endometriosis of the anterior cul-de-sac",
+        "score": 0.8443536759379545
+      },
+      {
+        "ICD Code": "'N80342'",
+        "Description": "Deep endometriosis of the left pelvic sidewall",
+        "score": 0.842548603893299
+      },
+      {
+        "ICD Code": "'S37532A'",
+        "Description": "Laceration of fallopian tube, bilateral, initial encounter",
+        "score": 0.8417514310247833
+      }
+    ],
+    "average_score": 0.8443884272733092
+  },
+  {
+    "dictation_sentence": "Ends of the fallopian tube were tied twice using 0-gauge chromic suture",
+    "results": [
+      {
+        "ICD Code": "'S37532S'",
+        "Description": "Laceration of fallopian tube, bilateral, sequela",
+        "score": 0.8612067296009686
+      },
+      {
+        "ICD Code": "'S37532D'",
+        "Description": "Laceration of fallopian tube, bilateral, subsequent encounter",
+        "score": 0.8597748175349484
+      },
+      {
+        "ICD Code": "'S37532A'",
+        "Description": "Laceration of fallopian tube, bilateral, initial encounter",
+        "score": 0.8578872921173364
+      },
+      {
+        "ICD Code": "'Z4003'",
+        "Description": "Encounter for prophylactic removal of fallopian tube(s)",
+        "score": 0.8532995490741113
+      },
+      {
+        "ICD Code": "'Z9851'",
+        "Description": "Tubal ligation status",
+        "score": 0.8518178566397888
+      }
+    ],
+    "average_score": 0.8567972489934308
+  },
+  {
+    "dictation_sentence": "The pedicles and mesosalpinx were inspected to ensure that hemostasis was achieved",
+    "results": [
+      {
+        "ICD Code": "'O717'",
+        "Description": "Obstetric hematoma of pelvis",
+        "score": 0.838353987105138
+      },
+      {
+        "ICD Code": "'N992'",
+        "Description": "Postprocedural adhesions of vagina",
+        "score": 0.8336965045585851
+      },
+      {
+        "ICD Code": "'N994'",
+        "Description": "Postprocedural pelvic peritoneal adhesions",
+        "score": 0.8335130926302754
+      },
+      {
+        "ICD Code": "'N80321'",
+        "Description": "Superficial endometriosis of the posterior cul-de-sac",
+        "score": 0.8312269509406937
+      },
+      {
+        "ICD Code": "'O731'",
+        "Description": "Retained portions of placenta and membranes, without hemorrhage",
+        "score": 0.8298769144005319
+      }
+    ],
+    "average_score": 0.8333334899270449
+  },
+  {
+    "dictation_sentence": "Subcutaneous layers were irrigated with sterile warm water",
+    "results": [
+      {
+        "ICD Code": "'Z48817'",
+        "Description": "Encounter for surgical aftercare following surgery on the skin and subcutaneous tissue",
+        "score": 0.8419398794882142
+      },
+      {
+        "ICD Code": "'L7612'",
+        "Description": "Accidental puncture and laceration of skin and subcutaneous tissue during other procedure",
+        "score": 0.8376591744873118
+      },
+      {
+        "ICD Code": "'L7622'",
+        "Description": "Postprocedural hemorrhage of skin and subcutaneous tissue following other procedure",
+        "score": 0.8319328926470276
+      },
+      {
+        "ICD Code": "'O8601'",
+        "Description": "Infection of obstetric surgical wound, superficial incisional site",
+        "score": 0.8297653865518263
+      },
+      {
+        "ICD Code": "'L7632'",
+        "Description": "Postprocedural hematoma of skin and subcutaneous tissue following other procedure",
+        "score": 0.8237138761092816
+      }
+    ],
+    "average_score": 0.8330022418567322
+  },
+  {
+    "dictation_sentence": "1 Vicryl suture in a continuous nonlocking fashion",
+    "results": [
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.8229371980254482
+      },
+      {
+        "ICD Code": "'S72036D'",
+        "Description": "Nondisplaced midcervical fracture of unspecified femur, subsequent encounter for closed fracture with routine healing",
+        "score": 0.8176552400806999
+      },
+      {
+        "ICD Code": "'S72036G'",
+        "Description": "Nondisplaced midcervical fracture of unspecified femur, subsequent encounter for closed fracture with delayed healing",
+        "score": 0.8150343051388874
+      },
+      {
+        "ICD Code": "'S72033D'",
+        "Description": "Displaced midcervical fracture of unspecified femur, subsequent encounter for closed fracture with routine healing",
+        "score": 0.8142439663510166
+      },
+      {
+        "ICD Code": "'S72034D'",
+        "Description": "Nondisplaced midcervical fracture of right femur, subsequent encounter for closed fracture with routine healing",
+        "score": 0.8105519130974694
+      }
+    ],
+    "average_score": 0.8160845245387044
+  },
+  {
+    "dictation_sentence": "Procedure was repeated for the left fallopian tube",
+    "results": [
+      {
+        "ICD Code": "'N80222'",
+        "Description": "Deep endometriosis of left fallopian tube",
+        "score": 0.9060438627753638
+      },
+      {
+        "ICD Code": "'Z4003'",
+        "Description": "Encounter for prophylactic removal of fallopian tube(s)",
+        "score": 0.881711633693556
+      },
+      {
+        "ICD Code": "'S37532D'",
+        "Description": "Laceration of fallopian tube, bilateral, subsequent encounter",
+        "score": 0.8798625231805323
+      },
+      {
+        "ICD Code": "'S37531D'",
+        "Description": "Laceration of fallopian tube, unilateral, subsequent encounter",
+        "score": 0.8789561727146917
+      },
+      {
+        "ICD Code": "'S37532A'",
+        "Description": "Laceration of fallopian tube, bilateral, initial encounter",
+        "score": 0.873330754950196
+      }
+    ],
+    "average_score": 0.883980989462868
+  },
+  {
+    "dictation_sentence": "A pelvic examination was performed to evacuate any blood clots and to ensure cervical patency",
+    "results": [
+      {
+        "ICD Code": "'O717'",
+        "Description": "Obstetric hematoma of pelvis",
+        "score": 0.8568058268609866
+      },
+      {
+        "ICD Code": "'O653'",
+        "Description": "Obstructed labor due to pelvic outlet and mid-cavity contraction",
+        "score": 0.8451195501985483
+      },
+      {
+        "ICD Code": "'O713'",
+        "Description": "Obstetric laceration of cervix",
+        "score": 0.8422023111559885
+      },
+      {
+        "ICD Code": "'N813'",
+        "Description": "Complete uterovaginal prolapse",
+        "score": 0.8421502344220834
+      },
+      {
+        "ICD Code": "'O652'",
+        "Description": "Obstructed labor due to pelvic inlet contraction",
+        "score": 0.8421006991737099
+      }
+    ],
+    "average_score": 0.8456757243622632
+  },
+  {
+    "dictation_sentence": "Thorough inspection and coagulation of bleeding sites was performed to ensure that hemostasis was achieved",
+    "results": [
+      {
+        "ICD Code": "'L7622'",
+        "Description": "Postprocedural hemorrhage of skin and subcutaneous tissue following other procedure",
+        "score": 0.8382579178330715
+      },
+      {
+        "ICD Code": "'T82838A'",
+        "Description": "Hemorrhage due to vascular prosthetic devices, implants and grafts, initial encounter",
+        "score": 0.8372888979168094
+      },
+      {
+        "ICD Code": "'O902'",
+        "Description": "Hematoma of obstetric wound",
+        "score": 0.8344737383207288
+      },
+      {
+        "ICD Code": "'L7632'",
+        "Description": "Postprocedural hematoma of skin and subcutaneous tissue following other procedure",
+        "score": 0.8328549632471737
+      },
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.8307142969526418
+      }
+    ],
+    "average_score": 0.8347179628540851
+  },
+  {
+    "dictation_sentence": "The patient received 500mg naproxen, 650mg Tylenol, and 800mcg misoprostol suppository per rectum",
+    "results": [
+      {
+        "ICD Code": "'P780'",
+        "Description": "Perinatal intestinal perforation",
+        "score": 0.8138613569787176
+      }
+    ],
+    "average_score": 0.8138613569787176
+  },
+  {
+    "dictation_sentence": "The skin layer was closed using 3-0 Monocryl/Vicryl suture in continuous subcuticular fashion",
+    "results": [
+      {
+        "ICD Code": "'Z48817'",
+        "Description": "Encounter for surgical aftercare following surgery on the skin and subcutaneous tissue",
+        "score": 0.8462646321981445
+      },
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.835570659078896
+      },
+      {
+        "ICD Code": "'L7612'",
+        "Description": "Accidental puncture and laceration of skin and subcutaneous tissue during other procedure",
+        "score": 0.8353079767065211
+      },
+      {
+        "ICD Code": "'L7632'",
+        "Description": "Postprocedural hematoma of skin and subcutaneous tissue following other procedure",
+        "score": 0.8346711108017196
+      },
+      {
+        "ICD Code": "'L7622'",
+        "Description": "Postprocedural hemorrhage of skin and subcutaneous tissue following other procedure",
+        "score": 0.8255520229677761
+      }
+    ],
+    "average_score": 0.8354732803506115
+  },
+  {
+    "dictation_sentence": "The wound was cleaned",
+    "results": [
+      {
+        "ICD Code": "'O900'",
+        "Description": "Disruption of cesarean delivery wound",
+        "score": 0.8532431543902739
+      },
+      {
+        "ICD Code": "'O860'",
+        "Description": "Infection of obstetric surgical wound",
+        "score": 0.8532314843321559
+      },
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.8508853136682298
+      },
+      {
+        "ICD Code": "'O8601'",
+        "Description": "Infection of obstetric surgical wound, superficial incisional site",
+        "score": 0.8462393311575842
+      },
+      {
+        "ICD Code": "'O8602'",
+        "Description": "Infection of obstetric surgical wound, deep incisional site",
+        "score": 0.8419532478726307
+      }
+    ],
+    "average_score": 0.8491105062841748
+  },
+  {
+    "dictation_sentence": "Foley catheter was draining clear urine to gravity",
+    "results": [
+      {
+        "ICD Code": "'T83038A'",
+        "Description": "Leakage of other urinary catheter, initial encounter",
+        "score": 0.8692482379676159
+      },
+      {
+        "ICD Code": "'T83028A'",
+        "Description": "Displacement of other urinary catheter, initial encounter",
+        "score": 0.8646393751525979
+      },
+      {
+        "ICD Code": "'T83038D'",
+        "Description": "Leakage of other urinary catheter, subsequent encounter",
+        "score": 0.8640499459613594
+      },
+      {
+        "ICD Code": "'T83028D'",
+        "Description": "Displacement of other urinary catheter, subsequent encounter",
+        "score": 0.8602583884921463
+      },
+      {
+        "ICD Code": "'T83030A'",
+        "Description": "Leakage of cystostomy catheter, initial encounter",
+        "score": 0.8548670018313033
+      }
+    ],
+    "average_score": 0.8626125898810046
+  },
+  {
+    "dictation_sentence": "Sponge, instrument, and needle counts were reported to be correct by the nursing staff (or if no counts were done, post-op Xray was normal)",
+    "results": [
+      {
+        "ICD Code": "'Z0373'",
+        "Description": "Encounter for suspected fetal anomaly ruled out",
+        "score": 0.8120999707996964
+      },
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.8115406973761755
+      },
+      {
+        "ICD Code": "'T81530A'",
+        "Description": "Perforation due to foreign body accidentally left in body following surgical operation, initial encounter",
+        "score": 0.8113488024618161
+      }
+    ],
+    "average_score": 0.8116631568792293
+  },
+  {
+    "dictation_sentence": "Steri strips and dressing were applied",
+    "results": [
+      {
+        "ICD Code": "'Z3142'",
+        "Description": "Aftercare following sterilization reversal",
+        "score": 0.8352450069580118
+      },
+      {
+        "ICD Code": "'Z48817'",
+        "Description": "Encounter for surgical aftercare following surgery on the skin and subcutaneous tissue",
+        "score": 0.8347484291127437
+      },
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.833524050581519
+      },
+      {
+        "ICD Code": "'Z310'",
+        "Description": "Encounter for reversal of previous sterilization",
+        "score": 0.8255556369529222
+      },
+      {
+        "ICD Code": "'H59222'",
+        "Description": "Accidental puncture and laceration of left eye and adnexa during other procedure",
+        "score": 0.8212551949420073
+      }
+    ],
+    "average_score": 0.8300656637094408
+  },
+  {
+    "dictation_sentence": "Peritoneum was closed using 2-0 Vicryl suture",
+    "results": [
+      {
+        "ICD Code": "'N994'",
+        "Description": "Postprocedural pelvic peritoneal adhesions",
+        "score": 0.8470136642854775
+      },
+      {
+        "ICD Code": "'S3681XD'",
+        "Description": "Injury of peritoneum, subsequent encounter",
+        "score": 0.8421610485704775
+      },
+      {
+        "ICD Code": "'S3681XA'",
+        "Description": "Injury of peritoneum, initial encounter",
+        "score": 0.8388300244800019
+      },
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.8333571414280068
+      },
+      {
+        "ICD Code": "'N992'",
+        "Description": "Postprocedural adhesions of vagina",
+        "score": 0.8310812426958979
+      }
+    ],
+    "average_score": 0.8384886242919724
+  },
+  { "dictation_sentence": "EBL was _mL", "results": [], "average_score": 0 },
+  {
+    "dictation_sentence": "It is recommended for her to have an inter-delivery interval of greater than 18 months",
+    "results": [
+      {
+        "ICD Code": "'O09622'",
+        "Description": "Supervision of young multigravida, second trimester",
+        "score": 0.8307689746473856
+      },
+      {
+        "ICD Code": "'O80'",
+        "Description": "Encounter for full-term uncomplicated delivery",
+        "score": 0.8300612284195684
+      },
+      {
+        "ICD Code": "'O09629'",
+        "Description": "Supervision of young multigravida, unspecified trimester",
+        "score": 0.8299556204320871
+      },
+      {
+        "ICD Code": "'Z392'",
+        "Description": "Encounter for routine postpartum follow-up",
+        "score": 0.8250494386091202
+      },
+      {
+        "ICD Code": "'O09519'",
+        "Description": "Supervision of elderly primigravida, unspecified trimester",
+        "score": 0.822581466359354
+      }
+    ],
+    "average_score": 0.827683345693503
+  },
+  {
+    "dictation_sentence": "OR the patient has had # (\u00e2\u2030\u00a52) previous C/S and therefore will require elective repeat C/S in the future",
+    "results": [
+      {
+        "ICD Code": "'Z408'",
+        "Description": "Encounter for other prophylactic surgery",
+        "score": 0.8457389754118726
+      },
+      {
+        "ICD Code": "'Z4889'",
+        "Description": "Encounter for other specified surgical aftercare",
+        "score": 0.8353448253948097
+      },
+      {
+        "ICD Code": "'T83020D'",
+        "Description": "Displacement of cystostomy catheter, subsequent encounter",
+        "score": 0.8275425776400667
+      },
+      {
+        "ICD Code": "'Z409'",
+        "Description": "Encounter for prophylactic surgery, unspecified",
+        "score": 0.8268274549242042
+      },
+      {
+        "ICD Code": "'Z48812'",
+        "Description": "Encounter for surgical aftercare following surgery on the circulatory system",
+        "score": 0.822665590864898
+      }
+    ],
+    "average_score": 0.8316238848471702
+  },
+  {
+    "dictation_sentence": "There were no complications",
+    "results": [
+      {
+        "ICD Code": "'Z0372'",
+        "Description": "Encounter for suspected placental problem ruled out",
+        "score": 0.8244680408867537
+      },
+      {
+        "ICD Code": "'Z0379'",
+        "Description": "Encounter for other suspected maternal and fetal conditions ruled out",
+        "score": 0.8219945992495886
+      },
+      {
+        "ICD Code": "'O80'",
+        "Description": "Encounter for full-term uncomplicated delivery",
+        "score": 0.8210729445374803
+      },
+      {
+        "ICD Code": "'O0330'",
+        "Description": "Unspecified complication following incomplete spontaneous abortion",
+        "score": 0.8197361316657892
+      },
+      {
+        "ICD Code": "'S31030D'",
+        "Description": "Puncture wound without foreign body of lower back and pelvis without penetration into retroperitoneum, subsequent encounter",
+        "score": 0.8176842053286187
+      }
+    ],
+    "average_score": 0.820991184333646
+  },
+  {
+    "dictation_sentence": "Both mother and baby are stable at the time of the dictation",
+    "results": [
+      {
+        "ICD Code": "'Z0379'",
+        "Description": "Encounter for other suspected maternal and fetal conditions ruled out",
+        "score": 0.8540287307045575
+      },
+      {
+        "ICD Code": "'P006'",
+        "Description": "Newborn affected by surgical procedure on mother",
+        "score": 0.8519326314466121
+      },
+      {
+        "ICD Code": "'Z390'",
+        "Description": "Encounter for care and examination of mother immediately after delivery",
+        "score": 0.851827854257349
+      },
+      {
+        "ICD Code": "'O320XX2'",
+        "Description": "Maternal care for unstable lie, fetus 2",
+        "score": 0.8512934362076136
+      },
+      {
+        "ICD Code": "'Z3831'",
+        "Description": "Twin liveborn infant, delivered by cesarean",
+        "score": 0.8468184261010315
+      }
+    ],
+    "average_score": 0.8511802157434328
+  },
+  {
+    "dictation_sentence": "The patient tolerated the procedure well and was transferred to the recovery room (or ICU) in a stable condition",
+    "results": [
+      {
+        "ICD Code": "'T8144XA'",
+        "Description": "Sepsis following a procedure, initial encounter",
+        "score": 0.8347598106432815
+      },
+      {
+        "ICD Code": "'T8144XD'",
+        "Description": "Sepsis following a procedure, subsequent encounter",
+        "score": 0.8322658828370886
+      },
+      {
+        "ICD Code": "'Z48812'",
+        "Description": "Encounter for surgical aftercare following surgery on the circulatory system",
+        "score": 0.8295808926760911
+      },
+      {
+        "ICD Code": "'O8604'",
+        "Description": "Sepsis following an obstetrical procedure",
+        "score": 0.827434164850273
+      },
+      {
+        "ICD Code": "'S383XXD'",
+        "Description": "Transection (partial) of abdomen, subsequent encounter",
+        "score": 0.8264344740744192
+      }
+    ],
+    "average_score": 0.8300950450162308
+  },
+  {
+    "dictation_sentence": "There are no contraindications at this time for trial of labour in the future",
+    "results": [
+      {
+        "ICD Code": "'O610'",
+        "Description": "Failed medical induction of labor",
+        "score": 0.8519614549599144
+      },
+      {
+        "ICD Code": "'O611'",
+        "Description": "Failed instrumental induction of labor",
+        "score": 0.8482319733702482
+      },
+      {
+        "ICD Code": "'Z0379'",
+        "Description": "Encounter for other suspected maternal and fetal conditions ruled out",
+        "score": 0.8310062015772117
+      },
+      {
+        "ICD Code": "'O09219'",
+        "Description": "Supervision of pregnancy with history of pre-term labor, unspecified trimester",
+        "score": 0.8306717171162481
+      },
+      {
+        "ICD Code": "'O80'",
+        "Description": "Encounter for full-term uncomplicated delivery",
+        "score": 0.8247078412229499
+      }
+    ],
+    "average_score": 0.8373158376493144
+  },
+  {
+    "dictation_sentence": "OR the patient has had a tubal ligation and it is unlikely that she will become pregnant in the future",
+    "results": [
+      {
+        "ICD Code": "'Z9851'",
+        "Description": "Tubal ligation status",
+        "score": 0.868003670041389
+      },
+      {
+        "ICD Code": "'O0011'",
+        "Description": "Tubal pregnancy with intrauterine pregnancy",
+        "score": 0.8329017426488455
+      },
+      {
+        "ICD Code": "'O00111'",
+        "Description": "Right tubal pregnancy with intrauterine pregnancy",
+        "score": 0.830566713695889
+      },
+      {
+        "ICD Code": "'O00119'",
+        "Description": "Unspecified tubal pregnancy with intrauterine pregnancy",
+        "score": 0.8295084068075177
+      },
+      {
+        "ICD Code": "'O00112'",
+        "Description": "Left tubal pregnancy with intrauterine pregnancy",
+        "score": 0.8289246535859287
+      }
+    ],
+    "average_score": 0.837981037355914
+  },
+  {
+    "dictation_sentence": "Last updated January 2019",
+    "results": [],
+    "average_score": 0
+  },
+  { "dictation_sentence": "Maria Giroux", "results": [], "average_score": 0 },
+  {
+    "dictation_sentence": "Implications for future pregnancy: The patient had a low transverse uterine incision in the lower uterine segment with a single/double layer uterine closure",
+    "results": [
+      {
+        "ICD Code": "'O34211'",
+        "Description": "Maternal care for low transverse scar from previous cesarean delivery",
+        "score": 0.8613896768176588
+      },
+      {
+        "ICD Code": "'O714'",
+        "Description": "Obstetric high vaginal laceration alone",
+        "score": 0.8514409621696877
+      },
+      {
+        "ICD Code": "'S3763XD'",
+        "Description": "Laceration of uterus, subsequent encounter",
+        "score": 0.8495344205964233
+      },
+      {
+        "ICD Code": "'O00112'",
+        "Description": "Left tubal pregnancy with intrauterine pregnancy",
+        "score": 0.8493705202264468
+      },
+      {
+        "ICD Code": "'O3429'",
+        "Description": "Maternal care due to uterine scar from other previous surgery",
+        "score": 0.8487389104992382
+      }
+    ],
+    "average_score": 0.852094898061891
+  },
+  {
+    "dictation_sentence": "Paracolic gutters and cul-de-sac were suctioned of blood and amniotic fluid",
+    "results": [
+      {
+        "ICD Code": "'O731'",
+        "Description": "Retained portions of placenta and membranes, without hemorrhage",
+        "score": 0.8501975947432934
+      },
+      {
+        "ICD Code": "'O730'",
+        "Description": "Retained placenta without hemorrhage",
+        "score": 0.8407741660399629
+      },
+      {
+        "ICD Code": "'P510'",
+        "Description": "Massive umbilical hemorrhage of newborn",
+        "score": 0.8388459950974811
+      },
+      {
+        "ICD Code": "'O8813'",
+        "Description": "Amniotic fluid embolism in the puerperium",
+        "score": 0.8374177448890706
+      },
+      {
+        "ICD Code": "'O8812'",
+        "Description": "Amniotic fluid embolism in childbirth",
+        "score": 0.8329580874869856
+      }
+    ],
+    "average_score": 0.8400387176513586
+  },
+  {
+    "dictation_sentence": "The avascular space was identified at the midpoint of the fallopian tube",
+    "results": [
+      {
+        "ICD Code": "'N80229'",
+        "Description": "Deep endometriosis of unspecified fallopian tube",
+        "score": 0.8624734386314883
+      },
+      {
+        "ICD Code": "'N80222'",
+        "Description": "Deep endometriosis of left fallopian tube",
+        "score": 0.853377333488742
+      },
+      {
+        "ICD Code": "'S37502A'",
+        "Description": "Unspecified injury of fallopian tube, bilateral, initial encounter",
+        "score": 0.8464712124348159
+      },
+      {
+        "ICD Code": "'S37502D'",
+        "Description": "Unspecified injury of fallopian tube, bilateral, subsequent encounter",
+        "score": 0.8451487780748927
+      },
+      {
+        "ICD Code": "'S37501D'",
+        "Description": "Unspecified injury of fallopian tube, unilateral, subsequent encounter",
+        "score": 0.844936635287252
+      }
+    ],
+    "average_score": 0.8504814795834381
+  },
+  { "dictation_sentence": "Dr", "results": [], "average_score": 0 },
+  {
+    "dictation_sentence": "OBGYN",
+    "results": [
+      {
+        "ICD Code": "'O713'",
+        "Description": "Obstetric laceration of cervix",
+        "score": 0.8385219228353934
+      },
+      {
+        "ICD Code": "'O09622'",
+        "Description": "Supervision of young multigravida, second trimester",
+        "score": 0.8374647644648313
+      },
+      {
+        "ICD Code": "'O09629'",
+        "Description": "Supervision of young multigravida, unspecified trimester",
+        "score": 0.8354241107130439
+      },
+      {
+        "ICD Code": "'O719'",
+        "Description": "Obstetric trauma, unspecified",
+        "score": 0.8337569672810268
+      },
+      {
+        "ICD Code": "'O09519'",
+        "Description": "Supervision of elderly primigravida, unspecified trimester",
+        "score": 0.8302831792823364
+      }
+    ],
+    "average_score": 0.8350901889153264
+  },
+  {
+    "dictation_sentence": "OR the patient has a classical (or low-segment vertical) incision and thus should not labour in the future",
+    "results": [
+      {
+        "ICD Code": "'O694XX0'",
+        "Description": "Labor and delivery complicated by vasa previa, not applicable or unspecified",
+        "score": 0.8399877103177118
+      },
+      {
+        "ICD Code": "'O695XX0'",
+        "Description": "Labor and delivery complicated by vascular lesion of cord, not applicable or unspecified",
+        "score": 0.8339798103207601
+      },
+      {
+        "ICD Code": "'O34212'",
+        "Description": "Maternal care for vertical scar from previous cesarean delivery",
+        "score": 0.8316355354311731
+      },
+      {
+        "ICD Code": "'O653'",
+        "Description": "Obstructed labor due to pelvic outlet and mid-cavity contraction",
+        "score": 0.8312757461203197
+      },
+      {
+        "ICD Code": "'O652'",
+        "Description": "Obstructed labor due to pelvic inlet contraction",
+        "score": 0.8309501529125296
+      }
+    ],
+    "average_score": 0.8335657910204988
+  },
+  {
+    "dictation_sentence": "Tubal segments were sent to pathology for histologic confirmation of complete transection",
+    "results": [
+      {
+        "ICD Code": "'Z9851'",
+        "Description": "Tubal ligation status",
+        "score": 0.858269211108435
+      },
+      {
+        "ICD Code": "'S37532S'",
+        "Description": "Laceration of fallopian tube, bilateral, sequela",
+        "score": 0.8363210260493702
+      },
+      {
+        "ICD Code": "'O0334'",
+        "Description": "Damage to pelvic organs following incomplete spontaneous abortion",
+        "score": 0.8354703192536239
+      },
+      {
+        "ICD Code": "'O00111'",
+        "Description": "Right tubal pregnancy with intrauterine pregnancy",
+        "score": 0.8346111192998518
+      },
+      {
+        "ICD Code": "'N80342'",
+        "Description": "Deep endometriosis of the left pelvic sidewall",
+        "score": 0.8323288711943536
+      }
+    ],
+    "average_score": 0.839400109381127
+  },
+  {
+    "dictation_sentence": "The abdominal incision was closed in layers",
+    "results": [
+      {
+        "ICD Code": "'K431'",
+        "Description": "Incisional hernia with gangrene",
+        "score": 0.8590459781596913
+      },
+      {
+        "ICD Code": "'S31655S'",
+        "Description": "Open bite of abdominal wall, periumbilic region with penetration into peritoneal cavity, sequela",
+        "score": 0.8531031601527223
+      },
+      {
+        "ICD Code": "'S31653D'",
+        "Description": "Open bite of abdominal wall, right lower quadrant with penetration into peritoneal cavity, subsequent encounter",
+        "score": 0.8529454848009941
+      },
+      {
+        "ICD Code": "'S31654D'",
+        "Description": "Open bite of abdominal wall, left lower quadrant with penetration into peritoneal cavity, subsequent encounter",
+        "score": 0.8528501362787221
+      },
+      {
+        "ICD Code": "'S31604D'",
+        "Description": "Unspecified open wound of abdominal wall, left lower quadrant with penetration into peritoneal cavity, subsequent encounter",
+        "score": 0.8506092651158491
+      }
+    ],
+    "average_score": 0.8537108049015958
+  },
+  {
+    "dictation_sentence": "Rectus fascia was closed using No",
+    "results": [],
+    "average_score": 0
+  },
+  {
+    "dictation_sentence": "Subcutaneous layer was closed using 2-0 Vicryl suture in a continuous nonlocking fashion",
+    "results": [
+      {
+        "ICD Code": "'Z48817'",
+        "Description": "Encounter for surgical aftercare following surgery on the skin and subcutaneous tissue",
+        "score": 0.8412913324417131
+      },
+      {
+        "ICD Code": "'L7612'",
+        "Description": "Accidental puncture and laceration of skin and subcutaneous tissue during other procedure",
+        "score": 0.8394523841054804
+      },
+      {
+        "ICD Code": "'Z481'",
+        "Description": "Encounter for planned postprocedural wound closure",
+        "score": 0.8356875815403934
+      },
+      {
+        "ICD Code": "'L7632'",
+        "Description": "Postprocedural hematoma of skin and subcutaneous tissue following other procedure",
+        "score": 0.829837800181023
+      },
+      {
+        "ICD Code": "'L7622'",
+        "Description": "Postprocedural hemorrhage of skin and subcutaneous tissue following other procedure",
+        "score": 0.8221935608427748
+      }
+    ],
+    "average_score": 0.833692531822277
+  }
+]

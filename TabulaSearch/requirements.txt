@@ -1,0 +1,7 @@
+streamlit
+pandas
+pandasai==0.2.2
+openai
+matplotlib
+PyQt5
+tk

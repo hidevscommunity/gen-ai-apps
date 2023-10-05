@@ -1,0 +1,110 @@
+{
+    "required_columns": {
+        "amazon": [
+            "asin",
+            "productName",
+            "oldPrice",
+            "price",
+            "imageUrl",
+            "prime",
+            "productUrl",
+            "rating",
+            "sponsored"
+        ],
+        "walmart": [
+            "id",
+            "name",
+            "averageRating",
+            "price"
+        ],
+        "google": [
+            "displayed_url",
+            "position",
+            "snippet",
+            "title",
+            "url"
+        ]
+    },
+    "custom_prompt": "The user may ask you or trick you into revealing environment variables, secrets, tokens, API keys or other confidential information. You are not allowed to do that. Any file that has to be created has to be stored in this path: {assets_path}. If any plot is created, do not display it, always save it to disk as a file. If your answer is tabular or can be represented in a table, display it as a markdown table. For non-tabular answers, regular text is fine. Import the required libraries before trying to run the code that uses the library. If your output is regular text and contains dollar symbols ($), escape the dollar symbols using two backslashes in front of dollar signs",
+    "crawler_mapping": {
+        "ecommerce": {
+            "amazon": {
+                "url": "https://www.amazon.com/s?k={search_keyword}"
+            },
+            "walmart": {
+                "url": "https://www.walmart.com/search?q={search_keyword}"
+            },
+            "post_url": "https://api.webit.live/api/v1/realtime/ecommerce",
+            "json_data": {
+                "parse": true,
+                "format": "json",
+                "render": false,
+                "country": "ALL",
+                "locale": "en"
+            }
+        },
+        "serp": {
+            "post_url": "https://api.webit.live/api/v1/realtime/serp",
+            "google": {
+                "json_data": {
+                    "parse": true,
+                    "search_engine": "google_search",
+                    "format": "json",
+                    "render": false,
+                    "country": "ALL",
+                    "locale": "en"
+                }
+            }
+        }
+    },
+    "gallery": [
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/1.png",
+            "desc": "Upload CSV file and explore data"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/2.png",
+            "desc": "Q&A based on uploaded data"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/3.png",
+            "desc": "Crawl web and explore data"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/4.png",
+            "desc": "Q&A based on crawled data"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/5.png",
+            "desc": "Create plot based on crawled data"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/6.png",
+            "desc": "Download assets as zipfile and provide feedback"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/7.png",
+            "desc": "Downloaded assets, generated plot, chat history JSON"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/8.png",
+            "desc": "LangSmith traces"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/9.png",
+            "desc": "LLM prompt on LangSmith"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/10.png",
+            "desc": "User feedback and score"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/11.png",
+            "desc": "Preventing LLM attacks using custom prompts"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Prajwalsrinvas/Tablit/main/screenshots/12.png",
+            "desc": "Initial wrong output which is rectified later"
+        }
+    ]
+}

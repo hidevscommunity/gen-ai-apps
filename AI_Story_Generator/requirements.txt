@@ -1,0 +1,3 @@
+gTTS
+clarifai-grpc>=9.8.0
+streamlit>=1.26.0

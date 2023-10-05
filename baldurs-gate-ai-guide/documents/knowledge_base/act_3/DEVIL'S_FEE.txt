@@ -1,0 +1,43 @@
+# DEVIL'S FEE
+
+Return to the Graveyard when you are done exploring the Mausoleum by interacting with the door that you came through and head to the Devil's Fee at (X:-35 Y:-11). You will see a tall building surrounded by a wrought iron fence with flowers crawling over it. Head inside the building and you will notice the floor is decorated with red carpets, bookshelves lining the walls, and a wide range of monster skulls are proudly displayed both on tables and on the walls. Interact with these items that you see and upon closer examination, it appears that these items are genuine infernal collections.
+
+In the middle of the building, there's a trader called Helsik. Speak with her and she will show you her items like dyes, oils, and other items. However, she has more items to sell to you but first, you need to explore and take a closer look at the building. You will see there's a floor above the trader and you can access this by going through the stairs on the right of the trader. Be careful as you reach the top of the stairs as there is a trap waiting for trespassers.
+
+For now, return to the lobby and examine the decorations that you will see. Return to Helsik once more and compliment her collection of items. She will appreciate this and will now show you her rare collection including Gemini Gloves, Cloak of the Weave, Shapeshifter Hat, and others. She claims that this is her more curated collection and she's willing to sell it to you.
+
+Speak with Halsik once more to ask her if she can grant us access to Raphael's House of Hope. She welcomes you back to her store and you will get the following options to respond:
+- Curious don't interest me. I'm interested in the hells themselves- a place called the House of Hope in particular.
+- Did you help Lord Gortash retrieve some hellish curious by any chance?
+- Show me your wares. The good stuff.
+- Leave.
+
+If you choose the second one, she will suspect that you are familiar with the Archduke to know a private matter such as that. You will get the next choices:
+- I happened upon some of his correspondence that mentioned your dealings with him.
+- We're old colleagues.
+- We were lovers. It was all very steamy,
+- I'm asking the questions here.
+
+If you choose the second one, she will respond that she likes to deal with remarkable people. She will now ask for an offer to help you with the answers you seek. She servers Lord Mammon and he is asking for coin. 
+
+NOTE: Some choices may be different depending on your character's class, race, and other specifics.
+- Toss a coin to the diabolist.
+- Here's 100 gold.
+- How about 1000 gold?
+- Actually, I'll just take a look at your usual wares, if you don't mind.
+- [WARLOCK][PERSUASION] I'm also of the pact-bound persuasion- don't suppose I can have a free sample?
+
+If you choose the 5th one, she will happily oblige to give you info for free. Attempting the Persuasion check will require you to pass a DC of 10. Astarion will also give you his approval. She tells you that she's known as the Latchkeeper of the Nine Hells and she can break people into the Hells and also shares that she opened a portal for Lord Gortash. Your next set of choices will look like this:
+- Where in the hells did the portal go?
+- What business did Gortash have in the Hells?
+- Raphael told me the Crown of Karsus was stolen from Mephistopheles- were you involved with that?
+
+If you choose the 3rd one she will ask for more coin for information. She acknowledges that the Crown of Karsus has left the vault, and an opportunity opened for a devil named Raphael. He also collects a great deal of treasures in his House of Hope and the crown is what he's lacking. Now, you will get the next choices:
+- Can you help me break into the House of Hope?
+- Well, that was interesting but I'd just like to see your wares.
+- That information wasn't worth what I paid.
+- Leave.
+
+If you choose the first one, she tells you that it is a ludicrous task and will require a substantial donation to Lord Mammon's coffers amounting to 20,000, you can try to bargain with her by attempting a Persuasion check to lower the price to 10,000. This will require you to pass a DC of  25. You can agree to pay her or come back when you are ready to pay the fee.
+
+Before moving to your next destination, make sure to drop by Bonecloak's Apothecary. If you helped Derryth and her husband in the Underdark, their store will still be running, thanks to you. She sells elixirs and some equipment. When you're done, head to the Lodge which can be found at (X:-217 Y:78), and interact with the double doors to go inside. 

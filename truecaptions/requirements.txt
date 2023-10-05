@@ -1,0 +1,4 @@
+streamlit
+clarifai_grpc
+clarifai
+openai

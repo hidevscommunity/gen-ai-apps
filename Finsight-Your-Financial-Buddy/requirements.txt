@@ -1,0 +1,10 @@
+langchain
+streamlit
+openai
+elevenlabs
+chromadb
+google-search-results
+google-api-python-client
+tiktoken
+python-decouple
+tabulate

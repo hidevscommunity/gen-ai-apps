@@ -1,0 +1,26 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<script>
+    const streamlitDoc = window.parent.document;
+    streamlitDoc.addEventListener("keydown", function (e) {
+        if (event.shiftKey) {
+                // Display a message or perform any action you want
+                console.log("Shift was pressed!");
+                var text = `copy_text`;
+                window.parent.navigator.clipboard.writeText(text);
+            }
+        // when slash key is pressed
+        if (e.keyCode === 191) {
+            // Display a message or perform any action you want
+            console.log("Slash was pressed!");
+            // select 2nd textarea
+            var t = streamlitDoc.getElementsByTagName("textarea")[1];
+            t.focus();
+        }
+    }
+    );
+</script>
+
+

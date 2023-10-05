@@ -1,0 +1,306 @@
+Id;Nombre;Padre;Activo;Root
+3;Bombillas;0;1;Home
+55;OUTLET;0;1;Home
+232;Exterior;0;1;Home
+260;Decoración;0;1;Home
+54;Canon;0;1;Home
+446;Pequeño electrodoméstico;0;1;Home
+445;Linternas;0;1;Home
+444;Pilas;0;1;Home
+58;Pantallas;0;1;Home
+57;Ventiladores;0;1;Home
+56;Novedades;0;1;Home
+108;Promociones;0;1;Home
+28;Flexo;0;1;Home
+189;Ferretería y Material Eléctrico;0;1;Home
+106;Landings;0;1;Home
+364;Sin categoría;0;1;Home
+506;Hogar;0;1;Home
+99;Técnico;0;1;Home
+7;Plafón;0;1;Home
+267;Bombillas Led;3;1;Home
+15;Bajo consumo tubo recto;3;1;Home
+421;Tubos;3;1;Home
+319;Decorativas;3;1;Home
+33;Halogenas;3;1;Home
+94;Bajo consumo;3;1;Home
+21;Plafón Clásico;7;1;Home
+502;Plafón pantalla;7;1;Home
+43;Plafón Rústico;7;1;Home
+39;Plafón Moderno;7;1;Home
+296;Técnico;55;1;Home
+81;Plafón;55;1;Home
+83;Pantallas;55;1;Home
+84;Bombillas;55;1;Home
+264;Exterior;55;1;Home
+497;Varios;56;1;Home
+302;Técnico;56;1;Home
+496;Decoración;56;1;Home
+77;Bombillas;56;1;Home
+192;Accesorios;57;1;Home
+391;De Pie;57;1;Home
+392;De Techo;57;1;Home
+417;Importación;58;1;Home
+98;Accesorios Pantallas;58;1;Home
+418;Fabricación propia;58;1;Home
+105;Varios;99;1;Home
+269;Solar;99;1;Home
+100;Empotrables;99;1;Home
+311;Focos y carriles;99;1;Home
+101;Downlights;99;1;Home
+102;Tiras led;99;1;Home
+320;Campanas;99;1;Home
+414;Paneles;99;1;Home
+104;Proyectores;99;1;Home
+339;Promoción 25% de descuento en material técnico;106;1;Home
+343;Novedades Técnico: Lira y Rupia;106;1;Home
+336;Material decorativo: bombillas decorativas y armazones.;106;1;Home
+327;Novedades Decorativo: Maldivas;106;1;Home
+326;25%  de descuento desde el 15 de mayo al 15 de junio;106;1;Home
+308;Novedades Decorativo: Kenya;106;1;Home
+294;Novedades Decorativo: Dorje;106;1;Home
+324;Promoción Bombillas LED GU10 Incluidas;106;1;Home
+323;Novedades decorativo: Meteoro;106;1;Home
+303;Novedades Decorativo: Asunción;106;1;Home
+306;Novedades decorativo: Trazos y Cenefa;106;1;Home
+290;varios decorativo;106;1;Home
+233;Bombillas Fabriled Oferta Expositor;106;1;Home
+234;Artículos Técnico Ingemont;106;1;Home
+235;Novedades Técnico:  Move V, Move Gls, Move VI y Move VII;106;1;Home
+238;Material Técnico: Move;106;1;Home
+246;Novedades Técnico: Bombillas Led ;106;1;Home
+247;Selección Espher Hogar;106;1;Home
+248;Novedades Decorativo: Planett Champagne;106;1;Home
+249;Promoción bombillas ;106;1;Home
+239;Ventiladores 2019;106;1;Home
+253;Tecnico Outlet: Nerea, Fedra, Medea, Silvano, Fortuns y Febo.;106;1;Home
+270;Bombillas Decorativas;106;1;Home
+275;Novedades Técnico: Samos y Corfu;106;1;Home
+271;Novedades Decorativo: Soga;106;1;Home
+281;Novedades Técnico: Magnetic, Evolution y Providencia;106;1;Home
+286;Promoción deluxe;106;1;Home
+287;Novedades Decorativo: Bóveda;106;1;Home
+289;Novedades Decorativo: Alargos;106;1;Home
+307;Novedades Decorativo:  Sumatra sobremesa;106;1;Home
+517;Catálogo de Promociones 2023-24;106;1;Home
+448;Abrantes y Alfena;106;1;Home
+447;Pilas, linternas y pequeño electrodoméstico;106;1;Home
+443;Samos y Corfu;106;1;Home
+442;Amadora, Alverca y Amarante;106;1;Home
+441;oferta Futura;106;1;Home
+440;Selección Outlet: Techtouch y luxram;106;1;Home
+394;Selección artículos Royma Import;106;1;Home
+389;iluminación técnica 2020;106;1;Home
+454;Levira,Lordelo, Febros y Fresno;106;1;Home
+456;Promoción Noviembre;106;1;Home
+457;Rebajas Primavera 2023;106;1;Home
+505;Descuento Pronto Pago;106;1;Home
+504;Campaña ventilación 2023;106;1;Home
+501;Precampaña Ventiladores 2023;106;1;Home
+500;Catálogo Básico 2022 Descuentos;106;1;Home
+498;Ventiladores con Decoración;106;1;Home
+495;Especial Tolstoi;106;1;Home
+488;Adelanto Temporada Ventiladores 2022;106;1;Home
+461;Catálogo Ventiladores 2021;106;1;Home
+388;Quartino y Tito;106;1;Home
+386;Lamplus;106;1;Home
+357;Galaxia;106;1;Home
+356;Selección artículos Gyemo;106;1;Home
+354;Amor, helicoptero, cohete, petalo;106;1;Home
+353;Novedades Decorativo: Dalia oro y plata, Galaxia, Pétalo, Cohete, Amor, Helicóptero, Josy, Jael y Jana;106;1;Home
+352;Promoción expositor bombillas y empotrables;106;1;Home
+348;Promoción Downlights: Led Evolution, Silvano y Fedra;106;1;Home
+346;Novedades Decorativo: Amaranto;106;1;Home
+345;Novedad  Plafones y apliques a un precio ESTRELLA;106;1;Home
+358;Dalia;106;1;Home
+371;selección infantil;106;1;Home
+372;Flexos selección;106;1;Home
+384;Promoción  Axinite;106;1;Home
+383;Flexos promoción ;106;1;Home
+382;Novedades Accesorios;106;1;Home
+393;Ancient y bert;106;1;Home
+380;Promoción: Hades y Sócrates;106;1;Home
+376;Actualización precio: Panel;106;1;Home
+374;Novedades Decorativo: Fátima y Global 35 d;106;1;Home
+373;Novedades Técnico: Aplique solar, Bombilla anti-mosquitos, Pincho solar, Bombillas estándar, Bombilla Vela, y mucho más;106;1;Home
+344;Novedades Decorativo: Dalia;106;1;Home
+133;Reposición y novedades técnico 6 Septiembre 2017;106;1;Home
+154;Talismán y Amuleto;106;1;Home
+158;Exterior Enero 2018;106;1;Home
+161;Sumatra;106;1;Home
+163;Novedades Técnico Febrero 2018;106;1;Home
+165;Luces de Emergencia Kenobi y Kanata;106;1;Home
+166;MEGARA-SICION-CORINTO-ARCADIO-MELIADES;106;1;Home
+168;Novedades Técnico Marzo 2018;106;1;Home
+170;Novedades Decorativo & Deluxe Abril 2018;106;1;Home
+171;Promoción Maratea;106;1;Home
+172;Novedades Técnico Abril 2018;106;1;Home
+174;Novedades Técnico: Oráculo, Tubular, Cubular;106;1;Home
+177;Novedades Decoración: Trevor y Ventura;106;1;Home
+179;Técnico: Actualización Gama Tech Touch y Novedades;106;1;Home
+180;Novedades Bombillas Mayo 2018;106;1;Home
+153;Oferta especial 20%;106;1;Home
+148;Radio, Paladio, Iridio, Americio y Rubidio;106;1;Home
+107;Techtouch;106;1;Home
+109;Outlet LED 80%;106;1;Home
+113;Bombillas y Accesorios Deco Globo ;106;1;Home
+114;Novedades Técnico 22 Mayo 2017;106;1;Home
+119;Andros y Galilei;106;1;Home
+125;San Miguel y Santamaría;106;1;Home
+127;Fabriled;106;1;Home
+130;Maladeta,  Gabino, Bucéfalo y Babieca;106;1;Home
+131;FabriLed 2017-18;106;1;Home
+132;Actualizaciones Precios Técnico Septiembre 2017;106;1;Home
+134;Luxram Septiembre 2017;106;1;Home
+135;Hoba, Gancedo, Chaco;106;1;Home
+141;Xelim y Axinite bajada de precios;106;1;Home
+143;Brisa y Aura de nuevo disponibles;106;1;Home
+182;Ofertas Androide;106;1;Home
+187;Oferta Flexos;106;1;Home
+218;Técnico Diciembre 2018;106;1;Home
+217;Promociones outlet: Delta, Alfa, Beta, Frisia, Infantil ;106;1;Home
+199;Novedades Decoración Noviembre 2018;106;1;Home
+200;Más novedades Decoración Noviembre 2018;106;1;Home
+212;Novedades decorativo: Rin;106;1;Home
+201;Line X Techtouch;106;1;Home
+202;Novedades Técnico: Mendel y Plafón Antimosquitos;106;1;Home
+205;Novedades Técnico: Murdoch, Anderson , Bigorne;106;1;Home
+211;Novedades Técnico: Providencia y Porvenir;106;1;Home
+210;promoción decorativo 1;106;1;Home
+219;Selección de artículos outlet;106;1;Home
+221;Promoción bombillas bajo consumo;106;1;Home
+230;Rebajas Enero 2019;106;1;Home
+229;Novedades Iluminación Técnica 2019;106;1;Home
+226;Promociones catálogo decorativo: Ballet, Milán, Simon, Oslo, Naive, Edison, Analoren;106;1;Home
+188;Techtouch;106;1;Home
+195;Soga: Estilo Rústico Vintage;106;1;Home
+196;Promoción Especial Fabriled;106;1;Home
+198;Novedades Técnico/Exterior;106;1;Home
+227;Promociones en material Técnico: Donwlights y paneles, proyectores y campanas, regletas, bombillas, accesorios...;106;1;Home
+224;Promociones Outlet: Amet, Júpiter, Saturno, Samara, Donwlights;106;1;Home
+222;Novedades Iluminación navideña;106;1;Home
+157;Catálogo Técnico 2018;155;1;Home
+515;Discos de Led;189;1;Home
+513;Fichas de empalmes;189;1;Home
+509;Cintas;189;1;Home
+510;Bridas;189;1;Home
+514;Alargaderas;189;1;Home
+268;Suelo Exterior;232;1;Home
+255;Sobremuro y Farola Exterior;232;1;Home
+256;Farola exterior;232;1;Home
+257;Colgante exterior;232;1;Home
+254;Aplique Exterior;232;1;Home
+4;Colgantes;260;1;Home
+5;Lámparas;260;1;Home
+6;Apliques;260;1;Home
+31;Focos;260;1;Home
+261;Pie Salón;260;1;Home
+263;Sobremesas;260;1;Home
+452;Prueba ONLINE BTRUST;285;1;Home
+475;Báscula de baño;446;1;Home
+474;Mata insectos;446;1;Home
+471;Báscula de cocina;446;1;Home
+470;Olla;446;1;Home
+469;Batidora;446;1;Home
+467;Grill y Plancha;446;1;Home
+466;Tostador;446;1;Home
+476;Secador;446;1;Home
+465;Cocedor de huevos;446;1;Home
+477;Rizador y alisador;446;1;Home
+478;Espejo;446;1;Home
+480;Afeitadora;446;1;Home
+481;Tocadiscos y radio;446;1;Home
+485;Freidora sin aceite / Mini horno;446;1;Home
+486;Cafetera;446;1;Home
+479;Cortapelo;446;1;Home
+489;Bombillas FabriPlus;494;1;Home
+493;Bombillas con Expositor;494;1;Home
+492;Empotrables con Expositor;494;1;Home
+490;Pilas FabriPlus;494;1;Home
+508;Buzones;506;1;Home
+507;Relojes;506;1;Home
+38;Colgante Moderno;4;1;Home
+42;Colgante Rústico;4;1;Home
+34;Colgante Infantil;4;1;Home
+20;Colgante Clásico;4;1;Home
+96;Accesorios Colgantes;4;1;Home
+41;Lámpara Rústica;5;1;Home
+35;Lámpara Infantil;5;1;Home
+37;Lámpara Moderna;5;1;Home
+19;Lámpara Clásica;5;1;Home
+51;Aplique infantil;6;1;Home
+13;Aplique rústico;6;1;Home
+12;Aplique moderno;6;1;Home
+10;Aplique clásico;6;1;Home
+395;Foco Moderno;31;1;Home
+410;Bombilla;100;1;Home
+411;Led Integrado;100;1;Home
+412;Superficie;101;1;Home
+310;Accesorios;101;1;Home
+413;Empotrados;101;1;Home
+409;Proyector Led Sensor;104;1;Home
+407;Proyector Led;104;1;Home
+408;Proyector Led Solar;104;1;Home
+317;Extractores;105;1;Home
+314;Sensores de movimiento;105;1;Home
+312;Regletas;105;1;Home
+318;Pantallas estanca;105;1;Home
+315;Luces de emergencia;105;1;Home
+400;Aplique Moderno;254;1;Home
+399;Aplique clásico;254;1;Home
+401;Aplique Solar;254;1;Home
+404;Solar;255;1;Home
+403;Moderno;255;1;Home
+402;Clásico;255;1;Home
+405;Colgante Clásico;257;1;Home
+406;Colgante Moderno;257;1;Home
+52;Pie Salón clásico;261;1;Home
+282;Accesorios Salón;261;1;Home
+44;Pie Salón moderno;261;1;Home
+45;Pie Salón rústico;261;1;Home
+462;Sobremesa Decoración;263;1;Home
+49;Sobremesa moderno;263;1;Home
+46;Sobremesa clásico;263;1;Home
+48;Sobremesa infantil;263;1;Home
+283;Accesorios sobremesa;263;1;Home
+50;Sobremesa rústico;263;1;Home
+89;Especiales Led;267;1;Home
+91;Esféricas Led;267;1;Home
+92;Standart Led;267;1;Home
+93;Globos Led;267;1;Home
+420;GU10 Led;267;1;Home
+419;G9 Led;267;1;Home
+90;Velas Led;267;1;Home
+321;Accesorios;311;1;Home
+87;Led;319;1;Home
+86;Incandescencia;319;1;Home
+415;Superficie;414;1;Home
+416;Empotrados;414;1;Home
+29;Fluorescencia;421;1;Home
+88;Tubos Led;421;1;Home
+425;Ventilación C;432;1;Home
+423;Ventilación A;432;1;Home
+424;Ventilación B;432;1;Home
+429;Decorativo A;434;1;Home
+436;Los 100 más vendidos;435;1;Home
+437;Los 300 más vendidos;435;1;Home
+301;Sobremesas;496;1;Home
+72;Colgante;496;1;Home
+71;Lámparas;496;1;Home
+73;Pie;496;1;Home
+450;Pequeño electrodoméstico;497;1;Home
+451;Linterna;497;1;Home
+536;Ferretería y Material eléctrico;497;1;Home
+537;Hogar;497;1;Home
+518;Decoración;517;1;Home
+520;Plafón;517;1;Home
+521;Bombillas;517;1;Home
+522;Exterior;517;1;Home
+523;Flexo;517;1;Home
+519;Producto Técnico;517;1;Home
+398;Foco;539;1;Home
+80;Pie;539;1;Home
+298;Sobremesa;539;1;Home
+78;Lámparas;539;1;Home
+79;Colgante;539;1;Home
+297;Aplique;539;1;Home

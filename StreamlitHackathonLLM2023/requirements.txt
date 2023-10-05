@@ -1,0 +1,14 @@
+streamlit
+requests
+pytube
+assemblyai
+nltk
+plotly
+matplotlib
+pandas
+langchain
+openai
+sentence-transformers
+torch
+streamlit_feedback
+langsmith

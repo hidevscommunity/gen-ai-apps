@@ -1,0 +1,6 @@
+streamlit
+openai
+llama-index
+nltk
+pypdf
+streamlit_lottie

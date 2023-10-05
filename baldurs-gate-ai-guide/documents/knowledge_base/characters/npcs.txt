@@ -1,0 +1,903 @@
+# Volo
+Volo is an NPC in Baldur's Gate 3. Volo can be first found at the Druid Grove, after the assault by goblin forces. Volo is a writer that tends to exaggerate a little about the real facts that happen around him. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.
+
+Where to find Volo
+
+Can be found at:
+
+Act 1
+
+Druid Grove
+Goblin Camp
+Shattered Sanctum
+Camp
+Volo Related Quests
+
+Rescue Volo
+Remove the Parasite
+Volo Dialogue Options
+
+At the Druid Grove
+
+Volo will be found talking to a bear, interact with him and he will gladly ask you details about the goblin group that attempted to raid the grove. He will mention that this group of Goblins was yelling about the Absolute, something strange because they usually worship Maglubiyet. This will lead Volo to the Goblin Camp to learn more about this situation.
+
+At the Goblin Camp
+
+Volo will be found performing against his will at the center of the Goblin Camp. When he sees your party, he gets incredibly nervous and is taken inside the Shattered Sanctum. This begins the updates of the journal for Rescue Volo.
+
+At the Shattered Sanctum
+
+Volo will be in a cage, while being guarded by Gribbo. Talk to her and you can convince her to give you the Cage Key. Your interaction with her will look like this: 
+
+So I see. Do you have plans for this pigeon?
+Does your bird have a name?
+Leave.
+If you ask any questions, she will follow up with "Whats it to ya?"
+
+Your pet is actually a rather famous writer.
+I was admiring him. I'd like one of my own.
+I hate to see such a lovely creature in a cage. 
+Leave.
+As the conversation goes on, the symbol will start to glow and you will be presented with some checks: 
+
+I've taken a shine to this one. How much do you want for him?
+[ILLITHID] [WISDOM] Set him free.
+[PERSUASION] He looks weak. Sick, even. He won't last long in there.
+[INTIMIDATION] I'm done talking. Open the cage or you'll be sorry. 
+[DETECT THOUGHTS] Read her thoughts
+Leave.
+Choose a response and pass the associated check and she will give you the Cage Key to the "pigeon." 
+
+You can interact with Volo directly from here. You can ask him about his situation and eventually choose to get him out if you want to free him. 
+
+Once freed, you can invite Volo to your camp. He takes a Potion of Invisibility and leaves. This will update Rescue Volo.
+
+IMPORTANT: If the player does not release him from his cage before making the goblin camp hostile, Volo will disappear from the cage and his quest line will freeze at "We freed Volo. He'll meet us back at camp" but he will not appear.
+At the Camp
+
+When you meet him at the camp, he will give you the Blazer of Benevolence for freeing him. After a few conversations, if you tell him about the tadpole in your head. He affirms he can help you, and his unorthodox methods costs you an eye, which he replaces. This leaves you with a Passive Feature called Volo's Ersatz Eye, allowing you to see Invisible Creatures within 30 feet.
+
+Volo is secretly immortal lore-wise because Mystra chose him as a pillar of magic. A secret fail safe in case someone breaks magic again in the form of a Karsus' folly 2.0. No one but Mystra knows this so that not even Volo can accidentally tell this secret and let Mystra's failsafe be known. This explain Volo's unusually long life as a human and his incredible luck which are supposed to be Mystra's blessing
+
+# Raphael
+Raphael is an NPC in Baldur's Gate 3. Raphael can be found at Camp. Raphael is a cambion (or part devil) that disguises himself as a man when first introduced.  There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.
+
+Where to find Raphael
+
+Can be found at: If one has not interacted with Raphael at any point, he will force the interaction at several locations.
+
+ACT 1 POSSIBLE SPAWN Locations
+
+Druid's Grove, just outside of the Ritual Area towards the beach and the bard.
+Hidden Cache between bridge and crashed nautiloid
+Selune Temple in the Underdark, approaching the statue with the gem directed at the two statues outside that attack if you get too close.
+Blighted Village just prior to the broken bridge, and after the barn where a rambunctious couple are playing checkers.
+Goblin Camp, in the Central Building.  Occurred top of the ladder near Priestess True Soul Gut.
+If you somehow managed to avoid all of this Spawn spots (IE Jumping from Druid's Grove into Risen Road area where you recruit Karlach and then end up into the Mountain Pass) THEN HE WILL SPAWN IN CAMP. Allowing you to farm approval points with Companions
+Act 1
+
+Random encounter after saving emerald grove, once you hit a radius he will spawn to speak with you 
+Act 2 
+
+At the entrance of the mausoleum to fight his mortal enemy 
+Act 3
+
+Sharess' Caress
+House of Hope
+Raphael Related Quests
+
+Removing the Parasite
+Raphael Dialogue Options
+
+After introducing himself, Raphael teleports you to a fancy dining room. Always talking in riddles, he tells you to enjoy the food warning that it might be your last meal. After asking Raphael where is he going with his statements, he reveals his true form as a devil.
+Here you can respond when he says that the feast might be your last:
+
+What makes you say that?
+I'm getting tired of your games.
+Are these theatrics leading somewhere? 
+Ignore him and fill your plate
+If you ignore him, he will carry on the conversation. 
+
+Draw your weapon
+What makes you think I need saving? 
+Why would you help me? 
+I don't care what you are - I care what you want. 
+If you decide to draw your weapon, Raphael will deescalate the situation and offers to fix your situation. 
+
+Ask him why would he help you. Asking Raphael this, he says he is a compassionate being and knows of your situation with the tadpole inside your head, stating that for him it would be extremely easy to fix.
+
+I'll do anything to get rid of the tadpole.
+I need to think this over.
+You're mad if you think I'll make a deal with a. devil.
+Then fix it - or die at my hand. 
+Call him mad and Astarion, Lae'zel, and Shadowheart will approve. 
+
+And if I do want to take this deal - how would I find you?
+I'll have the last laugh in the end. 
+Take me back. After that, I never want to see you again.
+I'll rip out your mocking tongue. 
+If you ask him how to find him, he'll say he'll be watching you. Raphael will eventually send you back.
+
+
+With relative low WIS, Raphael is vulnerable to control spells like Hold Monster, Otto's Irresistible Dance.
+Telling Raphael you will not take his deal earns you approval from all companions.
+If True Soul Gut locks you up in the Shattered Sanctum, but you are unable to pass both checks to release the chains. An assassin sent by Raphael will take care of her and her bodyguard. She will free you afterwards.
+Raphael has a numerous possible spawn locations in Act 1.
+If you managed somehow avoid EVERY AND ALL spawn locations, then he will spawn at camp.
+
+# Halsin
+Halsin is an NPC and Potential Companion in Baldur's Gate 3. Halsin can be found as a prisoner at the Worg Pens, deep within the Shattered Sanctum. Halsin is the first Druid of the Druid Grove, but has been missing since he left with Aradin's expetidition. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.
+
+Where to find Halsin in BG3
+
+ Halsin can first be met in the Worg Pens at the Shattered Sanctum , Goblin Camp.
+
+In order to recruit him, you must complete the druid's grove/Save the refugees questline. In which you need to defeat the three leaders of the Goblin Camp.  
+
+However, Halsin won't be available as a playable companion until players have rescued Thaniel and Oliver inside the shadow-cursed lands in Act 2. Once that issue has been resolved, players will be able to ask Halsin to join them permanently.
+
+Halsin's Starting Equipment
+
+Equipped:
+- Druid Leather Armor
+- Druidic Bracers
+- Grovetender Boots
+- Halsin's Grove Garments (Clothing)
+- Tasteful Boots (Clothing)
+- Halsin's Underwear (Clothing)
+- Torch
+- Backpack:
+Camp Supply Pack
+Scroll of Revivify
+Quarterstaff
+Goodberry (2)
+
+## Halsin's Starting Skill Proficiencies
+- Athletics
+- Stealth
+- Nature
+- Animal Handling
+- Perception
+- Survival
+
+## Halsin Quest Walkthrough
+
+You learn about Halsin for the first time at the Druid Grove. He has gone with Aradin's expedition to the Goblin Camp, but he never managed to return because he was captured. He can be found at the Worg Pens. 
+
+If you free him, he offers to join you during the raid of the goblin camp. Doing this, he will be at your side, but every NPC that crosses your path will be automatically hostile.
+
+If you raze the Goblin Camp and kill the three goblin leaders (True Soul Gut, Dror Ragzlin and Minthara) before talking to him at the Worg pens, you will find Halsin has left his cage and has returned to the Druid Grove by himself. After introducing himself, he thanks you for your actions and immediately senses you have a problem he can help you with.
+
+After the events at the Shattered Sanctum, Halsin will then return to the Druid Grove. If you have exposed Kagha, he will be having a word with her. Once the Tiefling party is over, he will tell you about Moonrise Towers.
+
+## How to Romance Halsin
+
+In this Halsin Romance Guide, we explore the general path toward gaining Halsin's approval and what opportunities you have to share some moments with him. This will be updated as more is revealed throughout the game. Halsin becomes available for romance when a certain point of approval has been reached. Halsin is different compared to other companions as he cannot be recruited as a party member until Act II, though you are able to flirt with him already after you first meet him in Act I during the Quest Save the Refugees or Find the Druid.
+
+## Halsin Romance Guide Act I
+
+As mentioned above, Halsin can be first met at the Druid Grove, having been captured by goblins during Aradin's expedition to the Goblin Camp. If freed, he can aid in raiding the camp. If you defeat the goblin leaders before freeing him, he returns to Druid Grove and offers assistance. After clearing the events in the Shattered Sanctum, Halsin returns to Druid Grove and may confront Kagha. Naturally, you'll want to make sure to save help both the Druids and the Tieflings, and defeat Minthara and the goblins, if you want any chance of recruiting and romancing Halsin. Afterward, he will offer his help and offer information about the Moonrise Towers. While he travels and fights with you somewhat from this point on, he will not yet join your ranks as a Companion officially. You can still flirt with him anytime you talk, and even attempt to spend time with him on the night of celebrations after you finish the aforementioned Quests. He will turn you down, but not straight up reject you.
+
+## Halsin Romance Guide Act II
+
+As you go through Act II, you'll eventually make it to the Last Light Inn. Certain situations may trigger the devastation of the inn, especially if you chose to play as The Dark Urge, so make sure to choose the options that will preserve everything and everyone, as much as possible. Making sure to keep the inn intact leads to encountering someone there called the "Sleeping man." Speaking with him prompts a Quest from Halsin to find Thaniel, a child he seeks. This Quest will eventually entail protecting Halsin as he attempts to travel inter-dimensionally. This can be a difficult fight as you'll have to keep him alive in a difficult combat engagement until he finishes his task. Successfully clearing the quest will reward you with finally being able to officially recruit Halsin and thus make him available for romance. Make sure to keep clearing out any other Quests surrounding Halsin as you build approval with him.
+
+## Halsin Romance Guide Act III
+
+When you get your approval with Halsin enough as an official Companion, you can talk to him at camp with the exclamation point over his head for his intimate scene. Follow the conversation with affirming dialogue options, until he mentions having many previous lovers. Ask him what exactly he means by this to get his direct confession. If you were holding out all this time for Halsin, you'll simply need to assure him that you reciprocate his feelings. Otherwise, you'll have to be honest about it and say that you're interested but you're already with somebody else. He will explain that he does not mind sharing you, as he sees romance and partnership as a fluid system, much like nature to which he is so attuned. As a good partner who respects their lover, you'll have to go and have a talk with your current partner and see how they feel about polyamory. Astarion, Karlach, and Shadowheart have been confirmed to not mind. Naturally, if they do mind, and if you mind yourself, you can choose to break it off with them and exclusively be with Halsin. After you get their permission, head back promptly to Halsin and let him know to initiate the famous love scene. When he loses control and turns into a bear, you'll have the option to choose whether or not you'd like him to continue the deed in human form or as a bear. No one will judge you, as long as you both are happy.
+
+# The Absolute
+
+The Absolute is an NPC in Baldur's Gate 3. The Absolute was the power behind the Cult of the Absolute.
+
+
+# OWLBEAR CUB
+
+## Owlbear Cub's profile
+Location: Owlbear Nest
+Goblin: Camp
+Act: Act 1
+Owlbear Cub is an NPC, potential Enemy and camp companion in Baldur's Gate 3. Owlbear Cub can be first found at the Owlbear Nest. It is accompanied by a massive and powerful Owlbear. If you make the right choices in the game, there is a chance to invite the cub back to the Camp with you. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.
+
+## WHERE TO FIND OWLBEAR CUB
+Can be found at:
+- Owlbear Nest
+- Goblin Camp
+- Camp
+
+## OWLBEAR CUB DIALOGUE OPTIONS
+### AT THE OWLBEAR NEST
+Owlbear Cub can be first found with its mother, the Owlbear, at the Owlbear Nest. If players kill the mother, a choice will be presented on what to do with the cub. Killing it or sparing it. If you spare it, you will witness how the cub feeds on its dead mother.
+
+### AT THE GOBLIN CAMP
+
+If you have decided to spare the Cub, you will find it at the Goblin Camp, this time used as a chicken substitute for the game Chicken Run. Speak to Krolla to learn more about the game and find the cub. There will be a few ways to invite the cub to the camp. 
+
+Call the sport cruel, then convince Krolla to give the cub to you as a gift. 
+Convince the cub to attack Krolla and invite the cub to your camp. 
+Kill the goblins in the area and invite the cub to the camp
+Accept the challenge and win. 
+
+If you choose the play and you can speak to the cub, you will have a few dialogue options
+
+[PERSUASION] The goblins are responsible for your pain. Kill them
+Leave. 
+If you persuade the Owlbear to attack the goblins, Astarion will approve.  From here, you can tell him he's welcome at the camp. Shadowheart will approve of this gesture. 
+
+### AT THE CAMP
+At your Camp, the Owlbear Cub will appear, ask you for supplies to eat, and then disappear into the wilderness.
+The Owlbear Cub can show up again, this time with a hurt paw. After helping the Owlbear with its paw, they will call you nice and make the camp its home.
+
+# WITHERS
+Location: Dank Crypt
+Act: Act 1
+Related Quests: Explore the Ruins
+Withers is an NPC in Baldur's Gate 3. Withers can be found at Dank Crypt. Withers is a mysterious and terrifying Skeleton that joins your camp after you either first meet him or after a short while.  There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.
+
+## RESPEC A CHARACTER IN BALDUR'S GATE 3
+In Baldur's Gate 3, you will be able to Respec your characters as many times as you want, as long as they have the required gold and have already added Withers to the Camp. Approach to him and select Respec among the services he provides. Withers will ask for 100 gold pieces for his service. The price of the service DOES NOT increase during the course of the game, nor if you use it frequently.
+
+Any character can interact with Withers to Respec, even your Companions, if they pay the asking price. Note that respecing a character does not change its interactions or Quests.
+
+## HIRING WITHER'S HIRELINGS
+After Wither shows in camp. Not only does he inform you of his reviving and respecing capabilities. But a new feature he provides is the ability to pull in souls that would help your cause. In other words, Hirelings. Withers charges for this services with Gold (100).
+
+## HOW TO UNLOCK WITHERS?
+Players must progress through the main storyline and reach the Dank Crypt. Players will encounter him as you progress through the Explore the Ruins Quests.
+Otherwise, Withers will also join the camp even if you haven't met him at the Dank Crypt, after progressing for a short while into the main storyline.
+
+ 
+## WHAT HAPPENS IF YOU ATTACK WITHERS?
+Withers will not respond with hostility and you cannot engage in a combat with him. He will still meet you at the camp and provide you with his services including respeccing capabilities and will continue to provide you with Hirelings. 
+
+
+## WHERE TO FIND WITHERS
+Can be found at:
+- Act I: Dank Crypt
+- Act II: Moonrise Towers (end of act II)
+
+## WITHERS RELATED QUESTS
+Explore the Ruins
+
+## WITHERS DIALOGUE OPTIONS
+You will find him inside a Richly Adorned Sarcophagus at Dank Crypt as you progress through Explore the Ruins. View the quest page if you are having trouble reaching Withers. Interact with the Sarcophagus to wake him up. This will begin a cutscene & dialogue. After he wakes up, you can interact with him. He will ask you, What is the worth of a single mortal's life?
+
+Quite the question. What's the reason for it? 
+So he has spoken'? What 'he' are you talking about?
+Little spooked by the crawling out of the tomb but. What are you?
+A peaceful undead. Interesting. Why aren't you attacking me?
+Attack. 
+Choose any question option and he will circle back and ask if you will answer his previous question. 
+If you choose to Attack Withers, he will not engage in Combat and will still show up at Camp and provided you with his services. 
+You have the following responses available for his question: 
+
+Yes. Ask away. 
+I don't owe you answers.
+Attack.
+Leave.
+He will ask again. Finally, you can respond with the following:
+
+No one life is worth more than any other. We are all equal.
+That depends on a person's deeds.
+Life's only value is as currency. Doesn't matter to me otherwise.
+Each life is of infinite value and merits sacrificing everything for.
+The only life that matters is mine. 
+Depends on the mortal. 
+[Dark Urge two additional dialogue options]
+Mortals live to die. To be slaughtered.
+Mine seems worth little, as my blood calls me to harm others.
+[Racial] (The answer given here depends upon the player's race or subrace.) 
+[Elf] Some mortals live much longer than others. I can't compare them.
+[Lolth-Sworn Drow] Life only has value where Lolth decrees it.
+There is no wrong answer here. After you respond, he will be satisfied with your answer and bid you farewell after stating that you will meet again. He will then walk away. You can choose to follow him and interact with him again to engage in a short dialogue. After this, he can be found later in the camp, where he provides a resurrection service for 200 GP along with his other services.
+
+## ITHERS DIALOGUE OUTCOMES
+Though Withers will be more pleased with some responses more than others, there are no wrong answers during this interaction. 
+If you attempt to attack him, no Combat interaction will be triggered and it will not affect the outcome.
+
+# SCRATCH
+Location: Blighted Village, Camp
+Act: Act 1
+Related Quests: N/A
+Scratch is an NPC in Baldur's Gate 3. Scratch can be found at Blighted Village. Scratch is a dog, waiting for his master to wake up. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.
+
+## WHERE TO FIND SCRATCH
+Can be found at:
+- Act 1: Outside the Blighted Village  
+
+## SCRATCH DIALOGUE OPTIONS
+Scratch can be found protecting its master, unbeknownst to it that its master is already dead. You can convince it to follow you to your camp. There you can pet Scratch, and it can retrieve some items to you such as a Potion of Healing.
+
+Reach out to pet him.
+Sidestep him to get to the corpse
+Shoo him away. 
+If you attempt to pet him he won't let you. 
+
+[ANIMAL HANDLING] Kneel - you mean no harm.
+[PERCEPTION] Peer at his collar
+[INTIMIDATION] Stand down!
+Leave.
+If you use Intimidation and pass the check, Scratch will stand down. 
+
+Take a closer look at him
+Pet him.
+Leave
+If you choose to him pet him now, he will allow you. 
+
+Motion him to follow.
+Leave him to his sorrow.
+Ask him to come, and he will need more convincing. 
+
+Hold out your hand so he can follow your scent to camp
+Leave him to his sorrow. 
+After this interaction, you can examine his master's body and his belongings. You can then find Scratch at the camp.
+
+SCRATCH NOTES AND TIPS
+Throw a ball in his presence and he will fetch it, truly a good boy.
+The longer he is in your camp the more often he will bring you random things (including healing potions).
+
+
+# MIZORA
+
+## Mizora's profile
+- Location: Campsite, Moonrise Towers, Wyrm's Rock fortress
+- Act: Act 1
+- Related Quests: Blade of Frontiers
+- Mizora is an NPC in Baldur's Gate 3. Mizora is Wyll's Handler. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.
+
+## WHERE TO FIND MIZORA
+Can be found at:
+- Act 1: Campsite
+- Act 2: Moonrise Towers
+- Act 3: Wyrm's Rock fortress
+
+## MIZORA RELATED QUESTS
+- Blade of Frontiers
+
+## MIZORA DIALOGUE OPTIONS
+Mizora appears at the Underdark Camp. When she appears, you have the following options:
+
+Just who in the Nine Hells are you?
+Well, well. Aren't you a luscious thing?
+Godsdamned devil. Get out of my camp!
+[WARLOCK] That's a nice set of wings. Let me guess: Wyll's patron? 
+If you flirt with her (option 2), Wyll and Karlach will disapprove.
+She will eventually bring up a deal involving Karlach. If she is alive, Wyll will defend her, but Mizora will insist she has no heart. 
+
+Get to the point, devil.  What do you want?
+If we kill Karlach now, will that get rid of you?
+You better not lay a damned finger on Karlach.
+Blast it all, Wyll. Why didn't you tell me about her?
+I've heard enough. You're not leaving this place alive. 
+Regardless of your choice, she will put Wyll in a pit of fire and change his form. If you chose answer 3 & 5 - Wyll, Lae'zel, Gale and Shadowheart will approve
+
+## MIZORA IN MOONRISE TOWERS
+Mizora will make an appearance again at Moonrise Towers.
+Mizora appeared in the form of a projection to inform us that the Absolute cult abducted an infernal asset of some importance to the archdevil Zariel. We should find and release them - Wyll's very soul hangs in the balance.
+We've delved deep into Moonrise Towers. We should search the area thoroughly - the devil that Mizora asked us to rescue must be nearby.
+Continue through the Main Quests of the game until you reach Moonrise Towers. You'll be undergoing the task to Infiltrate Moonrise Towers. 
+Depending on whether or not you’ve got Wyll in your party during one of your rests at camp, Mizora will come for a visit. She’ll tell you that one of Zariel’s devils has been captured by the cultists and brought to Moonrise Towers. Wyll’s next task, as per their pact, is to free this devil. You’ll have the following options to respond to this with:
+
+And this is our problem how, exactly?
+Forget it. This ‘asset’ can rot in the Towers for all I care.
+If this devil is so powerful, how did they manage to get captured?
+If you choose the first option, she’ll do her usual referencing of their contract. Before she leaves, you’ll do a Perception check here to see if she’s hiding anything behind her usual attitude, and blurry appearance.
+
+ruined battlefield12 locations world baldurs gate 3 wiki guide
+
+If you did choose to take a long rest, you’ll be visited by your Dream Visitor again as you sleep. They’ll comment on how strong the Absolute’s influence is where you are, and then commend you for saving the refugees at the grove. You can respond with the following options:
+
+It wasn’t even a choice. They needed my help.
+It doesn’t seem like my help did them much good. The cultists caught up with them.
+It was a waste of time. I regret it now.
+I didn’t do it for them. The goblins were in my way, so I killed them.
+Choosing the first option will have them say it’s not a choice just anyone could make, before wincing in pain. A successful Perception check will tell you that they’re hiding their struggle to protect you. You’ll have the following options to react with:
+
+What is it?
+Are you all right?
+Focus! Don’t you dare drop my protection.
+Say nothing.
+A successful Insight check this time will tell you that despite her disciplined, strong demeanor, she also needs some comfort. You can choose to do the following:
+
+Say nothing. Wait.
+Hold (them) tight.
+You look terrible. Do you need a hug?
+Pull yourself together. We’ve got work to do.
+They’ll appreciate the gesture if you choose to hold them and mention that it’s been quite a while since they’ve been held by someone. If you ask them who it was that used to hold them, they’ll reveal the name Belynne who they were very close to. They’ll tell you how the Absolute’s mental attacks to transform you have been relentless, but they’ll reaffirm her resolve to protect you for as long as they can.
+
+Before leaving camp, you can talk to Wyll who’ll be quite pissed at his new task. You can ask him if this task violates their contract, as he was supposed to be killing devils, not rescuing them. Knowing how Mizora thinks, however, he confirms that the contract doesn’t say anything about saving a devil so the task still stands. You can continue the conversation which will end with the resolution to complete the task so he doesn’t get turned into a lemure.
+
+To Rescue Zariel's asset from Moonrise, you'll need to make your way to the Mind Flayer Colony Membrane and head deeper in till you see Chop. Head past him towards the north. Deeper into the Colony until you reach the Tadpoling Centre. Search the Mind Flayer pods toward the west and you will find Mizora.
+
+moonrise towers the blade of frontiers baldurs gate 3 wiki guide 600px min
+
+Mizora? You are the devil you sent Wyll to rescue?
+Figures. All that talk about Zariel's asset, I should've known you were lying. 
+What have we here? Hold on - I need to relish the moment.
+She then tells you to get her out and she will let Wyll go, and you will see that the control panel has two devices with illithid symbols.
+
+[BARBARIAN] [STRENGTH] SMASH THE POD.
+Examine the device on the left.
+Examine the device on the right.
+Leave her there. 
+Followed up by a chance to annihilate her:
+
+[BARBARIAN] [STRENGTH] SMASH THE POD.
+Connect your.  mind to 'annihilate' device and activate it
+Connect your.  mind to 'ybkeasg' device and activate it
+Leave her there. 
+Note: If you choose to annihilate her, this will also result in Wyll's demise. If you have strength available and you use it successfully to smash the pod, this will update the journal for the quest, and her pod will open. She will then state that she will release Wyll within six months. 
+
+To the Hells with your conditions. Sever Wyll's pact now, or I'll sever your head.
+ A full half of a year? You've got to be kidding. 
+Shrug. Six months isn't that long a wait.
+That warlock of yours is turning out to be more trouble than he's worth. 
+You can choose option 1, but she will not fight you and she will leave.
+
+Note: If Wyll is in your party, she will reward him with an Infernal Rapier for his troubles if you manage to convince her. 
+
+# MIZORA IN ACT 3 CAMPSITE
+Mizora asked us to meet her in camp. She has an important proposal to make regarding Wyll's father, Grand Duke Ravengard.
+You will be visited by Mizora at some point at Camp after a long rest. She will offer Wyll a deal. 
+
+Here, you will meet the sisters of Justice. Wyll wants to find and save his father so Mizora gives him two choices. She offers another bargain. Your two options are the following: 
+
+If the Grand Duke is alive, then she will reveal his location, but Wyll will pledge his soul to Mizora and the archdevil Zariel. (If the Grand Duke is dead at this point then Mizora will resurrect him.)
+The second option is to break his pact, but Wyll's father will die by his enemy's hand. 
+When she appears with a proposal, the dialogue will proceed as follows: 
+
+What are you proposing?
+Then break it already. Wyll doesn't need to wait six months.
+Remain Silent. 
+Ask what he proposal is and she will elaborate. 
+
+## SHOULD YOU BREAK MIZORA'S PACT WITH WYLL?
+If you remain pacted, your next objective will be to Rescue Ravengard from Gortash's secret prison. 
+If you break the pact, your next objective is to Continue onward with Wyll. Counsellor Florrick or Cordula Eltan will later ambush the party, while accusing Wyll of killing the father so he could take the city. 
+Your choices here will also affect your journal updates for the Rescue the Grand Duke.
+Note: Before you make your choice, it is possible to break the pact and later on find a way to save his father if you find him alive at the Iron Throne. 
+Your response here will determine his choice.
+
+What will happen to Wyll's powers if he breaks the pact?
+Save your father, Wyll. The city will need him to help rebuild. 
+Do the right thing. Give your soul so that your father can live.
+Break the pact, Wyll. You deserve your freedom.
+Let your father die. When the city's free, you can take his place. 
+
+After the consequences of both these events play out, you will still be able to gain information to proceed with The Blade of the Frontiers quest and you will be able to proceed to Read The Legend of Ansur whether it is retrieved from the Grand Duke or looted from an ambush.
+
+
+# AUNTIE ETHEL (The Hag)
+
+## Auntie Ethel (the Hag)'s profile
+- Sister of the Seeing Pearl
+- Level: 5
+- Location: Druid Grove, Sunlit Wetlands
+- Acts: Act 1, Act 3
+- Quests: Remove the Parasite, Save Mayrina, Avenge the Hag Survivors, Save Vanra
+- Auntie Ethel is an Npc, Merchant and potential Boss in Baldur's Gate 3. Auntie Ethel is a Hag and a powerful Fey creature. You can first meet her at The Hollow where you can trade some goods with her. Bosses in BG3 are powerful enemies that have increased health and pose a bigger challenge for players.
+
+## WHERE TO FIND AUNTIE ETHEL (The Hag)
+- Act 1: Druid Grove, Sunlit Wetlands
+- Act 3: The Blushing Mermaid - Basement
+
+## AUNTIE ETHEL QUESTS
+- Remove the Parasite
+- Save Mayrina
+- Avenge the Hag Survivors
+- Save Vanra
+
+## AUNTIE ETHEL DIALOGUE OPTIONS
+### DRUID GROVE
+You meet Auntie Ethel looking as an adorable elderly woman at the Druid Grove. The moment she sets eyes on you, she notices something is not right. If you talk to her about it, she tells you she can help you with your tadpole problem.
+Certain Classes, such as Warlock or Sorcerer, can sense something strange about the old woman, but she will shrug it off by stating that she is only an old healer that knows about potions and lotions. She tells you that if you go meet her at her teahouse, she can probably remove the tadpole.
+
+I need help. I've been infected by a mind flayer parasite.
+What harm? Show me your wares,
+Nothing for now. 
+Choosing option 1 and asking for help with give you Astarion's approval, but Shadowheart will disapprove. Ethel will then mention something she has at home. 
+
+Such as?
+My time could be running short. I can't afford to spend it paying you a house visit. 
+[WARLOCK] There is something strange about you. 
+Proceeding with the exclusive Warlock option will give you three more Warlock responses.
+
+At the Druid Grove, you can also trade with Auntie Ethel, this is what she has at her disposal:
+
+Corellon's Grace
+x3 Potion of Hill Giant Strength.
+Balsam Bundle
+x2 Mergrass Bundle
+Potion of Invisibility
+x4 Potion of Healing
+Potion of Greater Healing
+x5 Water
+Wispweed Bundle
+
+### SUNLIT WETLANDS
+
+You meet Auntie Ethel again at the entrance of the Sunlit Wetlands. This time, she is being threatened by two young men, Demir and Johl, who accuse her of being responsible for the disappearance of their sister Mayrina. As you enter the scene, you can:
+
+Side with the Brothers: If you do this, Auntie Ethel will vanish and head into her teahouse, you can talk to the brothers who, if offered help, will refuse it and proceed to search for their sister on their own. This leads to their death.
+Don't get involved: Auntie Ethel will admonish you for not coming to her aid before killing both brothers with magic. She then teleports to her teahouse as above.
+If you side with Auntie Ethel, the brothers will attack you immediately.
+Your first options are the following: 
+
+How about you all just calm down. What's going on here? 
+Lower your weapon, I know this lady. 
+This is nothing to do with me. Goodbye. 
+Auntie Ethel will soon disappear and you will be left with Johl and Demir who ponder about what to do next and how to find their sister.
+
+Let me - I'll bring Mayrina home.
+you're on your own. I have enough problems. 
+I'm sorry. I wish you luck in finding her. 
+If you volunteer to help them by picking the first dialogue option Gale, Wyll, and Karlach will approval and both Lae'zel and Shadowheart will disapprove, and they will still decline your help. This will still progress through the quest: Save Mayrina
+
+Once you reach the teahouse, no matter your choice, you will find Auntie Ethel once more. She has Mayrina captive, and is forcing her to finish her food, because the young girl is pregnant. As you enter her house, depending on how was your last interaction with the old woman, she will greet you differently.
+
+You can ask her about Mayrina. This won't be tolerated by Auntie Ethel who will threaten you to stay out of her business. If you insist or tell Mayrina that her brothers are dead, Auntie Ethel will teleport her and then transform herself into her real form, to then disappear behind the furnace, leading to her secret lair. The next time you find her, will be for the last time.
+If you stay out of Mayrina, and ask about the tadpole-removal procedure. She will offer you a deal for one of your eyes. All your Companions will disagree to this. If you pay no mind to their warnings and decide to accept the procedure, you will lose your eye, but the parasite won't be removed. Auntie Ethel states that the parasite has been tampered with, and it reeks of filthy magic, so she won't touch it. She, however, states that her part of the deal was kept, so your eye is hers. You earn the Paid the Price debuff. 
+When she transforms into a Hag for the first time, and attempts to flee, if your party is well-prepared and does enough burst damage, you can take her down before she manages to do so. This change some things that occur inside her lair. For example, poison clouds, disappear. The four people with the masks on are no longer aggressive, and can be talked to. You can even save one of them. 
+
+If you get her health low enough in her lair, she will offer you a deal. In which you can decide what to do, she offers a permanent + 1 to any of your stats. In return, you can't kill her and she gets to leave with Mayrina. But with a high enough skill check, you can get the stat boost and even save the girl too. 
+
+Both have an extremely high DC check for (Intimidation) and (Deceit)
+
+ 
+
+THE BLUSHING MERMAID - BASEMENT
+
+Before entering, it is recommended to go to Old Garlow’s Place first, in order to receive the recipe of Hag's bane, should you wish to complete the Save Vanra quest. (recommended as the quest rewards include a legendary rapier and a very rare amulet)
+
+As soon as you enter, jump upto the platform with gold (5), and hopefully one of your party members succeeds a check to reveal that the wall on the left is an illusion. Go into the now revealed room, and unlock the door to see a bunch of people controlled by Auntie's masks yet again, including the captain.
+
+After defeating all the people controlled by Auntie outside, go to the room through a door with traps nearby that also casts Tasha's Hideous Laughter on whoever opens it.
+
+Optionally you can sneak past the guards and through the door. Be wary, because at the start of the fight Ethel will summon her henchmen. If you manage to kill Ethel without killing the controlled pirates, the ones surviving will be freed.
+
+Once inside, no one is there, but if you go near a self-healing mushroom (white mushrooms that glow called Pearlspore Bell) and then go into turn-based mode (to prevent them from self-healing before you can destroy them) and destroy one of these mushrooms. This will cause Auntie Ethel to appear. After dialogue with her, a combat will initiate.
+
+You can throw Hag's bane on Aunt Ethel to save Vanra.
+
+## AUNTIE ETHEL BOSS GUIDE
+
+## AUNTIE ETHEL BOSS TIPS
+
+When you fight Auntie Ethel on her lair, she casts three copies of herself. Only one is real, the other three are illusions. You can dispel them by hitting them with any attack. Keep in mind, that while active, these illusions can damage you. The real Ethel also has different stats and status effects, usually with more status and stronger stats than a normal human.
+
+Magic Missile is a good spell to attack many copies at the same time. Using Witch Bolt is also extremely useful before she creates the clones. It allows you to stay "connected" to the real hag.
+
+## AUNTIE ETHEL GENERAL INFORMATION
+race: Fey
+hp: 112
+armor: 15
+movement speed: 9m
+size: Medium
+weight: 50kg
+attitude: 0
+
+## AUNTIE ETHEL PASSIVE FEATURES
+Fey Life: Makes it easier for the wearer to succeed on Death Saving Throws.
+Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. 
+darkvision spell: You can see in the dark up to 12m.
+
+## AUNTIE ETHEL ABILITIES
+strength: 18
+dexterity: 14
+constitution: 16
+intelligence: 13
+wisdom: 14
+charisma: 18
+Proficiency Bonus: +3
+Initiative: +2
+
+## AUNTIE ETHEL ATTACKS & SPELLS
+
+### AUNTIE ETHEL RESISTANCES
+Slashing: Normal
+Piercing: Normal
+Bludgeoning: Normal
+Fire: Normal
+Lightning: Normal
+Psychic: Normal
+Poison: Normal
+
+## AUNTIE ETHEL REWARDS
+- 250 XP
+- Spellthief
+- Corellon's Grace
+- x3 Potion of Hill Giant Strength.
+
+## NOTES AND TIPS ABOUT AUNTIE ETHEL (The Hag)
+- You can cast Speak with Dead on her body, she will reveal a few interesting things.
+- Keeping Ethel's Corpse, after one long rest it will be replaced with the Potion which poisons.
+
+# CAZADOR SZARR
+
+## Cazador's profile
+- Location: Cazador's Dungeon, Lower City
+- Act: Act 3
+- Related Quests: Investigate Cazador's Palace, The Pale Elf
+- Cazador Szarr is an NPC and an Enemy in Baldur's Gate 3. Cazador Szarr can be found at the Szarr Palace in the Lower City. Cazador Szarr is the vampire lord and Astarion was previously his Vampire Spawn. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.
+
+## WHERE TO FIND CAZADOR SZARR
+Can be found at:
+- Act 3: Cazador's Dungeon, Lower City
+
+## CAZADOR SZARR RELATED QUESTS
+- Investigate Cazador's Palace
+- The Pale Elf
+
+## CAZADOR SZARR DIALOGUE OPTIONS
+Cazador Szarr will be encountered in the Cazador's Dungeon, Lower City. Your interactions with him will be affected by whether or not Astarion is in your party. Your actions will end in Combat. 
+
+Afterward, you can decide his and Astarion's fate by allowing Astarion to ascend in his place or by convincing him not to. Most outcomes lead to his death. 
+
+All right, what do you need?
+If I help you complete the ritual, it will kill all these people.
+Didn't you hear him? If I complete the ritual, you'll be consumed. 
+I'm not doing this. 
+Your choices during this interaction will directly affect The Pale Elf.
+
+## CAZADOR SZARR STATS
+
+### CAZADOR SZARR GENERAL INFORMATION
+- Race: Vampire
+- Health: 208
+- AC: 21
+- Base speed: ???
+- Size: Medium
+- Weight: 75kg
+- Attitude: 0
+
+## CAZADOR SZARR STATS
+- Strength: 18
+- Dexterity: 18
+- Constitution: 18
+- Intelligence: 17
+- Wisdom: 15
+- Charisma: 18
+- Proficiency Bonus: +4
+- Initiative: +9
+
+## CAZADOR SZARR PASSIVE FEATURES
+- Alert: You gain a +5 bonus to Initiative and can't be Surprised.
+- Arcane Enchantment: You gain a +1 bonus to Spell Save DC and spell attack rolls.
+- Arcane Vampirism: When the creature affected by your spells fail any associated Saving Throws regain 1-4 hit points.
+- Improved Extra Attack
+- Opportunity Attack
+- Sunlight Hypersensitivity: This creature takes 20 Radiant damage if it starts its turn in sunlight. While sunlit, it has Disadvantage on attack rolls and ability checks.
+- Vampire Regeneration: The vampire regains 20 hit points at the start of its turn if it isn't in sunlight. Or has taken radiant damage or damage from holy water, in which case this trait doesn't function the start of its next turn.
+
+## CAZADOR'S RESISTANCES
+- Slashing: Halved
+- Piercing: Halved
+- Bludgeoning: Halved
+- Necrotic: Halved
+
+## CAZADOR SZARR NOTABLE LOOT
+- Woe
+- Rhapsody
+- Skull Of Velioth
+- Pelorsun Blade
+- Szarr Family Ring
+
+
+# NIGHTSONG
+
+## Nightsong's profile
+- Location: Shadowfell
+- Acts: Act 1, Act 2, Act 3
+- Quests: Defeat Ketheric Thorm, Find Ketheric Thorm's Relic, Find the Nightsong, The Chosen of Shar
+- Nightsong is an NPC in Baldur's Gate 3.  Nightsong can be found in the Shadowfell during Act 2.
+For much of the early game leading into Act 2, the Nightsong remains a mystery until the player discovers the Nightsong isn't an object or a place but rather a person.
+As it turns out the Nightsong's true Identity is revealed to actually be that of a female aasimar by the name of Dame Aylin.  Not only is she immortal, but Aylin also happens to be the daughter of the goddess, Selûne.
+For the past 100 years she has been held as a prisoner inside the Shadowfell, where she has been used to fulfill a dual purpose.  The first and much more apparent role she plays is that of a Selûnite blood sacrifice for the final rite Sharrans go through in the Gauntlet of Shar when looking to ascend and become Dark Justiciars.  As an immortal her deaths are short-lived and she always returns to life waiting for the next supplicant to kill her.
+Aylin's second and much more insidious function is to act as the source of Ketheric Thorm's unnatural invulnerability.  When she was first trapped in the Shadowfell, the necromancer Balthazar discovered a way to indefinitely bind her inside a Soul Cage, which in turn would be used to link Ketheric and her together.  At so long as she remained alive and bound and shackled by the spell.
+Unaware of this ulterior motive, Shar initially accepted Aylin as a gift from Ketheric, as a way to spite her sister Selûne.  But as she became privy to the Nightsong's true purpose and nature she came to resent her even more and scorned Ketheric for his heresy and betrayal in using necromancy to continually cheat death and defile her realm with such foul and profane magicks.
+
+## WHERE TO FIND NIGHTSONG
+Can be found at:
+- Act 1: Gauntlet of Shar (Shadowfell), Moonrise Towers, Camp
+
+## NIGHTSONG QUESTS
+- Defeat Ketheric Thorm
+- Find Ketheric Thorm's Relic
+- Find the Nightsong
+- The Chosen of Shar (Daughter of Darkness)
+
+## NIGHTSONG DIALOGUE OPTIONS
+Your interactions with Nightsong will be modified depending on whether you decide d to Attack Balthazar or not. When proceeding through The Chosen of Shar, there will be multiple outcomes when you see Nightsong in her prison:
+
+Allow Shadowheart to become Dark Justiciar. You will need to have obtained the Spear of Night for this to be possible and you will need to defeat Balthazar.
+Shadowheart spares Nightsong. This will require your to attack Balthazar. This will lead Nightson to head for Moonrise Towers to kill Ketheric Thorm. 
+Spare Balthazar and allow him to take Nightsong to Ketheric Thorm. He will explain that Aylin is an aasimar, bound to a soul cage of his creation to lend her power to General Thorm. 
+Your interactions with Nightsons will affect the outcomes and updates of Find Ketheric Thorm's Relic, and Defeat Ketheric Thorm.
+
+## DEFEAT BALTHAZAR - THE CHOSEN OF SHAR ENDING 1 & 2 (NIGHTSONG ENDING)
+
+The first two endings will require you to defeat Balthazar. Face Nightsong without Balthazar by attacking him. When you face Nightsong, you will have the following options:
+
+Trust Shadowheart - do not interfere. 
+Do as you must.
+Is this truly what you want?
+Choose your own way, Shadowheart. You cannot allow your goddess to control you.
+Please Shadowheart. Don't do this. 
+Choose to trust her with the first option and Shadowheart will approve. You can follow up with the next options:
+
+Kill her. Let's finish this ritual,
+[persuasion] Don't do it, Shadowheart. Don't kill her- you'll regret it. 
+She knows something about you. Spare her, and see what she has to say. 
+Say nothing. 
+Continue with the ritual and encourage Shadowheart with the first response. Karlach will disapprove. This will result in Ending 1. Say nothing during this interaction to get Ending 2 (Spare Nightsong).
+
+ 
+
+### THE CHOSEN OF SHAR ENDING 1: HELP SHADOWHEART FINALLY BECOME A DARK JUSTICIAR (NIGHTSONG ENDING)
+
+Allow Shadowheart to kill Nightsong with the Spear of Night and she will become a Dark Justiciar. 
+
+spear ending 2 the chosen of shar baldurs gate 3 wiki guide 600px min
+
+Shadowheart wielded the Spear of Night and killed Nightsong. Greatly pleased, Shar rewarded Shadowheart, and gave her a new mission to pursue.
+
+
+### THE CHOSEN OF SHAR ENDING 2: SPARE NIGHTSONG (NIGHTSONG ENDING)
+
+If you say nothing during the dialogue, Shadowheart will decide herself to spare Nightsong leading to Ending 3. Nightsong will be headed toward the Moonlight Towers to go after Ketheric Thorm.
+
+spare nightsong ending 3 the chosen of shar baldurs gate 3 wiki guide 600px min
+
+We convinced Shadowheart to turn her back on Shar's wishes, and instead free Nightsong. Rather than become a Dark Justiciar, Shadowheart will instead likely face dire consequences for her actions.
+ 
+
+### THE CHOSEN OF SHAR ENDING 3: SURRENDER NIGHTSONG TO BALTHAZAR (NIGHTSONG ENDING)
+If you decide to go see Nightsong without attacking Balthazar, you have the following dialogue options:
+If she's the reason Ketheric is invulnerable, you're not taking her. Leave, or you're a dead man.
+Go on, then. Take the Nightsong to Ketheric. Get it over with.
+Attack him. 
+If you choose option two and ask him to take the Nightsong to Ketheric, Wyll and Karlach will disapprove. Allow the next scene to play out and she will be released. This will inspire Shadowheart (Acolyte: Cerimonia Compedum) and complete the quest. 
+balthazar ending 1 the chosen of shar baldurs gate 3 wiki guide 600px min
+We surrendered Nightsong to Balthazar, who took her away to Moonrise Towers. Enraged, Shadowheart turned on us.
+
+
+## MOONRISE TOWERS AND NIGHTSONG
+You can speak to the Nightsong as Dame Aylin after sparing and freeing her during The Chosen of Shar. If you spared her, your next objective in Shadowheart's questline would be to defeat Ketheric Thorm.
+Dame Alyline: You have defeated Ketheric Thorm, yet you who were content to leave Dame Aylin in his thrall until it served you best. How do you account for it?
+
+I apologize. It was wrong of me to leave you in Ketheric's clutches.
+It was strategy - not personal.
+I'd do it again, if the whim struck me
+Say it was not personal and if you have Minthara with you, she will approve. However, Dame Aylin will state she will not forget her actions, but will continue to consider you an ally. She will further introduce herself and state that she will join your camp. 
+
+See you there.
+I don't think so. Our journey together ends here.
+ No need to wait. I freed you so I could kill Ketheric, but I have no interest in an alliance. 
+Here, you can choose whether you want to proceed with her as an ally. If you agree, you will see her at Camp. 
+
+## CAMPSITE AND NIGHTSONG
+
+Speak to her again and she will ask her mother for forgiveness for you. 
+I am grateful for your understanding. 
+Where's the silver light, the moon-magic?
+I'd have taken gold over a prayer. 
+Your mother is wrong, I'd send you to Ketheric again, if given the chance. 
+Eventually, you can ask her to tell Shadowheart about her history to further the Daughter of Darkness journals. You can also ask her to permanently join your camp.
+
+
+# KETHERIC THORM
+
+## Ketheric Thorm's profile
+- Location: Moonrise Towers, Mind Flayer Colony
+- Act: Act 2
+- Quests: Capture Isobel the Selunite Cleric, Defeat Ketheric Thorm, Find Ketheric Thorm's Relic, Infiltrate Moonrise Towers, Resolve the Abduction
+- Ketheric Thorm is an NPC in Baldur's Gate 3 who can be found at Moonrise Towers during the events of Act 2, once you've reached the Shadow-Cursed Lands: more specifically Moonrise Towers.
+Over the course of his two lives he has served many different gods: first as a paladin of Selûne, followed by Shar, and finally the Lord of Bones himself, Myrkul.
+Underlings and adversaries often refer to him by his full title and honorifics as General Ketheric Thorm, since he leads the growing army and military operations of the Absolute.  He is one of the primary antagonists of the game along with Orin the Red, Lord Enver Gortash, and the Absolute itself.
+"I'll tell you a story True Soul, about a man who sold himself, piece by piece...he had everything: a wonderful wife, a brilliant daughter.  They lived not far from here.  His wife died too young.  Grief tore through their home like a thief, snatching away the scent of her hair, the rustle of her skirts.  But the man did not break, could not break, after all his daughter needed him whole.  She grew up.  Grew strong.  Challenged him.  Filled his heart with such joy it supplanted all sorrow.  When she was killed the man tried to remain whole, but it wasn't possible, you understand?" – General Ketheric Thorm when addressing the player
+Ketheric is a high half-elf who once devoted his worship to the Moonmaiden goddess herself, Selûne.  Along with his wife Melodia they bore a daughter together and raised her in their shared faith, before Melodia's untimely death to a terminal disease.
+Despite being grief-stricken he honored his wife's dying request and continued to teach his daughter, Isobel, in the ways of their faith.  A time came when the Moonmaiden's daughter, Dame Aylin arrived in their village, upon which both she and Isobel began pursuing one another romantically.  Despite rejoicing in his now, grown-daughter's newfound love, he remained skeptical of their relationship given the power imbalance between the two of them, especially considering Aylin's immortality.
+Some while later he would discover his daughter had been killed, along with his family dog, Squire, who died defending her from her assailants.
+Unable to bear the weight of his loss or reconcile with Selûne, Ketheric turned to her dark sister, Shar, for help.  He promised greatness and glory in her name in exchange for the gift of Oblivion.  Soon thereafter he achieved not only to the rank of Dark Justicier, but also earned for himself the title and role of General, before ultimately ascending to become Shar's Chosen.
+Such was his prowess as her champion that to question Ketheric Thorm was considered to question the will of the Dark Lady herself.
+Before long he nepotistically elevated other members of his family to positions of great influence and power, including Gerringothe, Malus, and Thisobald.  At the same time he also began to openly persecute Selûne worshippers and set to work forcibly converting any and all to Lady Shar's dark embrace.
+Ruling as a tyrant with an iron first he mandated and oversaw construction of a massive, subterranean Sharran temple, along with his family's mausoleum and the proud, military fortress of Grymforge.  Sooner than later he amassed a large army of Dark Justifiers to conquer large swathes of the Sword Coast in Faerûn.
+Ever-seemingly devoted to the cause of his divine crusade and Shar's desires, Ketheric's faith and determination were not so unwavering as one might be lead to believe.  In personal diary entries he expresses doubts about his unfailing attitude towards the goddess and the true effectiveness of not only her teachings but her gift of Oblivion.  As it turns out, the sorrows of Thorm's memories for his deceased wife and daughter were never truly erased or alleviated, such was the strength of his love for the two of them.
+Before he could execute his master plan and set in motion his great war, he was defeated through the combined efforts of the druids of the Emerald Grove, and the Harpers of Balder's Gate.  Both Halsin and Jahiera were present that day at his downfall and both witnessed the horrors as Ketheric unleashed his final gambit in the form of the shadow curse that still blights the lands around Moonrise Towers to this day.
+After his death, Jahiera saw personally to his burial deep within the Thorm Family Grand Mausoleum.
+Some time after his death and before the events of Baldur's Gate 3 he was mysteriously resurrected and brought back to life, where he soon found himself in service of the Absolute.  Although, some suspect he harbours ulterior motives and secretly works in concert with an altogether different nefarious entity: the source of his new necromantic powers and resurrection – Myrkul.
+In the time since his revival he has been busy at work reclaiming territories and points of interest in the name of the Absolute.  More importantly however, he found a way to fully resurrect  his own beloved daughter.  Not to mention that along with the help of the necromancer, Balthazar, he has casually achieved the secrets and means of immortality and invulnerability for himself by locking away the Nightsong inside a soul cage within the Shadowfell.
+
+## WHERE TO FIND KETHERIC THORM
+Can be found at:
+- Act 2: Shadow-Cursed Lands, Moonrise Towers, Throne Room, Mind Flayer Colony, Moonrise Towers Rooftop
+ 
+
+## KETHERIC THORM QUESTS
+- Defeat Ketheric Thorm
+- Infiltrate Moonrise Towers
+- Capture Isobel the Selûnite Cleric
+- Find Ketheric Thorm's Relic
+- Resolve the Abduction
+
+## KETHERIC THORM NOTES AND TIPS
+Ketheric Thorm is voiced by legendary screen actor, J.K. Simmons
+Should you choose to fight him, Ketheric Thorm drops several pieces of loot upon his defeat: Reaper's Embrace (Very Rare Heavy Armor), Ketheric's Warhammer (Rare), and Ketheric's Shield (Rare)
+
+## KETHERIC THORM BOSS TIPS
+The fight against Ketheric Thorm is broken down into three distinct segments.  Each phase of the fight works differently...
+All adds mentioned in the fight overview will have full breakdowns of their stats and abilities detailed below under the Notes and Tips section.
+Positioning and party composition will be rather important for not only this fight but also the interim when exploring and fighting creatures in the Mind Flayer Colony in between the first phase of the fight and the second.  This is especially crucial as you will NOT be able to Long Rest at ANY point during this section of the game, instead having to rely on potions and elixirs like Potion of Angelic Slumber and Elixir of Arcane Cultivation (Normal, Greater, and/or Superior).
+Before the final descent to confront Ketheric and initiate Phase 2 (or Phase 3, depending on your dialogue choices and Persuasion Checks) you will find a Neural Apparatus like those found on the Nautiloid in the prologue of the game.  This will have the added benefit of replenishing all of your spell slots and health points as would a Long Rest. 
+You can actually cheese the Neural Apparatus by getting all your spells back, casting whatever personal or party buffs you need to in yourself and/or your companions, and then use the machine again to regain the used spell slot while still retaining whatever spell or ability was cast as they will carry over.
+
+### PHASE 1: ROOFTOP
+Fighting alongside Ketheric are a number of adds including Squire, The General's War-Hound, Susdera, Mistress of Souls, and eight Necromites.
+After completing the first phase of the fight you'll have one last moment of respite and reprieve.  Use this time to take one final Long Rest and sort out your inventory, party composition, spell preparation, etc. 
+Also, if Jaheira has survived everything up until now you should be able to recruit her a fully-fledged member of your party, regardless of whether you choose to take her with you through the remaining gauntlet of combat encounters in the Mind Flayer Colony or not.
+Furthermore, if you looted the Dark Mind and Slave Mind from the prologue mission on the Nautoloid and kept them all this time, make sure to bring those along with you as you'll be able to use them in the Mind Flayer puzzle room (Necrotic Laboratory).
+
+### PHASE 2: MIND FLAYER COLONY
+Just like in the first encounter, Ketheric is aided by adds including a Mind Flayer and four Necromites to start.
+Casting spells like Command - Halt, Hold Person, or Silence over Ketheric will temporarily take him out of play for a few turns while you focus fire on the Mind Flayer. 
+
+### PHASE 3: APOSTLE OF MYRKUL
+Regardless of whether you convince Ketheric to atone for his sins or simply bring his health down all the way, he will initiate the third and final phase of this fight.
+You'll be introduced to Ketheric's patron, the god of death himself, Myrkul.  From here you'll need to defeat an amalgamation of bone called the Apostle of Myrkul.  After which, Ketheric's body will be returned, allowing you to loot him after he shares with you his dying words.
+If you chose to save the Nightsong during the climax of the Gauntlet of Shar and Shadowfell storyline you'll have been rewarded with the Moonlight Glaive.  Equipping this weapon on a character like Karlach can practically trivialize the fight against the Apostle since it applies Moonlight Butterflies (essentially Faerie Fire) without the need for any of your party members to take up and maintain a concentration spell, or risk having it interrupted by failing a CON save upon taking damage.  Moreover, there's an increased likelihood of applying the glaive's Moonlight Butterflies given a barbarian's Reckless Swing and the fact it relies on an Attack Roll rather than a Saving Throw.
+Combining this debuff on the boss while applying buffs on your party such as Haste or Potion of Speed will aid in your ability to nuke the boss' health with a flurry of multiple attacks per character every turn during combat.
+In the event you didn't save Nightsong then using debuffs like Hex or Bestow Curse can help soften up the Apostle and set up a higher success rate in applying a spell like Faerie Fire on the boss, before finally leaning into it with damage output attacks, spells, and abilities.
+
+## KETHERIC THORM GENERAL INFORMATION
+- Race: Undead Half-Elf
+- Health: 145
+- AC: 22
+- Base speed: 0m
+- Size: Medium
+- Weight: 75kg
+
+## KETHERIC THORM CONDITIONS
+- Aura of Protection
+- Aura of Hate
+
+## KETHERIC THORM NOTABLE FEATURES
+- Arcane Enchantment
+- Darkvision
+- Defence
+- Divine Health
+- Extra Attack
+- Fey Ancestry
+- Immutable Form
+- Improved Divine Strike
+- Magical Plate
+- Opportunity Attack
+- Reaper's Rigidity
+- Shield Bash
+
+## KETHERIC THORM ABILITIES
+- Strength: 18
+- Dexterity: 13
+- Constitution: 17
+- Intelligence: 12
+- Wisdom: 15
+- Charisma: 20
+- Proficiency Bonus: +4
+- Initiative: +1
+
+## KETHERIC THORM ATTACKS & SPELLS
+- Deadly Orders
+- Divine Smite
+- Incubate Death
+ 
+
+KETHERIC THORM RESISTANCES
+- Slashing Resistance
+- Piercing Resistance
+- Bludgeoning Resistance
+
+
+## KETHERIC THORM REWARDS
+- ???XP	Ring of Exalted Marrow (Rare)	Reaper's Embrace (Very Rare)
+- Ketheric's Warhammer (Rare)	Ketheric's Shield (Rare)	Netherstone (Legendary)
+
+Ring of Exalted Marrow - lootable from a chest on the rooftop once the first phase of the fight is over.  The chest is located right in front of Ketheric's throne (X:-152, Y:-169).  You' can either use the Bone Key looted off of Susdera to OR lockpick the chest to retrieve the ring.

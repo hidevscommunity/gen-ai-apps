@@ -1,0 +1,60 @@
+# TO GAUNTLET OF SHAR
+
+NOTE:  This is our recommended guide that will lead Shadowheart to forsake her duty to Lady Shar and free Nightsong from her prison. Visit Moonrise Towers to see the alternate guide.
+
+In order to defeat Ketheric Thorm, you now realize that there's a power that makes him invulnerable. Your investigation will lead you to travel to Gauntlet of Shar where you will continue to aid Balthazar at the request of Disciple Z'rell. At the Verge of the Shadows at (X:-718 Y:-845) you will find a body of water that serves as the entrance to Shadowfell, the domain of Lady Shar. You will get a warning that the state of the region can change depending on your decisions, such as quests becoming unavailable. If you proceed to do so, we recommend following our guide to get your desired outcome. 
+
+As you step forward into the statue and through the body of water, you will feel your body struggle as you fight back the sensation. Your character will get knocked out, together with your party. Once you come back to your senses, you will find yourselves in Shadowfell, and Shadowheart immediately recognizes the presence of Lady Shar. However, you will be interrupted as Balthazar flies in to tell you to hurry along and become a witness to his work. Shadowheart defies him and quickly tells him that he does not belong in the Dark Lady's domain. You will now get the following options to respond:
+- I was hoping for something more substantial than 'thanks'.
+- How did you get here?
+- What is this place?
+- I cleared the way to this place, not you. Why shouldn't I just kill you instead of letting you interfere?
+- Lead on, then.
+- Attack.
+
+In this area, Balthazar has no desire to fight even if you choose the 4th one. He will ask that you follow him as he leads the way into Nightsong's Prison. Your party will be doing a series of jumps until you make it to the bottom of Shadowfell. The pattern shouldn't be difficult and each member is guaranteed to survive the jumps as long as it's near the ledge, and not falling off the rocks. Once you finally catch up with Balthazar, you realize that the relic that Discipe Z'rell was referring to was the Nightsong, which is in fact, a humanoid. She invites you to "heap more sins upon your head. My retribution will be all the sweeter for them." Nightsong continues to reveal, that she supplies Ketheric Thorm's immortality with her own soul. Balthazar calls her "Aylin" and commands you to keep back to secure her for a journey. You will now get the following options to respond:
+- Wait- the Nightsong is a person?
+- What are you going to do to her?
+- I can't let you take her, Balthazar.
+- Attack him.
+
+If you choose the first one, Balthazar tells you that she is more than that. He shares that she possesses immortal strength and lends it to General Throm through his work. After realizing that she is the key to Ketheric Thorm's immortality, you will now have the option to save her or let Balthazar do his job. 
+- If she's the reason Ketheric Thorm is invulnerable, you're not taking her. Leave, or you're a dead man.
+- Go on, then. Take the Nightsong to Ketheric. Get it over with.
+- Attack him.
+
+If you choose the first option, Karlach will give you her approval and you will begin to fight Balthazar right after. Take note that this area is surrounded by Balthazar's minions and they will have the advantage as they are in a higher position. Plan well so you can survive this assault. With Balthazar out of the picture, the Nightsong addresses Shadowheart. She possesses the power to free her or kill her. Shadowheart will turn to you and tells you that "Her fate is mine to seal. Let me handle this." but the Nightsong tells her that the only fate she's sealing is her own and that to become a Dark Justiciar, she will know no love, no joy, but only servitude.
+
+Shadowheart is conflicted about what she wants to achieve and you will be given the option to help her out:
+- Trust Shadowheart- do not interfere.
+- Do as you must.
+- Is this truly what you want?
+- Choose your own way, Shadoeheart. You cannot allow your goddess to control you.
+- Please, Shadowheart. Don't do this.
+
+If you choose the 3rd option, you will sense hesitance in her voice. You will get another chance to talk to her, or sway her with the next choices:
+- Trust Shadowheart- do not interfere.
+- Do as you must.
+- Choose your own way, Shadoeheart. You cannot allow your goddess to control you.
+- Please, Shadowheart. Don't do this.
+
+Choose the 4th option which will then lead you to the next choices:
+- All right. You have my support.
+- This is wrong... but I can't afford to lose you. Do what you must.
+- You want to fight? Fine.
+
+Next, choose the 2nd option so Nightsong will once again, interrupt your conversation with Shadowheart. Nightsong reveals that she knows of the only memory that Shadowheart has. The memory of her being hunted by wolves, and yet, Shadowheart still can't remember what she has lost. Shadowheart still believes that she is meant to become the Lady Justiciar, and you will get the next choices here:
+- Kill her. Let's finish this ritual.
+- [PERSUASION] Don't do it, Shadowheart. Don't kill her, you'll regret it.
+- She knows something about you. Spare her, and see what she has to say.
+- Say nothing.
+
+If you attempt the Persuasion check, you will need to pass a DC of 21, choosing the 3rd option will also get the same results and grant the approval of Karlach. When successful, she will procure the spear of Lady Shar and grips it tightly as if she's ready for anything that was to come, and yet, she throws away the spear, abandoning her lifelong quest. Shadowheart now fears that she will be disowned, and she fears what will happen next to her. Nightsong tells her that her fate is not fixed and to lay a friendly hand on her, to fight the battle that has been awaiting her, the one that will take your party to Ketheric Thorm, back to Moonrise Towers. 
+
+Upon doing so, she calls out to Moonmaiden Selune as power surges through her arm. She declares that the Nightsong is no more, and she transforms into an armored Dame Aylin. She spreads out her wings and swings her mighty sword. She addresses Shadowheart once again and urges that she was able to spurn her Dark Lady, and may start to feel a stirring of the truth after what she has done. Dame Aylin that there is a battle yet to be fought after being freed from her century-long prison. She will now ask Shadowheart, "Are you ready?"
+- Ready for what?
+- Dark Lady be merciful... What have I done?
+- To get out of this place? Absolutely.
+- For my weapon? Naturally. 
+
+If you choose the first one, she responds with "To kill Ketheric Thorm" and she will fly away to lead the assault in Moonrise Towers against Thorm's army. Shadowheart asks that you leave Shadowfell already after what she has done, and she doesn't want to be in her domain when her rage falls upon her. Freeing the Nightsong will grant you Selune's blessing and a Moonlight Glaive. As you travel through the portal, Shadowheart goes out for a moment. She tells you that she heard Lady Shar's voice after she defied her. She has been abandoned by her goddess and allies. Powerless, she will now seek answers from Dame Aylin. Afterward, you now get the option to respond to Shadowheart as you please if you want to progress your romance with her.  

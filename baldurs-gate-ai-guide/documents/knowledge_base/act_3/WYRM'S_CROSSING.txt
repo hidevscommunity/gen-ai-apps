@@ -1,0 +1,114 @@
+# WYRM'S CROSSING
+
+## Quests
+- Reach Wyrm's Crossing
+- Head to Sharess Caress
+- Speak with Valeria
+- Show Valeria the Murder list
+
+In Wyrm's Crossing, go to the second floor in Sharess Caress (X:10 Y:82) and encounter Valeria the Investigator. She recognizes you from the Open Hand Temple and questions if Yannis has involved you in something. You can reply with:
+
+I'm just here to have a drink.
+Unfortunately, yes - I've discovered new evidence, Investigator.
+She asked me to uncover Lorgan's true murderer, given your apparent disinterest.
+Leave.
+Choose the third option, prompting her to notice your expression and liken you to her associate, Devella. She inquires about your findings, and you can reveal your conclusion that Father Lorgan's death is linked to a larger plot involving Bhaal. Valeria is surprised, as Devella is investigating a similar Bhaal-related matter. Present your theory, the Murder Target List, which confirms your belief. Valeria suggests you meet Devella at the Elfsong Tavern, providing a pass for Lower City access. This advances the "Investigate the Murders" Main quest.
+
+#WYRM'S ROCK
+
+## Quests
+- Gain passage into Wyrm's Rock
+- Accept Gortash's invitation to his inauguration
+- Talk to Mizora in the Audience Hall
+- Participate in the Ceremony
+- Consider Gortash's Bargain
+- Look for the lever in the audience hall and explore outside
+- Find the entrance to prison through the crack in a wall
+- Explore the Prison
+
+As you head inside the fortress, you will immediately notice the stony structure and statues on the walls. There are guards stationed along the hallway and upon noticing your presence, a Steel Watcher will ask you to stop to tell you that Lord Gortash has been expecting you. After a short while, the watcher seems to pause and begins to speak with a different tone and poise. It is now speaking to you as 'Lord Enver Gortash'. He recognizes you as the Prism bearer and slayer of Ketheric Thorm. He welcomes you to Baldur's Gate and calls it 'his city' You will now get the following options to respond:
+- This city will never be yours.
+- A pleasure to meet you. Could we talk face-to-face?
+- I'm going to find you, and I'm going to kill you.
+- Attack.
+
+If you choose the first one, he replies that it's already his but continues to invite you to go inside and see the city for yourself.  He formally invites you to his inauguration which will take place in the ceremonial hall. Now that you have a formal invite from Gortash, you shouldn't have more trouble with the guards. 
+
+If you have Karlach as one of your companions, approach one of the steel watchers stationed along the hallway and you will find out that it recognizes her as one of them. The steel watcher continues to share that her 'unit' is a highly outdated model and will ask her to report to the Steel Watch Foundry. You will now get the following options to respond:
+- It thinks you're one of them, Karlach. Why?
+- Same thing Dammon said. Do you know how to fix this malfunctioning engine?
+- Where is this Steel Watch Foundry?
+- Leave.
+
+The steel watcher will continue to tell you that the foundry is off-limits to visitors and though Karlach is not sure why it thinks she's one of them, she believes that what keeps them going may be similar to her tin can. When you are done with the conversation, enter the door to your left to reach the audience hall. A familiar face is seen here, Mizora, if you helped her escape in Mind Flayer Colony.
+
+She tells you that Wyll is upstairs and ordaining Gortash as Archduke. Explore the Audience Hall and you will find that many of these people are busy and will not stop for a conversation. There is one lever found in a small corner at exactly (X:-40 Y:218) This lever will reveal a door that will lead outside to let you explore the side of the fortress to grab some plants and Dragon Egg mushrooms. You will also find a locked chest at (X:60 Y:214 pictured below, near the coast with an abandoned boat. To unlock this chest, you will need to do a Dexterity Check with a DC of 15
+
+You can now continue to go around the fortress and it should take you to the opposite side. Climb up a wooden platform and you can interact with the Knotted Roots that will take you back to the fortress on a balcony. The door will require you to pass a Dexterity check with a DC of 20. As you reach the hallway, you will find 2 Double Doors that will lead to the ceremonial hall where Gortash will be inaugurated. 
+
+As you get closer to the ceremony, a Steel Watcher will stop you from moving forward. You will get the next options to respond:
+
+Point taken. I'll keep things peaceful.
+I'm not taking orders from a piece of metal.
+Prepare for battle.
+If you choose the first one, the steel watcher will thank you for your cooperation and Astarion will give you his approval. In a short moment, Gortash will notice what's happening and turn his attention to you. He will greet and congratulate you for defeating Ketheric Thorm and then mentions the Netherstone that you acquired from him. He continues that it has become more difficult to have the elder brain under control because of the Netherstone that you are holding. He is worried about what will become of Faerun, should the elder brain be free from the crown. He wants to restore authority over the brain and you will get the following options to respond:
+
+What kind of understanding do you suggest?
+I'm not interested in bargaining with the likes of you.
+Why is the crown failing?
+You're a dead man. I can't let you take over the city.
+If you choose the first one, you find out that Orin has been planning something of her own. As Bhaal's chosen, she wants to control all Netherstones for her lord. Gortash disapproves of this and he tells you that he wants to lead the city to glory. Gortash expresses also that Orin is interested in obtaining his and your blood. You will now get the following options to respond:
+
+What do you propose?
+You want me to believe you mean no harm to the city?
+It's going to take a lot to make me trust you.
+If you choose the second one, he will tell you that he wants to propose a pact, that no harm will be done to you by him, and him to you.  Then, he continues to tell you to retrieve Orin's Netherstone and bring it back to Gortash. The other stone is yours to keep, but the goal is to reunite all 3 stones. He offers to rule Faerun together as the Absolute. Your next set of choices will look like this:
+
+As allies, it seems none of you can be trusted. You, Orin, Ketheric.
+I will defeat Orin and we shall be allies. You have my oath.
+I'll think about it. No promises.
+To the hells with your pact.
+[INSIGHT] Examine Gortash's body language and expressions. Can you trust him?
+[DETECT THOUGHTS] Probe Gortash's mind.
+Attempting the Insight check will require you to pass a DC of 15. It will be revealed that he has the full intention of sharing the kingdom with you. Then, you will have the following options to respond to Gortash:
+
+As allies, it seems none of you can be trusted. You, Orin, Ketheric.
+I will defeat Orin and we shall be allies. You have my oath.
+I'll think about it. No promises.
+To the hells with your pact.
+If you choose the third one, Gortash will reveal that there is one faceless among your camp. Orin is known to change her form quickly and may prove to be difficult to manage. He offers to help investigate in order to reveal the faceless. Then, he invites you to witness as he makes history as the first Archduke of Baldur's Gate. You will get the following options to respond:
+
+All right.
+I wouldn't dream of missing it.
+Fine. Let's get it over with.
+I have no interest in this sham of a ceremony.
+This stops now Gortash. I'm taking you out.
+If you choose the second one, Karlach will give you her disapproval while Astarion gives his approval. Then, Gortash kneels before Duke Ulder Ravengard and proceeds with the ceremony. After the Duke is done with his words, he will now ask the guests for consent and you will have the following options to respond:
+
+Say nothing.
+Nod.
+Prepare to object.
+If you choose the first one, Gortash will now be appointed as the Archduke of Baldur's Gate. When the ceremony is over, Karlach will speak to you about how you let Gortash become Archduke, and will ask what you think of him:
+
+He seemed like an absolute fraud in a very nice coat.
+Frankly, I'm impressed. He's wormed his way into the most powerful position in Baldur's Gate.
+I can't wait to flatten him.
+If you choose the first one, Karlach will give you her approval and agrees that he has always had an expensive taste. She continues to ask how anyone in the hall could fall for this charade:
+
+Evidently not.
+When people are scared, they'll do whatever it takes to feel safe.
+People are mostly fools.
+Choosing the second here will anger Karlach even further and wished that people knew the truth about the Dead Three being behind all of this. She wants the people to know that Gortash isn't their salvation but the very monster at the gate. The rest of the audience leaves the hall but Duke Ulder Ravengard remains and gives you a chance at a conversation. If you tell this man that he is infected with an Illithid parasite, Astarion will approve of this.
+
+Ravengard appears to be fighting the parasite but the control over him is strong. You get the option to use your Illithid powers to explore his uncertainty. If you attempt the Wisdom check, you will need to pass a DC of 2. Then, you can now look around the fortress. You will find Mizora on the first floor back in the Audience Hall. She has more things to tell you about the condition of Ravengard. She reveals that he has been relocated and will only tell you in camp, once you have Wyll in your party. This will update Rescue the Grand Duke quest.
+
+ 
+
+WYRM'S ROCK PRISON
+To explore the Prison, return to the door that will take you outside. There's a crack in the wall that you can interact with at exactly (X:58 Y:189). Once inside, jump over the ledge to reach the walls of the prison. Destroy this wall with one of your attacks to gain entry to one of the storage rooms. There's a chest inside so make sure to take a look before unlocking the door. Unlocking the door will require you to do a Dexterity Check with a DC of 15.
+
+Be careful when opening the door because a Prison Guard is likely to spot you. When this happens, you can attempt a Deception check or attack. Doing the former will require passing a DC of 15. If you're successful, there's no need to attack the guard as he will simply let you through. Continue on the path the guard is facing to reach the Prison Entrance Door. Since you don't have the key, you will need to unlock this door by lockpicking by doing a Dexterity Check which requires a DC of 20. You may also choose to fight the guards and obtain the key from them.
+
+You will find a guard sleeping to your left upon unlocking the door. Try not to make any sound to avoid waking them up, or put them under a spell to guarantee that they will stay asleep. This passage will lead you back to the Fortress where the others are waiting. 
+
+ 

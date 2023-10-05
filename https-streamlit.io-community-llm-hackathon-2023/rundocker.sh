@@ -1,0 +1,1 @@
+docker -v app/app run -it  -p 7860:8501   --platform=linux/amd64 	-e CLARIFAI_PAT="${CLARIFAI_PAT}" 	-e clarifai_user_id="${clarifai_user_id}" registry.hf.space/introspector-org-clarifai:latest streamlit run src/streamlit_app.py

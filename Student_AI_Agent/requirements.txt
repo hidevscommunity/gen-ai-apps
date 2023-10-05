@@ -1,0 +1,10 @@
+streamlit
+langchain
+pandas >= 2.0.3
+python-docx
+websockets >= 11.0.3
+pybase64
+asyncio
+PyAudio
+pdfplumber
+streamlit-audiorecorder

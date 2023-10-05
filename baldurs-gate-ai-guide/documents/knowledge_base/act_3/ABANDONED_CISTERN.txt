@@ -1,0 +1,5 @@
+# ABANDONED CISTERN
+
+The entrance to the Sewers from Flymm Cargo is located at (X:-1095 Y:337). Interact with the crack in the wall with the description "A greasy, smelly climb down..." and this will take you directly to a trapped path with locked chests in the area. You can also pick up a map with an X mark on it, but you will need to tread carefully. If you have Astarion with you, switch to turn-based and have him look around to scout for traps and pick the locks on the chests. These chests can be unlocked either by passing a Dexterity or Strength check DC of 20.
+
+When you're done going through the chests, take a dip in the sewer water and follow its flow, but there are enemies waiting for you on the other side so make sure that you are prepared to fight them. Eliminate the enemies perched on the tower and then carefully make your way to the top to surround them. When you're done fighting them, your next task is to solve the Sluice Gate Puzzle.

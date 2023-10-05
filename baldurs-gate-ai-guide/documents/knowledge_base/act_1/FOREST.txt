@@ -1,0 +1,30 @@
+# FOREST
+
+## Quests
+- Speak to Andrick, Brynna, and Edowin
+
+You will most likely come across the Forest after exploring the Emerald Grove. The Forest can be found west of the Emerald Grove Environs Waypoint at around (X:170, Y:416). You can also reach the Forest through the Underground Passage connecting the area to the Emerald Grove. Head north up the dirt path to (X:143, Y:440), and you'll find two people looking down on an injured dwarf. When you approach them, a cutscene will begin and you'll learn that the lady's name is Brynna, the man's name is Andrick, and the dying dwarf on the ground is Edowin.
+
+When you first approach them, Brynna will be suspicious of you and you'll have four dialogue options to choose from:
+- Freeze and hold up your hands
+- What happened to your friend?
+- [MEDICINE] His wounds look deep. I might be able to help.
+- [ILLITHID] [WISDOM] I will go where where I wish.
+
+If you attempt the Medicine Check, you'll have to pass a DC of 10. If you choose any of the first three options, even if you fail your Medicine Check, Edowin will speak up, recognising that you too have been infected by an Illithid parasite, and you will be met with another 3 options:
+- Try to block him out.
+- Hold his stare.
+- Move away, reaching for your weapon.
+- If you choose the second option, Edowin will recognize you as a True Soul and get Andrick and Brynna to trust you. The two novices will offer their aid in anything you ask for, from information about Halsin to helping you defeat the Owlbear that injured Edowin. If you bring up the fact that you are a survivor of the Nautiloid crash, they will turn hostile and attack you.
+
+You can freely choose any of the options without consequence to learn more about the topic you choose, except the second option where you say that you are not a True Soul. Be careful as well after choosing the fifth option, asking them what they are doing in the wilderness. If you tell them that you are a survivor of the crash afterward, they will turn hostile and force you into a fight. Andrick will drop a Chain Mail and a Longsword and Brynna will drop a Leather Armour and Mace. If you choose the sixth option and ask what happened to Edowin, you may get the option to order them to help you defeat the Owlbear in the Owlbear Nest later on.
+
+Whether or not you fought Andrick and Brynna, you'll be able to loot Edowin's corpse. When you do, your character will be pulled towards the tadpole in Edowin. You have three options to choose from here:
+- Let your body guide you - welcome the tadpole's influence.
+- [STRENGTH] The tadpole is toying with you. Resist it.
+- [WISDOM] Force your mind shut. You will not be influenced by an illithid parasite.
+- If you choose the first option or fail your checks when choosing the other options, you will get a tadpole that you can use to unlock a new Illithid Power. If you choose the third option, you will have to succeed in a DC 12 Wisdom Check to resist the tadpole. Succeed, and a small tadpole will scurry away from the body, to the west. If you are quick enough, you may be able to kill the parasite. This interaction with Edowin's corpse will be noted in your journal under the Find a Cure Main Quest.
+
+Though not related to the Main Quest story, there are several other places of note to visit and explore. Southwest of Edowin is a Cave Mouth that turns out to be an Owlbear Nest. Within, you can find the Moondrop Pendant, and The Oakfather's Embrace. You'll also find an Owlbear within which, if you choose to fight and defeat it, will let you bring the Owlbear Cub to your Camp at a later time. In the northern part of the Forest at (X:79, Y:471), is Scratch, a dog that can be persuaded to join you at Camp if the right dialogue choices were made.
+
+There are two large areas that connect to the Forest - the Sunlit Wetlands/Putrid Bog can be found in the south at (X:50, Y:314), while the Blighted Village can be accessed from a village entrance in the western part of the Forest at (X:65, Y:404).

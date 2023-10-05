@@ -1,0 +1,31 @@
+# ENTRANCE TO GUILDHALL FROM LOWER CITY SEWERS
+
+Continue exploring the depths of the Sewers and once you reach the Guild Hall at (X:-12 Y:774), you will see a door with the description "No Entry - No Exit". You can attempt a Dexterity check but you will need to pass a DC of 20. This will give you access to the Guildhall Bar. Directly to your right, you will see Lady Ague who will threaten to kill you, should you cross Nine-Fingers. There are other members of the guild gathered here as well as Merchants and other NPCs who offer their services.
+
+In this section, you will find yourself in the middle of an uprising that was started by the Zhentarim Leader, Roah, and the Guildhall Leader Nine-Fingers Keene. If you choose to side with Keene, you need to inform Roah about your decision, but this will make all of the Zhentarim hostile, and the Guildhall will be on your side. Then, Keene will be grateful for your help, and they will offer to aid you in your fight against the Absolute later on. Otherwise, if you agree to take Zhentarim's side, the fight against the members of the Guildhall will begin and then Roah will become the new leader of the Guildhall and will reward you for your help by joining you in the fight against the Absolute later on.
+
+Continue exploring the Guildhall and you will meet a man named 'The Professor' who will ask which crew you are affiliated with. You will have the following options to respond:
+- [DECEPTION] Neither. I run a crew called the Wormskulls.
+- Consider me an independent operator.
+- I'm not with any crew. Why?
+- Leave.
+
+Choose the 2nd one so the Professor will leave you alone. He will also warn you to not get involved with Zhentarim. Then you can continue to look around and interact with the other NPCs. Follow the guide in your mini-map and interact with the door to meet Nine-Fingers Keene, who is in the middle of a discussion with Uktar who is trying to persuade her to withdraw protection from those who failed to pay tribute but Nine-Fingers is firm with her decision and welcomes you into the room as soon as they notice you.
+
+Nine-Fingers Keene will tell you that she plans on burning the Absolute from the city, and if you want to help, she will welcome it. Now, you will get the following options to respond:
+- What can I do to help you?
+- Why do I need to help the Guild? I've been doing well enough without you so far.
+- You can help a companion of mine who needs information- Jaheira.
+- I need information.
+- I ran into some of your thugs- the Rivington Rats?
+- Leave.
+
+If you mention Jaheira by choosing the 3rd option, she will start asking questions about your purpose and your identity. Then, you will get the following options to respond:
+- Well, you already know I'm a friend of Jaheira's.
+- A passer-by. I heard you serve good food down here.
+- Just exploring the local sewer life.
+- Let Jaheira do the talking.
+
+If you choose the first one, Jaheira will give you her approval. Then, she will ask Keene about a man named Minsc. Keene will respond that they're about to bring him in, but can't promise anything about his condition. Keene believes that Minsc has found a new name and believes that he is none other than Stone Lord who has been stealing her own territory for his own cult. She claims that she knows where the next attack is going to take place and plans on attacking there.
+
+Jaheira will try to convince Nine-Fingers to call off the ambush and let your party handle it. If you support Jaheira and respond to Nine-Fingers by saying 'She's not alone- she has me.', Jaheira will give you her approval. However, Nine-Fingers is very stubborn and will not call off the ambush, so instead, you can look around in the Guildhall to search for leads. This will also update The High Harper quest.

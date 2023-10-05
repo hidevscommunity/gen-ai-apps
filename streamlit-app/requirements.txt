@@ -1,0 +1,8 @@
+streamlit>=1.26.0
+PyPDF2==2.12.1
+llama_index
+llama_hub
+openai
+nltk
+camelot-py[base]
+sentence_transformers

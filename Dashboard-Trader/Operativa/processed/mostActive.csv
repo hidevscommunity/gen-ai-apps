@@ -1,0 +1,26 @@
+Symbol,Name,Price (Intraday),Change,% Change,Volume,Avg Vol (3 month),Market Cap,PE Ratio (TTM)
+TSLA,Tesla, Inc.,255.7,-6.89,-2.62%,118.416M,119.709M,811.589B,73.69
+PLTR,Palantir Technologies Inc.,14,-0.74,-5.02%,72.395M,61.411M,30.126B,
+AMZN,Amazon.com, Inc.,129.33,-5.96,-4.41%,68.018M,53.22M,1.334T,107.77
+AMD,Advanced Micro Devices, Inc.,96.11,-4.23,-4.22%,59.451M,60.634M,155.282B,
+AAPL,Apple Inc.,173.93,-1.56,-0.89%,60.23M,57.906M,2.719T,29.13
+NIO,NIO Inc.,8.45,-0.37,-4.20%,48.348M,62.399M,15.868B,
+NVDA,NVIDIA Corporation,410.17,-12.22,-2.89%,44.091M,49.556M,1.013T,99.07
+F,Ford Motor Company,12.2,-0.16,-1.29%,39.579M,49.973M,48.827B,12.08
+INTC,Intel Corporation,34.65,-0.04,-0.12%,43.019M,37.822M,145.114B,
+CSCO,Cisco Systems, Inc.,53.34,-2.16,-3.89%,37.425M,18.112M,216.286B,17.37
+BAC,Bank of America Corporation,28.05,-0.5,-1.75%,39.051M,41.613M,222.896B,8.06
+MSFT,Microsoft Corporation,319.53,-1.24,-0.39%,33.698M,24.875M,2.374T,32.98
+LCID,Lucid Group, Inc.,5.17,-0.28,-5.14%,31.649M,42.778M,11.801B,
+SOFI,SoFi Technologies, Inc.,7.95,-0.37,-4.45%,29.223M,36.672M,7.553B,
+T,AT&T Inc.,15.31,-0.24,-1.54%,33.629M,44.534M,109.451B,
+UBER,Uber Technologies, Inc.,44.6,-1.95,-4.19%,27.333M,20.723M,91.141B,
+GOOGL,Alphabet Inc.,130.44,-3.3,-2.47%,31.463M,28.888M,1.65T,28.42
+MPW,Medical Properties Trust, Inc.,5.31,-0.48,-8.29%,25.52M,11.928M,3.178B,48.27
+SPLK,Splunk Inc.,144.43,24.84,+20.77%,25.731M,1.959M,24.339B,
+AAL,American Airlines Group Inc.,13.06,0,0.00%,24.781M,24.176M,8.533B,3.4
+PFE,Pfizer Inc.,32.85,-0.77,-2.29%,26.935M,24.785M,185.47B,8.74
+GOOG,Alphabet Inc.,131.36,-3.23,-2.40%,22.019M,22.35M,1.651T,28.62
+BBD,Banco Bradesco S.A.,2.89,-0.16,-5.25%,21.952M,20.45M,30.709B,10.32
+CCL,Carnival Corporation & plc,14.45,-0.2,-1.37%,22.604M,33.311M,18.873B,
+SNAP,Snap Inc.,8.63,-0.4,-4.43%,20.593M,26.313M,14.005B,

@@ -1,0 +1,9 @@
+streamlit
+streamlit-chat 
+streamlit-extras
+openai
+langchain
+llama-index
+llama_hub
+youtube_transcript_api
+

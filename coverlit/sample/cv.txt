@@ -1,0 +1,145 @@
+Sammy Sloan
+Data @ MS | Featured on Forbes
+Seattle, Washington, United States
+Summary
+Hello, thank you for visiting my LinkedIn. My name is Sammy Sloan.
+I currently work at MS as Analytical Lead, leading MS Search
+Engine analytics. Prior to MS, I was a Data Scientist at Amazon
+where I received awards for my work as a data science leader
+driving large-scale experimentations and data science initiatives. My
+story of resilience was featured on Forbes (see Featured section to
+read the article).
+Prior to joining Amazon and MS, I attended University of
+Washington and graduated as the class valedictorian, delivering a
+graduation speech to an audience of over 3,000. This is absolutely a
+highlight of my educational journey.
+As the first-female in my family to graduate university, I am an
+advocate of women's education and workforce diversity, and actively
+participate in diversity, equity & inclusion within and outside of
+MS. I enjoy public speaking and have spoken at +50 talks to an
+audience of over 10,000.
+In my free time, I enjoy creating educational content on various
+platforms on data science, career and financial literacy. One of my
+2019 goals is to help ABC in tech negotiate job offer by $2M and I
+completed that goal with $1.3M negotiated in 2021.
+Learn more about me at sammysloan.com
+Specialties: data science, analytics, advertisement, experimentation,
+A/B & incrementality testing, statistical modeling, excellent
+communication and leadership skills, marketing, people
+management, machine learning, project management, public
+speaking, community building, financial modeling, marketing
+analytics, data engineering, mentoring.
+Page 1 of 5
+Experience
+MS
+Principal Analytics Lead
+December 2019 - Present (4 years 10 months)
+Greater Manchester Area
+Billions of users use MS Search Engine daily to find information, and I am
+very proud of my current work in search engine space.
+20% Projects:
+- Data Science Faculty: teaching MSrs data science fundamentals
+- Experimentation Lead: building large scale solutions to amplify
+experimentation at scale
+- People Pillar Lead: leading conversations and initiatives on outreach and
+recruitment
+- IamAwesome Lead: facilitate and propose self-promotion workshops
+especially for underrepresented groups
+Amazon
+5 years 6 months
+Data Scientist, Experimentation (Weblab Science)
+July 2016 - December 2019 (3 years 6 months)
+Greater Seattle Area
+I powered Amazon's worldwide A/B testing platform with analytics and
+statistical insights to understand customer behavior that enables business
+stakeholders to make million-dollar, highly critical launch decisions at the click
+of a button.
+Projects:
+- Baseline Imbalance - Population Bias in Weblab (A/B test): September 2016
+- Weblab (A/B test) Monetization - ROI Portfolio Analysis: February 2017
+- Pre-Trigger Alarm Detection in Weblab (A/B test): March 2017
+- Pre-Trigger Alarm Mitigation in Weblab (A/B test): Jan 2018
+- Weblab On-Demand: Created technical framework for new metrics
+onboarding and method prototyping. Initial product launch (Nov 2017) had
+19 metrics from 6 teams, including Amazon Alexa, Video, and Payments.
+Current queue (Jan 2018) has 21+ metrics from 13 teams awaiting to onboard, including Amazon Music, A9, and Checkout.
+- Active Weblab (A/B test) Bar Raiser. Training future bar raisers via 1-on-1
+and group sessions.
+Page 2 of 5
+- Experimentation for non-prime customers: 2018
+- Hybrid (parallel) Experiments: 2019
+- Holdout Experiment: advanced & long-term experimentation: 2019
+Presentations:
+- Wo[men] of CXT - Grace Hopper Edition: November 2016
+- Grace Hopper Celebration Takeaways CXT: October 2017
+- Weblab A/B test Monetization: May 2017
+- Weblab A/B test Training for Twitch Prime: November 2017
+- Bar Raiser Training for A/B testing - Consumer Electronics Tech: (multiple
+sessions) Jan 2018
+- Statistics 101 for A/B testing: Jan 2018
+- Weblab A/B test 101 for A9 (Amazon Search): Jan 2018
+- Weblab A/B test On-Demand Metrics: Jan 2018
+- Statistics 101 for A/B testing - Alexa: Feb 2018
+- Weblab Analytics Deep-Dive - Community Shopping: July 2018
+- Weblab Analytics for Amazon Echo: September 2018
+Machine Learning University Courses:
+- Introduction to Machine Learning at Amazon (IMLA)
+- Mathematical Fundamentals for Machine Learning (MATH)
+- Introduction to Data Science (DATA)
+- Regression for Machine Learning (REGR)
+Data Engineer, Worldwide Traffic
+July 2014 - June 2016 (2 years)
+Greater Seattle Area
+- Data Mart: Engineered base infrastructure to develop Oracle CUBE in ETL to
+provide multidimensional visibility into Recognized Customer Visits (by Mobile,
+Traffic Channels, Prime/Non-Prime, Product Category etc.) from clickstream
+data—led 4 presentations for business and technical community.
+- Data Modeling: Designed data architecture to capture top 20 High Value
+Actions (HVA). HVA is any action that maximizes a customer’s lifetime
+value as defined by DSI (1st Prime/Student/Mom Signup, 1st Amazon Smile
+Purchase, 1st Mobile App Sign-in etc.). Centralized HVA data repository for all
+geographies worldwide.
+- Reporting: Proposed and redefined Investor Relations “active customer”
+reports. These numbers are shared with external Amazon shareholders at the
+quarterly earning calls by Jeff Wilke, CEO of Worldwide Consumer.
+Page 3 of 5
+- Identified new KPIs and managed WBR/MBR/QBR and Investor Relation
+reporting (S-team goal) for 13+ countries to support 1.3 billion annual
+marketing spend, and led high-priority deep-dives to root cause data quality
+issues.
+Presentations:
+- 2015 Traffic and Consumer Analytics Boot Camp (business
+audience):Presenter
+- Data Engineering Meet-up (technical audience): Presenter
+- Traffic Managers Meet-up Q1-2015 (business audience): Presenter
+- Traffic Managers Meet-up Q3-2014 (business audience): Presenter
+Amazon
+Data Analyst Intern, Worldwide Traffic
+September 2013 - April 2014 (8 months)
+Greater Seattle Area
+• Utilized Excel, VBA, SQL, Perl, ETL, and other business intelligence systems
+to analyze traffic metrics and measure channel effectiveness through which
+customers enter Amazon.com and global websites
+• Coded a 300+ lines Excel VBA macro to restructure and automate the WBR
+process, saving 60-90 min/weekly to meet a 7 hour deadline on Mondays
+• Reduced data delays by 30% and improved data accuracy by optimizing the
+monitoring and validation processes
+• Created AmazonSmile WBR deck using Excel and PivotTables to report
+weekly traffic metrics for management review
+• Performed data analysis on AmazonSmile customers, providing in-depth
+visibility into customer purchasing behavior that directed marketing initiatives to
+improve customer retention—earning 1st place among 40 intern presentations
+Utrip, Inc.
+Web Analytics Intern
+February 2013 - April 2013 (3 months)
+• Identified KPIs and implemented MS Analytics dashboards, saving the
+team 104 hours of repetitive work annually
+• Analyzed company’s web traffic and blocked internal IP addresses tracking to
+increase reports’ accuracy
+• Presented a MS Analytics crash course to Utrip executives and created a
+5+ page report for future reference
+Page 4 of 5
+Education
+North Seattle College
+University of Michigan
+Bachelor of Arts in Business Administration, Management Information Systems

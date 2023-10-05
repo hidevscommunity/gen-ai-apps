@@ -1,0 +1,97 @@
+# THE RISEN ROAD
+
+## Quests
+- Enter The Risen Road
+- Speak with the Wannabe Paladins
+- Locate Karlach
+- Eliminate the Wannabe Paladins with Karlach
+- Locate the Githyaki
+- Speak with the Githyaki
+
+To reach the map's northern part, take the Broken Bridge path from the south, specifically the Blighted Village. The bridge has some damage, but it's manageable to guide your team to jump across. Upon reaching the edge of the Broken Bridge, you'll be approximately at coordinates (X:-8, Y:494).
+
+After crossing the bridge, you'll spot Mangled Corpse on the right (X:-1, Y:516). Approach the corpse and interact with the surviving Hyena. In a cutscene, the Hyena seems in pain, offering you various dialogue options:
+- Try to comfort the Hyena.
+- Step back to watch what happens.
+- [Melee Attack] Strike while the beast is vulnerable.
+- Leave.
+
+Opting to comfort the Hyena will reveal a Newborn Gnoll emerging, leading to a Gnoll battle. After defeating them, you can loot the area, finding items from the fallen Gnolls. Amidst the looting, you'll notice a letter titled "To the Good Godly Folk of Faerun." Another letter rests atop a nearby mountain, labeled "An Open letter on oppression and Peacocks." A third letter lies to the right of the first one, titled "As per my last letter." Adjacent to this last letter, an important corpse holds the Quest Item "Shipment Orders," initiating the "Find the Missing Shipment" quest and updating your journal.
+
+Starting from your present location (X:71 Y:633), head Southeast until you find a Toll Collector's Key Item at (X:98 Y:523). Upon obtaining the item, head North West to reach a new waypoint. Proceed left to a small village with deceased bodies. Inside a house, meet Anders and select these options:
+- Who - or what - attacked you?
+- What is this place?
+- Rest easy. I'll only stay a short time.
+
+Upon selecting the initial choice, Anders shares attack details, unveiling additional dialogue options:
+- Where is this devil?
+- It isn't like a devil to use their brawn instead of their brains.
+- Let me help. I can hunt down this monster.
+- I wish you and yours well, but I must be on my way soon.
+- Now that she softened you up, I'll finish you off.
+
+Choosing the second option, Anders agrees. Then, revert to the first choice, and he provides the Monster's location. He also offers the Sword of Justice as a reward for Monster defeat, but you can decline. Options for this are:
+
+Very Well, I'll bring you her head.
+I'll think about it.
+I have other things to deal with.
+The only head that will roll is yours.
+This activates the "Hunt the Devil" quest. Proceed to the next room, converse with Cyrel, and trade using the first three options. Outside, talk to Trynn, mentioning the cellar. Opt for the second choice to inquire, and Trynn explains its history as a Tollhouse and potential gold inside. Ask about Tollhouses, and she mentions an unopened locked door in the cellar.
+
+After speaking with all NPCs, proceed Southeast down the river until you reach (X:114 Y:507). There, encounter Karlach, the devil needing pursuit, as forewarned by Paladins. This updates the "Hunt the Devil" quest. Speak to Karlach and choose from these options:
+
+Are you all right?
+Devil! Face Me!
+Try to Douse the flames.
+She looks dangerous - watch her carefully
+These are no natural flames - prepare to fight.
+I know you - you're the monster the blade of frontiers is hunting.
+
+Opt for the first choice, and she confirms her well-being. Karlach recognizes you, asking about the Paladins. Inquire about her flame control. As you converse, shared visions unfold. Explain the tadpole connection in your heads. Karlach briefly remarks on visions, introducing herself. Respond with:
+- I'm (name)
+- Karlach. I met someone named Wyll who was hunting you. He said you were a devil.
+- I'm your key to curing that tadpole - eventually.
+- I'm not interested in making friends.
+- Here to take your head.
+
+Choosing the second option, she rationalizes Wyll's misconception. She wants to prove herself and highlights prowess in demon slaying during the Blood War. Evil beings, masquerading as Paladins of Tyr, prompt her quest. Choose these:
+
+Let's send them back to where they came from.
+So you want me to kill the people hunting you?
+Why should I do your dirty work?
+I'm here to kill you, not send you back to Zariel.
+I have my own problems. I don't need yours.
+Select the second option, and Karlach will lead while seeking your assistance. Astarion concurs sarcastically. Respond to Karlach:
+
+Let's do it.
+Why should I do your dirty work?
+I don't think so - you'll have to go it alone.
+Ask her about task assignment's reason, eventually selecting option 1. This triggers three new journal entries and "Our Old Fiery Friend" quest activation, updating "The Blade of Frontiers" and "Hunt the Devil" quests.
+
+Exit the attacked village to find another Waypoint at (X:-84 Y:577). Proceed South West along the Risen Road until the Mountain Pass at (X:103 Y:553). Speak to Ellyka, who cautions against being seen, and choose from these options:
+
+What's the issue?
+Who are you?
+I'd be concerned if I knew who they were.
+I didn't like that term you used. Watch your words.
+I'll leave.
+Select the first choice, Ellyka reveals enemies below, suggesting an alternate route. Respond with:
+
+Who are you?
+Your survival instincts are good. Maybe you should join me.
+I'll leave.
+Opt for the second choice, which Ellyka denies. Choose the first option, and she introduces herself as nobody. As you move your character, a cutscene unfolds, depicting enemies armed against each other. Gauntlet Dion mediates, but Sarth Baretha's group refuses. A dragon destroys Gauntlet Dion's bridge, siding with Sarth Baretha, and another dragon, Kith'rak Voss, arrives. He warns Sarth Baretha to focus on recovering weapons without failure. The scene shifts to your group, as Astarion warns against dangerous Githyanki. This update affects "Find the Githyanki Creche" quest in your journal.
+
+Head toward Githyanki near (X:-136 Y:555). As you approach, a cutscene shows Lae'zel conversing with leader Kith'rak Voss. Lae'zel faces threats and is asked for her name. Respond with:
+
+NOTE: Dialogue options depend on Race and Class. This playthrough uses Dragonborn Warlock.
+
+Nod to Lae'zel. Proceed.
+[DRAGONBORN] I shall speak for her, gith.
+Choose the second option (Lae'zel approves), and she introduces herself to Kith'rak Voss. Voss introduces himself, recognized by Lae'zel. Voss describes a fallen ghaik vessel and stolen weapon by thieves. Shadowheart's anxiety grows, realizing her artefact matches. Voss instructs Lae'zel to assist and speak up. Respond:
+
+Signal Lae'zel silently: 'Truth'.
+[Persuasion] Signal Lae'zel silently: Play Along.
+Present the unusual artefact. Are you seeking this, I presume?
+I have my own agenda. Prepare to face defeat, gith.
+Select option 2. With enough Charisma, Lae'zel plays along, gaining Voss's approval. (Shadowheart and Lae'zel approve.) Voss leaves, conversation with Lae'zel follows. She's relieved at your adept intervention with Kith'rak. She feared artefact possession exposure meant danger. Your quest journal updates "Find the Githyanki Creche" and "The Githyanki Warrior," marking quests around The Risen Road's completion.

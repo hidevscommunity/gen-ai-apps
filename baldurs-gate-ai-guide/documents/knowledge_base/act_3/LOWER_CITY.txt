@@ -1,0 +1,116 @@
+# LOWER CITY
+
+## Quests
+- Get to Elfsong Tavern at X:54 Y:-25
+- Speak with Chef Roveer
+- Warn Chef Roveer about the Murder List
+- Head to the City Sewer through Elfsong Tavern
+- Speak with a bloodied Gale
+- Speak with Orin
+- Objective 7
+- Explore Devil's Fee
+- Go to Jannath's Estate
+- Rescue Volo once again
+- Explore Water Queen's Docks and help them to avenge
+- Investigate the death of the waveservant by asking folks in Grey Harbour Docks
+- Explore Flymm Cargo
+- Fight Redhammer the Deviser
+- Explore the Abandoned Cistern
+- Solve the Sluice Valve/Gate Puzzle in the Abandoned Cistern
+- Look for the entrance to the Ancient Lair
+- Discover the secret of Mystic Carrion
+- Explore Sewers City and Reach Entrance to the Guildhall
+- Speak to Nine-Fingers Keene and  take Jaheira with you
+
+Proceed northward to the Elfsong Tavern at X:54 Y:-25. Engage in a conversation with Chef Roveer regarding his presence on the murder list. He'll claim he can manage the murderers while tasking you with dealing with the rats. This will update the main quest "Investigate the Murders" under the "Get Orin's Netherstone" section, as well as a side quest titled "Kill the Rats." Proceed to the Elfsong Tavern Basement, where you'll encounter numerous rats to eliminate. After exterminating them, both the "Roveer's Storehouse" and "Visit the Emperor's Old Hideout" quests will receive updates. Enter the secret Wine Passage in the basement to reach the old Hideput of the emperor. 
+
+From the Emperor's Hideout, access the Lower City Sewers through the hatch. There, you'll encounter a bloodied Gale who warns you to distance yourself from a particular "monster." Reply with:
+- What monster are you referring to?
+- Gale, you're injured. What happened to you?
+- Why are you here in the sewers?
+- Whatever you're running from, it poses no threat to me.
+
+Select the first option to learn that Gale was abducted by Orin the Red and held captive in her Bhaalist temple. He reveals the temple is situated within the sewers and that Orin subjected him to terrible experiences. Gale urges you to run since Orin is formidable. Respond with:
+- Very well, we'll turn back and figure out how to deal with her. Thank you for warning us.
+- I'm not leaving you behind.
+- You won't face her alone. We'll confront her together.
+- Gale, what did she do to you exactly?
+
+Opt for the fourth option, which reveals Gale's peculiar reaction and leads to his transformation into Orin herself. Confronted by Orin, she questions your presence in the sewers and assumes you're after her Netherstone. She also mocks your concern for Gale. Respond with:
+- What happened to Gale?
+- You're welcome to him; I could use some peace and quiet.
+- Gortash warned me that you might try something like this.
+- You'll pay for this, monster.
+- Prepare to defend yourself.
+
+Choose the third option, and Orin will mention Gortash, hinting at her knowledge of him. She refers to your interaction with him and claims that the Murder Lord also desires you. Reply with:
+- Why does the Murder Lord want me? What's his motive?
+- If you come for me, you'll meet your god soon enough.
+- The voice you hear isn't divine; it's a product of your twisted mind.
+- It seems everyone wants a piece of me. He'll have to wait his turn.
+
+Select the first option, and Orin will mention Ketheric's Killer. She indicates that before you can challenge her, you need to sharpen your skills against a different foe—the Tyrant's Throat. Orin then shifts into Gortash's form, claiming to see his whispers and promises in your thoughts. She explains his desire for the Crown of Karsus, wanting it for himself. Orin expresses her urge to eliminate Gortash but reveals she can't touch him since he bound her blade during their initial encounter. She proposes you kill Gortash, retrieve the Netherstone from his body, and bring it to her temple. After reverting to her true form, she offers to bring her assassins under control if you agree; otherwise, she threatens harm to Gale. Respond with:
+- So you're betraying your ally? Or are you asking me to?
+- Very well. I'll kill Gortash. Gale will live. After that, we settle things for the final Netherstone.
+- Gortash can wait. First, I'm confronting you, monster.
+- I'll comply. Just promise not to harm Gale.
+
+Choose the first option, leading Orin to explain that they aren't allies, just two forces in balance. Then inquire about Gortash's whispers, and she'll confirm that she sees them. She adds that Bhaal's age is drawing near and insinuates that you could be part of it—an idol of flesh to welcome the coming dawn of his bloody reign. Orin warns not to underestimate the Steel Watch and threatens to harm Gale if she sees you in her domain while Gortash remains alive. Then, she disappears. This conversation updates the quests "Disable the Steel Watch", "Get Orin's Netherstone", and "Rescue Orin's Victim".
+
+After your conversation with Orin, return to the Elfsong Tavern and proceed to the staircase leading to the tavern's second floor. Ascend the stairs and enter the door ahead. A cutscene will unfold, showing Devella at the crime scene. While she's frustrated someone let you through, she asks why you're interrupting her. Reply with:
+- Are you Devella? Valeria sent me to assist.
+- I'm just a curious adventurer, interested in the scene.
+- I'm no one important, just passing through.
+- Your anger is quite palpable. I'll leave you be.
+- I seem lost. I'll find my way out.
+
+Select the first option. Devella will reluctantly confirm her identity. She'll express that if you lack helpful information, you should leave her to her work, as she's investigating Duke Stelmane's murder. Reply with:
+- Share about the murder target list you found.
+- Is it possible the murderer was tied to the Bhaal cult?
+- With Bhaal's involvement, more is at stake than Stelmane's death.
+- Best of luck with your investigation.
+
+Opt for the first choice. Devella will be intrigued by your information, updating the Main Quest "Investigate the Murders." She'll elaborate that her assignment led her in the same direction, but she hadn't expected these developments. She explains that a century ago, Sarevok Anchev, Bhaal's son, ruled the Iron Throne, which masked a dark arms-dealing network. Sarevok aimed to ascend to godhood by amassing an army, leading to the revival of Bhaal's temple and cult. Although the temple was destroyed, the cult's remnants persisted, ultimately evidenced by the murder list. Devella concludes that the Bhaal cult has resurfaced, and someone is continuing Sarevok's sinister legacy. Respond with:
+- Why don't you think it's Sarevok himself?
+- Do you have any suspicions about who might be behind this?
+- But Sarevok led the cultists a century ago; he can't still be alive, can he?
+- I share your concerns. I've noticed an uptick in Bhaalist activity myself.
+- You should inform your superiors about this immediately.
+
+Opt for the first option. Devella is skeptical that Sarevok is involved, noting differences in the recent murders that suggest they're acts of worship. She explains she tried informing her superiors, but they dismissed it as conspiracy. She turns her attention to you, hoping for assistance. Reply with:
+- Can't you provide any assistance?
+- What will you do while I investigate?
+- How about the other individuals on the list who are still alive?
+- I'll do my best to uncover the truth.
+- I've got more important matters to attend to than a cult investigation.
+
+Select the first two options. Devella states she needs to alert Upper City residents and asks you to warn those on the list in the Lower City. After Upper City, she'll head to Basilisk Gate to push her superiors for action. She invites you to meet her there once you have any relevant information to report. This conversation advances the "Investigate the Murders" quest.
+
+After conversing with Devella, descend to the tavern's second floor and exit. Make your way westward until you arrive at the Wine Festival located at X:25 Y:-38. There, you'll encounter Cora Highberry, who's enjoying the wine tasting. She invites you to join her and her friend Roger Highberry. However, Meztli interrupts, offering a solo tasting to Cora. She declines, preferring company. You sense the poison in Meztli's offered wine. Choose:
+- Cora, that wine is poisonous. This man wants to harm you.
+- I'll gladly take a glass, Master Meztli.
+- I'll have to pass, but enjoy your wine.
+- Let Master Meztli try the wine first, or should I say Dolor?
+- Attack the poisoner.
+
+Opt for the first choice. Meztli speaks briefly and threatens you before a battle ensues. Afterward, the Main Quest "Investigate the Murders" will be updated. Enter the Highberry's Home nearby to speak with Cora. She'll express gratitude for your intervention and disbelief at the assassination attempt.
+
+Having conversed with Cora and received a reward, head southwest until you arrive at Facemaker's Boutique at X:-182 Y:-32. As you enter, a cutscene unfolds, depicting Dolor attacking Devella and her superior, leaving them immobilized. Overhearing Dolor mention a gift for Lord Bhaal, you can react with:
+- Halt!
+- Step back. That's my target.
+- [Stealth] Remain concealed as the dwarf is distracted.
+
+Choose the first option (Astarion Disapproves), prompting Dolor to acknowledge a challenger and triggering another battle. After defeating Dolor, the quest "Investigate the Murders" is updated. Once the enemies are vanquished, Devella expresses gratitude for your rescue. She explains that Doppelgangers ambushed them, paralyzing them before they could retaliate. Respond with:
+- Weren't you responsible for safeguarding the patriarchs in the upper city?
+- These doppelgangers appear to be monitoring his advancement. This one seems to be gaining prominence among Bhaalists.
+- Fortunately, I was here to assist.
+- It's regrettable. I assume you're swamped with paperwork. I'll leave you to it.
+
+Select the first option, and Devella elaborates that she heard a disturbance while en route to the upper city. She believes these killings are part of a trial, detailing that the document you shared outlines the test. Victims are paralyzed, offered to Bhaal, and framed as the work of the Cult of Absolute. This provides access to a "Tribunal," an initiation for aspiring cultists to demonstrate their dedication. This initiation occurs beneath 'Canduhallow's Tombstones'. However, due to her constraints, she defers the investigation to you. Reply with:
+- I should probably seek out a hand, then.
+- Can you pinpoint the location of 'Candulhallow's Tombstones'?
+- It sounds like you have a lot on your plate. I'll handle this.
+- I'll look into it.
+
+Choose the fourth option. Devella plans to head to the upper city, meeting you at Basilisk Gate later. Lastly, loot Dolor's body and acquire the "Hand Bag," updating the Main Quest "Impress the Murder Tribunal."
+

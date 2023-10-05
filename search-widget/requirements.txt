@@ -1,0 +1,9 @@
+streamlit
+streamlit-aggrid==0.2.2-2
+streamlit-modal
+click==8
+openai==0.27.*
+langchain==0.0.162
+openpyxl
+upgini
+disposable-email-domains

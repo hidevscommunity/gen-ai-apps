@@ -1,0 +1,4 @@
+1. Heart Metric Report: {heart_report}
+2. Emotion Tracking Report: {emotion_report}
+3. Personal Information: {p_info}
+4. User thoughts on mind: {thoughts}

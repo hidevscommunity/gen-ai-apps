@@ -1,0 +1,90 @@
+# LAST LIGHT INN
+
+## Quests
+- Reach Moonrise Towers
+- Talk to Jaheira
+- Get Help from the Cleric Isobel
+- Find Protection from the Shadow Curse
+
+They’ll allow you in and you’ll be able to meet Jaheira for the first time. She’ll use some nature magic to root you in place, to which you have the following options to respond with:
+- Just this once, I wish people would simply say hello.
+- Jaheira, is it? I’m Tav, and I assure you none of this is necessary.
+- You have to the count of five to let me go.
+
+Choosing the second option will just make them push further. You’ll have the following options to respond with next:
+- Easy. Give me a chance to earn your trust.
+- I saved your soldiers and this is the thanks I get?
+- Could you at least explain to me why you’re doing this?
+- Back off. Now.
+
+It seems she is mainly suspicious of you because she has a captured tadpole reacting to the tadpole in your brain, which makes them think you’re a True Soul. You’ll have the following options to respond with:
+- I am not… a True Soul…
+- Look to the Harpers you saved.
+- Accept your fate.
+- [STRENGTH] Rage against the vines.
+- [WARLOCK] Beseech your patron to help you.
+
+If you choose the fifth option, Mol will intervene and vouch for you. Jaheira will then question how you could have a tadpole but not be a thrall. You’ll have the following choices to answer the question:
+- Because of this artefact. (Show Jaheira)
+- I work in mysterious ways.
+- You’ll just have to take my word for it.
+- Attack
+
+Karlach will approve of the first option. The tadpole she has will react negatively to the artefact as you take it out. Jaheira will question what exactly you are showing her, to which you’ll have the following choices to respond with:
+- Tell Jaheira everything you know about the artefact.
+- So far it’s been a life-saver. Here’s hoping you agree.
+- Your guess is as good as mine.
+
+If you choose the first option, they’ll finally ease up on you and ask why you’re there. You’ll have the following options to reply with:
+- To destroy the Absolute in its lair: Moonrise Towers.
+- I just want a cure for the parasite in my head. Moonrise Towers is my only lead.
+- I’m here on holiday.
+- My intentions are my own.
+
+Choosing the second option will finally have them let you off to your own devices, before inviting you for a drink in the inn. Afterward, move forward and examine the runes on your right to activate the Waypoint for the Last Light Inn. Head down the path further in to the opening at (X:51, Y:143) that leads to the actual inn. There will be a realistic bear statue on your left as you enter. Your character will do a Nature check as you enter to ascertain what it actually is. Head inside and find Jaheira at (X:67, Y:139) and talk to her. She’ll propose a toast to your health. You’ll have the following options to choose from in response, if you have Karlach with you:
+- To your very good health.
+- [MEDICINE] Smell the wine first.
+- You’ll have to pardon my friend Karlach. She’s very excited to meet you.
+- I’m not thirsty.
+
+If you choose the second option and pass the Medicine check, you’ll discover that she’s laced the drink with an herb that acts like a truth serum. You’ll have the option to express your trust wavering as a result afterward, but then you’ll still have to choose whether you’ll drink it or not. Drinking it will gain disapproval from Astarion and Shadowheart, but will gain approval from fangirl Karlach, if you’ve brought any of them with you. Jaheira will then ask if the parasite is affecting you or not. You’ll have the following choices to answer the question with:
+- I see now why you’ve spiked my wine.
+- Yes. The parasite is giving me powers I never had before. It’s changing me for the better.
+- It’s trying to change me, trying to win me over, but I’m resisting its temptations.
+- [SAVING THROW] Despite knowing you’re under the effects of a drug, try to deny the tadpole has any influence over you.
+
+The first option will just have her press you for a different answer. Choosing the fourth choice and being successful will have her be satisfied with your answer, but explain why she has to be cautious. She will say that tracking the parasites led her to someone who should’ve been dead for over a century. If you ask who it is, she’ll reveal it to be General Ketheric Thorn, the leader of the Absolutist cult. It seems that not only is he not dead, he’s also currently unkillable. They had an encounter with him as he and his army were marching to Baldur’s Gate. Suffice it to say, he defeated them and had them chased all the way to this inn. However, she seems to have some hope in you. You can respond to this with the following choices:
+- What do you have in mind?
+- You think I can kill him?
+- I don’t think so.
+
+Her plan is to have you infiltrate his base as a True Soul and find out how to deactivate his invincibility. You’ll have the following options to reply with:
+- Ketheric’s days are numbered. I’ll make sure of it.
+- You want to make use of my infection - I want to be cured of it.
+- Seems like I’ll be doing most of the heavy lifting.
+- I’m not doing this.
+
+Choosing the second option will have her explain that you’ll probably find a means to cure yourself in the Moonrise Towers anyway. You can then ask her how to get there past the debilitating shadows. She’ll explain that Isobel, a Cleric of Selune, protects the inn with her light, and will be the key that’ll let you protect against the darkness. She bids you go upstairs to talk to the Cleric, at her recommendation.
+
+Head up the stairs at (X:71, Y:134) to get to the second floor. Isobel can be found on a balcony to the north, which you can reach through a door at (X:64, Y:168). You’ll see the shielding spell take its toll on her before she notices you. Choosing the first choice will have her express that she’s full glad to have you as their little miracle against the darkness. She’ll proceed to enchant you and your party with the same shield she’s cast around the inn but will warn you that it won’t be enough to protect you when you reach the depths of the Shadow-Cursed Lands, though it should be enough to reach Moonrise Towers.
+
+As she gives you advice on how to best Ketheric, you get interrupted by Flaming Fist Marcus, a former brave ally of theirs, now turned by the Enemy in exchange for a pair of wings. You’ll have the following options to react with:
+- What are you?
+- Isobel, do you know this man?
+- I say we follow the winged freak.
+
+After she introduces him to you, he’ll reveal himself as a True Soul and try to telepathically order you to take Isobel back to their home base. You’ll have the following options to respond with:
+- [WISDOM] Probe his thoughts for more information.
+- What does he want with her?
+- Sounds like fun - I’m with you.
+- I’m not like you - I don’t take orders from the Absolute’s cronies.
+- Touch her and I’ll kill you.
+
+
+Choosing the first option and passing the Wisdom check will allow you to see Ketheric give the order to Marcus. Isobel will question your telepathic interaction, to which you’ll have the following options to respond with:
+- Marcus is trying to kidnap you, Isobel. We’re going to need to fight our way out of this one.
+- Say nothing.
+- You’re going to meet Ketheric - face-to-face.
+Choosing the first option will result in a combat engagement. Marcus will let out a roar to call out more minions, and you’ll enter a combat engagement. For this fight, you’ll have to attempt to defeat Flaming Fist Marcus and six Winged Horrors. All of them are going to do their best to go straight of Isobel. Your best bet for a small chance of winning here is to use a protection spell on Isobel, while you dish out as much damage as you can on Marcus before he knocks Isobel out. Chances are, however, you’ll lose this fight due to Marcus’ sheer bulk and power. After he knocks out Isobel, all hell will break loose in the inn, resulting in the death of most of its inhabitants. The shields will disappear, allowing the shadows to enter the inn and turn some into Enemies, while the others die to the turned.
+
+Outside, Jaheira will see the shields melt and ask you what happened. Choosing the first choice will have her restate your mission to figure out Ketheric’s invincibility. Before you get out of here to do that though, you’ll have to clear the area of allies turned to foes. This won’t be difficult by any means, other than the fact that they used to be innocents. There’ll be another group waiting for you on the bridge to the southeast, which is also going to bring in some Creepers. After the fight, proceed to the bridge at (X:-11, Y: 120) to head back to the Ruined Battlefield.

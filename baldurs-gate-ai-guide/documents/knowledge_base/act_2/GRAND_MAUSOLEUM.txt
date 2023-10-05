@@ -1,0 +1,9 @@
+# GRAND MAUSOLEUM
+
+## Quests
+- Investigate the Thorm Mausoleum
+
+After entering, when you go through the iron fence, you’ll hear a talking skull telling you to beat it, but it won’t do anything else if you interact with it. A part of Ketheric Thorm’s diary sits near his diseased wife’s coffin. Other parts as scattered around this area if you want to look into his past. In the eastern area of this first area, you can find a locked Traveller’s Chest at (X:-259, Y:-882). It has a lockpicking DC of 14 and contains the Vivacious Cloak, some alchemy materials, some valuables, and possibly a potion or two.
+
+Loot the rest of the area as much as you’d like, and then head over to the northern section. The plaque here reveals that Isobel is Ketheric’s daughter and that the tomb here belonged to her. Successful Perception checks here will reveal traps on the vents and various tiles on the floor, as well as gargoyle heads on the walls, all around the room. To move forward from here, you’ll have to press the buttons below the three paintings around the room in the right order. Start with the button below the Moonrise Towers painting first, and then the Grief painting beside it, before finally pressing the last button under Ketheric Thorm’s painting. Getting the order correctly will open up the walls beside the last painting and allow you to pass through. Interact with the Traversal Gem here to travel down and get to the Gauntlet of Shar.
+

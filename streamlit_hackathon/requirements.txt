@@ -1,0 +1,6 @@
+geonamescache==2.0.0
+langchain==0.0.295
+openai==0.28.0
+pandas==2.0.3
+reportlab==3.5.67
+streamlit==1.26.0

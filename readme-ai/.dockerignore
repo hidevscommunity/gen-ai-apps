@@ -1,0 +1,27 @@
+# Git and GitHub metadata
+.git/
+.gitignore
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+Makefile
+CHANGELOG.md
+
+# Exclude all .pyc files
+**/__pycache__
+
+# Build artifacts
+dist/
+*.tar.gz
+*.whl
+
+# Test and setup scripts
+tests/
+setup/
+scripts/
+
+# Jupyter notebooks
+notebooks/
+
+# Other project directories
+docs/
+examples/

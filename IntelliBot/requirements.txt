@@ -1,0 +1,9 @@
+streamlit
+langchain
+openai
+tiktoken
+pypdf
+pinecone-client
+PyPDF2
+pdfplumber
+duckduckgo-search

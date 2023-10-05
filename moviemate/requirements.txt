@@ -1,0 +1,7 @@
+numpy==1.22.4
+streamlit==1.26.0
+streamlit-javascript==0.1.5
+langchain==0.0.278
+langsmith==0.0.33
+Pillow==9.5.0
+openai==0.28.0

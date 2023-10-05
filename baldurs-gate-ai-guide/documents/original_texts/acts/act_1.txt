@@ -1,0 +1,650 @@
+# NAUTILOID
+
+## Quests
+- Find a way off the Nautiloid
+- Reach the Helm
+- Connect the nerves of the transponder.
+
+When you start the Prologue: Escape the Nautiloid, you'll begin with escaping your pod amidst the commotion. This will also serve as the "Tutorial" portion of the game. As you explore further, you'll see an unstable Nursery in the middle (X:51 Y:-422). Once you get close enough, a few dialogue options will appear, choose the Investigation, and then a prompt will pop up explaining how Skill Checks work. If you fail the skill check, you will be presented with the same options 1 and 3. Choosing the first option will cause the Nursery to explode. Now head to the second level, you'll find several cartilaginous chests (X:47 Y:-436) that contain some Potions and other misc items. When you navigate this region, you can use the jump Action to cross gaps and fires to loot bodies on the other side. If you get damaged by the fire, you can interact with the Restoration to recover your health. Now move on to the next area (X:28 Y:-424), upon opening the door to this area, the game will explain about the Map and show the different markers on the left side of the screen. In this next area, you will find more potions and scrolls on dead Imps. Now get on top of the platform in the middle (X:0 Y:-427) where you'll see one of the Neural Apparatus it will then lift you to reach the higher ground. You'll then notice a victim you can interact with named Myrnath (X:0 Y:-430). The first few dialogue options won't affect anything regardless of what you choose. Depending on your character, some dialogue options will turn out better than others. In this case, this character has a 2d20 Advantage when choosing the third dialogue option, which is attempting a cerebral extraction. An Advantage lets you roll two dice and take the higher result before adding modifiers. Once you've successfully met or succeeded the target number, you can choose to let it accompany you and aid you in your adventures by sparing the brain. If you choose to help the brain, you will have gained a follower.
+
+As you progress forward, you'll then encounter Lae'zel (X:-39 Y:-430), a female Githyanki Fighter who can become one of your potential Companions. Now you'll need to engage in combat as you'll encounter several Imps ahead (X:-45 Y:-402). Once you've slain the Imps, you can move forward to the deck and climb the Arterial Mesh (X:-43 Y:-367) you'll see to proceed to the next area (X:-31 Y:-356). Upon reaching the next room, you'll find a control panel in the middle (X:-11 Y:-354). The various slates in the rooms that are above the buttons have their text hidden behind a DC 15 Arcana skill check. The three slates in the first room you go to read, in order from left to right: "Unleash - Aggression - Annihilate". The 'Unleash' button plays a short scene but ultimately does nothing. The middle button will cause the thralls to attack you, while the rightmost button will instantly kill them. On the left side of the room, you'll see another Mind Flayer Pod with someone inside the chamber (X:-3 Y:-347). You will also notice a control panel beside it. As you approach the pod, Shadowheart, a Shar priest and a potential Companion, tells you to get her out of there, Lae'zel insists that we leave her as we don't have much time. You will then have several dialogue interactions as to how you would want to deal with Shadowheart being inside the pod. You can choose to free her or leave her be. If you chose to set her free, interact with her, then you can choose to make her your companion if you let her accompany you to the helm. Now proceed to the next area, you can find a Gold Key on a corpse (X:28 Y:-354) just as you enter, you can use this to open an elaborate chest. North of the room, you'll see another corpse on the ground (X:61 Y:-353), she will have a Bronze Necklace and an Eldritch Rune that you can loot.
+
+Now make your way to the Helm (X:-20 Y:-389) and once you reach the area, you will immediately engage in combat after the short cutscene. You can focus on defeating the imps while ignoring Commander Zhalk, as he'll focus on fighting the Mind Flayer. Once you reach the other side of the helm, more imps will appear. This battle will be a race against time as you will need to reach the Transponder before the Nautiloid crashes. You will see on the right side of the screen how many turns you have left before the Nautiloid crashes. Do note that you can also kill Commander Zhalk and loot the Everburn Blade from him (2d6 + 1d4 fire). However, once you kill him, the Mind Flayer will turn hostile and some Cambions will appear in the area and start to attack. Once you've cleared out the enemies and reached the transponder in time, the quest is completed.
+
+# RAVAGED BEACH
+
+## Quests
+- Find a way to remove the mind flayer parasite
+- Find the healer Nettie
+- Find Zorru
+
+Upon your arrival at the Ravaged Beach, the first quest in Act 1, Find a Cure, will begin. Do note that this step-by-step progression will only focus on the main quest found within this location, and will not include any of the side quests that were present when exploring this location. Now continue forward and you'll find Shadowheart unconscious on the ground. You have the option to wake her up or reach for the artefact she's holding. If you chose to wake her up, you'll have a lengthy conversation about your current situation, then you can choose to let her accompany you or go your separate ways. If you choose to let her accompany you, she will thank you for freeing her from the pod back in Nautilod. You'll then get an approval up from her. Continue following the main path ahead and loot some items you can find on the ground. As you proceed, you'll find an Ancient Sigil Circle on the wall, just beside the Ancient Door in the Overgrown Ruins. When you interact with the Ancient Door, it won't open, Shadowheart will suggest looking for another entrance. Now head west and you'll encounter a couple of Intellect Devourers in the area. Try to keep your distance throughout the fight to make quick work of them, these are low-level enemies but can be dangerous once you're surrounded by a group of them. Once you've slain all the Intellect Devourers, explore the area and loot what you can then head west. Continue following the main path and you will come across the destroyed Nautiloid wreck, then slightly up a hill, you'll find Astarion, a High Elf vampire and a potential Companion, calling for help. Interact with him and you'll have several dialogue interactions with him. You can choose to let him tag along or go your separate ways. Now head northeast to the crash site, you'll notice footprints in the area, there are dead goblins on the ground and you can loot some items and supplies from their corpses. Continue following the path then head southwest, you'll encounter an injured mind flayer in the area, you'll have several dialogue interactions with this creature, but in the end, you can choose to kill it yourself, or let it die slowly. Now head north then climb the platform, and continue following the road uphill. As you move forward, you'll find Lae'zel trapped in a wooden cage and two Tieflings, Damays and Nymessa, discussing whether to kill her or leave her to the goblins. You will be able to communicate with Lae'zel even without actually speaking to each other via the monsters inside your head. You will be given several dialogue options to work with during this encounter, you can either choose to help her or leave her there. You can also deceive the tieflings and let them reveal about their camp. If you successfully deceived them, Damays will reveal that the camp is located northwest and once you make it there, look for Nettie.
+
+If you chose to rescue Lae'zel and agreeing in joining her to look for a crèche, Shadowheart will disapprove of this decision and says that she trusts your judgement, but she doesn't trust Lae'zel yet. Lae'zel then explains that since the tieflings mentioned a camp, there's one tiefling named Zorru, who has seen githyanki. She suggests we ask Zorru where he has seen the other githyankis.
+
+Now continue heading south, then head west, you'll see an unstable rune on the wall. Interact with it, you can then touch it or leave it be, an arm will then extend out of the portal, you can leave it be or help the man stuck inside the portal. After successfully pulling him out of the portal, he will introduce himself. This is Gale, a Human Wizard and a potential Companion. After the introduction, he says he remembers you from the Nautiloid. You'll then have several dialogue interactions and in the end you will have to choose to let him join you or abandon him there. If you choose to let him join you, he'll say he can join you later and meet you at your camp.
+
+If you go to your Camp, a pop-up will appear on the screen giving you tips about the Camp. The camp is where you can take a Long Rest and fully heal your party. You can also manage your Companions at the Camp, and even advance relationships with some of them if you wish to do so, you can also store items, eventually change your character, and recruit more NPCs. Once you're done and satisfied with interacting with all your Companions, you can interact with the bed near the campfire to take a Long Rest. This will restore your Hit Points and Spell Slots, you will need to have the required amount of camp supplies to fully rest.
+
+Now head southeast of Roadside Cliffs, and you'll reach the Chapel Entrance (X:272 Y319). At the southeast corner of the entrance, you'll find a dirt mound you can dig through (X:289 Y:314) if you successfully passed the survival check and if you're currently carrying a Shovel, it'll reveal a wooden chest with Scroll of Magic Missile, Scroll of Mage Armor, and Scroll of Expeditious Retreat inside. Now head north and enter the chapel ruins, you'll see a headless statue there, continue moving forward, and you'll encounter a Gnome (Gimblebock) arguing with a High Half-Elf (Taman) (X:286 Y:339). When you start approaching them, they'll end their conversation and make you stop. If you tell them that the ship's full of poisonous vapours, it will make the two leave, and Shadowheart will approve of this decision. If you head straight from where the crack is (where Gimblebock and Taman were previously standing), there's a locked door (X:286 Y:360). You'll then hear a muffled voice speaking through the door once you interact with it, thinking you're Gimblebock and asking if everything's alright. Choosing the fourth option will require you to pass a skill check with DC 10, successfully passing the skill check will fool the person inside and let you in. You'll then achieve Charlatan: Cheese Your Way Through and will inspire Astarion.
+
+Now go through the door and you'll find yourself within the Refectory. Upon entering, you'll have to deal with the bandit that let you in. After slaying the bandit, you can loot the Bandit's Key, Leather Armour, and other misc items from its corpse. Now head outside, from where the two bandits left, you'll notice a crack in the ground and a giant rock hanging by a coiled rope above (X:288 Y: 345). You can shoot the coiled rope to drop the rock, making a giant hole in the ground. You can then drop down the hole and have access to the Refectory via a different entrance. Once inside, you can go through the door in front of you but be careful, as you will face five enemies in the area. Deal with them as you see fit then go to the door on the south side, will lead you to the library, and on the statue, you can loot the book named Chapel Records.
+
+On the westmost corner of the Refectory, there's a door leading to the Dank Crypt (X:-189 Y:-322). Upon entering the crypt, you'll immediately two Opulent Chests, the one on the right side contains a Peridot Ring. Now you need to retrieve the Engraved Key located inside a sarcophagus. To open it, you have to solve a puzzle involving pressing switches. Now use the Engraved Key to open the Heavy Oak Doors (X:-294 Y:-286). Go through the door, and just ahead you'll come across an Entombed Scribe, you can loot a Scroll of Burning Hands and other items (X:-292 Y:-261). There's a door on the far right, inside you'll see the Book of Dead Gods (X:-321 Y:-270). Choosing any of the three options will require you to pass a skill check with DC 10, successfully doing so will release the lock and open the book. Then you can choose to examine the book more closely, doing this will require you to pass another skill check with DC 10, and successfully passing this will give you an approval up from Shadowheart, you will also achieve the Acolyte: Divinity Undone and will inspire Shadowheart as well.
+
+Now go outside the door you came from, stick to the left side and you'll see another Entombed Scribe (X:-311 Y;-252), you can loot a Heavy Key, which can open the Ancient Door within the Dank Crypt. Now head up the stairs on the left side (X-298 Y-232) and you need to pass the Perception check to interact with the button on the wall to open a secret passage. A short cutscene will play and then you'll immediately engage in combat with Entombed enemies. Deal with them as you see fit. Once you've taken care of all the Entombed enemies, go inside the secret room, and open the Heavy Chest, you'll find The Amulet of Lost Voices (X:-292 Y:-235) and other loot. Now interact with the Richly Adorned Sarcophagus (X:-289 Y:-230) and Withers will arise from it. After your conversation with Withers, he will leave the ruins. Now head outside the secret room and make your way to the rightmost part, where you'll see a lever, pulling this lever will drop down a ladder (X:-248 Y:-270). Interacting with the ladder will get you back to the Chapel Entrance area, you'll also see a hatch where you just came from.
+
+
+# EMERALD GROVE
+
+## Quests
+- Battle at the Gates
+- Get help from Auntie Ethel (the hag)
+- Finding Healer Nettie.
+
+Before making your way inside Emerald Grove, you first need to go here (X:216 Y:411) to initiate a cutscene. The cutscene will show Aradin, alongside his companions Remira and Barth, arguing with Kanon to open the gate leading to Emerald Grove. Kanon does not budge as he says the gates must be kept shut as per Zevlor's orders. Aradin then tells Zevlor that they were fighting off a group of Goblins and now followed them there, Zevlor then orders Kanon to raise the gate, but it's too late. The group of goblins arrives and just as Kanon was raising the gate, he gets struck by multiple arrows. Although it may seem they are being overwhelmed, Wyll shows up at the scene to help. After that, you will immediately engage in combat. During this combat encounter, take advantage of your positioning as you are already at a high ground. Once you've slain all the enemies in the area, Zevlor will then order someone to open the gate. Before going through the gate, you can loot the corpses of fallen enemies for useful items. You can loot the Brass Locket out of Barth's corpse if he dies during the encounter. Now go through the gate, and you'll reach Emerald Grove (X:209 Y:454). As you move forward, you'll see Aradin and Zevlor arguing about what just happened. After your conversation with them, make your way up a hill (X:248 Y:444) and you'll encounter a Bugbear Assassin trying to kill off Nadira. Make quick work of him, loot some items off his corpse, then interact with Nadira. She says you have good timing as she would not have won that encounter. But she thinks you're not actually there to save her, and instead thinks you're after her Soul Coin. You'll have a few dialogue options that can lead you to acquire the Soul Coin.
+
+Now head north to find Zevlor (X:206 Y:477) and interact with him. He thanks you for your assistance earlier during the goblin attack, then he starts introducing himself. He then warns you that visitors are no longer welcome in Emerald Grove and whatever your business is with this place, he wants to see to it quickly, since the druids are forcing everyone out and this attack will only strengthen their resolve. He also asks if you could persuade Kagha, even if it's not your business. He thinks you can persuade her since she owes you for saving this place. If tell him you'll talk to speak to Kagha, you will receive a disapproval from Astarion. Zevlor then says he owes you a great debt and asks that you talk some sense into the druids, before more lives are lost.
+
+Make your way inside The Hollow (X:206 Y:496). There's a merchant named Arron located at (X:204 Y:512). You can interact with him to see his inventory, you can also engage in a conversation if you wish to do so. As you move forward, you'll notice a Haystack (X:214 Y:535), you need to pass a Perception check to interact with it and loot whatever item you find inside it.
+
+Just up ahead at (X:212 Y:544), you'll see a couple of Tieflings, as well as Wyll training a young tiefling named Umi. Once your minds connect with each other, Wyll will reveal that the woman in her thoughts is named Karlach, an archdevil's soldier he swore on his good eye to kill. He said he tracked her down through the Hells to the mind flayer ship. But he was infected before he could kill her. He's worried about her being out in the open, preying on the innocent, and if he doesn't deal with her as soon as possible, she'll be leaving a trail of corpses. Lae'zel will also disapprove if you ask Wyll to join your party.
+
+Now head north and you'll find Zorru (X:205 Y:568). Interacting with him will gain you Lae'zel's approval. He starts off being scared of Lae'zel, if you choose the DRAGONBORN option and give the Zorru a menacing stare, you'll gain the approval of Astarion, Lae'zel, and Shadowheart. You will gain another approval from Lae'zel if you let her make Zorru lower his head even further. After interrogating Zorru, an exclamation mark will then be seen on top of Lae'zel, interact with her to start a conversation. If tell Lae'zel she's being rough, you will gain Shadowheart's approval, but gain Lae'zel and Astarion's disapproval in the process.
+
+Now move forward and you'll see a shabby door leading to the Makeshift Prison area (X:188 Y:592). As you go through the door, you'll see a goblin named Sazza imprisoned in a cage, and a tiefling named Arka aiming her crossbow at her. She thinks this goblin killed her brother, Kanon. Memnos then tries to stop her but she refuses to listen, so he just walks away. Sazza still continues provoking Arka to pull the trigger. If you stand between the crossbow and Sazza, you will gain Gale's approval. Telling Arka that vengeance eats people alive will gain you the approval of Shadowheart, but disapproval from Lae'zel. As the two tieflings walk away, you can engage in a conversation with Sazza. You can either choose to free her or let her rot in that cage.
+
+Now exit through the door you just came in, on the northwest side, you'll meet Dammon, a smith within the grove. (X:180 Y:559). If you interact with him, you'll get to see what he has for sale. He's got a variety of weapons, armours, and shields among other items. Just a few steps ahead the northwest, you'll find Aradin (X:165 Y:546). You can make him give you the contract Stamped Handbill that made Halsin go with the other adventurers.
+
+Also northeast at (X:193 Y:548), you'll see Auntie Ethel (the hag). She's a Merchant and will sell you a variety of Alchemical ingredients and consumables. If you leave her shop and speak to her again, you can bring up the fact that you've been infected with a mind flayer parasite. Astarion will approve of this, but Shadowheart will disapprove. She'll agree to help you with your parasite but mentions that none of the potions currently with her will be powerful enough. Auntie Ethel (the hag) will then mark her house on your map, pointing you towards the Sunlit Wetlands.
+
+At the north entrance of The Hollow (X:257 Y:451), you'll see a group of tieflings in a heated argument against the druids. Komira wishes to see her daughter, Arabella. But Jeorna claims Komira's daughter is a thief and will wait for Kagha's judgement. Komira threatens to rip Jeorna's throat out if she doesn't let them pass, but another druid begins to transform into a bear to make them back off. Talking to Komira and Locke will start the quest Save Arabella. If you choose to help them Astarion will disapprove of this decision. Now head down the stairs and you'll have reached the Sacred Pool (X:262 Y:535). You can talk to Jeorna, she'll eventually let you through to see Kagha. Now make your way to the Stone Door just northwest (X:228 Y:521). Go through the door and just down the stairs, you'll see Kagha trying to intimidate Arabella with her serpent. She wishes to imprison the young tiefling on account of theft. Rath tries to reason with Kagha but she sees the tiefling the same. You can interrupt them and choose to save Arabella, if you choose to take responsibility of her, you'll gain Gale and Shadowheart's approval, but also gain Lae'zel's disapproval.
+
+Now go to the Druids' Chambers (X:-443 Y:-6) and you'll find Nettie trying to patch up an injured bird. Once you interact with her, she'll tell you to give her a moment. You'll go through a lot of dialogue interactions with her but in the end, she'll reveal that she's mislead you, and that she doesn't have a cure, only a way out. If you don't swear to take the Wyvern Poison at the moment you show symptoms, Nettie will turn hostile saying she has no choice and you will have to kill her. If you do swear to take the poison, you will gain Lae'zel's approval, but get Shadowheart's and Astarion's disapproval. Nettie hopes it doesn't have to come to that but she thanks you, then hands you the Wyvern Poison.
+
+Now that you've attempted to remove the parasite from your brain and rest, at any point in time you can meet Raphael. He then introduces himself and says he's at your service. He will eventually transport you in his place called "Middle-of-somewhere", and while he asks you to fill your plate, he also says this might be your last. Raphael will tranform into a devil and offers you a quick solution to your problem.  you call him mad, Astarion, Lae'zel, and Shadowheart will approve. He's hoping you'd change your mind down the road. At the end, he will transport you back at the place where he showed up.
+
+
+# FOREST
+
+## Quests
+- Speak to Andrick, Brynna, and Edowin
+
+You will most likely come across the Forest after exploring the Emerald Grove. The Forest can be found west of the Emerald Grove Environs Waypoint at around (X:170, Y:416). You can also reach the Forest through the Underground Passage connecting the area to the Emerald Grove. Head north up the dirt path to (X:143, Y:440), and you'll find two people looking down on an injured dwarf. When you approach them, a cutscene will begin and you'll learn that the lady's name is Brynna, the man's name is Andrick, and the dying dwarf on the ground is Edowin.
+
+When you first approach them, Brynna will be suspicious of you and you'll have four dialogue options to choose from:
+- Freeze and hold up your hands
+- What happened to your friend?
+- [MEDICINE] His wounds look deep. I might be able to help.
+- [ILLITHID] [WISDOM] I will go where where I wish.
+
+If you attempt the Medicine Check, you'll have to pass a DC of 10. If you choose any of the first three options, even if you fail your Medicine Check, Edowin will speak up, recognising that you too have been infected by an Illithid parasite, and you will be met with another 3 options:
+- Try to block him out.
+- Hold his stare.
+- Move away, reaching for your weapon.
+- If you choose the second option, Edowin will recognize you as a True Soul and get Andrick and Brynna to trust you. The two novices will offer their aid in anything you ask for, from information about Halsin to helping you defeat the Owlbear that injured Edowin. If you bring up the fact that you are a survivor of the Nautiloid crash, they will turn hostile and attack you.
+
+You can freely choose any of the options without consequence to learn more about the topic you choose, except the second option where you say that you are not a True Soul. Be careful as well after choosing the fifth option, asking them what they are doing in the wilderness. If you tell them that you are a survivor of the crash afterward, they will turn hostile and force you into a fight. Andrick will drop a Chain Mail and a Longsword and Brynna will drop a Leather Armour and Mace. If you choose the sixth option and ask what happened to Edowin, you may get the option to order them to help you defeat the Owlbear in the Owlbear Nest later on.
+
+Whether or not you fought Andrick and Brynna, you'll be able to loot Edowin's corpse. When you do, your character will be pulled towards the tadpole in Edowin. You have three options to choose from here:
+- Let your body guide you - welcome the tadpole's influence.
+- [STRENGTH] The tadpole is toying with you. Resist it.
+- [WISDOM] Force your mind shut. You will not be influenced by an illithid parasite.
+- If you choose the first option or fail your checks when choosing the other options, you will get a tadpole that you can use to unlock a new Illithid Power. If you choose the third option, you will have to succeed in a DC 12 Wisdom Check to resist the tadpole. Succeed, and a small tadpole will scurry away from the body, to the west. If you are quick enough, you may be able to kill the parasite. This interaction with Edowin's corpse will be noted in your journal under the Find a Cure Main Quest.
+
+Though not related to the Main Quest story, there are several other places of note to visit and explore. Southwest of Edowin is a Cave Mouth that turns out to be an Owlbear Nest. Within, you can find the Moondrop Pendant, and The Oakfather's Embrace. You'll also find an Owlbear within which, if you choose to fight and defeat it, will let you bring the Owlbear Cub to your Camp at a later time. In the northern part of the Forest at (X:79, Y:471), is Scratch, a dog that can be persuaded to join you at Camp if the right dialogue choices were made.
+
+There are two large areas that connect to the Forest - the Sunlit Wetlands/Putrid Bog can be found in the south at (X:50, Y:314), while the Blighted Village can be accessed from a village entrance in the western part of the Forest at (X:65, Y:404).
+
+# SUNLIT WETLANDS & PUTRID BOG
+
+## Quests
+- Meet Auntie Ethel (the hag) at the Sunlit Wetlands
+- Find Auntie Ethel (the hag) at the Riverside Teahouse
+
+From the Forest, head southeast to (X:50, Y:314) to reach the Sunlit Wetlands. Just up ahead, you'll find two men arguing with an old lady. The old lady turns out to be Auntie Ethel (the hag) from the Emerald Grove. The two men are Johl and Demir, and they demand to know where the old lady took their sister. You can choose to side with Auntie Ethel (the hag) or the brothers during the argument, the choice doesn't matter much for the Main Quest. This conversation will end with Auntie Ethel (the hag) leaving for her house and marks the beginning of the Side Quest Save Mayrina.
+
+Auntie Ethel (the hag) can then be found in the western part of the Sunlit Wetlands at the Gnarled Teahouse. Once you enter the teahouse, another cutscene will play as a part of Save Mayrina. You can be as hostile or as accommodating to Auntie Ethel (the hag) as you want in this part, it won't affect whether or not she's willing to help you with your parasite problem. If you are hostile towards her, you will get one last chance to get her help near the end of the conversation where she offers to take care of the little bugger.
+
+The game offers you multiple ways of getting rid of your parasite and you do not have to do this step to complete the Main Quest Find a Cure. However, if you accept Auntie Ethel (the hag)'s help, she will explain that in exchange, she wants one of your eyes. Agree to the terms, and she'll transform into her true form. Do note that agreeing with the terms of the deal gets disapproval from all your Companions. You will get the Paid the Price Condition after going through the procedure.
+
+The Gnarled Teahouse and Save Mayrina quest encompasses most of the exploration you'll do in the Sunlit Wetlands/Putrid Bog. Some Items of note include the Whispering Mask, The Ever-Seeing Eye, Bitter Divorce, and the Staff of Crones. The first item can be found in the Overgrown Tunnel beneath the Gnarled Teahouse, while the latter three can all be found in the Acrid Workshop reached by heading into the depths of Auntie Ethel (the hag)'s home, or through a mushroom circle found south of the Gnarled Teahouse at (X:-72, Y:210). If you complete Save Mayrina and spare Auntie Ethel (the hag) at the end, you may also get Auntie Ethel (the hag)'s Hair to increase on Ability Score of your choice.
+
+There are a few other places of interest within the Sunlit Wetlands you might want to check out. In the southeast portion of the area is the Decrepit Sanctuary, Here, you'll find a large island with some hostile Wood Woad (that may drop the Wood Woad Shield) and Ancient Mud Mephit, but more importantly, the Wooden Chest here holds The Sparkle Hands, and the large log in the middle of the island contains the Letter to Kagha used for the Save the Refugees Quest.
+
+Directly southwest of the Riverside Teahouse Waypoint, you'll find Gandrel, a Gur intent on finding and capturing the vampire spawn Astarion. Interacting with him gives you several opportunities to gain approval (or disapproval) from Astarion and learn more about how other NPCs see Astarion. If you end up in a fight with Gandrel, you can loot Gandrel's Aspiration from him afterward.
+
+# BLIGHTED VILLAGE
+
+## Quests
+- Rescue the Gnome
+- Search the Cellar
+
+The entrance to the Blighted Village can be found on the west side of the Forest at (X:65, Y:404). There are no options to progress the main story here, but there are several Side Quests and Items of note that make exploring the place worthwhile. You can choose to fight through the entrance or peacefully talk it through the the goblins inhabiting the village. Up ahead and to the left will be the Blighted Village Waypoint. The house directly next to it has a substantial cellar that you may want to hold off exploring until you finish exploring the Whispering Depths. Opposite the Waypoint, you can lockpick a chest that contains the Haste Helm.
+
+In the southwest part of the village, you'll find a worn-down house occupied by three ogres - Fank, Chock, and Lump the Enlightened. If you manage to deceive them about being a disciple of the absolute, they will give you Lump War's Horn, an item used to summon the three to help you in combat. Otherwise, you'll have to fight them, after which Lump drops the Warped Headband of Intellect.
+
+If you head to the northwest part of the village instead, you'll encounter some goblins by a windmill. When you approach them the Quest Rescue the Gnome begins. The gnome can be saved peacefully if you pass certain checks when speaking with the goblins. Fail the checks and you end up fighting the goblins, one of which drops the Very Heavy Greataxe. After saving the gnome, Barcus Wroot, he can later be encountered in the Grymforge again.
+
+In the northern part of the Blighted Village is the blacksmith's house at (X:30, Y:425). You can find Highcliff's Journal in the small alcove next to the fireplace. Reading this book starts the Side Quest Finish the Masterwork Weapon. In the next room is some webbing that can be burned away to access the basement. The chests in the first room contain Highcliff's Blueprints, the Steelforged Sword, and a piece of Infernal Iron. The next room is a forge that leads into the Whispering Depths. The Whispering Depths can also be accessed by interacting with the well near the village waypoint.
+
+This area is relatively small and consists of two main levels. On the ground level, keep an eye out for the Apprentice's Journal on a skeleton to start the Search the Cellar Quest, as well as a Heavy Chest with the Spiderstep Boots. On the upper level, you'll find the Phase Spider Matriarch, a Level 5 spider with the ability to teleport to and hatch any unbroken Phase Spider Eggs on the ground. You can pick up the Poisoner's Robe after defeating her. In addition to that, you'll be able to access the western side of the cavern and loot the Dark Amethyst required for Search the Cellar, and unlock the Whispering Depths Waypoint.
+
+After completing the Whispering Depths, you can return to the house next to the Blighted Village Waypoint to complete the first part of Search the Cellar. Within the cellar, you'll find the Scroll of Summon Quasit, Bracers of Defence, and more importantly, The Necromancy of Thay. You will have three options when dealing with the tome, the first of which is to end the quest early by destroying the book with Radiant Damage. This tome can also be given to either Astarion or Gale to earn their approval. Alternatively, you can choose to read the tome yourself in order to gain the Necromancy of Thay effect and have the opportunity to unlock the tome's full potential later in the game.
+
+# THE RISEN ROAD
+
+## Quests
+- Enter The Risen Road
+- Speak with the Wannabe Paladins
+- Locate Karlach
+- Eliminate the Wannabe Paladins with Karlach
+- Locate the Githyaki
+- Speak with the Githyaki
+
+To reach the map's northern part, take the Broken Bridge path from the south, specifically the Blighted Village. The bridge has some damage, but it's manageable to guide your team to jump across. Upon reaching the edge of the Broken Bridge, you'll be approximately at coordinates (X:-8, Y:494).
+
+After crossing the bridge, you'll spot Mangled Corpse on the right (X:-1, Y:516). Approach the corpse and interact with the surviving Hyena. In a cutscene, the Hyena seems in pain, offering you various dialogue options:
+- Try to comfort the Hyena.
+- Step back to watch what happens.
+- [Melee Attack] Strike while the beast is vulnerable.
+- Leave.
+
+Opting to comfort the Hyena will reveal a Newborn Gnoll emerging, leading to a Gnoll battle. After defeating them, you can loot the area, finding items from the fallen Gnolls. Amidst the looting, you'll notice a letter titled "To the Good Godly Folk of Faerun." Another letter rests atop a nearby mountain, labeled "An Open letter on oppression and Peacocks." A third letter lies to the right of the first one, titled "As per my last letter." Adjacent to this last letter, an important corpse holds the Quest Item "Shipment Orders," initiating the "Find the Missing Shipment" quest and updating your journal.
+
+Starting from your present location (X:71 Y:633), head Southeast until you find a Toll Collector's Key Item at (X:98 Y:523). Upon obtaining the item, head North West to reach a new waypoint. Proceed left to a small village with deceased bodies. Inside a house, meet Anders and select these options:
+- Who - or what - attacked you?
+- What is this place?
+- Rest easy. I'll only stay a short time.
+
+Upon selecting the initial choice, Anders shares attack details, unveiling additional dialogue options:
+- Where is this devil?
+- It isn't like a devil to use their brawn instead of their brains.
+- Let me help. I can hunt down this monster.
+- I wish you and yours well, but I must be on my way soon.
+- Now that she softened you up, I'll finish you off.
+
+Choosing the second option, Anders agrees. Then, revert to the first choice, and he provides the Monster's location. He also offers the Sword of Justice as a reward for Monster defeat, but you can decline. Options for this are:
+
+Very Well, I'll bring you her head.
+I'll think about it.
+I have other things to deal with.
+The only head that will roll is yours.
+This activates the "Hunt the Devil" quest. Proceed to the next room, converse with Cyrel, and trade using the first three options. Outside, talk to Trynn, mentioning the cellar. Opt for the second choice to inquire, and Trynn explains its history as a Tollhouse and potential gold inside. Ask about Tollhouses, and she mentions an unopened locked door in the cellar.
+
+After speaking with all NPCs, proceed Southeast down the river until you reach (X:114 Y:507). There, encounter Karlach, the devil needing pursuit, as forewarned by Paladins. This updates the "Hunt the Devil" quest. Speak to Karlach and choose from these options:
+
+Are you all right?
+Devil! Face Me!
+Try to Douse the flames.
+She looks dangerous - watch her carefully
+These are no natural flames - prepare to fight.
+I know you - you're the monster the blade of frontiers is hunting.
+
+Opt for the first choice, and she confirms her well-being. Karlach recognizes you, asking about the Paladins. Inquire about her flame control. As you converse, shared visions unfold. Explain the tadpole connection in your heads. Karlach briefly remarks on visions, introducing herself. Respond with:
+- I'm (name)
+- Karlach. I met someone named Wyll who was hunting you. He said you were a devil.
+- I'm your key to curing that tadpole - eventually.
+- I'm not interested in making friends.
+- Here to take your head.
+
+Choosing the second option, she rationalizes Wyll's misconception. She wants to prove herself and highlights prowess in demon slaying during the Blood War. Evil beings, masquerading as Paladins of Tyr, prompt her quest. Choose these:
+
+Let's send them back to where they came from.
+So you want me to kill the people hunting you?
+Why should I do your dirty work?
+I'm here to kill you, not send you back to Zariel.
+I have my own problems. I don't need yours.
+Select the second option, and Karlach will lead while seeking your assistance. Astarion concurs sarcastically. Respond to Karlach:
+
+Let's do it.
+Why should I do your dirty work?
+I don't think so - you'll have to go it alone.
+Ask her about task assignment's reason, eventually selecting option 1. This triggers three new journal entries and "Our Old Fiery Friend" quest activation, updating "The Blade of Frontiers" and "Hunt the Devil" quests.
+
+Exit the attacked village to find another Waypoint at (X:-84 Y:577). Proceed South West along the Risen Road until the Mountain Pass at (X:103 Y:553). Speak to Ellyka, who cautions against being seen, and choose from these options:
+
+What's the issue?
+Who are you?
+I'd be concerned if I knew who they were.
+I didn't like that term you used. Watch your words.
+I'll leave.
+Select the first choice, Ellyka reveals enemies below, suggesting an alternate route. Respond with:
+
+Who are you?
+Your survival instincts are good. Maybe you should join me.
+I'll leave.
+Opt for the second choice, which Ellyka denies. Choose the first option, and she introduces herself as nobody. As you move your character, a cutscene unfolds, depicting enemies armed against each other. Gauntlet Dion mediates, but Sarth Baretha's group refuses. A dragon destroys Gauntlet Dion's bridge, siding with Sarth Baretha, and another dragon, Kith'rak Voss, arrives. He warns Sarth Baretha to focus on recovering weapons without failure. The scene shifts to your group, as Astarion warns against dangerous Githyanki. This update affects "Find the Githyanki Creche" quest in your journal.
+
+Head toward Githyanki near (X:-136 Y:555). As you approach, a cutscene shows Lae'zel conversing with leader Kith'rak Voss. Lae'zel faces threats and is asked for her name. Respond with:
+
+NOTE: Dialogue options depend on Race and Class. This playthrough uses Dragonborn Warlock.
+
+Nod to Lae'zel. Proceed.
+[DRAGONBORN] I shall speak for her, gith.
+Choose the second option (Lae'zel approves), and she introduces herself to Kith'rak Voss. Voss introduces himself, recognized by Lae'zel. Voss describes a fallen ghaik vessel and stolen weapon by thieves. Shadowheart's anxiety grows, realizing her artefact matches. Voss instructs Lae'zel to assist and speak up. Respond:
+
+Signal Lae'zel silently: 'Truth'.
+[Persuasion] Signal Lae'zel silently: Play Along.
+Present the unusual artefact. Are you seeking this, I presume?
+I have my own agenda. Prepare to face defeat, gith.
+Select option 2. With enough Charisma, Lae'zel plays along, gaining Voss's approval. (Shadowheart and Lae'zel approve.) Voss leaves, conversation with Lae'zel follows. She's relieved at your adept intervention with Kith'rak. She feared artefact possession exposure meant danger. Your quest journal updates "Find the Githyanki Creche" and "The Githyanki Warrior," marking quests around The Risen Road's completion.
+
+# GOBLIN CAMP
+
+## Quests
+- Find the Goblin Camp
+- Infiltrate the camp
+- Rescue Volo
+- Free the Owlbear Cub
+- Enter Shattered Sanctum
+
+There are several ways to gain entry to Goblin Camp. In this guide, we will approach the guards, and speak with Sentinel Olak. You will have to convince him of one of the options presented to you or engage them in a battle. By engaging them in a battle, you will be able to gain the approval of Lae'zel and Astarion.
+
+You will find yourself in a conversation with Sentinel Olak, together with his minions, wargs, and other goblins. Deceive him by telling him that their leader summoned you. As part of this act, you will get to choose an option later to "Wink, gather the dung, and fling it at all four guards." Take note that by doing this, a battle will commence and will also grant the approval of your companions.
+
+If you attempt the Charisma Check, you'll have to pass a DC of 15. You still have 4 other options to proceed here and you can succumb to the Goblin's wishes, but risk the disapproval of your companions.
+
+[Illithid] WISDOM: Stand aside.
+[Intimidation] I'm a hired sword- employer's inside. Stand aside. Now.
+[Nature] Glossy coat on that animal. Does she belong to the Nordiland worgata family?
+[Deception] Your leader summoned me.
+[Detect Thoughts] Read the goblin's mind.
+This fight should be an easy one with a well-balanced party, and this will grant you access to the Goblin Camp without alerting hordes of goblins. Approach the bridge that you see here, and at about (X:-103 Y:36), you will encounter a small group of goblins seated by a table, and you will engage in a conversation with Devout Wasp. You can ask him if he has seen the Flaming Fist, any survivors of the attack, and finally, about Moonrise. Devout Wasp will also point the way to enter Goblin Camp with one word: North. Before this, he acknowledges that there are survivors who have been taken into Moonrise.
+
+When you reach coordinates (-X:103 Y:391), you will see a broken bridge. Continue following this path that will lead into the Goblin Camp. Finally, the mobs are no longer hostile here unless provoked. You will see Volo, the Bard performing as he struggles to entertain his audience. 
+
+You will have 5 options here as you approach Volo. Be careful making any of these choices as this could put Volo's life in danger, unless of course, that applies to your roleplay. There are no DC checks to be made here, but the Goblin Gribbo will react to your presence, and Volo will continue to distract the goblins. 
+- Give him your rapt attention.
+- Fragulous? Galide? I don't know this language.
+- Bravo!
+- Boo! Get off the stage!
+- Leave.
+
+This interaction will update your journal, adding Volo to your objectives, as part of Save the Refugees. Inside the camp, you will find Grat the Trader, you can buy items from him as needed, as long as you have the gold to pay for the goods. The goblins inside aren't hostile so you are free to interact with them. As you look around, you will find a Waypoint at (X:-72 Y:-42). This is placed next to a bloodied platform where Crusher, a goblin, is telling a story of how he crushed humans. Approaching the goblin will give you 4 options:
+- Lot of assumptions here. I don't think I'm better than anyone else.
+- I don't just think so; it's a fact. You're nothing but dirt beneath my feet.
+- Leave.
+- [ILLITHID] WISDOM: I'm your superior. You'd better show some respect.
+
+Crusher here will then command you to kiss his foot but Lae'zel immediately reacts to this. She refuses to see you grovel to the goblin, and if you do so, will risk her disapproval. After that quick interaction, you will have another 4 options:
+- You can't be serious.
+- I'd sooner spit in your face.
+- [INTIMIDATION] How about you kiss my feet instead?
+- Attack the goblin.
+
+Take note that starting a fight with Crusher will cause the other goblins to join in and risk your party's life in danger. If you choose Intimidation, you will need to succeed a DC check of 15. If you succeed at this, you will get further options with Crusher:
+- Not so high and mighty, after all.
+- [INTIMIDATION] You better kiss my foot. Now.
+- [ILLITHID] WISDOM: You will obey me. Kneel.
+- [DETECT THOUGHTS] Scan his mind.
+- Leave.
+
+Depending on what you choose, you can provoke the goblin into a fight. The first one will further anger him and will commence a battle. However, a sneak attack can put this fight to an end immediately with the help of one of your companions. The rest of the goblins will watch on as Crusher bows down and kisses your feet. You are still free to explore the goblin camp, and no hordes will be triggered by doing this.
+
+Explore the Goblin Camp to find more items, and you can climb the ladder behind the platform where Crusher was defeated. This will lead to a grassy area, at (X:-55 Y:456), you will find a bridge of stone reaching over to the other side. Be careful here as this area is ladled with traps. Astarion is skillful in navigating traps, and you can use his abilities to avoid them and reach the locked chest safely. Astarion can also pick the lock of this chest that will give you multiple items like a scroll and other camp items. Now, you can return to the camp where you will find the majority of the goblins gathered together. 
+
+There's a shortcut here that will lead you to the upper area of the camp where Stimk is resting. He is awakened by the loud sound as your party jumps over. You can try Deception, which requires a Charisma DC check of 15. Failing this will result in a battle with Stimk. This could be a little dangerous if your party is not prepared, however, you can try to reach this area in another way by going around and avoiding making loud noises that will wake him up.
+
+After this, you will approach the Gazebo located at (X:-96 Y:445) where Booyahg Piddle, a goblin is reading a book. Your goal here is to convince the goblin to hand over the book and gain Shadowheart's approval if you wish to do so. To do this you will have to choose Persuasion from the 5 options presented to you:
+- [ILLITHID] WISDOM: You will give me the book.
+- [INTIMIDATION] It'll be a very short lifetime if you don't hand me the manuscript.
+- [PERSUASION] You should spend your time in prayer- not reading this nonsense.
+- [DETECT THOUGHTS] Scan his mind.
+- Leave.
+
+To pass this, you will need to get a Charisma DC Check of 10 or higher, and successfully persuading Booyahg Piddle will cause him to give you the item: "On Goblins: My Life Among the Conquering Host" and the approval of Shadowheart. Next, you will want to go to the area below, where the rest of the goblins are gathered. You will find Krolla here again, who invites you to Chicken Chase. You can attempt to free the young Owlbear here by persuading it that the Goblins are responsible for its pain. It will then attack Krolla, but in order for the Owlbear to escape, you will have to help it by defeating the Goblin horde.
+
+Further exploring the Goblin Camp will take you to the Shattered Sanctum. You will find the entrance to this area by approaching a troll called Guard Gurgon at (X:-104 Y:462). This character is not hostile and you can just walk inside the Shattered Sanctum. Once inside, Shadowheart will engage you in a conversation and informs you that being inside this area gives her an uneasy feeling, and she would like to leave as soon as you're done with what is needed in the area. She doesn't explain any further and ends the conversation there.
+
+In this area, your goal is to locate Liam, one of the survivors who are being tortured by Goblins. You will be given 5 options on how to approach this encounter:
+- Why are you torturing him?
+- This looks interesting- let me put him through his paces.
+- [ILLITHID] WISDOM: Leave, both of you.
+- [DECEPTION] Go have yourselves a drink. Your boss sent me to relieve you.
+- [PERFORMANCE] I'm taking over. Your sloppy handiwork is going to kill the prisoner too quickly.
+- [DETECT THOUGHTS] Read the goblin's thoughts.
+
+Choosing Perfomance will require you to succeed the Charisma with a 15 DC Check or higher, and you can make the goblin leave so you can talk to Liam freely. Liam has information about Halsin and the Druids to the west. With the features of Astarion, he can free Liam from his shackles and he will escape to warn the Druids of the danger coming to them. Before leaving, he tells you that he has last seen Halsin transforming into a bear, but that was the last time that he has seen him. Liam will vanish into the darkness, and you can return to the others again.
+
+# SHATTERED SANCTUM
+
+## Quests
+- Rescue Liam
+- Free Volo
+- Find Loviatar
+- Locate Halsin and free him from jail
+- Kill the three leaders: Dror Ragzlin, Minthara, and True Soul Gut
+- Return to Emerald Grove with Halsin
+
+At the beginning of Shattered Sanctum, you will first speak to Liam after freeing him from his torturer. (See Goblin Camp on how to successfully infiltrate Shattered Sanctum peacefully). Your next interaction is to speak with Gribbo, the one in charge of Volo, the Bard that was seen performing upon entering the Goblin Camp. You will have a conversation with Gribbo here to attempt to set Volo free by any means.
+
+If you attempt the Deception check, you will have to pass a DC of 10. Once you have convinced her, she'll hand you the cage key and you can now speak to Volo freely. Volo will then ask to unlock his cage so he can escape. You find out that he is inside the camp to jumpstart his career, but found it to be a failure. You can now look around the room and find the letter addressed to 'Dearest Elminister' on the table. Make sure to lock the door before you attempt to free Volo here. You'll engage in another conversation with Volo and you can invite him to camp as he suggests the use of an invisibility potion to escape the Goblins. You can either agree to accept Volo or not.
+
+After freeing Volo, continue to explore the Shattered Sanctum and you will find Bloodied Shrine at (X:330 Y:-20) You will find Abdirak waiting outside a door, and with a Religion proficiency, additional information reveals that this man is a follower of Loviatar, goddess of pain. He reveals that he will be teaching the goblins how to inflict pain with a purpose. This same man recognizes the pain that your character is feeling and offers to alleviate the pain through the teachings of Loviatar. He claims that his work will grant peace and serenity. Lae'zel chimes in and states her interest to see what his 'skilled hand' can do. No DC checks here but your answer will have a bearing on the approval of Astarion and Shadowheart. You can decide for yourself if you want to proceed with the ritual.
+
+As Abdirak hits you, Shadowheart and Astarion engage in quick exchanges as if savoring your suffering. Attempting the Performance check (Charisma) will require you to pass a DC of 10 for this section.
+
+Abdirak proceeds with hitting you and he finally acknowledges you that he has served your penance. If you state that you have found the ritual to be interesting, he tells you that Loviatar would like to bless you. You will get Acolyte: A Kiss Without Mercy, an event that inspires Shadowheart. When the ritual is done, you can grab the Ritual Dagger and Ritual Axe on the table if you wish to do so. After the ritual, you will also get the condition: Loviatar's Love. You can leave this area or you can loot a Necrotic Mace from him if you kill him.
+
+On to your next encounter, explore further the Shattered Sanctum at (X: 270 Y:13) you will find Brakkal, a follower of Maglubiyet, who, with your Religion proficiency, is recognized as a tyrannical deity who treats his followers as slaves. In a nearby area, you can interact with a Rat to get further information on the area by using Speak with Animals, or a relevant potion.
+
+In the next area, still at Shattered Sanctum at (X:290 Y:34), you will find one of the leaders Dror Ragzlin performing a ritual on one of the corpses in front of his followers. Here, you can approach the corpse and get real close with it. As you study the corpse, Dror Ragzlin will claim that this creature had a weapon and they're looking for the killer, and thus, the weapon. He invites you to settle in. As a Dragonborn, the character here feels the anxiety of Shadowheart, who carries the weapon that they are looking for. 
+
+After persuading Dror Ragzlin, he acknowledges that you're a True Soul and commands you to seek Minthara and join her on the attack on the grove. Agreeing here will get Shadowheart's approval. This event will also inspire Astarion 'Charalatan: Devil's Advocate.' As your party walks to the next destination, you will see a Scrying Eye, and Astarion points out not to do anything suspicious while it's watching. Inside Shattered Sanctum (X:333 Y:42), you will find Nightwarden Minthara holding a meeting with other goblins.
+
+She recognizes you as a True Soul, and asks if you will be joining her hunt. Remember that Dror Ragzlin asked you to join her hunt but you can still decide here if you want to go on your own hunt. Here you can tell her that you are looking for Halsin, a druid, who is the same Druid that they're after. You are given a choice before she senses that you have been to the grove. You can confront Minthara here as she is left with very few goblins in this area.  If the Scrying Eye spots you in this area, make sure to destroy it too. Pick up the valuable items you can get from Minthara such as the Mind Flayer Parasite Specimen.
+
+Continue exploring Shattered Sanctum to find the Roah Moonglow, a halfling at (X:274 Y:-29). An NPC who sells items within the sanctum. If she recognizes you as a friend of the family, then she will offer a discount, albeit, a small one.
+
+Your next meeting here will happen at (X:296 Y:-25), where you will find True Soul Gut in the middle of a platform. She claims that she will brand you as well, just as The Absolute has done. She claims that it is protection and is embedded in magic. You can dive deeper into her mind here but be aware that she can also do the same to yours, allowing both of you to get further information about each other.
+
+She claims that she can help you with anything and invites you into her chapel, away from the others. Note that agreeing to receive help from True Soul Gut will warrant the approval down of Astarion. Before the ritual begins, she asks the others to leave and then the interaction begins. You can choose if you will attack her here, fight the intrusion, or let her in your mind. Fight off her intrusion, and repel her attempts successfully to complete the quest. She claims now that she can't help you and ask The Absolute for help immediately, you can begin attacking her while she is away from the others. Retrieve the Rancid Note, Mind Flayer Parasite Specimen, and Priestess' Key from her belongings.
+
+Your next destination is the Worg Pens (X:393 Y:-60) where you will find a caged bear that is being hurt by Brawler Birka. The bear asks for your help and you can decide to interfere with them and offer your assistance to the bear. Agreeing here will cause the bear to attack the gate and the battle begins. Your goal here is to not let any of the witnesses escape as you help the bear. After winning the battle, the bear transforms into Halsin, the Druid that you were looking for.
+
+Seek his help to remove the parasite and he acknowledges that you are different from the others, and not bowing down to the powers of the True Absolute. He informs you of what he knows about the parasites and is aware that someone is using powerful magic to modify the tadpoles, he then explains that he can't cure you, but still offers to help. He tells you that these powers come from Moonrise Towers and that it's possible to find a cure there.
+
+He claims that killing the three leaders will restore order. He asks for your help and offers to help you out after he is secure the safety of his grove. After this conversation, you will find a locked Grated Iron Doors at (X:410 Y:-32) and have Astarion unlock it for you. You will find a corpse of an elf on the wall. Attempting the Investigation check here will require a DC score of 5. Pulling out the body reveals a tunnel that can possibly lead to another area.
+
+Continuing your journey in the Shatteref Sanctum, you will return to the mysterious hole that you found. When interacting with this, you find out that it is still blocked so you will attempt to clear this out. For now, you will return to Dror Ragzlin's throne where you first encountered him. This time, there are no rituals but he is seated on his throne. For a better chance of surviving this battle, you will want to take out the Narvass, the Novice of the Absolute who is alone above the throne behind Dror Ragzlin. 
+
+An enemy will detect this, however, but you will have an advantage now that you were able to take out one of them. Be careful not to get anyone killed in your party, but if you end up having one of your allies dying, you can use Scroll of Revivify on them. When the battle is over, go to Dror Ragzlin's body and recover his key and the Mind Flayer Parasite Specimen. Your thoughts get interrupted as the dream visitor speaks to you in your mind. It commands you to absorb its potential which can enhance you. Rejecting the tadpole here will not gather any approval or approval down from the current party. 
+
+However, if you decline, Astarion offers to at least let one of the party members try it than just let it sit in your pack. This will update your journal under Personal Quest if you prefer to Embrace your Potential by harvesting the parasite's memories. With the key that you recovered from Dror Ragzlin, you can unlock the Iron Gate right on the balcony behind his throne to get valuable items such as Amulet of Selune's Chosen, Infernal Iron, Springstep Boots, and other items.
+
+Proceed to the locked Heavy Oak Doors at (X:310 Y:-25). Be careful as opening this door will launch enemies into attacking you and your party. This will be a long battle and you must be well prepared for it. After winning this, you should by now, have killed all of the leaders of the goblins. This is an event that will inspire Lae'zel.
+
+Next, return to Halsin who has asked for your help in defeating the goblins to restore order and protect his grove. You will find him at (X394 Y:-31)., inform him that you have slain all three of the leaders. Now you can invite Halsin to join your party and help you on your quest to get to Moonrise Towers. After this area, return to Druid Grove by using the Waypoints that you have unlocked. The closest will be Emerald Grove Environs and you begin traveling from there to continue your quest with Halsin.
+
+
+# UNDERDARK
+
+## Quests
+- Find entrance to Underdark from Shattered Sanctum
+- Destroy the moonstone protecting the temple
+- Interact with the Restless Myconid and the colony
+- Help the poisoned gnome
+- Defeat the Druergar
+- Locate the Mushroom Picker
+- Find information on The Adamantine Forge
+
+On this walkthrough, we will guide you on how to travel to Underdark by discovering the hidden access located within Shattered Sanctum. To do this, you must first return to Goblin Camp, and defeat the remaining enemies. You may refer to the Goblin Camp page to see details on how to get there, or by using the Waypoint.
+
+Once you made it to Shattered Sanctum, you will find that there are still remaining enemies here even after their leaders were killed. After taking out their leaders as part of rescuing Halsin, the goblins have become hostile towards you and your party. You will find Warrior Trinzas still located at the entrance together with a few other mobs where you will battle them.
+
+Continuing to reach the Underdark, you will journey to Defiled Temple at (X:392 Y:27), where you will encounter Polma, the Bodyguard of the High Priestess. The dialog shows that a theft has been reported, and you are the only suspect. If you end up failing the check, you will have to battle this ogre.
+
+The door to Underdark is hidden away. To unlock this, have one of your party members pick the lock. Attempting this Sleight of Hand (Dexterity) will require you to pass a DC of 15. Slowly after, your party can now enter through the newly opened door that will lead to the Selunite Outpost, then to the Underdark. Right as you reach the area, you will find locked doors which will require a Sleight of Hand (Dexterity) to open. You will need to pass a DC of 15 to open these doors and chests.
+
+In the distance, you will see a statue holding up a Moonstone, that serves as Selune's protection in this sacred ground. You can destroy this by going up a flight of stairs at (X:145 Y:-227) and shooting it down from there. However, this will alert a Minotaur nearby causing it to attack the gate. You can quickly take it out as you will be standing in a high position to freely hit it.
+
+In one of the rooms, go to (X:170 Y:-237 to discover a Waypoint, and then look around to discover a logbook and some items on the shelf. Now, you can return to where the Minotaur died and open the gate by interacting with the lever nearby. Finally, you will now arrive at the Underdark. In the distance, you will see a weapon buried in the ground, as you walk your way toward the path, at (X:137 Y:-203), you will be interrupted by a voice. Your party acknowledges that they can hear the voice as well, and the cryptic voice will stop.
+
+At (X:116 Y:-192), you will find the drow blade. Interacting with it will give you 3 options. Attempting the Religion check (Intelligence) will require you to pass a DC of 15. When you are successful, it reveals that the blade was a warrior's sacrifice to Eilistraee and that it demands blood. After offering your blood to it, the blade will rise up in the air and you can claim the Phalar Aluve for yourself. This event called 'Last Rites of the Dark Dancer' will inspire Shadowheart. You can now continue exploring Underdark here and face another enemy at (X:119 Y:-186), your party will be fighting against Bulette, Predator of the Dark.
+
+After taking out your enemy, move one of your party members to the edge of the ground and shoot down the Torchstalk closest to the character. This will cause a series of explosions among the nearby torchstalks. Continue doing the same for the rest of the torchstalk and once it's clear, the rest of your party can now cross to the other side. Continue exploring the Underdark and your subsequent interaction will happen at (X:115 Y-130), where you will find the Restless Myconic. This creature stands tall before you and your party and demands that you state your purpose after threatening you with a vision of your lifeless body.
+
+Choosing the 2nd option will grant the approval of Shadowheart and Karlach. This interaction ends for now, peacefully. The sovereign acknowledges that they are expecting you and prompts you to follow them to the path behind them, to Ebonlake Grotto. You will also discover a waypoint at (X:100 Y-100). Shortly after, you see a gnome writhing in pain. You recognized the poison and were aware that she needs an antidote sooner than later.
+
+You will get the option to attempt a Medicine check (Wisdom) which requires you to pass a DC of 15. You discover that the poison can be cured and giving her an antitoxin will grant the approval of Karlach. As you talk to Thulla, the poisoned gnome, she reveals that her kin needs her. As she is in a condition that cannot help anyone, she asks for your help instead. She tells you that her clan, the Ironhand has been taken by the Duergar to dig an old ruin across the lake. This event will inspire Karlach 'Outlander: A Noble Endeavour' which requires you to use a noblestalk mushroom effectively. She will also ask for your help and will give you a new quest: Save the Grymforge Gnomes.
+
+Following the Restless Myconid that you spoke with earlier, you will find its kin at (X:79 Y:-101). You hear the melody again and a memory will be shown to you of Dark Dwarves and Duergar breaking their peace and killing their young. The Sovereign Spaw asks for your help to destroy these invaders that remain on their land. Agreeing to help the sovereign will show you a vision once more. One that shows a wall of vines parting to reveal glowing light. The sovereign then speaks, that when you cleanse the rot, you will earn the reward. After this interaction, you will look for Blurg and his Illithid friend, Omeluum. Blurg is a scholar and a trader who welcomes you to the Underdark Myconid. He asks what brought you to the Underdark. Telling him that a mind flayer has infected you with a tadpole will prompt him to call on his Illithid friend, who will offer to help you understand what's going on.
+
+Omeluum is intrigued that no ceremorphosis has taken place yet despite being infected with a tadpole and asks if you are looking to have it extracted. If you choose the first option, he will ask you to open your mind to him. If you agree to this, Omeluum tells you that the larva is infused with strange magic, and is currently in stasis. Omeluum tells you as well that he will not be able to extract the tadpole as it appears to be shielded from physical and magical influences. He continues to explain that even without the shield, extracting the tadpole will result in severe cranial trauma, a process that would surely kill you. He then continues to assure you that he will examine you once more, should you transform.
+
+Before the conversation ends, Omeluum comes up with the idea to bypass the stasis. He tells you that he needs a fresh Tongue of Madness and Timmask Spores, which are both dangerous mushrooms. You will be given an option here if you would accept Omeluum's help.
+
+If you choose to accept his help, Blurg will tell you that you can find these mushrooms in the Underdark, but he warns you that finding these mushrooms are perilous. He points you to Lenore, a cleric who served Mystra who might be in possession of these mushrooms. Continue to explore Ebonlake Grotto and look for Derryth Bonecloak at (X:54 Y:-91). A merchant gold dwarf who will give you the task 'Find the Mushroom Picker'. Make sure to also check her wares and buy essential items from her such as equipment and potions. You will also speak with Sovereign Glut nearby who will ask you to tell him of home. You will get the following options in the picture below:
+
+Within the Myconid Colony, you will find Glut, he will continue to tell you that Duergar destroyed his people, and left without a circle. He wishes to join you to help cleans the Duergar rot. He offers to raise the dead and you will have command of it. If you accept his help, then you will be given a new quest which is Avenge Glut's Circle.
+
+In the Decrepit Village at (X:15 Y:-179) a Duergar will spot you and take you to Gekh Coal who is ready to fight after you get caught sneaking. Attempting the Persuasion (Charisma) will require you to pass a DC check of 15. If your attempt is successful he will let you live. He shares that a certain slave ran away and took Sergeant Thrinn's boots, which describes the same situation as Thulla did before. You can decide if you want to give the boots and tell him that you have it, or do it at a later time, or simply attack him here. If you have decided on how to proceed with this, make sure to walk towards (X:23 Y:-211) to discover a waypoint before moving on to the next interaction.
+
+Following this walkthrough, we will keep our word to Sovereign Glut and Thulla. You can now return to the Myconid Colony and inform Glut that the Duergar has been taken care of. He demands to see the bodies, and you can walk back to the area to show him. However, as soon as Glut sees the body he's dissatisfied and wishes to take Spaw's circle. Glut is blinded by his hunger for power and wishes to devour the colony whole. If you take Spaw's side, you will gain Astarion's approval.
+
+You can now return to the Myconid Colony and speak with Spaw to report to him what took place. 
+
+If you choose the first one, you will gain the approval of Karlach. Spaw is pleased with this and tells you that you can now claim the promised rewards. However, he informs you that threat still remains in the Underdark and asks you to take care of a drow named Nere, lurking in the shadows. He will give you a new quest: 'Deliver Nere's Head'. After this, he will name you Peace-Bringer and then, Kin Spirit.
+
+Enter the Sovereign's Refuge at (X:52 Y:-78) to claim your rewards. You find a body of a drow scholar, which you can investigate by the use of Speak with Dead. You find a book laid closely and pick it up. Attempting the Investigation/Nature will require passing a DC check of 15. The book reveals its secrets to forging adamantine and now, you can turn your attention to the body on the ground. The drow of the name Xargrim reveals that they're searching for The Adamantine Forge. You also learned that the forge is hidden deep within the Underdark, and would require a mould and mithral ore into each of their chambers to activate the lever.
+
+Following your quest to Find a Cure, you will set out to look for the mushroom picker. Go towards Dread Hollow at (X:-5 Y:-115) where you will see Bibberbangs blocking the path pictured below. Make sure to hit these from a distance as they can erupt into poisonous fumes. In the area below, you will find more Bibberbangs blocking your path. These plants exhale poisons and expel them when they sense vibrations, which makes them incredibly dangerous.
+
+In the distance, you will see a dwarf, Baelen Bonecloak surrounded by all the dangerous shrooms. You know that he needs a misty step, and you can decide how to help him. If you have the scroll, you may safely throw it to his direction, or fetch his bag first. Attempting the Strength check will require you to pass a DC of 10 to help the dwarf. You can tell him that you met Derryth and then he hands you an item to thank you, a Scroll of Invisibility. He runs away after this quick conversation. Don't leave the area yet, as there's a noblestalk plant in this area, however, to get it, you must not trigger the Bibberbangs.
+
+One method is to just run back and grab it, triggering the Bibberbangs. As soon as you have it, turn on turn-based mode and the Bibberbangs will continue to explode. Once they finish and the mist goes away, use your turn to use Misty Step, heal, etc. You may refer to Find the Mushroom Picker page for more detailed guide on how to retrieve it. Now, you may now return to Derryth at Ebonlake Grotto who is currently talking to Baelen who has just arrived.
+
+It appears that Baelen has forgotten the noblestalk that you picked up earlier. Derryth explains that they need it for their shop in Baldur's Gate, and will ask you to hand it over. You can decide her if you want to keep it for yourself or give it to her, or attempt extortion. If you hand her the noblestalk, she will reward you with Gloves of Uninhibited Kushigo and this will also mark your quest complete for Find the Mushroom Picker.
+
+Continuing your journey in the Underdark, you will search for The Adamantine Forge, which was described in the journal of the dead drow in the Sovereign's refuge. During your journey make sure to stop by at (X:-50 Y:-142) to discover a waypoint in Sussur Tree. Walk further into the center of the tree and at (X:-18 Y:-144), you can pick up the Sussur Tree Bark, which is a quest item that you'll need to Finish the Masterwork Weapon.
+
+Then, you will encounter a boss here, Filro the Forgotten, who is also aware of the existence of The Adamantine Forge. You will find him at Dread Hollow at (X:-43 Y:-166). Once he is dead, you can now use Speak with Dead to commune with it.You discover that the glowing tree stills the Weave and protects him from the others. He tells you that the Guardian is born from hellish heat designed to protect The Adamantine Forge. You discover that there's 3 of them looking for the forge, Xargrim, and Dhourn. Xargrim was the one found at the Sovereign Refuge, which leaves you to search for Dhourn. 
+
+Continuing your search for the Adamantine Forge, you are now set to look for Dhourn, the 3rd member of the drow party aware of its existence. Deeper into the Underdark at (X:120 Y:-247) you will encounter a boss, Spectator. In this area, a cutscene will play showing stone statues resembling a party of dark drow. It casts the unpetrification on the Drow that will bring it back to life. This battle will go on allowing the Spectator to cast unpetrification on the rest of the Drow to help it in combat.
+
+Upon defeating it, you can recover The Spectator Eyes from the boss and other valuable items from their party. With the protector out of the way, you can now use Speak with Dead to commune with Dhourn. You find out through him that the original members of their party turned against each other and ended up killing one another. Make sure to check his pack to recover the Memory Shard from Dhourn. Use the shard to see a vision of the Adamantine Forge, confirming its location in the bowels of the Underdark.
+
+After exploring The Festering Cove, you will now return to the Underdark, where you will head first to (X:66 Y:-259). You will find a drow who seems to have fallen to its death, given the condition of the body, as your companion pointed out. To know more details about their death, you can use Speak with Dead or simply go through their belongings. You can get a Scroll of Slow and a Hide-Bound Journal from their body.
+
+Next, you will head to (X:72 Y:-260) to recover a Sylvan Stone, that will help you to unlock a recipe: Essence of Sylvan Stone. To reach this place you have to jump upwards a series of mushrooms growing through the walls. You will see these mushrooms protruding from the wall.
+
+When you reach the top, you will find more Sylvan Stones on the ground that you can recover. Make sure to explore the top area to go through a fake wall. By going through this area, you can recover more Sylvan Stones and you can see a Mushroom Circle glowing on the ground. If you interact with this, you will be teleported back to the ground where you first started jumping up. Now that you're back on the ground, you will continue your search for the Arcane Tower.
+
+With all the information you have gathered, you can now take your journey to the Arcane Tower. This begins upon reaching (X:35 Y:-251) with a tall doorway. When you get here, it is ideal to switch to turn-based mode so you can take precise control of your characters. There are two Arcane Turrets protecting this area and if you come any closer, it will automatically attack you. To avoid these attacks, go to the right side, away from the watchful eye of these towers. These turrets are built strong and have Sturdy condition, you may only damage these if your attacks can deal at least 10 damage. You may also use Eldritch Blast on these cannons to deal massive damage to them.
+
+Once the turrets have been temporarily disabled, you can now explore the area to read a letter addressed to Yrre from Lenore and then take items such as ingot dropped on the ground. You will also find a locked Heavy Chest here which contains a Skybreaker and silver ingot. To open this chest, you will need to pass a Dexterity DC 15. With the Arcane Turrets disabled, you will now move past the second turret on the stairway. Note that these turrets can come alive again after a certain period of time so make sure to watch out for that before it starts attacking your party. To permanently disable these turrets and activate the elevator to go up the tower, you will need to go to the lower area of this ground. Jump through the mushrooms pictured below until you reach the lower area.
+
+When you reach this door at (X:-60 Y:-294) you can destroy this or use a lockpick skill. Attempting the Dexterity check will require you to pass a DC of 15. Once you enter you can immediately see the generator here which keeps the turrets powered. To disable this, simply add the Sussur Bloom to it. A short cutscene will play showing the turrets disabled and the Arcana Tower will be powered up. Make sure to take a look around the area as well and you will find chests that you can loot valuable items from. 
+
+There's a tongue of madness at (X:-29 Y:-291) a quest item that you need in the quest Find a Cure, through the help of Omeluum. At exactly (X:-45 Y:-272) you will also find Timmask Spores, another item for Omeluum's quest. You can continue exploring the tower and you will discover that it is filled with chests and valuable items such as potions and other alchemy ingredients.
+
+Once you have reached the top of the tower, you will be greeted by Bernard by replying the first stanza that you saw from the foot of the tower, Bernard will see you as its new lord and will address you as 'my liege'. If you choose the option to accept a hug from it, you discover that Bernard addresses you as 'Lenore' and he will now remain a friendly ally to you. You can continue having conversations with Bernard to further discover the truth about the Arcana Tower. If you choose the first option, Bernard will respond with: "If you do not your deepest secrets show? Reveal your truth, give what you wish to see."
+
+Shortly after, he will walk towards the desk and will put an item on the table. Pick up the Guiding Light on the table. With the ring in your hand, interact with the elevator again. This ring will open up a new level in the Arcana Tower that will lead you to the basement. You can recover Basilisk Oil, more Tongue of Madness, The Sparkswall, and a Staff of Arcana Blessing in this level.
+
+From your trip to the Arcana Tower, you were able to gather all of the items that Omeluum needed to help you in extracting the parasite. You can now return to Ebonlake Grotto to speak with him there. As soon as you hand him the mushrooms, he will begin to brew the potion. After choosing to drink the option, Omeluum tells you that you may find yourself acting irrationally, and will ask you to try and stay focused. With the potion starting to take effect,  the parasite surges even stronger, and then Omeluum suddenly exclaims, interrupting you. The parasite has calmed down and you notice that the parasite has actually grown stronger. Omeluum tells you that its power is unsettling and that he didn't expect this outcome. He then tells you that the tadpole is still inside your brain but he offers another temporary solution.
+
+He tells you that he owns a Ring of Shielding, which prevents elder brains from noticing his presence. He continues to explain that it will not remove the parasite but it will limit the parasite's influence. He asks you if there is something that you could offer to him in return. If you choose the 4th one by telling him details of the ship, you will need to do either an Intelligence or Performance check that will require you to pass a DC of 15. By doing this, you will get the approval of Shadowheart. This event will mark the Help Omeluum Investigate the Parasite quest as completed. 
+
+# GRYMFORGE
+
+## Objectives
+- Reaching the Grymforge
+- The Dig Site First Visit
+- Find Explosives
+- Return to the Dig Site
+- Stonemason Kith
+- Heading to the Adamantine Forge
+- Fighting Grym
+
+While exploring the Underdark, you'll encounter a charmed drow along with hooked horrors and petrified drows near a Spetator. Once you defeat them, you can learn that they're seeking Gryforge and its guardian's weakness. (You can also acquire the legendary weapon MOURNING FROST by combining three icy items.)
+
+To reach this spot, use the boats in Decrepit Village at x: 19 Y: -208. A Duergar will greet you and ask about Gekh.
+
+While heading to Grymforge, a Duergar boat might stop you. You can deceive them with the Absolute mark or succeed in persuasion checks. Otherwise, combat is necessary (be cautious as they can push you off the boat). Here are the dialogue choices:
+- I seek the sergeant - I believe she's keen to get these boots back
+- [Intimidation] In the name of the absolute - you will let me pass.
+- [Deception] I'm afraid Gekh is dead - he fell fighting the myconids
+- Reach out to the burger's parasite
+- [Athletics] Push the duerger into the water
+- When you get to Grymforge by boat, you'll meet two Duergar there. You can fight them or tell them you're with the absolute. No need to pay them 100 gold. Close to you, find the Battered Note and a Grubby Map. Use stairs to find Underdark - Grymforge Waypoint (X: -465 Y: 385). Go up, take left stairs down to find a Duergar hurting a Drows. There's a small boat nearby to sail to the previous Underdark (X: -627 Y: 367). You'll see arguing spiders there. To know more, pass Wisdom check (10) or Speak with Animals spell. If you pass, you learn the big spider fights others. You can stop them, watch, or attack the nearest. (Religion/Persuasion checks let you make them leave Duergar alone.) Past the torturer, two Duergar throw Deep Gnome corpses in water (X: -610 Y: 409). Ask for loot, and if Perception check (10) passes, find valuables (like rare ring Fetish of Callarduran Smoothhands). Duergar want help or for you to leave.
+
+You can find Sergeant Thrinn in a room with a Scrying Eye (X: -627, Y:319 ), she is working with a group of Deep Gnomes to free True Soul Nere, who is trapped under rubble. This will give you Free True Soul Nere. If you have the Boots of Speed from Thulla you can give them to her, to receive a reward. Here are the dialogue options for Sergeant Thrinn:
+- Give her the gnome's boots.
+- How did Nere get trapped?
+- Clearing that rubble will be no easy feat. Any ideas?
+- I'll take care of it
+- I've got some explosive powder. That should do the trick.
+- Sound like you have a tough job ahead of you. Better hurry.
+
+Choose the third option to hear from the sergeant that she doesn't have any idea. Then, pick the second option to learn that the place is very old and previous occupants set up a trap. She explains that if you can rescue Nere, you'll earn Absolute's favor. An extra dialogue option appears: "What are you hoping to find at this dig?" The sergeant mentions it leads to an entrance to an ancient temple. This updates the "The Chosen of Shar" quest. Next, go for the first option, and she'll express gratitude and offer a bounty reward, finishing the "Find the Missing Boots" quest. Finally, choose the second option to conclude the conversation with the sergeant.
+
+Just in front of the sergeant, Gnomes are trying to clear the rubble. You can talk to one named Barcus Wroot, who your character mentions needing rescue again. Barcus Wroot doubts your capability, and you can respond with these options:
+- That sounds like a challenge. I'll handle your captors and get you out of here.
+- I could, but I probably won't.
+- Leave.
+
+If you choose the first option, Barcus Wroot gets excited, updating the "Save the Grymforge Gnomes" quest. Next, you can listen to a conversation among the Gnomes. Options are:
+- [Perception] Listen to the conversation.
+- Clear your throat.
+- Leave.
+
+Opt for the first choice to learn that one Gnome wants to use smoke powder to clear the rubble, while another opposes it to protect someone named Phil. You can intervene with:
+- I'm a friend - Thulla sent me.
+- What's happening here?
+- [Intimidation] About the smoke powder - give me details now.
+- [Persuasion] Listen - I can help. Act frightened, or you'll draw attention.
+- Leave.
+
+If you select the first option, Laridda will be surprised. Lunkbug mentions their trapped friends in the cave and how he can help them escape, but Larrida tries to stop him due to her fear of Nere. You can reply with:
+- That sounds like quite the drama. I can't wait to watch.
+- Leave the True Soul to me. Now tell me what you know.
+- A terrible situation. I'm sure you'll pay handsomely if I help.
+
+Choose the first option, and Larrida will try to stop Lunkbug from talking. He insists and reveals information about someone named Philomeen who set the blasts. Lunkbug marks her hideout on your map. This updates quests "Save the Grymforge Gnomes" and "Find Explosives". Respond with:
+- I'll do what I can.
+- I have explosive powder. I can use it to free them.
+- My hands are full. Ask someone else.
+- Excellent. I can add Philomeen's head to my collection.
+
+If you select the first option, Larrida will beg you not to harm Philomeen. Now, head North East until you reach 2 Duerger at (X:-626 Y:351) and listen to their conversation. They'll approach you, suspecting you're a True Soul, and demand repayment. Respond with:
+- Why would you think I'm a True Soul?
+- You want my gold? Fight me for it.
+- I don't support those True Soul cultists.
+- I want Nere out - you have a lead.
+- Leave.
+
+Select the third option, and Birthvar will threaten you for lying. Respond with:
+- A stench? Absurd. I'm no True Soul.
+- Go ahead, try. I'm ready for a fight.
+- I overheard you. I want Nere out - you have a lead.
+- Leave.
+
+If you choose the first option, Brithvar remains suspicious. Respond with:
+- Fine - I'm a True Soul. What's your plan?
+- [Deception] You're mistaken. I'd never bow to the Absolute.
+- [Deception] I was a True Soul, but the cult lied - seeking revenge now.
+- [Detect Thoughts] Cast Detect Thoughts.
+- Leave.
+
+Opt for the second choice. With enough Charisma, convince him you're not a True Soul. He'll ask if you want to earn gold and join their plan against Nere once freed. Respond with:
+- I'm in.
+- Count me out.
+- Good plan. Sergeant Thrinn should know.
+- [Persuasion] Sounds good. I expect half the spoils.
+
+If you choose the fourth option, he agrees, mentioning an orb-eye that needs knifing as it's used for cult surveillance. This triggers the "Blind the Absolute" quest. Attack the orb-eye to complete the quest.
+
+Behind two Duergar throwing gnomes into the water, there is an enormous double iron door. You have to unlock it to enter. If you pass a Perception check at the end of the room, you will find a secret door, activate the button on its side, open it and take the set of stairs up. Before the stairs, you will find a chest on your right, you can loot an Arrow of Ice among other things, and head to your left. At the end of the hallway, there is another Perception check. Bypassing it, you will notice the loose stone. Head up and you will have to take another Perception check, if you pass it, you will notice that an ambush is incoming. Turn left and continue along the catwalk, when you reach the end, jump through the gap to the other side, and you will reach a locked intricate door. Unlock it (DC: 10) to reach the Contemplation Chamber. You can loot a Hand-drawn Map from a nearby backpack, to update the Quest Find the Explosives.
+
+Move deeper into the chamber to find Philomeen (X: -539, Y: 468), standing near a smokepowder barrel. She threatens you as you get near because she doesn't trust you. There are a few options to attempt to convince her otherwise.
+- Philomeen, I presume. What's going on here?
+- Calm down. Let's talk this through.
+- You wouldn't dare - you don't have the courage.
+- Holy hells. Have you gone mad?
+
+When you choose the first option, Philomeen remains doubtful. You must then select a dialogue option to persuade her:
+- [Persuasion] Laridda sent me. The gnomes need your help.
+- [Intimidation] If I was a true soul, you'd be dead. Stand down before you hurt yourself.
+- [Persuasion] Smile sincerely and hold out your hand.
+- [Persuasion] Are you sure about this? Once you're dead, that's it. It's over.
+- [Detect Thoughts] Use Detect Thoughts.
+- I don't care. Go ahead, blow us up.
+
+Opt for the first choice, and Philomeen will still be cautious, but she won't trigger the explosion. She'll show vulnerability, and you can reply with:
+- Calm down. Beldron's trapped in a cave-in, and I need the smokepowder.
+- I'm not taking you anywhere. You're free to go.
+- I'd rather have the pleasure of killing you with my own hands.
+
+Choose the first option, and Philomeen will be shocked that you want to use runepowder for something else. She mentions that any true Ironhand would sacrifice their life for the powder. You can respond with:
+- [History] Ironhand and Runepowder - Where have you heard these terms before?
+- What use is a single vial?
+- Deal.
+- No deal.
+
+If you choose the first option, the narrator explains the background of Runepowder. Your reply can be:
+- Runepowder? I thought that was a children's story.
+- What use is a single vial?
+- Deal.
+- No deal.
+
+Select the first option, and Philomeen confirms that it's real, but she can only spare one vial for you. An additional dialogue option appears, "I'll need to know a little more about your so-called 'mission' before I let you go." Philomeen explains they're freedom fighters who need the powder to make a point. She mentions that one vial should be enough. Now decide if you accept the deal:
+- Deal.
+- No deal.
+
+When you choose the first option, your quest "Find Explosives" updates in your journal. Philomeen gives you the vial and asks you to inform Larrida of her fate. You can reply with:
+- You'd abandon your beloved? That's quite heartless.
+- Where will you go now?
+- I'll pass on the word - right after I kill you.
+- [DRAGONBORN] So you'll just leave your clan behind?
+- Leave.
+
+Select the first option, and she asks you to leave. She plans to take the barrel to Baldur's Gate alone. If you fail to convince her, she will blow up the barrel dealing massive damage and probably wiping your entire party out. But if you manage to convince her, she offers you Runepowder Vial, or you can simply attack her to attempt to take the whole barrel. If you kill her, you have to pass a Dexterity check (DC:20) when you interact with the barrel. There's a skeleton over a stone bed that can be looted to obtain a Pitted Key. (X:-534 Y: 476). If you head all the way to the opposite direction of where Philomeen was, you can find a Chasm Creeper (X: -566 Y: 468)
+
+There are other explosives at (X: -587 Y: 390), behind a secret door. Once you have the needed explosives. Return back to the two Duergar throwing gnomes corpses into the water. Past them, you can find a heavy chest that contains an Arrow of Darkness and an Arrow of Lightning. (X: -611 Y: 425). Return to where the Duergar Torturer is, but this time take the first stairs you find, to your left. You will find two Duergar annoying a Deep Gnome (X -607: Y: 380), and asking for a drink refill. He tells you he won't be working to free True Soul Nere, and if you want to do that, you can do it yourself. If you interact with the iron fence past the Duergar, the male will tell you that you won't last a second if you don't have one of Nere's Moonlanterns. You will choke almost immediately if you attempt to go without one of Nere's Moonlanterns. However, you can decide to don't pay attention to the warning and head through the door. The Mysterious Artefact will save you if you attempt to do so without the Moonlantern. If you decide to help the Deep Gnome, you can fight both these Duergar. You will earn a Wyvern Poison from the Gnome once you kill them. Return to the waypoint, and take the stairs up, on your right there is a chest that contains some gold and an Arrow of Ice. (X: -650 Y: 367). Past it, turn right on the next corner, and meet two duergar interacting with what seems to be some crumbled statue. (X: -660 Y: 366).
+
+Once you have the Runepowder Vial you can return to the Dig Site to free Nere (Alternatively, you can use a black powder bag from the windmill and hands grenades) and this will complete the quest "Find Explosives". Throw the vial at the rubble and blow it off with a spell. Nere will come out and threaten the slaves. You can intervene, which leads to him doubting you and your reasons for doing that. Or you can encourage him to kill them. If you do, he will taunt Sergeant Thrinn, and proceed to kill her if you don't support her. Here are the Dialogue options:
+- Stop! No more innocent will die today, Nere.
+- Finish the Slaves, True Soul. For the Absolute.
+- Say Nothing.
+
+Select option 1 and Nere will be surprised that you care for the weak. You can respond with the following:
+- I came on the myconid sovereign's behalf. It demands revenge.
+- I act on orders of the Absolute.
+- Of course, I care. I can't let these gnomes suffer.
+- This isn't about them. I just can't stand your face.
+
+Select option 1 and Nere will order Sergeant Thrinn to kill you. You can respond with the following:
+- You wouldn't dare. I'm faithful to the Absolute.
+- That's your cue, Brithvar. It's time you got paid.
+- You so much as touch me, and I'll tear you from limb to limb
+- Say nothing.
+- [DRAGONBORN] This battle will make a good story. Come, then.
+
+Select the 5th option and Nere will simply say that you chose a battle that you cannot win. Afterward, Brithvar will intervene and will ask Nere to pay up while threatening him with a dagger. He will reveal that he has a deal with you and continue to threaten Nere. Nere will ask you to put your faith in him and earn his trust again by striking down Brithvar. you can choose one of the following:
+- Side with Nere.
+- Side with Brithvar and the rebels.
+- Do nothing.
+
+Choose option 2 and the quest "Save the Grymforge Gnomes" will update in your quest journal. This will also start a battle. If you talked to Brithvar previously and made a deal with him, he will interrupt your conversation demanding to get paid. After this, True Soul Nere will ask you if you side with him or against him. 
+
+Afterward, head to the corpse of Nere and remove his head. Before you do, loot his corpse first to obtain the Broken Moonlantern which will trigger a cutscene where you can inspect it. Choose from the following:
+- [Investigation] Inspect the lantern in more detail
+- [ARCANA] Examine the dust within the lantern
+- Leave.
+
+Select the 2nd option and you will come to the conclusion that the dust is pixie dust. Start looting again and you'll also find Disintegrating Night Walkers and Mind Flayer Parasite Specimen. Afterward, speak with Lunkbug and you'll see him excited to see that Beldron is okay. Beldron will notice you and will thank you for your actions. He will also question why you helped them despite being a True Soul. You can respond with:
+- It would seem not.
+- Are you always so suspicious of those who save you?
+- The cult thinks it owns me. I beg to differ.
+- You say you're grateful - but my coinpurse is still light,
+- Thank Tulla - she's the one who set me on your trail.
+
+Select the 5th option and Beldron will start to talk about Wulbren. You'll find out that Wulbren has been taken and the gnomes will wonder what he has gotten himself into now. This will also update a new quest called"Rescue Wulbren". You can respond with:
+- Would this have anything to do with Runepowder?
+- Spare the secrecy. Philomeen already escaped with the Runepowder
+- Before you ask, no - I'm not going to stage a rescue
+- Whatever the cult wants, I want the opposite. We need to free your friend.
+
+Select the first one and Beldron will be surprised of your knowledge. You'll learn that Wulbren discovered the runepowder formula first and the Absolutists have taken him to interrogate his knowledge of it. If they manage to get the formula knowledge, Sword Coast may fall. you can reply with:
+- Then we'll just have to free him first.
+- How long do you think he can hold out?
+- I don't plan on being anywhere nearby when they do.
+- If it's truly that powerful, then we can't let the cult have it.
+
+Select the 2nd option and Beldron will mention that there is not enough time. They have other arrangements to deal with. Barcus Wroot will violently react and accuse Beldron of being cruel for considering leaving Wulbren behind. you can reply with:
+- Enough. Bickering won't save your friend.
+- You're just abandoning your leader? That's cold.
+- Run away then. I have my own business to be about
+- If my path takes me to Moonrise, I'll see about freeing Wulbren myself.
+
+Select the first option and this will mark the completion of the quest "Save the Grymforge Gnomes". Head back to the corpse of Nere and retrieve his head.
+
+Stonemason Kith needs help. He asks what you see in the rocks, three choices linked to History (DC: 10), Investigation (DC: 10), Perception (DC: 10) checks. After passing all, report findings. Kith gives Infernal Iron, trades. Past Kith, find skeletons in dark armor. History check (DC: 10) reveals Shar worshippers. Turn left, up stairs, lone skeleton, left again, catwalk, locked chest behind archery targets (X: -666 Y: 401). Advance, find abandoned camp, go down rift, loot Chasm Creeper (X: -694 y: 410). Return to skeletons, turn left, 3 Duergar lashing beasts. Pass Charisma Check (DC: 15), Duergar mentions Adamantine. Fight Duergar and Deep Rothe or use explosive (Runepowder Vial + Fire Spell).
+
+Past archway, find Metallic Mask (X:-672, Y: 459). Take stairs, more skeletons. Turn right, climb ladders. Broken bridge on left, trap, Orb of Darkvision. Misty Step to cross, beware of traps. Right, long corridor with fire traps, ladder midway, levers move platform, chest with gold. Move team with platform, find Longsword Mould (X:-629, Y: 407). Dark Justiciar Mask skeleton (X:-625, Y:352). Left, jump gap, big locked door to hall, loot Skeleton (X: -592; Y:395) for Harper Key and Undelivered Letter. Upstairs and right, locked door with Merregon Legionnaire and Hellsboar, defeat them, loot chest for Firestoker (X: -579 Y: 382). Altar at back with Rusted Key and Old Letter. Dark Justiciar Mail skeleton (X:-604 Y: 347), Map of Moonhaven nearby (X: -611 Y: 344). More stairs, Scimitar Mould skeleton (X: -607, Y: 322), levers move party forward. Jump to Mace Mould (x: -613, Y: 285), Waypoint nearby (X: -609, Y: 284). More skeletons, left to Splint Mould (X: -597, Y: 309). Fight 4 Animated Armor, loot Scale Mail Mould (X:-621, Y: 260), Dark Justiciar Helm skeleton (X: -622, Y: 258). Small path downward behind Animated Armor location, climb down, jump gap, enter Ancient Temple, attack Mithral Vein for Mithral Ore. Return to forge.
+
+Defaced Shar statue at Dig site (X: -614, Y: 314), use Misty Step if available, leads to Forge. Waypoint nearby. Middle stairs, jump left, fight Magma Mephit, Mithral Vein. Forge area, circle on right, lava room, chest with Sentient Amulet (X: -626, Y: 224), talk to it, start Help the Cursed Monk quest. Pull lava valve, fight Grym, get Grymskull Helm, earn 500 XP. Return to Stonemason Kith, path behind him. Descend cliff, History check reveals Harper rune. Find chests, Toy Chest (X: -699 Y: 375), ambush by three Mimics.
+
+Defeat Mimics, get Gold, Scroll of Evidence. Climb up Cragged rock, take stairs up next to you, past camp, reach large area.

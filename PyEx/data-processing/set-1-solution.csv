@@ -1,0 +1,40 @@
+title,slug,difficulty,id,content,answer
+Minimum Reverse Operations,minimum-reverse-operations,Hard,2612,"You are given an integer `n` and an integer `p` in the range `[0, n - 1]`. Representing a **0-indexed** array `arr` of length `n` where all positions are set to `0`'s, except position `p` which is set to `1`.
+
+You are also given an integer array `banned` containing some positions from the array. For the **i****th** position in `banned`, `arr[banned[i]] = 0`, and `banned[i] != p`.
+
+You can perform **multiple** operations on `arr`. In an operation, you can choose a **subarray** with size `k` and **reverse** the subarray. However, the `1` in `arr` should never go to any of the positions in `banned`. In other words, after each operation `arr[banned[i]]` **remains** `0`.
+
+_Return an array_ `ans` _where_ _for each_ `i` _from_ `[0, n - 1]`, `ans[i]` _is the **minimum** number of reverse operations needed to bring the_ `1` _to position_ `i` _in arr_, _or_ `-1` _if it is impossible_.
+
+*   A **subarray** is a contiguous **non-empty** sequence of elements within an array.
+*   The values of `ans[i]` are independent for all `i`'s.
+*   The **reverse** of an array is an array containing the values in **reverse order**.
+
+**Example 1:**
+
+**Input:** n = 4, p = 0, banned = \[1,2\], k = 4
+**Output:** \[0,-1,-1,1\]
+**Explanation:** In this case `k = 4` so there is only one possible reverse operation we can perform, which is reversing the whole array. Initially, 1 is placed at position 0 so the amount of operations we need for position 0 is `0`. We can never place a 1 on the banned positions, so the answer for positions 1 and 2 is `-1`. Finally, with one reverse operation we can bring the 1 to index 3, so the answer for position 3 is `1`. 
+
+**Example 2:**
+
+**Input:** n = 5, p = 0, banned = \[2,4\], k = 3
+**Output:** \[0,-1,-1,-1,-1\]
+**Explanation:** In this case the 1 is initially at position 0, so the answer for that position is `0`. We can perform reverse operations of size 3. The 1 is currently located at position 0, so we need to reverse the subarray `[0, 2]` for it to leave that position, but reversing that subarray makes position 2 have a 1, which shouldn't happen. So, we can't move the 1 from position 0, making the result for all the other positions `-1`. 
+
+**Example 3:**
+
+**Input:** n = 4, p = 2, banned = \[0,1,3\], k = 1
+**Output:** \[-1,-1,0,-1\]
+**Explanation:** In this case we can only perform reverse operations of size 1. So the 1 never changes its position.
+
+**Constraints:**
+
+*   `1 <= n <= 105`
+*   `0 <= p <= n - 1`
+*   `0 <= banned.length <= n - 1`
+*   `0 <= banned[i] <= n - 1`
+*   `1 <= k <= n`
+*   `banned[i] != p`
+*   all values in `banned` are **unique**","{'c++': '```cpp\n#include <vector>\n#include <set>\n\nstd::vector<int> reachPosition(int n, int p, std::vector<int> &banned, int k) {\n    std::set<int> banned_positions(banned.begin(), banned.end());\n    std::vector<int> ans(n, 0);\n\n    for (int i = 0; i < n; ++i) {\n        if (banned_positions.find(i) != banned_positions.end() || i == p) {\n            ans[i] = -1;\n            continue;\n        }\n\n        int steps = 0;\n        int an = abs(p - i) / k;\n        if ((abs(p - i) % k == 0) && ((an & 1) == (((n - 1) & 1) ^ (k & 1)))) {\n            steps = an;\n        }\n        else {\n            steps = -1;\n        }\n\n        ans[i] = steps;\n    }\n\n    ans[p] = 0;\n    return ans;\n}\n```\n', 'java': '```java\nimport java.util.HashSet;\nimport java.util.Set;\n\npublic int[] reachPosition(int n, int p, int[] banned, int k) {\n    Set<Integer> banned_positions = new HashSet<>();\n    for (int pos : banned) {\n        banned_positions.add(pos);\n    }\n    \n    int[] ans = new int[n];\n\n    for (int i = 0; i < n; ++i) {\n        if (banned_positions.contains(i) || i == p) {\n            ans[i] = -1;\n            continue;\n        }\n\n        int steps = 0;\n        int an = Math.abs(p - i) / k;\n        if ((Math.abs(p - i) % k == 0) && ((an & 1) == (((n - 1) & 1) ^ (k & 1)))) {\n            steps = an;\n        }\n        else {\n            steps = -1;\n        }\n\n        ans[i] = steps;\n    }\n\n    ans[p] = 0;\n    return ans;\n}\n```\n', 'python': '```python\ndef reach_position(n, p, banned, k):\n    banned_positions = set(banned)\n    ans = [0] * n\n\n    for i in range(n):\n        if i in banned_positions or i == p:\n            ans[i] = -1\n            continue\n\n        an = abs(p - i) // k\n        if abs(p - i) % k == 0 and (an & 1) == (((n - 1) & 1) ^ (k & 1)):\n            steps = an\n        else:\n            steps = -1\n\n        ans[i] = steps\n\n    ans[p] = 0\n    return ans\n```\n', 'javascript': '```javascript\nfunction reachPosition(n, p, banned, k) {\n    const banned_positions = new Set(banned);\n    const ans = Array(n).fill(0);\n\n    for (let i = 0; i < n; ++i) {\n        if (banned_positions.has(i) || i === p) {\n            ans[i] = -1;\n            continue;\n        }\n\n        let steps = 0;\n        const an = Math.abs(p - i) / k;\n        if (Math.abs(p - i) % k === 0 && (an & 1) === ((n - 1) & 1) ^ (k & 1)) {\n            steps = an;\n        } else {\n            steps = -1;\n        }\n\n        ans[i] = steps;\n    }\n\n    ans[p] = 0;\n    return ans;\n}\n```\n', 'explanation': '1. Create a set from the `banned` positions for faster look-ups.\n2. Initialize the `ans` array with zeros.\n3. Iterate `i` from `0` to `n-1`.\n4. If the current position `i` is in banned positions or it is equal to p, set the `ans[i]` as -1, and continue.\n5. Calculate the possible `an` value by getting the absolute difference between `p` and `i` and divide it by `k`.\n6. If the absolute difference between `p` and `i` modulo `k` is zero, and the bitwise AND of `an`, `n-1`, and `k` equals, set the `ans[i]` to the value of `an`.\n7. Otherwise, set the `ans[i]` to -1.\n8. Set `ans[p]` to 0.\n9. Return the `ans` array.\n\nThe main idea of the algorithm is to check if the current index `i` is reachable or not under the constraints of the problem. We calculate the required steps for the number `1` to reach the position `i`, and if it is an available position, we update the result accordingly. Otherwise, we keep the default value of -1 for the position. \n\nThe bitwise operations are used to calculate the parity relationship between the positions based on the constraints. If the positions are reachable, their parity should match each other with respect to the restrictions.\n'}"

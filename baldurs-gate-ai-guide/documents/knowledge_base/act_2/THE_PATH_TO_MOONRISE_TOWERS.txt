@@ -1,0 +1,20 @@
+# THE PATH TO MOONRISE TOWERS
+
+In order to reach the Moonrise Towers, you will be traveling in the Shadow Cursed Lands where you will meet different characters of different races. At exactly (X:-156 Y:-97) you will see a bridge with glowing lights coming from the ground underneath. There's also a Waypoint that you can unlock here. Walk towards the bridge where 2 guards will stop you at the foot of the stairs. The other one, named Zealot Malik will recognize you as "True Soul" and will begin to act more friendly towards you. 
+
+Given their friendly nature, it's recommended to avoid combat unless necessary here and thus, choosing the first option will prompt them to give you information on what's going on inside. The other guard, Adept Merim. tells you that Z'rell is waiting in the audience chamber, whom she thinks, will be wanting to hear from you. There are ghouls patrolling on the sides of the entrance but they are not hostile and you can just walk up the stairs to enter the tower.
+
+Interact with the Heavy Oak Doors, and continue to walk towards the center of the tower, where you will be welcomed by Zealot Brinn. You will notice that there's a Scrying Eye roaming in this area, so be careful not to do anything suspicious that will raise their alarms. Explore the Main Floor and go to exactly (X:-128 Y:-193), you will find a trader named Araj Oblodra who will also notice Astarion, and refer to him as a pale companion. She continues to tell you that she trades blood and creates potions out of them. She will brew a potent potion for you and then she will keep the rest. She goes on to tell you that, the potion will be unique to you, one that contains your blood essence and The Absolute's blessing intertwined. 
+
+You find out that she keeps the blood for 'research' and does a little bit of experimentation with it. Next, you can decide if you want to go on with brewing a potion. If you agree, she will extract blood from you, and then as she collects it, she will turn her attention to one of your companions, Astarion to be specific. She mentions that he's a vampire and by this, Astarion responds that he won't bite, as they are all friends under The Absolute. However, Araj Oblodra will respond with, "Oh I prefer if you did." and then asks you a question, "I assume he belongs to you?"
+- Excuse me? He's his own person.
+- We travel together- that's all.
+- He does what I tell him, if that's what you mean.
+- Yes. All mine.
+
+Choosing the first option here will gain Astarion and Karlach's approvals. Then, Araj will turn her attention to Astarion and she tells him that she has always dreamed of being bitten by a vampire. She offers to give you a potion that will increase your strength permanently if you let Astarion bite her. However, Astarion will refuse her and will instead ask for your help to decide on this matter. You will have 3 options:
+- He said no. There's nothing more to discuss.
+- I am surprised, Astarion. I thought you'd jump at a chance like this.
+- Just bite her- the potion sounds useful.
+
+If you force Astarion to do this, he will disapprove of this, however, you will gain 2 potions. One is unique to your character, during our playthrough, we got the Elixir of Dragonborn Prowess: Fire.  Then, for the other potion, Potion of Everlasting Vigour, which increases your Strength by 2 permanently. You may also interact with Araj Oblodra again, to check her wares. She's also a trader dealing in Moonrise Towers.

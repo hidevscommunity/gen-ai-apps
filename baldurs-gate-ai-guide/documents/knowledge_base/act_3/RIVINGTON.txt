@@ -1,0 +1,143 @@
+# RIVINGTON
+
+## Quests
+- Reach Rivington
+- Explore the location
+- Speak to Orin Disguised as a guard named Rowan at X:102 Y:-111
+- Reach X:-140 Y:71 and speak with the Orin disguised as a wounded thug.
+- Visit the Sword Coast Couriers
+- Visit the Circus of the Last Days
+
+Upon reaching Rivington at (X:-13 Y:-114), you'll witness an ongoing argument between Ben Golewits and other NPCs at (X:9 Y:-98). You can step in using the following dialogue options:
+- Calm down and tell me what's going on.
+- You certainly know how to make people feel welcome.
+- Does no one we meet ever get along?
+- The army of the absolute is mere days away and you're bickering over property ownership?
+
+Opt for the first choice, and Arfur Gregorio will explain his desire to remove trespassers from his property. You can reply with:
+- This is a pretty big house - are you sure you don't have a single spare room?
+- It's always heartening to see a true philanthropist out in the wild.
+- Squatters, is it? Maybe I'd be willing to lend a helping hand.
+- [Detect Thoughts] Probe his thoughts.
+- Leave.
+
+Select the first option, and Ben Golewits will agree. However, Arfur's disagreement escalates into racial slurs. Karlach becomes angry, and Arfur threatens them to leave or face consequences. Respond with:
+- In that case, perhaps I can help you out.
+- [Intimidation] Let them stay or I'll make you leave and never come back.
+- Well, good luck with that.
+
+Choose the second option, and if your charisma is sufficient, you'll intimidate Arfur into allowing them to stay. Zenovia Dawg will then express skepticism, revealing her connection to a criminal group called the Guild. You can reply with:
+- All right, I get it - how much do you want?
+- Or what?
+- Over my dead body.
+
+Opt for the second choice, and Zenovia will reiterate her threat. Respond with:
+- [Intimidation] I fought and killed an avatar of Myrkul recently. I think I can handle you.
+- All right - how much do you want?
+- [Melee Attack] Stand down.
+- [Intimidation] I could give you that gold - but then I'd just take it back after I killed you.
+- Let's find out shall we?
+
+Choose the first option, and with enough charisma, you'll startle Zenovia. She abandons her intention to rob you and departs. Proceed to enter Arfur's mansion and speak to Ben. Thank him for standing up for them, and reply with:
+- You're welcome.
+- And you'd better be grateful for it.
+- How did you end up here?
+- Leave.
+
+Select the first option, and Ben will express his gratitude as you become the first to support them. Exit the mansion, head a little North East, and observe Baldurians and Saer Grotpoll arguing with a guard named Fist Lochan. Saer addresses you as another visitor taking space. Respond with:
+- [Baldurian] Baldur's Gate is the most diverse city in all of Faerun. We should take them in with pride.
+- Refugees aren't strays. They are people, and they need help.
+- [Baldurian] I'll have you know I was born and bred in Baldur's Gate.
+- [Baldurian] Baldurian? Your accent's Rivingtonian - that hardly counts.
+- I should be leaving.
+
+Choose the fourth option, and Saer will be offended. At X:102 Y:-111, you'll encounter Rowan, a guard, who greets you and inquires if this is your first visit to Baldur's Gate. You can respond in the following ways:
+- [Baldurian] No, I'm from Baldur's Gate, born and bred. It's great to be back.
+- [Baldurian] Do I look like a tourist? I live here.
+- My past is private.
+- Do you get extra pay for being so cheerful?
+
+Opt for the first choice, and Rowan recounts the city's history, once known for its welcoming nature but now strained due to recent events. Respond with:
+- It's not surprising. Tensions seem high.
+- I didn't come here seeking assistance. I can manage on my own.
+- I know ways to encourage sharing.
+- Is there a way to alleviate people's burden?
+- It sounds like your problem, not mine.
+
+Select the first choice, and Rowan explains the refugee situation's challenges. Respond with:
+- People in this city have become self-centered. They need a reminder of true hardship.
+- If refugees possess more than they require, it's only fair they contribute.
+- Educating them could be beneficial, given their lack of understanding.
+- Your duty is to maintain peace, not escalate conflicts.
+- Your uniform should suffice to pacify them.
+
+Choose the fourth option, and Rowan conveys his concern that if no action is taken, more casualties will accumulate. He believes refugees have taken advantage of the city for too long. He'll ask if you'd join him in eliminating the refugees. Respond with:
+- They're innocent people. You can't simply kill them!
+- Both sides could benefit from a lesson: Let's address the issue comprehensively.
+- You're monstrous. I'll report you to your superiors.
+
+Opt for the third choice, and Rowan issues violent threats. He then morphs into Orin, conveying a message for Gortash and asserting her vigilant presence before vanishing. This action propels the main quest "Get Orin's Netherstone." Proceed to a Windmill at X:47 Y:-29. Once there, unlock the door and enter. Approach the prone Mind Flayer inside and interact with it using different responses:
+- Express skepticism about its fortune.
+- [Great Old One] Establish a mental connection with this fledgling aberration - awaken it.
+- Launch an attack on the creature before it regains consciousness.
+- [Stealth] Quietly retreat.
+
+Opt for the first choice, and you'll find that the Emperor's voice resonates in your mind, asserting that the situation is indeed fortunate. The Emperor clarifies that the Mind Flayer has recently undergone a transformation, rendering it weakened and ripe for potential harvesting. The Emperor tasks you with killing the creature and absorbing its power. In response, you can reply:
+- [Great Old One] Establish a mental connection with this fledgling aberration - awaken it.
+- Attack the creature before it wakes up.
+- [Stealth] Slip away unnoticed.
+
+Choose the second option, which results in the Mind Flayer abruptly awakening in a startled state. This sudden awakening triggers a fierce battle between you and the Mind Flayer. Following a victorious outcome in the battle, search the creature's body for valuable items, including the Mind Flayer Brain and a Windmill Key. With these newfound acquisitions, you're now able to depart from the Windmill, continuing your journey ahead. Head to X:-94 Y:109 to uncover a chest on a shattered ship, from which you can retrieve the Necklace of Elemental Augmentation. Proceed southwestward until reaching X:-140 Y:71, where two mortally wounded Stonelord Thugs await. Engage in conversation with one of them, under the mistaken belief that your presence signals the end of their journey. Your responses can include:
+- Who are you?
+- What led to your current state?
+- Accusing innocent passers-by – an intriguing survival tactic.
+- With pleasure.
+
+Opt for the second choice, and the thug will acknowledge their unfortunate choice of conflict. He'll seek assistance for his injuries, prompting potential responses:
+- Attempt to heal him.
+- What task would you have me perform?
+- You're beyond salvation. My apologies.
+- Provoke his wound, assessing his pain.
+
+Choosing the first option, the thug will prevent your aid, deeming it too late. He'll brandish a blade, requesting a swift end to his agony. Your responses here can be:
+- I'll accompany you till the end, but I won't hasten your departure.
+- I'll expedite the process – a painless passage.
+- Inflict a grievous wound, inciting suffering and screams.
+- No. I won't bear your blood on my hands.
+
+Choose the second option to see your character swiftly end the thug's life. But a surprising twist occurs – the thug morphs into Orin. She discloses that Gortash expects you and advises vigilance against his manipulation. She vanishes once more, leaving you with a sense of her manipulative play. Afterward, venture along the coast to X:-199 Y:96. An argument brews between Cairos and Farlin, Stone Lord and Guild representatives. Farlin seeks your assistance, promising rewards. Your possible responses:
+- The prospect of rewards appeals – I'm in.
+- The Stone Lord seems a better choice.
+- I'd rather abstain from this.
+- I might just eliminate you both and claim the spoils.
+- Can't we find common ground? Must conflict be the only recourse?
+
+Opt for the first choice, prompting Cairos to mock your allegiance. Battle ensues, and afterward, you can converse with the fallen. Speak with Farlin if he falls:
+- Who are you?
+- Who were your adversaries?
+- Their purpose for being here?
+- Your reason for being here?
+
+Select the third choice, and Farlin reveals they sought their share for Nine-Fingers. Inquire about the Stone Lord's identity, and Farlin portrays the Stone Lord as a perilous menace to all.
+
+After exploring the coast around Rivington, there are a few places within the town itself you can visit to start, progress and complete several Side Quests before making your way towards Baldur's Gate. In the north part of the town, opposite to the Open Hand Temple, is the Sword Coast Couriers. During Act 1, if you found Scratch and Gomwick in the north part of the Forest, you can bring up Gomwick's demise to the person in charge. Speak to the man behind the counter, Danzo Arkwright, and you'll be able to give him the Personal Note and let him know about Gomwick. He'll then explain that with Gomwick gone, he's been attempting to send letters by pigeons, but these pigeons have been getting attacked as well. This will start the Find the Missing Letters Quest. If you found and confronted the Tressym on top of the Open Hand Temple earlier, you'll be rewarded immediately after the conversation ends.
+
+On the desk Danzo is standing behind is one white poster that you will not get in trouble for reading - Gortash Coronation Poster. If you read it, you'll learn that Gortash is being named an Archduke and that the ceremony will take place at Wyrm's Rock. Get Gortash's Netherstone and Our Fiery Friend will be updated with this information.
+
+Out the Double Doors to the right of the building are the courier's dog trainers and their several dogs in cages. Scratch was one of their courier dogs and you can mention him when speaking to the dogs' caretakers. During the conversation, you can choose whether to keep Scratch at Camp, or surrender him back to the Sword Coast Couriers. If you keep him, you can speak to him back at camp to learn that he's glad you kept him. Keeping Scratch at camp gives you the approval of both Wyll and Gale.
+
+South of the Sword Coast Couriers and northwest of Artur's Mansion, you'll find a blacksmith, The Rivington General. If you head up the stairs and speak to Gyldro Angleiron the Smith, he's irritable and points you towards the store downstairs if you want to buy anything. You'll find the door to the store behind the blacksmith. Head downstairs to find the store's clerk, Exxvikyap. If you're a Dragonborn, you'll have some special dialogue choices with her. This merchant sells several weapons, pieces of armour and arrows.
+
+Exit the blacksmith an in the western part of Rivington, south of the Open Hand Temple, is the Circus of the Last Days. You can approach Klaus at the entrance to gain passage to the circus. You'll be given a variety of checks you can choose from to gain access to the circus - Persuasion, Deception, and Intimidation.
+
+Straight ahead, you'll find two circus members - Zara the Mummy and Akabi. Zara is a Merchant who sells Dyes and face paint kits, but you'll have to do a DC 10 Insight Check first when speaking to her to understand that she's trying to sell you something. Akabi, on the other hand, will encourage you to try spinning the Wheel of Wonders next to him. Each try on the wheel costs 500 Gold.
+
+Down the stairs to the right side of the circus. you'll find the dryad Zethino. If you're in a relationship with anyone, she'll ask if you're in love when you speak to her, to which you can answer yes and bring your love one to her. This will begin a love test of sorts, where you'll have to answer three questions about your loved one to gauge how well you truly know them. If you answer all three questions correctly, you'll have a brief but cute conversation with your loved one, and they will gain Inspiration.
+
+In the southwestern tent of the Circus of the Last Days, you'll find Boney and Stoney. You can have a statue of yourself sent to Camp for a fee of 5000 Gold. Boney is also available as a merchant, selling you some Scrolls and a variety of Gems if you need them. Popper, another merchant, can be found in a tent right next to Stoney. He sells the Dark Displacement Gloves and Arrow of Arcane Interference, as well as several potions. Within his tent is the Clown's Severed Hand for the Find Dribbles the Clown Quest.
+
+Head down the stairs and to the north, and you'll find Shadow-Whiskers trapped in a cage. If you cast Speak with Animals, you'll be able to understand her. Pass several checks and she'll reveal that she plans on slaughtering everyone within the circus for stealing her cubs and killing her mate. When you approach the nearby crowd she plans on slaughtering, you will get pulled into a cutscene with Dribbles the Clown. 
+
+This cutscene can go several ways, but always ends in a combat encounter. After the fight, you can loot Fuum, previously Dribbles, for the Word from the Tribunal and Clown Hammer. Lucretious will also approach the area from her tent. She'll be upset that Dribbles turned out to be a doppelganger and will ask you to help her find the real one. If you agree to help her, the Find Dribbles the Clown Quest will begin.
+
+ 
