@@ -84,10 +84,15 @@ def generate_response(product):
 # Define the Streamlit app
 def main():
 
+    # Streamlit layout settings
+    st.set_page_config(page_title="IdeaAd Maker", layout="wide")
 
-    app_title = '<p style="font-family:sans-serif; text-align: center; font-size: 54px;">IdeaAd Maker</p>'
+    # Streamlit app layout
+    st.title(":green[IdeaAd] Maker")
 
-    st.markdown(app_title, unsafe_allow_html=True)
+    with open('style.css') as f:
+        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+
     st.subheader('Strategize Your Marketing Efforts. Bring Your Brand to Life!')
 
     # with st.sidebar.container():
