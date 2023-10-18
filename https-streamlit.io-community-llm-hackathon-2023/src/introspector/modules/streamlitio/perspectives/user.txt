@@ -1,5 +1,0 @@
-It sounds like you're planning to develop a graphical user interface (GUI) using Streamlit to facilitate the organization and management of your project's content and data. This GUI would allow users to interactively select, classify, and save results in the appropriate directory structure, making it more user-friendly and efficient.
-
-Streamlit is a great choice for creating such interactive web apps with minimal effort. You can design user-friendly interfaces and integrate them with your project's logic.
-
-If you have any specific questions about using Streamlit for this purpose or need assistance with any aspect of your project, feel free to ask. I'm here to help!

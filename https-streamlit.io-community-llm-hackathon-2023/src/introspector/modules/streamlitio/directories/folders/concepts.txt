@@ -1,2 +1,0 @@
-folders are concepts in my model.
-individual ideas are files.

@@ -1,4 +1,0 @@
-streamlit
-openai
-streamlit_extras
-llama_index

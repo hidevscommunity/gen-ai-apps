@@ -1,5 +1,0 @@
-llama-index
-streamlit
-faiss-cpu
-python-dotenv
-supabase

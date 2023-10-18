@@ -1,5 +1,0 @@
-streamlit
-pytube==15.0.0
-moviepy==1.0.3
-yt-dlp==2023.6.22
-googletrans==3.0.0

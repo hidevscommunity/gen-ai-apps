@@ -1,6 +1,0 @@
-Path
-langchain
-pymupdf
-streamlit
-openai
-pydantic==1.10.9

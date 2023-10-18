@@ -1,6 +1,0 @@
-streamlit
-google-generativeai
-pyttsx3
-gTTS
-PyPDF2
-reportlab

@@ -1,5 +1,0 @@
-assemblyai
-pandas
-streamlit
-watchdog
-yt-dlp

@@ -1,8 +1,0 @@
-ctransformers
-streamlit
-streamlit-server-state
-Pillow
-transformers
-torch
-pandas
-langchain

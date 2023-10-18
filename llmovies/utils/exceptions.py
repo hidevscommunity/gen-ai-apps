@@ -1,2 +1,0 @@
-class LLMoviesOutputError(Exception):
-    pass

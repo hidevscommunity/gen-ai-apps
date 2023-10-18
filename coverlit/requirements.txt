@@ -1,5 +1,0 @@
-streamlit
-openai
-weaviate-client
-llama-index
-langchain

@@ -1,3 +1,0 @@
-streamlit==1.26.0
-clarifai==9.8.0
-googletrans==4.0.0-rc1

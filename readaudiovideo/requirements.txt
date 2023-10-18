@@ -1,7 +1,0 @@
-streamlit
-streamlit-option-menu
-st_clickable_images
-pytube 
-requests 
-fpdf 
-datetime

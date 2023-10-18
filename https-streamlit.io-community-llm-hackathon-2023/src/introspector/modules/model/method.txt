@@ -1,2 +1,0 @@
-I understand that you're manually populating your project's repository with text files following a structured organization. This is a good practice for keeping your project well-organized and easy to navigate. Text files with proper documentation can serve as valuable references and can help others understand your project's structure and content.
-

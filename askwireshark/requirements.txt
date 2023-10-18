@@ -1,6 +1,0 @@
-streamlit
-langchain
-openai
-chromadb
-tiktoken
-pyshark

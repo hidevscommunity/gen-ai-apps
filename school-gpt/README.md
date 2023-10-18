@@ -1,2 +1,0 @@
-# school-gpt
-School GPT

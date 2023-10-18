@@ -1,4 +1,0 @@
-streamlit
-langchain
-newsapi-python
-openai
