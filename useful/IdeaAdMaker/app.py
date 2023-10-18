@@ -91,9 +91,9 @@ def main():
     st.title(":green[IdeaAd] Maker")
 
     path = os.path.dirname(__file__)
-    style1 = path+'/style.css'
+    style = '/mount/src/gen-ai-apps/useful/IdeaAdMaker/style.css'
 
-    with open(r'style.css') as f:
+    with open(style) as f:
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
     st.subheader('Strategize Your Marketing Efforts. Bring Your Brand to Life!')
