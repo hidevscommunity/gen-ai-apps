@@ -90,15 +90,20 @@ def main():
     # Streamlit app layout
     st.title(":green[IdeaAd] Maker")
 
-    with open('style.css') as f:
+    path = os.path.dirname(__file__)
+    style = path+'/style.css'
+
+    with open(style) as f:
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
     st.subheader('Strategize Your Marketing Efforts. Bring Your Brand to Life!')
 
-    # with st.sidebar.container():
-    # image = Image.open("llama.jpeg")
+    with st.sidebar.container():
+        path1 = os.path.dirname(__file__)
+        image_path = path1+'/logo.jpeg'
+        image = Image.open(image_path)
     # image = image.resize((5, 100))
-    # st.image(image, use_column_width=True)
+        st.image(image, use_column_width=True)
     # image1 = Image.open("logo.jpeg")
     # st.sidebar.image(image1)
 
