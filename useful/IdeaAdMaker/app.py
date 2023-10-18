@@ -94,12 +94,14 @@ def main():
     # image = Image.open("llama.jpeg")
     # image = image.resize((5, 100))
     # st.image(image, use_column_width=True)
-    image1 = Image.open("logo.jpeg")
-    st.sidebar.image(image1)
+    # image1 = Image.open("logo.jpeg")
+    # st.sidebar.image(image1)
 
 
     # Replicate Credentials
     with st.sidebar:
+        sidebar_title = '<h2 style="font-family:sans-serif; text-align: center;">Build & Developed <br> By HiDevs Community</h2>'
+        st.markdown(sidebar_title, unsafe_allow_html=True)
         if 'REPLICATE_API_TOKEN' in st.secrets:
             st.success('API key already provided!', icon='✅')
             replicate_api = st.secrets['REPLICATE_API_TOKEN']
