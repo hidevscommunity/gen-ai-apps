@@ -91,9 +91,9 @@ def main():
     st.title(":green[IdeaAd] Maker")
 
     path = os.path.dirname(__file__)
-    style = path+'/style.css'
+    style1 = path+'/style.css'
 
-    with open(style) as f:
+    with open(r'style.css') as f:
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
     st.subheader('Strategize Your Marketing Efforts. Bring Your Brand to Life!')
