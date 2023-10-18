@@ -91,9 +91,9 @@ def main():
     st.subheader('Strategize Your Marketing Efforts. Bring Your Brand to Life!')
 
     # with st.sidebar.container():
-    image = Image.open("llama.jpeg")
+    # image = Image.open("llama.jpeg")
     # image = image.resize((5, 100))
-    st.image(image, use_column_width=True)
+    # st.image(image, use_column_width=True)
     image1 = Image.open("logo.jpeg")
     st.sidebar.image(image1)
 
