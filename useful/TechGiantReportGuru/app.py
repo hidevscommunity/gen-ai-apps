@@ -14,8 +14,8 @@ from PIL import Image
 st.set_page_config(page_title="Tech Giant Report Guru")
 st.title("Tech Giant Report Guru")
 path = os.path.dirname(__file__)
-style = path+'/style.css'
-# style = '/mount/src/gen-ai-apps/useful/TechGiantReportGuru/style.css'
+# style = path+'/style.css'
+style = '/mount/src/gen-ai-apps/useful/TechGiantReportGuru/style.css'
 
 
 # Custom CSS for Streamlit using Google Fonts
