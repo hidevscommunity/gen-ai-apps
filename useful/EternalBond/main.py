@@ -1,11 +1,30 @@
 # Import libraries
 from datetime import datetime
 import streamlit as st
+from PIL import Image
 from langchain.llms import OpenAI
 from langchain.chains import ConversationChain
 from langchain.memory import ConversationBufferMemory
 from langchain import PromptTemplate
 from bot import Bot
+import os
+
+# Streamlit layout settings
+st.set_page_config(page_title="EternalBond", layout="wide")
+
+# Streamlit app layout
+st.title("EternalBond")
+
+path = os.path.dirname(__file__)
+# style = path+'/style.css'
+style = '/mount/src/gen-ai-apps/useful/EternalBond/style.css'
+
+
+with open(style) as f:
+    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+
+st.subheader('Eternal Conversations: Keeping Memories Alive')
+
 
 # Initialize a list to store character objects
 if "bots" not in st.session_state:
@@ -19,6 +38,17 @@ def add_bot(name, relationship, human_name, common_phrases, speaking_style, impo
 
 with st.sidebar:
     # st.title("Characters")
+    with st.sidebar.container():
+        path1 = os.path.dirname(__file__)
+        image_path = path1+'/logo.jpeg'
+        image = Image.open(image_path)
+        # image = image.resize((25, 25))
+
+        st.image(image, use_column_width=True)
+    sidebar_title = '<h2 style="font-family:sans-serif; text-align: center;">Build & Developed <br> By HiDevs Community</h2>'
+    st.markdown(sidebar_title, unsafe_allow_html=True)
+
+        
     openai_api_key = st.text_input("OpenAI API Key", key="openai_api_key", type="password")
     
     # Display a list of characters sorted by last talked date
