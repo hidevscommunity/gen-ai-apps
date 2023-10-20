@@ -16,7 +16,8 @@ st.title("Tech Giant Report Guru")
 path = os.path.dirname(__file__)
 # style = path+'/style.css'
 style = '/mount/src/gen-ai-apps/useful/TechGiantReportGuru/style.css'
-
+with open(style) as f:
+    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 # Custom CSS for Streamlit using Google Fonts
 # st.markdown(
