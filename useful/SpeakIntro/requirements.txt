@@ -1,2 +1,3 @@
 git+https://github.com/huggingface/community-events.git@3fea10c5d5a50c69f509e34cd580fe9139905d04#egg=huggan
 transformers
+gradio
