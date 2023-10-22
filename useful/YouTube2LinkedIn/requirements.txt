@@ -1,0 +1,5 @@
+git+https://github.com/openai/whisper.git
+transformers
+pytube
+langchain
+openai
