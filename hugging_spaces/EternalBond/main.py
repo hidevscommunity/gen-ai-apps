@@ -55,8 +55,8 @@ def main():
     st.title("EternalBond")
 
     path = os.path.dirname(__file__)
-    # style = path+'/style.css'
-    style = '/mount/src/gen-ai-apps/useful/EternalBond/style.css'
+    style = path+'/style.css'
+    # style = '/mount/src/gen-ai-apps/useful/EternalBond/style.css'
 
 
     with open(style) as f:
