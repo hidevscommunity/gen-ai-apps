@@ -80,28 +80,28 @@ def main():
             llm = ChatOpenAI(temperature=0, model="gpt-4", streaming=True, openai_api_key=openai_api_key)
 
             # Load local FAISS document stores for multiple companies and years
-            apple_2022_docs_store = FAISS.load_local(r'data/datastores/apple_2022', embeddings)
-            apple_2021_docs_store = FAISS.load_local(r'data/datastores/apple_2021', embeddings)
-            apple_2020_docs_store = FAISS.load_local(r'data/datastores/apple_2020', embeddings)
+            apple_2022_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/apple_2022', embeddings)
+            apple_2021_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/apple_2021', embeddings)
+            apple_2020_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/apple_2020', embeddings)
         
-            microsoft_2022_docs_store = FAISS.load_local(r'data/datastores/msft_2022', embeddings)
-            microsoft_2021_docs_store = FAISS.load_local(r'data/datastores/msft_2021', embeddings)
-            microsoft_2020_docs_store = FAISS.load_local(r'data/datastores/msft_2020', embeddings)
+            microsoft_2022_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/msft_2022', embeddings)
+            microsoft_2021_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/msft_2021', embeddings)
+            microsoft_2020_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/msft_2020', embeddings)
 
 
-            amazon_2022_docs_store = FAISS.load_local(r'data/datastores/amzn_2022', embeddings)
-            amazon_2021_docs_store = FAISS.load_local(r'data/datastores/amzn_2021', embeddings)
-            amazon_2020_docs_store = FAISS.load_local(r'data/datastores/amzn_2020', embeddings)
+            amazon_2022_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/amzn_2022', embeddings)
+            amazon_2021_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/amzn_2021', embeddings)
+            amazon_2020_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/amzn_2020', embeddings)
 
 
-            alphabet_2022_docs_store = FAISS.load_local(r'data/datastores/alphbt_2022', embeddings)
-            alphabet_2021_docs_store = FAISS.load_local(r'data/datastores/alphbt_2021', embeddings)
-            alphabet_2020_docs_store = FAISS.load_local(r'data/datastores/alphbt_2020', embeddings)
+            alphabet_2022_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/alphbt_2022', embeddings)
+            alphabet_2021_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/alphbt_2021', embeddings)
+            alphabet_2020_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/alphbt_2020', embeddings)
 
 
-            meta_2022_docs_store = FAISS.load_local(r'data/datastores/meta_2022', embeddings)
-            meta_2021_docs_store = FAISS.load_local(r'data/datastores/meta_2021', embeddings)
-            meta_2020_docs_store = FAISS.load_local(r'data/datastores/meta_2020', embeddings)
+            meta_2022_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/meta_2022', embeddings)
+            meta_2021_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/meta_2021', embeddings)
+            meta_2020_docs_store = FAISS.load_local(r'/home/user/app/repo_directory/hugging_spaces/TechGiantReportGuru/data/datastores/meta_2020', embeddings)
 
             # Create QA retrieval chains for various companies and years
             apple_2022_qa = RetrievalQA.from_chain_type(llm=llm, chain_type="stuff", retriever=apple_2022_docs_store.as_retriever(search_kwargs={'k':5}))
