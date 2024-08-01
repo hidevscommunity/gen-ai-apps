@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from pandasai import PandasAI
+# from pandasai import PandasAI
 from pandasai.llm.openai import OpenAI
 import matplotlib.pyplot as plt
 # from pandasai import SmartDataframe
@@ -28,7 +28,7 @@ if "openai_key" in st.session_state:
         if uploaded_file is not None:
             df = pd.read_csv(uploaded_file)
             llm = OpenAI(api_token=st.session_state.openai_key)
-            df = SmartDataframe(df, config={"llm": llm})
+            # df = SmartDataframe(df, config={"llm": llm})
             st.session_state.df = df
 
     with st.form("Question"):
@@ -37,8 +37,8 @@ if "openai_key" in st.session_state:
         if submitted:
             with st.spinner():
                 llm = OpenAI(api_token=st.session_state.openai_key)
-                pandas_ai = PandasAI(llm,enable_cache=False)
-                x = pandas_ai.run(st.session_state.df, prompt=question)
+                pandas_ai = SmartDataframe(st.session_state.df, config={"llm": llm, "enable_cache": False})
+                x = pandas_ai.chat(question)
 
                 if os.path.isfile('temp_chart.png'):
                     im = plt.imread('temp_chart.png')
