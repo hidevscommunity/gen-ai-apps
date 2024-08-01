@@ -7,3 +7,4 @@ pinecone-client
 PyPDF2
 pdfplumber
 duckduckgo-search
+langchain-community
