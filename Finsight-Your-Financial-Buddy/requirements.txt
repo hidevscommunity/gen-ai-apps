@@ -8,3 +8,4 @@ google-api-python-client
 tiktoken
 python-decouple
 tabulate
+langchain_community
